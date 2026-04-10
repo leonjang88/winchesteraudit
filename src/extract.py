@@ -5,7 +5,7 @@ import os
 import re
 from collections import Counter
 from typing import Optional
-from src.schema import get_db, init_db, ensure_town
+from schema import get_db, init_db, ensure_town
 
 
 def load_town_config(town: str) -> dict:
@@ -23,6 +23,27 @@ def _normalize_header(text: Optional[str]) -> str:
     return " ".join(text.upper().split())
 
 
+def _col_map_match(cell_text: Optional[str], col_map: dict) -> Optional[tuple]:
+    """Match a cell to a config column, handling merged/multi-line cells."""
+    norm = _normalize_header(cell_text)
+    if not norm:
+        return None
+    if norm in col_map:
+        return col_map[norm]
+    for col_name, meta in col_map.items():
+        if col_name in norm:
+            return meta
+    return None
+
+
+def _safe_extract_tables(page) -> list:
+    """Extract tables from page, returning empty list if pdfplumber hits an edge case."""
+    try:
+        return page.extract_tables() or []
+    except (KeyError, TypeError, ValueError):
+        return []
+
+
 def _parse_amount(text: Optional[str]) -> Optional[float]:
     if text is None:
         return None
@@ -37,57 +58,131 @@ def _parse_amount(text: Optional[str]) -> Optional[float]:
         return None
 
 
+_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM"}
+
+
+def _build_col_map(config: dict) -> dict:
+    """Build normalized column map from config: header_text → (fiscal_year, column_type)."""
+    col_map = {}
+    for header, meta in config.get("extraction", {}).get("columns", {}).items():
+        col_map[_normalize_header(header)] = (meta["fiscal_year"], meta["type"])
+    return col_map
+
+
 def _detect_department(page) -> Optional[str]:
-    """Extract department name from large-font text at page top."""
+    """Extract department name from large-font text at page top.
+    Falls back to text-line detection when font-size heuristic fails."""
     chars = page.chars
-    if not chars:
-        return None
 
-    sizes = [c.get("size", 0) for c in chars if c.get("size", 0) > 0]
-    if not sizes:
-        return None
+    # --- Font-size heuristic ---
+    if chars:
+        sizes = [c.get("size", 0) for c in chars if c.get("size", 0) > 0]
+        if sizes:
+            size_counts = Counter(round(s, 1) for s in sizes)
+            body_size = size_counts.most_common(1)[0][0]
+            header_min = body_size * 1.3
+            top_zone = page.height * 0.20
 
-    size_counts = Counter(round(s, 1) for s in sizes)
-    body_size = size_counts.most_common(1)[0][0]
-    header_min = body_size * 1.3
-    top_zone = page.height * 0.20
+            header_chars = sorted(
+                [
+                    c
+                    for c in chars
+                    if c.get("size", 0) >= header_min and c.get("top", 9999) < top_zone
+                ],
+                key=lambda c: (round(c.get("top", 0), 1), c.get("x0", 0)),
+            )
 
-    header_chars = sorted(
-        [
-            c
-            for c in chars
-            if c.get("size", 0) >= header_min and c.get("top", 9999) < top_zone
-        ],
-        key=lambda c: (round(c.get("top", 0), 1), c.get("x0", 0)),
-    )
+            if header_chars:
+                result = "".join(c.get("text", "") for c in header_chars).strip()
+                if result:
+                    return result
 
-    if not header_chars:
-        return None
+    # --- Text fallback: word-position-based ---
+    try:
+        words = page.extract_words()
+    except Exception:
+        words = []
 
-    return "".join(c.get("text", "") for c in header_chars).strip() or None
+    if words:
+        top_zone = page.height * 0.18
+        top_words = [w for w in words if w.get("top", 9999) < top_zone]
+        if top_words:
+            from itertools import groupby
+
+            top_words_sorted = sorted(
+                top_words, key=lambda w: (round(w["top"]), w["x0"])
+            )
+            lines = []
+            for _, group in groupby(
+                top_words_sorted, key=lambda w: round(w["top"])
+            ):
+                line_words = list(group)
+                line_text = " ".join(w["text"] for w in line_words).strip()
+                lines.append(line_text)
+
+            for line in lines:
+                if not line:
+                    continue
+                upper = line.upper()
+                if any(
+                    tok in upper
+                    for tok in ["FY2", "BUDGET", "ACTUAL", "REQUEST", "FINCOM", "MANAGER"]
+                ):
+                    continue
+                if (
+                    line.replace(",", "")
+                    .replace(".", "")
+                    .replace("-", "")
+                    .replace(" ", "")
+                    .isdigit()
+                ):
+                    continue
+                if len(line) < 3:
+                    continue
+                return line
+
+    return None
+
+
+def _page_has_text_headers(page, col_map: dict) -> bool:
+    """Check if a page has column header keywords in its text (for borderless tables)."""
+    try:
+        words = page.extract_words()
+    except Exception:
+        return False
+    word_texts = {w["text"].upper() for w in words}
+    return len(word_texts.intersection(_TYPE_LABELS)) >= 3
 
 
 def classify_page(page, config: dict) -> str:
     """Determine if a pdfplumber page is 'table', 'narrative', or 'mixed'.
-    'table' = has extractable tables with column count matching config.
-    'narrative' = text only, no tables.
+    'table' = has extractable tables (bordered or text-layout) with column headers.
+    'narrative' = text only, no tabular data.
     'mixed' = has both."""
-    tables = page.extract_tables()
-    config_col_count = len(config.get("extraction", {}).get("columns", {}))
+    col_map = _build_col_map(config)
 
-    has_table = False
+    # Check for bordered tables via pdfplumber
+    tables = _safe_extract_tables(page)
+    has_bordered_table = False
     if tables:
         for table in tables:
             if table and len(table) > 1:
-                non_empty = sum(
-                    1 for c in (table[0] or []) if c is not None and str(c).strip()
-                )
-                if non_empty >= max(2, config_col_count // 2):
-                    has_table = True
+                rows_to_check = [r for r in table[:2] if r is not None]
+                for row in rows_to_check:
+                    matches = sum(
+                        1 for c in row if _col_map_match(c, col_map) is not None
+                    )
+                    if matches >= 1:
+                        has_bordered_table = True
+                        break
+                if has_bordered_table:
                     break
 
+    # Check for text-layout tables (borderless — column header keywords in text)
+    has_text_table = not has_bordered_table and _page_has_text_headers(page, col_map)
+    has_table = has_bordered_table or has_text_table
+
     text = (page.extract_text() or "").strip()
-    # Narrative text = multi-sentence prose (has sentence-ending punctuation + caps)
     has_narrative = bool(re.search(r"\.\s+[A-Z]", text)) and len(text) > 100
 
     if has_table and has_narrative:
@@ -98,63 +193,256 @@ def classify_page(page, config: dict) -> str:
         return "narrative"
 
 
+def _extract_text_rows(page, config: dict) -> list[dict]:
+    """Extract structured rows from a text-layout page (no table borders).
+    Uses word bounding boxes to detect column positions and match amounts."""
+    extraction = config.get("extraction", {})
+    config_columns = extraction.get("columns", {})
+    subtotal_patterns = [p.upper() for p in extraction.get("subtotal_patterns", [])]
+    has_account_codes = extraction.get("has_account_codes", False)
+    col_map = _build_col_map(config)
+
+    try:
+        words = page.extract_words()
+    except Exception:
+        return []
+    if not words:
+        return []
+
+    # Sort words into lines by y-position
+    words_sorted = sorted(words, key=lambda w: (round(w["top"]), w["x0"]))
+    word_lines: list[list[dict]] = []
+    current_line: list[dict] = []
+    current_top: Optional[float] = None
+    TOLERANCE = 3
+
+    for w in words_sorted:
+        if current_top is None or abs(w["top"] - current_top) <= TOLERANCE:
+            current_line.append(w)
+            if current_top is None:
+                current_top = w["top"]
+        else:
+            if current_line:
+                word_lines.append(current_line)
+            current_line = [w]
+            current_top = w["top"]
+    if current_line:
+        word_lines.append(current_line)
+
+    # Find the type header line (contains BUDGET, ACTUAL, REQUEST, MANAGER, FINCOM)
+    type_line_idx = None
+    for i, line_words in enumerate(word_lines):
+        line_text_set = {w["text"].upper() for w in line_words}
+        if len(line_text_set.intersection(_TYPE_LABELS)) >= 3:
+            type_line_idx = i
+            break
+
+    if type_line_idx is None:
+        return []
+
+    # Find year header line (should be just above the type line)
+    year_line_idx = None
+    for i in range(type_line_idx - 1, max(type_line_idx - 3, -1), -1):
+        if i < 0:
+            break
+        year_count = sum(
+            1 for w in word_lines[i] if re.match(r"^FY\d{2}$", w["text"].upper())
+        )
+        if year_count >= 3:
+            year_line_idx = i
+            break
+
+    type_words = word_lines[type_line_idx]
+    year_words = word_lines[year_line_idx] if year_line_idx is not None else []
+
+    # Pair each type label with its nearest year label by x-center
+    col_defs: list[tuple[float, tuple]] = []  # (x_center, (fiscal_year, column_type))
+    year_positions = [
+        ((w["x0"] + w["x1"]) / 2, 2000 + int(w["text"][2:]))
+        for w in year_words
+        if re.match(r"^FY\d{2}$", w["text"].upper())
+    ]
+
+    for tw in type_words:
+        type_name = tw["text"].upper()
+        if type_name not in _TYPE_LABELS:
+            continue
+        tx_center = (tw["x0"] + tw["x1"]) / 2
+
+        # Find nearest year
+        nearest_year = None
+        min_dist = float("inf")
+        for yx, year in year_positions:
+            dist = abs(yx - tx_center)
+            if dist < min_dist:
+                min_dist = dist
+                nearest_year = year
+
+        if nearest_year is None:
+            continue
+
+        col_key = f"FY{str(nearest_year)[-2:]} {type_name}"
+        norm = _normalize_header(col_key)
+        if norm in col_map:
+            col_defs.append((tx_center, col_map[norm]))
+
+    if not col_defs:
+        return []
+
+    col_defs.sort(key=lambda c: c[0])
+
+    # Leftmost column boundary — words before this are description/account code
+    leftmost_col_x = col_defs[0][0] - 40
+
+    department = _detect_department(page)
+    rows = []
+
+    # Parse data lines after the header
+    data_start = type_line_idx + 1
+    for line_words in word_lines[data_start:]:
+        if not line_words:
+            continue
+
+        line_sorted = sorted(line_words, key=lambda w: w["x0"])
+
+        # Split into pre-column (description area) and column (amount area) words
+        pre_words = [w for w in line_sorted if (w["x0"] + w["x1"]) / 2 < leftmost_col_x]
+        col_words = [w for w in line_sorted if (w["x0"] + w["x1"]) / 2 >= leftmost_col_x]
+
+        if not pre_words:
+            continue
+
+        # Parse account code
+        account_code = None
+        desc_word_list = pre_words
+
+        if has_account_codes:
+            acct_parts = []
+            for w in pre_words:
+                if re.match(r"^\d[\d,]*$", w["text"]):
+                    acct_parts.append(w["text"].replace(",", ""))
+                else:
+                    break
+            if acct_parts:
+                account_code = " ".join(acct_parts)
+                desc_word_list = pre_words[len(acct_parts):]
+
+        description = " ".join(w["text"] for w in desc_word_list).strip()
+        if not description:
+            continue
+
+        # Row type detection
+        desc_upper = description.upper()
+        if any(pat in desc_upper for pat in subtotal_patterns):
+            row_type = "subtotal" if "SUB" in desc_upper else "total"
+        else:
+            row_type = "line_item"
+
+        # Assign each col_word to its nearest column by x-center
+        for col_x_center, (fiscal_year, column_type) in col_defs:
+            best_word = None
+            min_dist = float("inf")
+            for w in col_words:
+                wx_center = (w["x0"] + w["x1"]) / 2
+                dist = abs(wx_center - col_x_center)
+                if dist < min_dist:
+                    min_dist = dist
+                    best_word = w
+
+            if best_word is None or min_dist > 50:
+                continue
+
+            amount = _parse_amount(best_word["text"])
+            if amount is not None:
+                rows.append(
+                    {
+                        "department": department,
+                        "account_code": account_code,
+                        "description": description,
+                        "amount": amount,
+                        "column_type": column_type,
+                        "fiscal_year": fiscal_year,
+                        "row_type": row_type,
+                    }
+                )
+                # Remove used word to prevent double-assignment
+                col_words = [w for w in col_words if w is not best_word]
+
+    return rows
+
+
 def extract_table_rows(page, config: dict) -> list[dict]:
     """Extract structured rows from a table page.
-    Each row dict has: department, account_code, description, amount, column_type, fiscal_year, row_type.
-    Uses config['extraction']['columns'] to map header text → (fiscal_year, column_type).
-    Detects subtotals via config['extraction']['subtotal_patterns']."""
+    Tries pdfplumber bordered-table extraction first, then falls back to
+    text-layout extraction for borderless pages."""
     extraction = config.get("extraction", {})
     config_columns = extraction.get("columns", {})
     subtotal_patterns = [p.upper() for p in extraction.get("subtotal_patterns", [])]
     has_account_codes = extraction.get("has_account_codes", False)
     account_code_position = extraction.get("account_code_position", "first")
-
-    # Normalized map: header text → (fiscal_year, column_type)
-    col_map = {}
-    for header, meta in config_columns.items():
-        col_map[_normalize_header(header)] = (meta["fiscal_year"], meta["type"])
+    col_map = _build_col_map(config)
 
     department = _detect_department(page)
 
+    # --- Try bordered tables first ---
     rows = []
-    tables = page.extract_tables()
-    if not tables:
-        return rows
+    tables = _safe_extract_tables(page)
 
+    found_header = False
     for table in tables:
         if not table or len(table) < 2:
             continue
 
-        # Find the header row (first row with at least one matching config column)
         header_row = None
         header_idx = 0
+
         for i, row in enumerate(table):
             if row is None:
                 continue
-            matches = sum(1 for cell in row if _normalize_header(cell) in col_map)
+            matches = sum(
+                1 for cell in row if _col_map_match(cell, col_map) is not None
+            )
             if matches >= 1:
                 header_row = row
                 header_idx = i
+                found_header = True
                 break
+            if i + 1 < len(table) and table[i + 1] is not None:
+                next_row = table[i + 1]
+                combined = []
+                for j in range(max(len(row), len(next_row))):
+                    top = (row[j] if j < len(row) else None) or ""
+                    bot = (next_row[j] if j < len(next_row) else None) or ""
+                    combined.append(f"{top} {bot}".strip())
+                matches = sum(
+                    1 for cell in combined if _col_map_match(cell, col_map) is not None
+                )
+                if matches >= 1:
+                    header_row = combined
+                    header_idx = i + 1
+                    found_header = True
+                    break
 
         if header_row is None:
             continue
 
-        # Map column index → (fiscal_year, column_type)
         col_idx_map: dict[int, tuple] = {}
         for idx, cell in enumerate(header_row):
-            norm = _normalize_header(cell)
-            if norm in col_map:
-                col_idx_map[idx] = col_map[norm]
+            match = _col_map_match(cell, col_map)
+            if match is not None:
+                col_idx_map[idx] = match
 
         if not col_idx_map:
             continue
 
-        # Identify description and account_code column positions
         amount_indices = set(col_idx_map.keys())
         non_amount = [i for i in range(len(header_row)) if i not in amount_indices]
 
-        if has_account_codes and account_code_position == "first" and len(non_amount) >= 2:
+        if (
+            has_account_codes
+            and account_code_position == "first"
+            and len(non_amount) >= 2
+        ):
             acct_col: Optional[int] = non_amount[0]
             desc_col: int = non_amount[1]
         elif non_amount:
@@ -163,7 +451,6 @@ def extract_table_rows(page, config: dict) -> list[dict]:
         else:
             continue
 
-        # Process each data row
         for row in table[header_idx + 1 :]:
             if row is None:
                 continue
@@ -172,7 +459,11 @@ def extract_table_rows(page, config: dict) -> list[dict]:
                 if idx is None or idx >= len(row):
                     return None
                 val = row[idx]
-                return val.strip() if isinstance(val, str) else (str(val) if val is not None else None)
+                return (
+                    val.strip()
+                    if isinstance(val, str)
+                    else (str(val) if val is not None else None)
+                )
 
             description = _cell(desc_col)
             if not description:
@@ -186,7 +477,6 @@ def extract_table_rows(page, config: dict) -> list[dict]:
             else:
                 row_type = "line_item"
 
-            # One record per amount column
             for col_idx, (fiscal_year, column_type) in col_idx_map.items():
                 amount = _parse_amount(_cell(col_idx))
                 if amount is None:
@@ -203,6 +493,10 @@ def extract_table_rows(page, config: dict) -> list[dict]:
                     }
                 )
 
+    # --- Fallback: text-layout extraction if no bordered tables yielded data ---
+    if not rows and not found_header:
+        rows = _extract_text_rows(page, config)
+
     return rows
 
 
@@ -212,17 +506,7 @@ def extract_narrative(page) -> str:
 
 
 def run_extract(town: str, pdf_path: str) -> None:
-    """Main extraction orchestrator:
-    1. load_town_config(town)
-    2. init_db(), ensure_town(town, ...) using config values
-    3. Open PDF, iterate every page
-    4. Per page: classify → extract table rows OR narrative OR both
-    5. Write line_items to DB with UNIQUE constraint (no duplicates on re-run)
-    6. Write narratives to DB
-    7. Write output/raw/{town}_fy2026.csv (all line items)
-    8. Write output/raw/{town}_fy2026_narrative.txt (all narrative text)
-    9. Write output/raw/{town}_fy2026_validation.txt (pages where detected columns < config columns)
-    Creates output/raw/ directory if needed."""
+    """Main extraction orchestrator."""
     config = load_town_config(town)
     init_db()
 
@@ -290,7 +574,7 @@ def run_extract(town: str, pdf_path: str) -> None:
                     all_line_items.append(row)
 
                 # Validation: check column count vs config
-                tables = page.extract_tables()
+                tables = _safe_extract_tables(page)
                 if tables:
                     for table in tables:
                         if table and table[0]:
@@ -303,15 +587,10 @@ def run_extract(town: str, pdf_path: str) -> None:
                                 validation_lines.append(
                                     f"Page {page_num}: expected {config_col_count} columns, found {found_cols}"
                                 )
-                else:
-                    validation_lines.append(
-                        f"Page {page_num}: expected {config_col_count} columns, found 0 (narrative only)"
-                    )
 
             if page_type in ("narrative", "mixed"):
                 text = extract_narrative(page)
                 if text:
-                    # Attempt department detection for narrative pages too
                     dept = _detect_department(page) or current_department
                     all_narratives.append(
                         {

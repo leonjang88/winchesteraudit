@@ -1,6 +1,9 @@
 import argparse
 import sys
 import os
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
 import pdfplumber
 
 
@@ -12,7 +15,10 @@ def cmd_profile(args) -> None:
     Uses pdfplumber.open(args.pdf) to iterate pages."""
     with pdfplumber.open(args.pdf) as pdf:
         for page in pdf.pages:
-            tables = page.extract_tables()
+            try:
+                tables = page.extract_tables()
+            except (KeyError, TypeError, ValueError):
+                tables = []
             if tables:
                 for table in tables:
                     headers = table[0] if table else []
@@ -25,7 +31,7 @@ def cmd_profile(args) -> None:
 
 def cmd_extract(args) -> None:
     """Extract budget data from PDF into DB and output files."""
-    from src.extract import run_extract
+    from extract import run_extract
     run_extract(args.town, args.pdf)
 
 
