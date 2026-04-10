@@ -1,0 +1,381 @@
+LEXINGTON PUBLIC SCHOOLS FY2027 EDUCATION BUDGET ANALYSIS
+Program 1000: Education | Program 1100: Lexington Public Schools
+========================================================================
+
+EXECUTIVE SUMMARY
+TL;DR: Lexington is spending $151.7M on 6,524 students (FY2027 budget). This is a 3.9% increase
+over the previous year, with salary/benefits consuming ~$131.5M (87%) of operating costs. The
+district faces enrollment decline (down 224 students YoY), consolidation pressures, and reliance
+on Circuit Breaker reimbursements to maintain current staffing levels.
+
+------------------------------------------------------------------------
+
+1. TOTAL SCHOOL BUDGET & YEAR-OVER-YEAR GROWTH
+------------------------------------------------------------------------
+
+FY2027 School Budget Request:         $151,729,248
+FY2026 Approved Budget:               $146,180,000
+YoY Increase:                         $5,549,248 (+3.9%)
+
+This represents the smallest increase Lexington has received in recent years. The budget request
+originally sought 4.6% increase but was constrained by the revenue allocation model (74% of new
+revenues go to schools).
+
+Historical Growth Trend (LPS Operating Budget Annual % Increase):
+  FY17: 6.11%
+  FY18: 4.46%
+  FY19: 6.35%
+  FY20: 5.51%
+  FY21: 3.82%
+  FY22: 3.77%
+  FY23: 4.39%
+  FY24: 5.21%
+  FY25: 4.16%
+  FY26: 3.93%
+  FY27: 3.90%
+
+Analysis: Growth has slowed significantly from the 6%+ range (FY17-FY20) to under 4%. This is
+attributed to revenue constraints and base budget allocation limitations under the Town's
+revenue-sharing model.
+
+------------------------------------------------------------------------
+
+2. PERSONNEL VS. NON-PERSONNEL SPLIT
+------------------------------------------------------------------------
+
+Total Salary & Wages Budget (FY2027):  $131,524,406 (86.7% of total)
+Non-Personnel Expenses (FY2027):       $20,204,842 (13.3% of total)
+
+Personnel Breakdown by Category:
+  - Salaries/Wages (direct):            ~$120M+ (estimated)
+  - Benefits (health, pensions, COLA):  ~$11.5M+ (embedded in salary lines)
+  - Substitutes (per-diem):             $972,503
+  - Substitutes (nurses):               $15,644
+  - Substitutes (para):                 $73,620
+  - Substitutes (sec):                  $76,688
+
+Non-Personnel includes: supplies, materials, contracted services, student tuition (high-needs
+placements), transportation, utilities, technology, equipment.
+
+FY2026 to FY2027 Personnel Change:
+  - FY2026: $127,183,816
+  - FY2027: $131,524,406
+  - Increase: $4,340,590 (+3.41%)
+
+This reflects negotiated salary increases across 5 collective bargaining units plus step increases
+and COLA adjustments.
+
+------------------------------------------------------------------------
+
+3. BUDGET BREAKDOWN BY SCHOOL & CATEGORY
+------------------------------------------------------------------------
+
+BY SCHOOL (Elementary, Middle, High School):
+
+Elementary Schools (K-5):
+  - Bowman:       $7,009,000
+  - Bridge:       $7,085,000
+  - Estabrook:    $8,282,000
+  - Fiske:        $6,281,000
+  - Harrington:   $6,475,000
+  - Hastings:     $7,619,000
+  - Subtotal:     ~$42.75M
+
+Middle Schools (6-8):
+  - Clarke:       $9,410,000
+  - Diamond:      $10,720,000
+  - Subtotal:     ~$20.13M
+
+High School (9-12):
+  - Lexington:    $26,566,000
+
+Other Schools/Programs:
+  - Lex Children's Place (pre-K):       $1,078,000
+
+Central Administration & Shared Services:
+  - Central Office Administration:      $4,954,200
+  - Strategic Planning/Business:        $927,400
+  - Human Resources:                    $931,845
+  - Emergency Planning & Training:      $50,000
+  - Facility Improvements:              $99,927
+  - Subtotal:     ~$6.96M
+
+Special & Support Programs:
+  - Special Education (in-district):    $10,312,000
+  - Special Education (9-12):           $5,316,000
+  - Out-of-District Tuition:            $8,674,644
+  - Special Education Consultants:      $641,000
+  - Subtotal:     ~$24.94M
+
+Systemwide Programs:
+  - Transportation:                     $3,113,648
+  - Transportation (Special Ed):        $893,000
+  - K-5 Science:                        $454,197
+  - K-5 Math:                           $158,179
+  - K-5 Curriculum & Instruction:       $231,732
+  - 6-12 English Learner Education:     $56,498
+  - 6-12 Fine Arts:                     $246,654
+  - 6-12 Visual Arts:                   $125,550
+  - 6-12 Music:                         $293,593
+  - Technology Unit:                    $1,051,485
+  - Library/Media Program:              $214,656
+  - Early Childhood Education:          $80,400
+  - Health Services:                    $708,556
+  - Facilities/Maintenance (shared):    $27,159
+  - Subtotal:     ~$8.35M
+
+BY EXPENSE CATEGORY (from detailed Summary of Expenses):
+
+The budget is organized by 60+ line items including:
+  - Instructional salaries (teachers, coaches, specialists)
+  - Administrative salaries (principals, directors, central admin)
+  - Support staff (paraprofessionals, secretaries, custodians)
+  - Utilities and facilities
+  - Professional services (consultants, auditors, legal)
+  - Student services (nurses, counselors, psychologists)
+  - Instructional materials and supplies
+  - Technology and equipment
+  - Insurance and workers' comp
+  - Debt service (not applicable to schools portion)
+  - Tuition for out-of-district special education placements
+
+------------------------------------------------------------------------
+
+4. NUMBER OF FTEs/STAFF
+------------------------------------------------------------------------
+
+FY2027 Staffing Level: 1,213.88 Full-Time Equivalents (FTEs)
+FY2026 Approved Budget: 1,255.88 FTEs
+Net Change: (42.00) FTEs = -3.34% reduction
+
+This represents a net staffing decrease. However, the budget recommends:
+
+FY2027 FTE Requested: 1,213.88
+FY2027 FTE Granted/Approved: 1,213.88
+
+Key Staffing Notes:
+
+Teachers/Instructional:
+  - Unit A (Teachers, LEA):           816.88 FTEs
+  - Unit C (Inst Asst/SSIA):          208.88 FTEs
+  - Coaches:                          90.37 FTEs
+  - Non-Union Paraprofessionals:      17.75 FTEs
+  - Technology Unit:                  12.00 FTEs
+  - Subtotal Instructional:          ~1,145.88 FTEs
+
+Administration:
+  - Central Admin:                    8.00 FTEs
+  - Principals:                       9.50 FTEs
+  - ALA (Asst Prin/Supervisors):      48.50 FTEs
+  - Subtotal Admin:                  ~66.00 FTEs
+
+Support Services:
+  - Substitutes (various):            ~2.50 FTEs equivalent
+  - Substitutes (Nurses):             (as-needed)
+  - Substitutes (Para):               (as-needed)
+  - Subtotal Support:                 variable
+
+Proposed Staffing Changes vs FY2026:
+  The district eliminated 42 FTEs overall, with notable reductions in:
+  - SPEC ED (Base): (4.00) positions
+  - Non-Union Support Staff: (1.80) positions
+  - School Support Personnel: ~(5-10) positions across buildings
+  - Technology Unit: (0.60) positions
+
+However, the district added FTEs in specific areas:
+  - Mandated Resource Teachers (Special Ed): +2.00
+  - Counseling (Admin Asst): offset by other reductions
+
+This reflects a "difficult budget" environment where the district had to reduce 26 FTE positions
+in spring 2025 (after FY2026 was approved) and is continuing selective reductions while
+maintaining instruction.
+
+------------------------------------------------------------------------
+
+5. SHARED COSTS ALLOCATED TO SCHOOLS (BENEFITS, FACILITIES)
+------------------------------------------------------------------------
+
+Shared services and allocated costs embedded in the school budget:
+
+A. EMPLOYEE BENEFITS (Allocated via salary/benefits burden):
+
+Salary increases account for multiple components:
+  - Base salary steps and COLA adjustments:
+    * LEA Unit A: 2.5% - 2.75% increases (phased through FY2026)
+    * LEA Unit C: 3.25% increase
+    * LEA Unit D: 3.00% increase
+    * LEA Tech: 1.75% - 2.75% increase
+    * ALA Admin: 2.5% - 2.75% increase
+
+  - Health insurance (portion of benefits allocation, not separately itemized in this section)
+  - Pension/retirement obligations (state-mandated, not detailed here)
+  - Workers' compensation and unemployment insurance
+
+The budget notes that "salaries and wages continue to comprise the majority of the School
+Department's budget according to plan. As of the FY2027 budget recommendation, the per-pupil
+cost is $23,196."
+
+B. FACILITIES & UTILITIES:
+
+Shared facility costs are allocated across schools through:
+  - Custodial and maintenance staff (embedded in building budgets)
+  - Utilities (electricity, gas, water) - centrally budgeted at ~$2M+
+  - Facility improvements and capital maintenance
+  - Building repairs and emergency responses
+
+Line 61 "Facility Improvements" shows $99,927 (minimal - capital projects handled separately)
+
+C. TRANSPORTATION:
+
+  - Transportation (Regular): $3,113,648
+  - Transportation (Special Education): $893,000
+  - Total Transportation: ~$4.0M (2.65% of budget)
+
+This is system-wide; costs allocated proportionally to student needs.
+
+D. TECHNOLOGY & SUPPORT SERVICES:
+
+  - Technology Unit (Hardware, Software, Licensing): $1,051,485
+  - Central Office Administration: $4,954,200
+  - Strategic Planning & Budgeting: $927,400
+  - Human Resources: $931,845
+  - Library/Media Services: $214,656
+
+E. SPECIAL EDUCATION (System-wide shared allocation):
+
+  - Special Education Reserve/Stabilization Fund: Not itemized (was closed in FY2026)
+  - Out-of-District Special Education Tuition: $8,674,644 (shared pool for high-cost placements)
+  - Special Education Consultants: $641,000 (shared across all schools)
+  - Special Education In-District Programs: $10,312,000 (K-5 cluster)
+
+F. OTHER DISTRICT-WIDE SERVICES:
+
+  - Professional services and consultants
+  - Insurance (property, liability, general coverage)
+  - Legal services
+  - Audit services
+  - Student assessment and testing programs
+
+------------------------------------------------------------------------
+
+KEY FINANCIAL DRIVERS & CONSTRAINTS
+------------------------------------------------------------------------
+
+1. CIRCUIT BREAKER DEPENDENCY:
+   The district received $7.9M in Circuit Breaker reimbursements (the highest in district
+   history) to cover high-needs special education placements. The superintendent's message
+   states: "We continue to rely on in-year Circuit Breaker funds, which creates budgetary risk."
+   This is a red flag—the budget assumes continued high reimbursements that are not guaranteed.
+
+2. ENROLLMENT DECLINE:
+   - FY2026 Enrollment: 6,748 students (PK-12)
+   - FY2027 Enrollment: 6,524 students (down 224 or -3.3%)
+   - Per-pupil cost is rising ($23,196 in FY2027) even as enrollment falls
+
+3. SALARY COST PRESSURE:
+   Four of five union contracts are up for renegotiation in FY2027. The budget already accounts
+   for negotiated increases. Any higher-than-budgeted settlements will require mid-year cuts.
+
+4. STRATEGIC INITIATIVES:
+   The superintendent references the "Bloom" design (voted December 2025) for a new high school,
+   but this is a capital project separate from the operating budget.
+
+------------------------------------------------------------------------
+
+STUDENT DEMOGRAPHICS & COMPOSITION (as of Oct 1, 2025)
+------------------------------------------------------------------------
+
+Total Enrollment: 6,524 students (K-12)
+
+By Grade Level:
+  - PreK: 68
+  - K: 305
+  - Grades 1-5: 1,541 (4 schools + Lex Children's Place)
+  - Grades 6-8: 1,692 (2 middle schools)
+  - Grades 9-12: 2,348 (1 high school)
+
+Race/Ethnicity Distribution:
+  - White: 34.7%
+  - Asian: 46.3%
+  - Hispanic: 6.1%
+  - African American/Black: 4.6%
+  - Multi-Race, Non-Hispanic: 8.2%
+
+Language & Socioeconomic:
+  - First Language Not English: 34.0%
+  - English Language Learner: 7.6%
+  - Low-Income: 9.8%
+  - Special Education (In- & Out-of-District): 14.7%
+
+Student-to-Teacher Ratio: 10.4 to 1 (Lexington) vs. 11.9 to 1 (Massachusetts state average)
+Lexington has better class sizes than state average.
+
+------------------------------------------------------------------------
+
+EFFICIENCY METRICS & COMPARATIVE ANALYSIS
+--------================================================================
+
+Per-Pupil Expenditure (2023 data, latest available from DESE):
+  Lexington: $25,166.66 per student
+
+Comparable Communities (2023):
+  - Arlington: $19,471.21
+  - Brookline: $26,528.27
+  - Cambridge: $38,932.89
+  - Needham: $23,407.01
+  - Newton: $25,275.96
+  - Wellesley: $27,590.86
+  - Winchester: $19,014.96
+
+Lexington is mid-range among affluent Boston suburbs. Enrollment growth 2008-2023:
+  - Lexington: +12% (from 6,109 to 6,850)
+  - While per-pupil spending grew 67.74% (inflation-adjusted)
+
+------------------------------------------------------------------------
+
+SUMMARY FINDINGS
+------------------------------------------------------------------------
+
+HOW LEXINGTON SPENDS $151.7M ON EDUCATION:
+
+1. Salaries & Wages (87%): $131.5M
+   - 1,214 FTEs across teachers, administrators, support staff
+   - Average salary not disclosed, but includes negotiated increases
+   - Benefits (health, pension) embedded in payroll
+
+2. Special Education Out-of-District (5.7%): $8.7M
+   - Circuit Breaker covers ~$7.9M; district pays share of remainder
+   - High-needs students requiring specialized placements
+
+3. Transportation (2.7%): $4.0M
+   - Regular & special education routes for 6,524 students
+
+4. Technology & Admin (1.3%): ~$2.0M
+   - Central office, HR, IT infrastructure
+
+5. Utilities & Facilities (1.3%): ~$2.0M
+   - Heat, electricity, water for 7 elementary, 2 middle, 1 high school, 1 pre-K
+
+6. Supplies, Materials, Professional Services (0.8%): ~$1.3M
+   - Instructional materials, contracted services, consulting
+
+STRATEGIC POSITION:
+Lexington is executing a "stabilization and transformation" strategy:
+  - Stabilizing finances through Circuit Breaker reimbursements and careful staffing management
+  - Transforming schools with the new high school design ("Bloom")
+  - Managing enrollment decline (down 3.3%) while maintaining per-pupil quality
+  - Negotiating labor costs with 4 of 5 unions expiring this fiscal year
+
+RISK FACTORS:
+  - Enrollment declining ~3% annually (reducing revenue while fixed costs remain)
+  - Circuit Breaker reimbursements not guaranteed (represents 5% of budget cushion)
+  - Labor cost pressure (4 contracts up for renegotiation in FY2027)
+  - Capital needs (new high school, facility maintenance) separate from operating budget
+  - Per-pupil spending rising (67% growth since 2008) in a declining enrollment scenario
+
+------------------------------------------------------------------------
+Data Source: FY2027 Lexington Public Schools Recommended Budget & Financing Plan
+            (Superintendent's Budget Message, pages 2-19 of PDF)
+            Budget Date: February 26, 2026
+            Data as of: January 1, 2026 (revenue allocation)
+                        October 1, 2025 (enrollment)

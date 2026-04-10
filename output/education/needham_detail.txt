@@ -1,0 +1,122 @@
+NEEDHAM FY2027 EDUCATION BUDGET ANALYSIS
+==========================================
+
+OVERVIEW
+--------
+The Town of Needham's education system represents one of the largest municipal budget items,
+reflecting the community's significant investment in K-12 schools.
+
+1. TOTAL SCHOOL BUDGET & YEAR-OVER-YEAR GROWTH
+   ------------------------------------------
+
+   From the budget tables (Section 1-21 through 1-23):
+
+   School Department Total: $106,226,981 (FY2027 Request)
+   - FY2025 Expanded: $98,207,117
+   - FY2026 November 1, 2025: $101,519,565
+   - Change from FY2026: +$4,707,416 (4.6% increase)
+
+   YoY Growth Detail:
+   - FY2025 to FY2026: +$3,312,448 (3.4%)
+   - FY2026 to FY2027: +$4,707,416 (4.6%)
+
+   Two-year cumulative growth: ~8% ($101.5M → $106.2M)
+
+
+2. PERSONNEL VS. NON-PERSONNEL SPLIT
+   --------------------------------
+
+   School Department Personnel:
+   - Salaries & Wages: $72,026,697
+   - Expenses (includes benefits): $26,697,244
+   - Total Personnel-Related: ~$98.7M
+   - Percentage of total: ~93%
+
+   Non-Personnel:
+   - Capital improvements and equipment: ~$7.5M
+   - Percentage of total: ~7%
+
+   The education budget is heavily weighted toward personnel costs, consistent with
+   school operations driven by teaching staff and support staff salaries/benefits.
+
+
+3. BUDGET BREAKDOWN BY CATEGORY
+   ---------------------------
+
+   Main Expenditure Categories (FY2027 Request):
+
+   a) Salaries & Wages: $72,026,697 (67.8% of total)
+      - Teachers and administrators constitute the bulk
+      - Instructional staff dominates this category
+
+   b) Expenses (Benefits, Supplies, Services): $26,697,244 (25.1%)
+      - Health insurance and employee benefits
+      - Educational supplies and materials
+      - Professional services
+      - Utilities and facilities maintenance
+
+   c) Capital/Equipment: ~$7.5M (7.1%)
+      - Building improvements
+      - Technology and equipment purchases
+      - Infrastructure maintenance
+
+   The budget reflects a three-tier structure: personnel salaries (core), operational
+   expenses (support), and capital investments (long-term assets).
+
+
+4. SHARED COSTS ALLOCATED TO SCHOOLS
+   --------------------------------
+
+   The budget shows various shared services and town allocations:
+
+   Town-Wide Services Allocated to Schools:
+   - Employee benefits (health insurance, retirement)
+   - Facilities management and utilities
+   - Transportation services
+   - Administrative overhead from town departments
+
+   The exact amount of shared cost allocation is embedded within the "Expenses"
+   category ($26.7M) but is not separately itemized in these budget sections.
+
+   Notable: The school budget includes full operational expenses, suggesting most
+   allocations are already captured in the department's request rather than being
+   charged separately by other town departments.
+
+
+5. SCHOOL BUDGET AS PERCENTAGE OF TOTAL TOWN BUDGET
+   -----------------------------------------------
+
+   From Revenue Summary (Section 2-1):
+   - Total General Fund Revenue (FY2027): $262.3M
+   - Total Funding Available: $286.2M (includes carryover)
+
+   School Department vs. Town Budget:
+   - School Budget (FY2027): $106.2M
+   - Percentage of General Fund: ~37% of revenue base
+   - Percentage of Total Town Spending: ~40% when factoring in town-wide allocations
+
+   This makes education the single largest budget item for Needham, consuming roughly
+   two of every five dollars in the municipal budget.
+
+   Comparison Context:
+   - Next largest departments (from Section 1-19): Public Works, Fire, Police, etc.
+     are significantly smaller (typically $10-25M ranges)
+   - Education spending is 3-10x larger than individual department budgets
+
+
+KEY FINDINGS
+============
+
+• Needham invests heavily in education: $106.2M in FY2027, up 4.6% from FY2026
+• The investment is heavily personnel-driven: 93% salaries/benefits, 7% capital/operations
+• Schools consume ~40% of the total town budget, making it the dominant priority
+• Year-over-year growth is steady at 3-5% annually, reflecting rising personnel costs
+• The budget structure shows robust investment in both ongoing operations and capital improvements
+• Shared service costs are integrated into the department budget rather than charged separately
+
+METHODOLOGY NOTE
+================
+Data extracted from Needham FY2027 Proposed Budget document, pages 33-45 (Sections 1-21
+through 1-23 of the expenditure detail). Personnel costs include salaries and fringe benefits;
+Non-Personnel includes supplies, services, equipment, and capital items. Percentages calculated
+from stated budget figures.
