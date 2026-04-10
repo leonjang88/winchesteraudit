@@ -69,6 +69,46 @@ def _build_col_map(config: dict) -> dict:
     return col_map
 
 
+def _validate_department_name(text: str) -> bool:
+    """Return True if text looks like a legitimate department name."""
+    if not text or len(text) < 3:
+        return False
+    # Starts with digit → likely account code or data row
+    if text[0].isdigit():
+        return False
+    # Starts with lowercase → unlikely department header
+    if text[0].islower():
+        return False
+    # Starts with bullet
+    if text[0] in ("•", "-", "*", "·"):
+        return False
+    # Contains dollar amounts (digit groups with commas like 888,042)
+    if re.search(r"\d{1,3}(,\d{3})+", text):
+        return False
+    # FY year markers → column header row, not a department
+    if re.match(r"^FY\d{2,4}$", text, re.IGNORECASE):
+        return False
+    if len(re.findall(r"FY\d{2,4}", text, re.IGNORECASE)) >= 2:
+        return False
+    # Known non-department labels
+    _NON_DEPT = {
+        "EXPENSES", "CATEGORY", "STAFFING", "TOTAL", "SUBTOTAL",
+        "PROGRAM COSTS", "PERSONNEL SERVICES", "REVENUE SOURCE",
+    }
+    if text.upper().strip() in _NON_DEPT:
+        return False
+    # Too many commas → likely data row
+    if text.count(",") > 2:
+        return False
+    # Too long → likely narrative text, not a header
+    if len(text) > 60:
+        return False
+    # Ends with period → likely narrative sentence
+    if text.rstrip().endswith("."):
+        return False
+    return True
+
+
 def _detect_department(page) -> Optional[str]:
     """Extract department name from large-font text at page top.
     Falls back to text-line detection when font-size heuristic fails."""
@@ -94,7 +134,7 @@ def _detect_department(page) -> Optional[str]:
 
             if header_chars:
                 result = "".join(c.get("text", "") for c in header_chars).strip()
-                if result:
+                if result and _validate_department_name(result):
                     return result
 
     # --- Text fallback: word-position-based ---
@@ -120,14 +160,14 @@ def _detect_department(page) -> Optional[str]:
                 line_text = " ".join(w["text"] for w in line_words).strip()
                 lines.append(line_text)
 
+            _COL_KEYWORDS = ["FY2", "BUDGET", "ACTUAL", "REQUEST", "FINCOM", "MANAGER"]
             for line in lines:
                 if not line:
                     continue
                 upper = line.upper()
-                if any(
-                    tok in upper
-                    for tok in ["FY2", "BUDGET", "ACTUAL", "REQUEST", "FINCOM", "MANAGER"]
-                ):
+                # Skip lines with 2+ column-type keywords (header rows)
+                col_hits = sum(1 for tok in _COL_KEYWORDS if tok in upper)
+                if col_hits >= 2:
                     continue
                 if (
                     line.replace(",", "")
@@ -137,7 +177,7 @@ def _detect_department(page) -> Optional[str]:
                     .isdigit()
                 ):
                     continue
-                if len(line) < 3:
+                if not _validate_department_name(line):
                     continue
                 return line
 
@@ -603,9 +643,11 @@ def run_extract(town: str, pdf_path: str) -> None:
                         }
                     )
 
-    # Write line_items + narratives to DB
+    # Wipe existing data for this town, then insert fresh
     conn = get_db()
     try:
+        conn.execute("DELETE FROM line_items WHERE town_id = ?", (town_id,))
+        conn.execute("DELETE FROM narratives WHERE town_id = ?", (town_id,))
         for item in all_line_items:
             conn.execute(
                 """INSERT OR IGNORE INTO line_items
