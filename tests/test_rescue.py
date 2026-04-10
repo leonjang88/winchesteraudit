@@ -23,7 +23,7 @@ for i, a in enumerate(sys.argv):
         prompt = sys.argv[i + 1]
         break
 nums = re.findall(r"\\d+", prompt)
-page = nums[-1] if nums else "0"
+page = nums[0] if nums else "0"
 print(json.dumps([{
     "department": "TEST DEPT",
     "account_code": f"T{page}",
