@@ -107,6 +107,8 @@ def _validate_department_name(text: str) -> bool:
         "PRIOR YEAR ACCOMPLISHMENTS", "PROGRAM DESCRIPTION",
         "MAJOR ACCOMPLISHMENTS", "BUDGET NARRATIVE",
         "PERFORMANCE MEASURES", "WORKLOAD INDICATORS",
+        "FY2026 ACCOMPLISHMENTS", "FY2027 OBJECTIVES",
+        "ONGOING GOALS", "ASSETS",
     }
     if text.upper().strip() in _NON_DEPT:
         return False
@@ -118,6 +120,10 @@ def _validate_department_name(text: str) -> bool:
         return False
     # Ends with period → likely narrative sentence
     if text.rstrip().endswith("."):
+        return False
+    # Contains narrative verb patterns → sentence fragment, not a dept name
+    _NARRATIVE_VERBS = ["provided ", "continued ", "worked ", "managed ", "updated ", "administered "]
+    if any(text.lower().startswith(v) for v in _NARRATIVE_VERBS):
         return False
     return True
 
