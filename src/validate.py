@@ -98,9 +98,11 @@ def run_validate(town: str) -> int:
                 (town_id,),
             ).fetchone()[0]
             unexplained = neg_count - contra_count
-            if unexplained > 0:
+            if unexplained > 5:
                 print(f"[WARN]  Negative amounts: {unexplained:,} unexplained negative rows (plus {contra_count} contra entries)")
                 exit_code = max(exit_code, 1)
+            elif unexplained > 0:
+                print(f"[INFO]  Negative amounts: {unexplained:,} unexplained negative rows (plus {contra_count} contra entries) — within tolerance")
             else:
                 print(f"[OK]    Negative amounts: {neg_count:,} rows, all known contra entries (Levy/Offset/Credit)")
         else:

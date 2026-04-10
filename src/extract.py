@@ -28,6 +28,9 @@ def _col_map_match(cell_text: Optional[str], col_map: dict) -> Optional[tuple]:
     norm = _normalize_header(cell_text)
     if not norm:
         return None
+    # Skip FTE/headcount columns — not dollar amounts
+    if "(FTE)" in norm:
+        return None
     if norm in col_map:
         return col_map[norm]
     for col_name, meta in col_map.items():
@@ -446,18 +449,21 @@ def extract_table_rows(page, config: dict) -> list[dict]:
 
         header_row = None
         header_idx = 0
+        best_matches = 0
 
-        for i, row in enumerate(table):
+        for i, row in enumerate(table[:6]):
             if row is None:
                 continue
+            # Try single row
             matches = sum(
                 1 for cell in row if _col_map_match(cell, col_map) is not None
             )
-            if matches >= 1:
+            if matches > best_matches:
+                best_matches = matches
                 header_row = row
                 header_idx = i
                 found_header = True
-                break
+            # Try 2-row combine (always check — may find more columns)
             if i + 1 < len(table) and table[i + 1] is not None:
                 next_row = table[i + 1]
                 combined = []
@@ -468,11 +474,11 @@ def extract_table_rows(page, config: dict) -> list[dict]:
                 matches = sum(
                     1 for cell in combined if _col_map_match(cell, col_map) is not None
                 )
-                if matches >= 1:
+                if matches > best_matches:
+                    best_matches = matches
                     header_row = combined
                     header_idx = i + 1
                     found_header = True
-                    break
 
         if header_row is None:
             continue
@@ -654,25 +660,42 @@ def run_extract(town: str, pdf_path: str) -> None:
                         }
                     )
 
+    # Normalize department names to resolve duplicates
+    _DEPT_NORMALIZE = {
+        "DEPARTMENT OF PUBLIC WORKS (DPW)": "DEPARTMENT OF PUBLIC WORKS",
+        "RECREATION DEPARTMENT": "RECREATION",
+        "SEALER OF WEIGHTS AND MEASURER": "SEALER OF WEIGHTS & MEASURES",
+    }
+    for item in all_line_items:
+        dept = item.get("department", "")
+        if dept in _DEPT_NORMALIZE:
+            item["department"] = _DEPT_NORMALIZE[dept]
+
     # Tag staffing FTE rows so they don't corrupt financial SUM queries
     _STAFFING_TITLES = {
         "MANAGERIAL", "CLERICAL", "PROFESSIONAL/TECHNICAL", "CUSTODIAL",
         "TRADES", "LABORER", "SEASONAL", "POLICE SUPERIOR", "POLICE PATROL",
         "POLICE INVESTIGATION", "FIRE OFFICERS", "FIREFIGHTERS/PARAMEDICS",
-        "PARKING WARDEN", "LIBRARIAN", "PUBLIC WORKS",
+        "FIRE FIGHTERS", "PARKING WARDEN", "LIBRARIAN", "PUBLIC WORKS",
+        "CROSSING GUARDS PART-TIME", "ADMINISTRATIVE ASSISTANT,",
+        "CUSTODIAN", "DETECTIVE", "FIREFIGHTER", "DISPATCHER",
     }
     for item in all_line_items:
         if item.get("row_type") == "line_item":
             desc_upper = item["description"].upper().strip()
             amt = item["amount"]
+            # Exact match on known position titles
             if desc_upper in _STAFFING_TITLES and 0 <= amt < 200:
                 item["row_type"] = "staffing"
-            # Also catch compound staffing lines like "Custodian - Public Works"
-            elif amt == int(amt) and 0 < amt < 200 and " - " in desc_upper:
+            # Compound staffing lines like "Custodian - Public Works"
+            elif 0 <= amt < 200 and " - " in desc_upper:
                 first_part = desc_upper.split(" - ")[0].strip()
-                if first_part in _STAFFING_TITLES or first_part in {
-                    "CUSTODIAN", "DETECTIVE", "FIREFIGHTER", "DISPATCHER",
-                }:
+                if first_part in _STAFFING_TITLES:
+                    item["row_type"] = "staffing"
+            # FTE decimals: amounts with 3+ decimal places and < 200 are FTE, not dollars
+            elif 0 < amt < 200 and amt != int(amt):
+                decimal_str = f"{amt:.10f}".rstrip("0").split(".")[1]
+                if len(decimal_str) >= 3:
                     item["row_type"] = "staffing"
 
     # Wipe existing data for this town, then insert fresh
