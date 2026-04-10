@@ -10,12 +10,30 @@ WINCHESTER_PDF = "budgets/winchester_fy2026_budget.pdf"
 VALIDATION_PATH = os.path.join(WORKTREE, "output", "raw", "winchester_fy2026_validation.txt")
 DB_PATH = os.path.join(WORKTREE, "output", "budgets.db")
 
-# Valid JSON matching the line_items schema from the contract
-GOOD_JSON = (
-    '[{"department":"Rescued Dept","account_code":"999",'
-    '"description":"Rescued item","amount":"5000",'
-    '"fiscal_year":"FY26","column_type":"BUDGET","row_type":"line_item"}]'
-)
+# Python script for the fake claude CLI — extracts page number from -p prompt
+# and embeds it in account_code + description so each page's insert has a unique
+# key under the UNIQUE(town_id, fiscal_year, department, account_code, description,
+# column_type) constraint.
+GOOD_CLAUDE_SCRIPT = '''\
+#!/usr/bin/env python3
+import sys, re, json
+prompt = ""
+for i, a in enumerate(sys.argv):
+    if a == "-p" and i + 1 < len(sys.argv):
+        prompt = sys.argv[i + 1]
+        break
+nums = re.findall(r"\\d+", prompt)
+page = nums[-1] if nums else "0"
+print(json.dumps([{
+    "department": "TEST DEPT",
+    "account_code": f"T{page}",
+    "description": f"Test line page {page}",
+    "amount": "1000",
+    "fiscal_year": "FY26",
+    "column_type": "BUDGET",
+    "row_type": "line_item",
+}]))
+'''
 
 
 # ---------------------------------------------------------------------------
@@ -117,8 +135,8 @@ def validation_backup():
 
 @pytest.fixture
 def good_claude(tmp_path):
-    """Fake claude CLI that returns valid JSON line-item data."""
-    return _make_fake_claude(tmp_path, f'#!/bin/bash\necho \'{GOOD_JSON}\'\n')
+    """Fake claude CLI that returns page-specific JSON line-item data."""
+    return _make_fake_claude(tmp_path, GOOD_CLAUDE_SCRIPT)
 
 
 @pytest.fixture
