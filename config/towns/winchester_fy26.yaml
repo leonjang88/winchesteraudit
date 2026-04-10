@@ -1,0 +1,33 @@
+name: winchester_fy26
+area_sq_miles: 6.1
+school_ranking: "A+"
+budget_url: "https://www.winchester.us/Archive.aspx?AMID=38"
+
+metrics:
+  2026:
+    population: 22970
+    households: 8200
+    median_household_income: 172000
+    student_enrollment: 4600
+    road_miles: 85
+    total_assessed_value: 7_200_000_000
+    tax_rate: 11.48
+    total_levy: 82_600_000
+    levy_limit: 83_000_000
+    new_growth: 1_200_000
+
+extraction:
+  has_account_codes: true
+  account_code_position: "first"
+  department_header: "page_top_large_font"
+  columns:
+    "FY22 ACTUAL": { fiscal_year: 2022, type: actual }
+    "FY23 ACTUAL": { fiscal_year: 2023, type: actual }
+    "FY24 BUDGET": { fiscal_year: 2024, type: budget }
+    "FY24 ACTUAL": { fiscal_year: 2024, type: actual }
+    "FY25 BUDGET": { fiscal_year: 2025, type: budget }
+    "FY26 REQUEST": { fiscal_year: 2026, type: request }
+    "FY26 MANAGER": { fiscal_year: 2026, type: manager }
+    "FY26 FINCOM": { fiscal_year: 2026, type: fincom }
+    "FY26 PROPOSED": { fiscal_year: 2026, type: request }
+  subtotal_patterns: ["TOTAL", "SUB-TOTAL"]
