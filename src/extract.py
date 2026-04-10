@@ -58,7 +58,7 @@ def _parse_amount(text: Optional[str]) -> Optional[float]:
         return None
 
 
-_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM"}
+_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM", "RECOMMENDED", "APPROP.", "APPROPRIATION", "ESTIMATED"}
 
 
 def _build_col_map(config: dict) -> dict:
@@ -85,15 +85,25 @@ def _validate_department_name(text: str) -> bool:
     # Contains dollar amounts (digit groups with commas like 888,042)
     if re.search(r"\d{1,3}(,\d{3})+", text):
         return False
-    # FY year markers → column header row, not a department
-    if re.match(r"^FY\d{2,4}$", text, re.IGNORECASE):
+    # Contains column annotation patterns like ($) or (FTE)
+    if re.search(r"\(\$\)|\(FTE\)", text):
+        return False
+    # Multiple occurrences of column type keywords → header row, not a department
+    _TYPE_KW = ["ACTUAL", "BUDGET", "REQUEST", "PROPOSED"]
+    if sum(text.upper().count(kw) for kw in _TYPE_KW) >= 3:
+        return False
+    # Starts with FY + digits → fiscal year marker or column header, never a department
+    if re.match(r"^FY\d", text, re.IGNORECASE):
         return False
     if len(re.findall(r"FY\d{2,4}", text, re.IGNORECASE)) >= 2:
         return False
-    # Known non-department labels
+    # Known non-department labels and narrative section headers
     _NON_DEPT = {
         "EXPENSES", "CATEGORY", "STAFFING", "TOTAL", "SUBTOTAL",
         "PROGRAM COSTS", "PERSONNEL SERVICES", "REVENUE SOURCE",
+        "PRIOR YEAR ACCOMPLISHMENTS", "PROGRAM DESCRIPTION",
+        "MAJOR ACCOMPLISHMENTS", "BUDGET NARRATIVE",
+        "PERFORMANCE MEASURES", "WORKLOAD INDICATORS",
     }
     if text.upper().strip() in _NON_DEPT:
         return False
@@ -286,7 +296,7 @@ def _extract_text_rows(page, config: dict) -> list[dict]:
         if i < 0:
             break
         year_count = sum(
-            1 for w in word_lines[i] if re.match(r"^FY\d{2}$", w["text"].upper())
+            1 for w in word_lines[i] if re.match(r"^FY\d{2,4}$", w["text"].upper())
         )
         if year_count >= 3:
             year_line_idx = i
@@ -297,11 +307,12 @@ def _extract_text_rows(page, config: dict) -> list[dict]:
 
     # Pair each type label with its nearest year label by x-center
     col_defs: list[tuple[float, tuple]] = []  # (x_center, (fiscal_year, column_type))
-    year_positions = [
-        ((w["x0"] + w["x1"]) / 2, 2000 + int(w["text"][2:]))
-        for w in year_words
-        if re.match(r"^FY\d{2}$", w["text"].upper())
-    ]
+    year_positions = []
+    for w in year_words:
+        if re.match(r"^FY\d{2,4}$", w["text"].upper()):
+            yr_str = w["text"][2:]
+            yr = int(yr_str) if len(yr_str) > 2 else 2000 + int(yr_str)
+            year_positions.append(((w["x0"] + w["x1"]) / 2, yr))
 
     for tw in type_words:
         type_name = tw["text"].upper()
