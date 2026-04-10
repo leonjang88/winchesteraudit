@@ -21,7 +21,13 @@ Winchester ($138.6M budget, 22,837 pop) spends **$6,067 per capita** — 7th of 
 - **Lean administration.** General government costs $400/capita — below most comps. Lexington spends 62% more.
 - **Less tax-dependent.** 76.1% of revenue from property tax vs 80%+ for Weston, Concord, and Lexington. More diversified revenue base.
 
-**The core tension:** Winchester runs an efficient government with strong reserves, but is spending significantly less on education and human services than comparable towns while spending more on DPW. With essentially zero levy capacity remaining, the town faces a structural choice: override to fund education and services, or accept the gap.
+**Important caveat on Fixed Costs:** The DLS data shows Concord and Belmont with dramatically lower "Fixed Costs" (8.9% and 8.5% vs Winchester's 15.6%). **This is a classification difference, not a spending difference.** Concord bundles $12.5M in debt service into their benefits section, which DLS puts in a separate category. When you look at actual health insurance per capita, Winchester ($825) is the **highest** of all comp towns — not the lowest. See [Benefits Analysis](benefits_analysis.md) for details.
+
+**Two additional insights from FY27 budget detail:**
+- **DPW is inflated by facilities costs.** Winchester's DPW includes $2.4M in custodians and building maintenance that Concord, Lexington, and Belmont budget under separate Facilities departments. See [DPW Analysis](dpw_analysis.md).
+- **Health insurance is the real cost driver.** At $825/capita (highest of comps), Winchester's health insurance — especially school employee coverage at $9.3M — is the single largest controllable cost difference.
+
+**The core tension:** Winchester runs an efficient government with strong reserves, but is spending significantly less on education and human services than comparable towns while spending more on DPW and health insurance. With essentially zero levy capacity remaining, the town faces a structural choice: override to fund education and services, or find efficiencies in DPW (facilities) and health insurance.
 
 ---
 
