@@ -41,6 +41,55 @@ Winchester ($138.6M budget, 22,837 pop) spends **$6,067 per capita** — 7th of 
 
 ---
 
+## Budget Allocation Comparison — All Towns (% of Total Budget)
+
+Each cell shows: allocation % (pp diff vs Winchester, % change vs Winchester). Towns sorted by education share.
+
+| Category | Concord | Lexington | Belmont | Arlington | Needham | Wellesley | **Winchester** | Weston | Bedford |
+|----------|---------|----------|---------|----------|---------|----------|--------------|--------|---------|
+| **Education** | 57.1% (+10.2pp +22%) | 52.6% (+5.6pp +12%) | 48.7% (+1.7pp +4%) | 48.5% (+1.6pp +3%) | 48.4% (+1.4pp +3%) | 47.7% (+0.7pp +2%) | **47.0%** | 46.2% (-0.8pp -2%) | 44.8% (-2.1pp -5%) |
+| **DPW** | 4.1% (-4.2pp -50%) | 3.7% (-4.6pp -56%) | 5.6% (-2.7pp -32%) | 5.7% (-2.6pp -31%) | 4.6% (-3.7pp -45%) | 6.1% (-2.2pp -26%) | **8.3%** | 6.5% (-1.8pp -22%) | 14.1% (+5.8pp +70%) |
+| **Police** | 4.0% (-0.4pp -10%) | 3.1% (-1.4pp -31%) | 5.8% (+1.4pp +31%) | 4.7% (+0.3pp +6%) | 4.1% (-0.4pp -9%) | 4.1% (-0.4pp -8%) | **4.5%** | 4.6% (+0.2pp +4%) | 4.3% (-0.2pp -4%) |
+| **Fire** | 5.2% (+0.4pp +8%) | 3.4% (-1.4pp -30%) | 4.8% (-0.0pp -0%) | 4.3% (-0.4pp -9%) | 5.0% (+0.2pp +5%) | 3.9% (-0.9pp -19%) | **4.8%** | 4.8% (+0.1pp +1%) | 3.2% (-1.6pp -33%) |
+| **GenGov** | 8.0% (+1.4pp +21%) | 8.3% (+1.7pp +26%) | 10.8% (+4.1pp +63%) | 4.1% (-2.5pp -38%) | 5.4% (-1.2pp -18%) | 8.7% (+2.1pp +32%) | **6.6%** | 6.6% (-0.0pp -0%) | 7.3% (+0.7pp +11%) |
+| **Fixed Costs** | 9.1% (-6.7pp -42%) | 16.7% (+1.0pp +6%) | 8.6% (-7.1pp -45%) | 18.6% (+2.9pp +18%) | 18.2% (+2.5pp +16%) | 16.1% (+0.4pp +3%) | **15.7%** | 18.5% (+2.8pp +18%) | 13.6% (-2.1pp -14%) |
+| **Human Svc** | 1.1% (+0.4pp +58%) | 0.8% (+0.1pp +15%) | 0.6% (-0.0pp -3%) | 0.8% (+0.1pp +14%) | 1.3% (+0.6pp +91%) | 1.0% (+0.3pp +52%) | **0.7%** | 0.9% (+0.3pp +39%) | 1.3% (+0.7pp +101%) |
+| **Culture/Rec** | 2.1% (+0.3pp +19%) | 1.8% (+0.1pp +6%) | 3.3% (+1.5pp +88%) | 1.3% (-0.4pp -24%) | 1.6% (-0.2pp -9%) | 1.9% (+0.1pp +6%) | **1.7%** | 1.7% (-0.1pp -4%) | 1.4% (-0.3pp -18%) |
+| **Debt Svc** | 8.9% (-0.9pp -10%) | 8.9% (-0.9pp -10%) | 11.3% (+1.5pp +15%) | 11.7% (+1.9pp +19%) | 9.9% (+0.1pp +1%) | 10.1% (+0.4pp +4%) | **9.8%** | 9.8% (-0.0pp -0%) | 9.9% (+0.1pp +1%) |
+
+### How Each Town Funds Higher Education Spending
+
+**Concord (56.4% education)** — The standout. Funds education by running dramatically lower Fixed Costs (-6.7pp) and lean DPW (-4.2pp). Concord's benefits/insurance costs are nearly half of Winchester's share. Worth investigating: different health insurance structure? Municipal light plant subsidizing costs?
+
+**Lexington (52.3% education)** — Funds it by cutting DPW (-4.6pp), Police (-1.4pp), and Fire (-1.4pp). Lexington is 3x Winchester's area with a larger population, so they get economies of scale on public safety. Their DPW per sq mile is a third of Winchester's.
+
+**Belmont (47.8% education)** — Only slightly more on education (+1.1pp) but achieves it through dramatically lower Fixed Costs (-7.1pp) and lower DPW (-2.7pp). Like Concord, Belmont's benefits costs are unusually low — this is a pattern worth investigating.
+
+**Needham (47.8% education)** — Matches Belmont's education share by running lower DPW (-3.7pp) and leaner GenGov (-1.2pp). Accepts higher Fixed Costs (+2.4pp) as a tradeoff.
+
+**Arlington (47.6% education)** — Funds it through lean GenGov (-2.6pp) and lower DPW (-2.7pp). Benefits from being the largest town (46K pop) — economies of scale drive admin costs down. Accepts higher Fixed Costs (+2.6pp) and Debt Service (+1.7pp).
+
+**Wellesley (47.3% education)** — Marginal education advantage (+0.6pp) funded by lower DPW (-2.2pp) and lower Fire (-0.9pp).
+
+**Weston (46.1% education)** — Actually spends *less* on education % than Winchester (-0.7pp). But their per-student spend ($22,378) is 50% higher because the total budget per capita is much larger ($8,672 vs $6,067). Weston's approach: bigger pie, not bigger slice.
+
+**Bedford (44.6% education)** — The other DPW outlier (14.1%). Like Winchester, DPW crowds out education share. Bedford and Winchester are the only two towns where DPW exceeds 8% of budget.
+
+### The Two Levers
+
+Towns that spend more on education than Winchester use one or both of these levers:
+
+1. **Lower DPW** — Every comp town except Bedford spends 2-5pp less on DPW than Winchester. This is the most consistent differentiator.
+2. **Lower Fixed Costs** — Concord (-6.7pp) and Belmont (-7.1pp) have dramatically cheaper benefits/insurance. This is the biggest single lever but only 2 of 8 towns have it.
+
+Winchester can't easily replicate lever #2 without restructuring health insurance. Lever #1 (DPW efficiency) is the actionable opportunity — but it requires understanding *why* Winchester's DPW costs are high (infrastructure age? staffing? contracted services?) before cutting.
+
+---
+
+## Per-Town Detail
+
+---
+
 ## Education — Per Student + Per Capita
 
 | Town | Enrollment | Per Student | vs Win | Pop | Per Capita | vs Win | % of Budget | vs Win |
@@ -59,131 +108,132 @@ Winchester ($138.6M budget, 22,837 pop) spends **$6,067 per capita** — 7th of 
 
 ## Police — Per Capita + Per Sq Mile
 
-| Town | Pop | Per Capita | vs Win | Sq Mi | Per Sq Mi | vs Win | % of Budget | vs Win |
-|------|-----|-----------|--------|-------|----------|--------|------------|--------|
-| Weston | 11,645 | $401 | +49% | 16.8 | $277,950 | -73% | 4.6% | +0.2pp |
-| Bedford | 14,394 | $328 | +22% | 13.7 | $345,890 | -66% | 4.3% | -0.2pp |
-| Concord | 18,086 | $282 | +5% | 24.5 | $208,226 | -80% | 4.0% | -0.5pp |
-| Belmont | 26,886 | $281 | +4% | 4.7 | $1,625,481 | +59% | 5.7% | +1.3pp |
-| **Winchester** | **22,837** | **$269** | **—** | **6.0** | **$1,020,605** | **—** | **4.4%** | **—** |
-| Needham | 32,157 | $263 | -3% | 12.3 | $687,481 | -33% | 4.0% | -0.4pp |
-| Wellesley | 30,733 | $251 | -7% | 10.0 | $770,461 | -25% | 4.1% | -0.4pp |
-| Lexington | 33,882 | $239 | -11% | 16.4 | $492,380 | -52% | 3.1% | -1.4pp |
-| Arlington | 46,111 | $209 | -23% | 5.2 | $1,866,863 | +83% | 4.6% | +0.2pp |
+| Town | Ed Rank | Pop | Per Capita | vs Win | Sq Mi | Per Sq Mi | vs Win | % of Budget | vs Win |
+|------|---------|-----|-----------|--------|-------|----------|--------|------------|--------|
+| Weston | #3 ($22,378) | 11,645 | $401 | +49% | 16.8 | $277,950 | -73% | 4.6% | +0.2pp |
+| Bedford | #5 ($20,621) | 14,394 | $328 | +22% | 13.7 | $345,890 | -66% | 4.3% | -0.2pp |
+| Concord | #1 ($38,659) | 18,086 | $282 | +5% | 24.5 | $208,226 | -80% | 4.0% | -0.5pp |
+| Belmont | #9 ($14,212) | 26,886 | $281 | +4% | 4.7 | $1,625,481 | +59% | 5.7% | +1.3pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $269 | — | 6.0 | $1,020,605 | — | 4.4% | — |
+| Needham | #6 ($18,523) | 32,157 | $263 | -3% | 12.3 | $687,481 | -33% | 4.0% | -0.4pp |
+| Wellesley | #2 ($22,928) | 30,733 | $251 | -7% | 10.0 | $770,461 | -25% | 4.1% | -0.4pp |
+| Lexington | #4 ($21,242) | 33,882 | $239 | -11% | 16.4 | $492,380 | -52% | 3.1% | -1.4pp |
+| Arlington | #7 ($15,428) | 46,111 | $209 | -23% | 5.2 | $1,866,863 | +83% | 4.6% | +0.2pp |
 
 ---
 
 ## Fire — Per Capita + Per Sq Mile
 
-| Town | Pop | Per Capita | vs Win | Sq Mi | Per Sq Mi | vs Win | % of Budget | vs Win |
-|------|-----|-----------|--------|-------|----------|--------|------------|--------|
-| Weston | 11,645 | $419 | +45% | 16.8 | $289,754 | -73% | 4.8% | +0.1pp |
-| Concord | 18,086 | $361 | +25% | 24.5 | $265,973 | -76% | 5.1% | +0.3pp |
-| Needham | 32,157 | $323 | +12% | 12.3 | $844,937 | -23% | 4.9% | +0.2pp |
-| **Winchester** | **22,837** | **$288** | **—** | **6.0** | **$1,090,962** | **—** | **4.7%** | **—** |
-| Lexington | 33,882 | $262 | -9% | 16.4 | $539,335 | -51% | 3.3% | -1.4pp |
-| Bedford | 14,394 | $243 | -15% | 13.7 | $256,537 | -76% | 3.2% | -1.6pp |
-| Wellesley | 30,733 | $238 | -17% | 10.0 | $729,480 | -33% | 3.8% | -0.9pp |
-| Belmont | 26,886 | $230 | -20% | 4.7 | $1,328,173 | +22% | 4.7% | -0.1pp |
-| Arlington | 46,111 | $191 | -34% | 5.2 | $1,710,779 | +57% | 4.2% | -0.5pp |
+| Town | Ed Rank | Pop | Per Capita | vs Win | Sq Mi | Per Sq Mi | vs Win | % of Budget | vs Win |
+|------|---------|-----|-----------|--------|-------|----------|--------|------------|--------|
+| Weston | #3 ($22,378) | 11,645 | $419 | +45% | 16.8 | $289,754 | -73% | 4.8% | +0.1pp |
+| Concord | #1 ($38,659) | 18,086 | $361 | +25% | 24.5 | $265,973 | -76% | 5.1% | +0.3pp |
+| Needham | #6 ($18,523) | 32,157 | $323 | +12% | 12.3 | $844,937 | -23% | 4.9% | +0.2pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $288 | — | 6.0 | $1,090,962 | — | 4.7% | — |
+| Lexington | #4 ($21,242) | 33,882 | $262 | -9% | 16.4 | $539,335 | -51% | 3.3% | -1.4pp |
+| Bedford | #5 ($20,621) | 14,394 | $243 | -15% | 13.7 | $256,537 | -76% | 3.2% | -1.6pp |
+| Wellesley | #2 ($22,928) | 30,733 | $238 | -17% | 10.0 | $729,480 | -33% | 3.8% | -0.9pp |
+| Belmont | #9 ($14,212) | 26,886 | $230 | -20% | 4.7 | $1,328,173 | +22% | 4.7% | -0.1pp |
+| Arlington | #7 ($15,428) | 46,111 | $191 | -34% | 5.2 | $1,710,779 | +57% | 4.2% | -0.5pp |
 
 ---
 
 ## Public Works — Per Sq Mile
 
-| Town | Sq Miles | Spend | Per Sq Mile | % of Budget | vs Winchester (Per Sq Mile) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Arlington | 5.2 | $11,605,875 | $2,253,568 | 5.6% | +19% | -2.7pp |
-| **Winchester** | 6.0 | $11,438,902 | $1,896,999 | 8.3% | — | — |
-| Belmont | 4.7 | $7,270,729 | $1,563,598 | 5.5% | -18% | -2.7pp |
-| Wellesley | 10.0 | $11,526,289 | $1,150,328 | 6.1% | -39% | -2.2pp |
-| Bedford | 13.7 | $15,568,923 | $1,139,745 | 14.1% | -40% | +5.8pp |
-| Needham | 12.3 | $9,491,211 | $772,271 | 4.5% | -59% | -3.7pp |
-| Lexington | 16.4 | $9,678,640 | $589,083 | 3.7% | -69% | -4.6pp |
-| Weston | 16.8 | $6,526,210 | $388,003 | 6.5% | -80% | -1.8pp |
-| Concord | 24.5 | $5,203,136 | $212,200 | 4.1% | -89% | -4.2pp |
+| Town | Ed Rank | Sq Miles | Spend | Per Sq Mile | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Arlington | #7 ($15,428) | 5.2 | $11,605,875 | $2,253,568 | +19% | 5.6% | -2.7pp |
+| **Winchester** | #8 ($14,915) | 6.0 | $11,438,902 | $1,896,999 | — | 8.3% | — |
+| Belmont | #9 ($14,212) | 4.7 | $7,270,729 | $1,563,598 | -18% | 5.5% | -2.7pp |
+| Wellesley | #2 ($22,928) | 10.0 | $11,526,289 | $1,150,328 | -39% | 6.1% | -2.2pp |
+| Bedford | #5 ($20,621) | 13.7 | $15,568,923 | $1,139,745 | -40% | 14.1% | +5.8pp |
+| Needham | #6 ($18,523) | 12.3 | $9,491,211 | $772,271 | -59% | 4.5% | -3.7pp |
+| Lexington | #4 ($21,242) | 16.4 | $9,678,640 | $589,083 | -69% | 3.7% | -4.6pp |
+| Weston | #3 ($22,378) | 16.8 | $6,526,210 | $388,003 | -80% | 6.5% | -1.8pp |
+| Concord | #1 ($38,659) | 24.5 | $5,203,136 | $212,200 | -89% | 4.1% | -4.2pp |
 
 ---
 
 ## General Government — Per Capita
 
-| Town | Population | Spend | Per Capita | % of Budget | vs Winchester (Per Capita) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Lexington | 33,882 | $22,001,442 | $649 | 8.3% | +62% | +1.7pp |
-| Weston | 11,645 | $6,671,788 | $573 | 6.6% | +43% | +0.0pp |
-| Bedford | 14,394 | $8,103,027 | $563 | 7.3% | +41% | +0.7pp |
-| Concord | 18,086 | $10,173,308 | $562 | 7.9% | +41% | +1.4pp |
-| Wellesley | 30,733 | $16,440,924 | $535 | 8.6% | +34% | +2.1pp |
-| Belmont | 26,886 | $13,957,544 | $519 | 10.6% | +30% | +4.0pp |
-| **Winchester** | 22,837 | $9,138,598 | $400 | 6.6% | — | — |
-| Needham | 32,157 | $11,240,547 | $350 | 5.3% | -13% | -1.2pp |
-| Arlington | 46,111 | $8,384,769 | $182 | 4.0% | -55% | -2.6pp |
+| Town | Ed Rank | Population | Spend | Per Capita | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Lexington | #4 ($21,242) | 33,882 | $22,001,442 | $649 | +62% | 8.3% | +1.7pp |
+| Weston | #3 ($22,378) | 11,645 | $6,671,788 | $573 | +43% | 6.6% | +0.0pp |
+| Bedford | #5 ($20,621) | 14,394 | $8,103,027 | $563 | +41% | 7.3% | +0.7pp |
+| Concord | #1 ($38,659) | 18,086 | $10,173,308 | $562 | +41% | 7.9% | +1.4pp |
+| Wellesley | #2 ($22,928) | 30,733 | $16,440,924 | $535 | +34% | 8.6% | +2.1pp |
+| Belmont | #9 ($14,212) | 26,886 | $13,957,544 | $519 | +30% | 10.6% | +4.0pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $9,138,598 | $400 | — | 6.6% | — |
+| Needham | #6 ($18,523) | 32,157 | $11,240,547 | $350 | -13% | 5.3% | -1.2pp |
+| Arlington | #7 ($15,428) | 46,111 | $8,384,769 | $182 | -55% | 4.0% | -2.6pp |
 
 ---
 
 ## Human Services — Per Capita
 
-| Town | Population | Spend | Per Capita | % of Budget | vs Winchester (Per Capita) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Bedford | 14,394 | $1,487,487 | $103 | 1.3% | +155% | +0.7pp |
-| Needham | 32,157 | $2,661,354 | $83 | 1.3% | +105% | +0.6pp |
-| Weston | 11,645 | $940,929 | $81 | 0.9% | +100% | +0.3pp |
-| Concord | 18,086 | $1,335,854 | $74 | 1.0% | +83% | +0.4pp |
-| Wellesley | 30,733 | $1,917,677 | $62 | 1.0% | +54% | +0.3pp |
-| Lexington | 33,882 | $2,026,449 | $60 | 0.8% | +48% | +0.1pp |
-| **Winchester** | 22,837 | $923,718 | $40 | 0.7% | — | — |
-| Arlington | 46,111 | $1,547,757 | $34 | 0.7% | -17% | +0.1pp |
-| Belmont | 26,886 | $837,833 | $31 | 0.6% | -23% | -0.0pp |
+| Town | Ed Rank | Population | Spend | Per Capita | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Bedford | #5 ($20,621) | 14,394 | $1,487,487 | $103 | +155% | 1.3% | +0.7pp |
+| Needham | #6 ($18,523) | 32,157 | $2,661,354 | $83 | +105% | 1.3% | +0.6pp |
+| Weston | #3 ($22,378) | 11,645 | $940,929 | $81 | +100% | 0.9% | +0.3pp |
+| Concord | #1 ($38,659) | 18,086 | $1,335,854 | $74 | +83% | 1.0% | +0.4pp |
+| Wellesley | #2 ($22,928) | 30,733 | $1,917,677 | $62 | +54% | 1.0% | +0.3pp |
+| Lexington | #4 ($21,242) | 33,882 | $2,026,449 | $60 | +48% | 0.8% | +0.1pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $923,718 | $40 | — | 0.7% | — |
+| Arlington | #7 ($15,428) | 46,111 | $1,547,757 | $34 | -17% | 0.7% | +0.1pp |
+| Belmont | #9 ($14,212) | 26,886 | $837,833 | $31 | -23% | 0.6% | -0.0pp |
 
 ---
 
 ## Culture & Recreation — Per Capita
 
-| Town | Population | Spend | Per Capita | % of Budget | vs Winchester (Per Capita) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Belmont | 26,886 | $4,251,023 | $158 | 3.2% | +50% | +1.5pp |
-| Concord | 18,086 | $2,620,970 | $145 | 2.0% | +38% | +0.3pp |
-| Weston | 11,645 | $1,682,234 | $144 | 1.7% | +37% | -0.1pp |
-| Lexington | 33,882 | $4,874,521 | $144 | 1.8% | +37% | +0.1pp |
-| Wellesley | 30,733 | $3,496,001 | $114 | 1.8% | +8% | +0.1pp |
-| Bedford | 14,394 | $1,566,999 | $109 | 1.4% | +3% | -0.3pp |
-| **Winchester** | 22,837 | $2,402,443 | $105 | 1.7% | — | — |
-| Needham | 32,157 | $3,296,182 | $103 | 1.6% | -3% | -0.2pp |
-| Arlington | 46,111 | $2,692,273 | $58 | 1.3% | -44% | -0.4pp |
+| Town | Ed Rank | Population | Spend | Per Capita | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Belmont | #9 ($14,212) | 26,886 | $4,251,023 | $158 | +50% | 3.2% | +1.5pp |
+| Concord | #1 ($38,659) | 18,086 | $2,620,970 | $145 | +38% | 2.0% | +0.3pp |
+| Weston | #3 ($22,378) | 11,645 | $1,682,234 | $144 | +37% | 1.7% | -0.1pp |
+| Lexington | #4 ($21,242) | 33,882 | $4,874,521 | $144 | +37% | 1.8% | +0.1pp |
+| Wellesley | #2 ($22,928) | 30,733 | $3,496,001 | $114 | +8% | 1.8% | +0.1pp |
+| Bedford | #5 ($20,621) | 14,394 | $1,566,999 | $109 | +3% | 1.4% | -0.3pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $2,402,443 | $105 | — | 1.7% | — |
+| Needham | #6 ($18,523) | 32,157 | $3,296,182 | $103 | -3% | 1.6% | -0.2pp |
+| Arlington | #7 ($15,428) | 46,111 | $2,692,273 | $58 | -44% | 1.3% | -0.4pp |
 
 ---
 
 ## Fixed Costs (Benefits/Insurance) — Per Capita
 
-| Town | Population | Spend | Per Capita | % of Budget | vs Winchester (Per Capita) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Weston | 11,645 | $18,639,309 | $1,601 | 18.5% | +69% | +2.8pp |
-| Lexington | 33,882 | $43,951,486 | $1,297 | 16.6% | +37% | +1.0pp |
-| Needham | 32,157 | $37,828,113 | $1,176 | 18.0% | +24% | +2.4pp |
-| Bedford | 14,394 | $14,972,767 | $1,040 | 13.5% | +10% | -2.1pp |
-| Wellesley | 30,733 | $30,407,126 | $989 | 16.0% | +4% | +0.4pp |
-| **Winchester** | 22,837 | $21,661,909 | $949 | 15.6% | — | — |
-| Arlington | 46,111 | $37,821,263 | $820 | 18.2% | -14% | +2.6pp |
-| Concord | 18,086 | $11,448,122 | $633 | 8.9% | -33% | -6.7pp |
-| Belmont | 26,886 | $11,197,816 | $416 | 8.5% | -56% | -7.1pp |
+| Town | Ed Rank | Population | Spend | Per Capita | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Weston | #3 ($22,378) | 11,645 | $18,639,309 | $1,601 | +69% | 18.5% | +2.8pp |
+| Lexington | #4 ($21,242) | 33,882 | $43,951,486 | $1,297 | +37% | 16.6% | +1.0pp |
+| Needham | #6 ($18,523) | 32,157 | $37,828,113 | $1,176 | +24% | 18.0% | +2.4pp |
+| Bedford | #5 ($20,621) | 14,394 | $14,972,767 | $1,040 | +10% | 13.5% | -2.1pp |
+| Wellesley | #2 ($22,928) | 30,733 | $30,407,126 | $989 | +4% | 16.0% | +0.4pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $21,661,909 | $949 | — | 15.6% | — |
+| Arlington | #7 ($15,428) | 46,111 | $37,821,263 | $820 | -14% | 18.2% | +2.6pp |
+| Concord | #1 ($38,659) | 18,086 | $11,448,122 | $633 | -33% | 8.9% | -6.7pp |
+| Belmont | #9 ($14,212) | 26,886 | $11,197,816 | $416 | -56% | 8.5% | -7.1pp |
 
 ---
 
 ## Debt Service — Per Capita
 
-| Town | Population | Spend | Per Capita | % of Budget | vs Winchester (Per Capita) | vs Winchester (% of Budget) |
-|------|-|-|-|-|-|-|
-| Weston | 11,645 | $9,828,944 | $844 | 9.7% | +43% | -0.0pp |
-| Bedford | 14,394 | $10,874,539 | $755 | 9.8% | +28% | +0.1pp |
-| Lexington | 33,882 | $23,374,202 | $690 | 8.8% | +17% | -0.9pp |
-| Needham | 32,157 | $20,485,124 | $637 | 9.7% | +8% | -0.0pp |
-| Wellesley | 30,733 | $19,140,672 | $623 | 10.1% | +5% | +0.3pp |
-| Concord | 18,086 | $11,204,163 | $619 | 8.8% | +5% | -1.0pp |
-| **Winchester** | 22,837 | $13,504,423 | $591 | 9.7% | — | — |
-| Belmont | 26,886 | $14,626,779 | $544 | 11.1% | -8% | +1.4pp |
-| Arlington | 46,111 | $23,737,977 | $515 | 11.4% | -13% | +1.7pp |
+| Town | Ed Rank | Population | Spend | Per Capita | vs Win | % of Budget | vs Win |
+|------|---------|-|-|-|-|-|-|
+| Weston | #3 ($22,378) | 11,645 | $9,828,944 | $844 | +43% | 9.7% | -0.0pp |
+| Bedford | #5 ($20,621) | 14,394 | $10,874,539 | $755 | +28% | 9.8% | +0.1pp |
+| Lexington | #4 ($21,242) | 33,882 | $23,374,202 | $690 | +17% | 8.8% | -0.9pp |
+| Needham | #6 ($18,523) | 32,157 | $20,485,124 | $637 | +8% | 9.7% | -0.0pp |
+| Wellesley | #2 ($22,928) | 30,733 | $19,140,672 | $623 | +5% | 10.1% | +0.3pp |
+| Concord | #1 ($38,659) | 18,086 | $11,204,163 | $619 | +5% | 8.8% | -1.0pp |
+| **Winchester** | #8 ($14,915) | 22,837 | $13,504,423 | $591 | — | 9.7% | — |
+| Belmont | #9 ($14,212) | 26,886 | $14,626,779 | $544 | -8% | 11.1% | +1.4pp |
+| Arlington | #7 ($15,428) | 46,111 | $23,737,977 | $515 | -13% | 11.4% | +1.7pp |
 
 ---
+
 
 ## Revenue Mix
 
@@ -275,42 +325,38 @@ Winchester ($138.6M budget, 22,837 pop) spends **$6,067 per capita** — 7th of 
 
 ---
 
-## How Each Comp Town Allocates Differently Than Winchester
-
-Winchester allocates 46.7% to Education and 8.3% to DPW. Here is how every comp town differs — where they spend more and where they spend less, in percentage points vs Winchester.
-
 ### Concord — Education at 56.4% of budget
 
-| Category | Concord | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 56.4% | 46.7% | +9.7pp | ▲ |
-| DPW | 4.1% | 8.3% | -4.2pp | ▼ |
-| Police | 4.0% | 4.4% | -0.5pp | ▼ |
-| Fire | 5.1% | 4.7% | +0.3pp | ▲ |
-| GenGov | 7.9% | 6.6% | +1.4pp | ▲ |
-| Fixed Costs | 8.9% | 15.6% | -6.7pp | ▼ |
-| Human Svc | 1.0% | 0.7% | +0.4pp | ▲ |
-| Culture/Rec | 2.0% | 1.7% | +0.3pp | ▲ |
-| Debt Service | 8.8% | 9.7% | -1.0pp | ▼ |
+| Category | Concord | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 56.4% | 46.7% | +9.7pp | +21% | ▲ |
+| DPW | 4.1% | 8.3% | -4.2pp | -51% | ▼ |
+| Police | 4.0% | 4.4% | -0.5pp | -10% | ▼ |
+| Fire | 5.1% | 4.7% | +0.3pp | +7% | ▲ |
+| GenGov | 7.9% | 6.6% | +1.4pp | +21% | ▲ |
+| Fixed Costs | 8.9% | 15.6% | -6.7pp | -43% | ▼ |
+| Human Svc | 1.0% | 0.7% | +0.4pp | +57% | ▲ |
+| Culture/Rec | 2.0% | 1.7% | +0.3pp | +18% | ▲ |
+| Debt Service | 8.8% | 9.7% | -1.0pp | -10% | ▼ |
 
-**Spends more on:** Education (+9.7pp), GenGov (+1.4pp), Human Svc (+0.4pp)
-**Spends less on:** Fixed Costs (-6.7pp), DPW (-4.2pp), Debt Service (-1.0pp)
+**Spends more on:** Education (+9.7pp), GenGov (+1.4pp), Human Svc (+0.4pp), Fire (+0.3pp), Culture/Rec (+0.3pp)
+**Spends less on:** Fixed Costs (-6.7pp), DPW (-4.2pp), Debt Service (-1.0pp), Police (-0.5pp)
 
 ---
 
 ### Lexington — Education at 52.3% of budget
 
-| Category | Lexington | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 52.3% | 46.7% | +5.6pp | ▲ |
-| DPW | 3.7% | 8.3% | -4.6pp | ▼ |
-| Police | 3.1% | 4.4% | -1.4pp | ▼ |
-| Fire | 3.3% | 4.7% | -1.4pp | ▼ |
-| GenGov | 8.3% | 6.6% | +1.7pp | ▲ |
-| Fixed Costs | 16.6% | 15.6% | +1.0pp | ▲ |
-| Human Svc | 0.8% | 0.7% | +0.1pp | |
-| Culture/Rec | 1.8% | 1.7% | +0.1pp | |
-| Debt Service | 8.8% | 9.7% | -0.9pp | ▼ |
+| Category | Lexington | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 52.3% | 46.7% | +5.6pp | +12% | ▲ |
+| DPW | 3.7% | 8.3% | -4.6pp | -56% | ▼ |
+| Police | 3.1% | 4.4% | -1.4pp | -31% | ▼ |
+| Fire | 3.3% | 4.7% | -1.4pp | -30% | ▼ |
+| GenGov | 8.3% | 6.6% | +1.7pp | +26% | ▲ |
+| Fixed Costs | 16.6% | 15.6% | +1.0pp | +6% | ▲ |
+| Human Svc | 0.8% | 0.7% | +0.1pp | +15% |  |
+| Culture/Rec | 1.8% | 1.7% | +0.1pp | +6% |  |
+| Debt Service | 8.8% | 9.7% | -0.9pp | -9% | ▼ |
 
 **Spends more on:** Education (+5.6pp), GenGov (+1.7pp), Fixed Costs (+1.0pp)
 **Spends less on:** DPW (-4.6pp), Fire (-1.4pp), Police (-1.4pp), Debt Service (-0.9pp)
@@ -319,17 +365,17 @@ Winchester allocates 46.7% to Education and 8.3% to DPW. Here is how every comp 
 
 ### Belmont — Education at 47.8% of budget
 
-| Category | Belmont | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 47.8% | 46.7% | +1.1pp | ▲ |
-| DPW | 5.5% | 8.3% | -2.7pp | ▼ |
-| Police | 5.7% | 4.4% | +1.3pp | ▲ |
-| Fire | 4.7% | 4.7% | -0.1pp | |
-| GenGov | 10.6% | 6.6% | +4.0pp | ▲ |
-| Fixed Costs | 8.5% | 15.6% | -7.1pp | ▼ |
-| Human Svc | 0.6% | 0.7% | -0.0pp | |
-| Culture/Rec | 3.2% | 1.7% | +1.5pp | ▲ |
-| Debt Service | 11.1% | 9.7% | +1.4pp | ▲ |
+| Category | Belmont | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 47.8% | 46.7% | +1.1pp | +2% | ▲ |
+| DPW | 5.5% | 8.3% | -2.7pp | -33% | ▼ |
+| Police | 5.7% | 4.4% | +1.3pp | +29% | ▲ |
+| Fire | 4.7% | 4.7% | -0.1pp | -1% |  |
+| GenGov | 10.6% | 6.6% | +4.0pp | +61% | ▲ |
+| Fixed Costs | 8.5% | 15.6% | -7.1pp | -46% | ▼ |
+| Human Svc | 0.6% | 0.7% | -0.0pp | -5% |  |
+| Culture/Rec | 3.2% | 1.7% | +1.5pp | +86% | ▲ |
+| Debt Service | 11.1% | 9.7% | +1.4pp | +14% | ▲ |
 
 **Spends more on:** GenGov (+4.0pp), Culture/Rec (+1.5pp), Debt Service (+1.4pp), Police (+1.3pp), Education (+1.1pp)
 **Spends less on:** Fixed Costs (-7.1pp), DPW (-2.7pp)
@@ -338,74 +384,74 @@ Winchester allocates 46.7% to Education and 8.3% to DPW. Here is how every comp 
 
 ### Needham — Education at 47.8% of budget
 
-| Category | Needham | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 47.8% | 46.7% | +1.1pp | ▲ |
-| DPW | 4.5% | 8.3% | -3.7pp | ▼ |
-| Police | 4.0% | 4.4% | -0.4pp | ▼ |
-| Fire | 4.9% | 4.7% | +0.2pp | |
-| GenGov | 5.3% | 6.6% | -1.2pp | ▼ |
-| Fixed Costs | 18.0% | 15.6% | +2.4pp | ▲ |
-| Human Svc | 1.3% | 0.7% | +0.6pp | ▲ |
-| Culture/Rec | 1.6% | 1.7% | -0.2pp | |
-| Debt Service | 9.7% | 9.7% | -0.0pp | |
+| Category | Needham | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 47.8% | 46.7% | +1.1pp | +2% | ▲ |
+| DPW | 4.5% | 8.3% | -3.7pp | -45% | ▼ |
+| Police | 4.0% | 4.4% | -0.4pp | -10% | ▼ |
+| Fire | 4.9% | 4.7% | +0.2pp | +4% |  |
+| GenGov | 5.3% | 6.6% | -1.2pp | -19% | ▼ |
+| Fixed Costs | 18.0% | 15.6% | +2.4pp | +15% | ▲ |
+| Human Svc | 1.3% | 0.7% | +0.6pp | +90% | ▲ |
+| Culture/Rec | 1.6% | 1.7% | -0.2pp | -10% |  |
+| Debt Service | 9.7% | 9.7% | -0.0pp | -0% |  |
 
 **Spends more on:** Fixed Costs (+2.4pp), Education (+1.1pp), Human Svc (+0.6pp)
-**Spends less on:** DPW (-3.7pp), GenGov (-1.2pp)
+**Spends less on:** DPW (-3.7pp), GenGov (-1.2pp), Police (-0.4pp)
 
 ---
 
 ### Arlington — Education at 47.6% of budget
 
-| Category | Arlington | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 47.6% | 46.7% | +0.9pp | ▲ |
-| DPW | 5.6% | 8.3% | -2.7pp | ▼ |
-| Police | 4.6% | 4.4% | +0.2pp | |
-| Fire | 4.2% | 4.7% | -0.5pp | ▼ |
-| GenGov | 4.0% | 6.6% | -2.6pp | ▼ |
-| Fixed Costs | 18.2% | 15.6% | +2.6pp | ▲ |
-| Human Svc | 0.7% | 0.7% | +0.1pp | |
-| Culture/Rec | 1.3% | 1.7% | -0.4pp | ▼ |
-| Debt Service | 11.4% | 9.7% | +1.7pp | ▲ |
+| Category | Arlington | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 47.6% | 46.7% | +0.9pp | +2% | ▲ |
+| DPW | 5.6% | 8.3% | -2.7pp | -32% | ▼ |
+| Police | 4.6% | 4.4% | +0.2pp | +4% |  |
+| Fire | 4.2% | 4.7% | -0.5pp | -11% | ▼ |
+| GenGov | 4.0% | 6.6% | -2.6pp | -39% | ▼ |
+| Fixed Costs | 18.2% | 15.6% | +2.6pp | +17% | ▲ |
+| Human Svc | 0.7% | 0.7% | +0.1pp | +12% |  |
+| Culture/Rec | 1.3% | 1.7% | -0.4pp | -25% | ▼ |
+| Debt Service | 11.4% | 9.7% | +1.7pp | +17% | ▲ |
 
 **Spends more on:** Fixed Costs (+2.6pp), Debt Service (+1.7pp), Education (+0.9pp)
-**Spends less on:** DPW (-2.7pp), GenGov (-2.6pp), Fire (-0.5pp)
+**Spends less on:** DPW (-2.7pp), GenGov (-2.6pp), Fire (-0.5pp), Culture/Rec (-0.4pp)
 
 ---
 
 ### Wellesley — Education at 47.3% of budget
 
-| Category | Wellesley | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 47.3% | 46.7% | +0.6pp | ▲ |
-| DPW | 6.1% | 8.3% | -2.2pp | ▼ |
-| Police | 4.1% | 4.4% | -0.4pp | ▼ |
-| Fire | 3.8% | 4.7% | -0.9pp | ▼ |
-| GenGov | 8.6% | 6.6% | +2.1pp | ▲ |
-| Fixed Costs | 16.0% | 15.6% | +0.4pp | ▲ |
-| Human Svc | 1.0% | 0.7% | +0.3pp | |
-| Culture/Rec | 1.8% | 1.7% | +0.1pp | |
-| Debt Service | 10.1% | 9.7% | +0.3pp | |
+| Category | Wellesley | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 47.3% | 46.7% | +0.6pp | +1% | ▲ |
+| DPW | 6.1% | 8.3% | -2.2pp | -27% | ▼ |
+| Police | 4.1% | 4.4% | -0.4pp | -9% | ▼ |
+| Fire | 3.8% | 4.7% | -0.9pp | -19% | ▼ |
+| GenGov | 8.6% | 6.6% | +2.1pp | +31% | ▲ |
+| Fixed Costs | 16.0% | 15.6% | +0.4pp | +2% | ▲ |
+| Human Svc | 1.0% | 0.7% | +0.3pp | +51% | ▲ |
+| Culture/Rec | 1.8% | 1.7% | +0.1pp | +6% |  |
+| Debt Service | 10.1% | 9.7% | +0.3pp | +3% | ▲ |
 
-**Spends more on:** GenGov (+2.1pp), Education (+0.6pp)
+**Spends more on:** GenGov (+2.1pp), Education (+0.6pp), Fixed Costs (+0.4pp), Human Svc (+0.3pp), Debt Service (+0.3pp)
 **Spends less on:** DPW (-2.2pp), Fire (-0.9pp), Police (-0.4pp)
 
 ---
 
 ### Weston — Education at 46.1% of budget
 
-| Category | Weston | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 46.1% | 46.7% | -0.7pp | ▼ |
-| DPW | 6.5% | 8.3% | -1.8pp | ▼ |
-| Police | 4.6% | 4.4% | +0.2pp | |
-| Fire | 4.8% | 4.7% | +0.1pp | |
-| GenGov | 6.6% | 6.6% | +0.0pp | |
-| Fixed Costs | 18.5% | 15.6% | +2.8pp | ▲ |
-| Human Svc | 0.9% | 0.7% | +0.3pp | |
-| Culture/Rec | 1.7% | 1.7% | -0.1pp | |
-| Debt Service | 9.7% | 9.7% | -0.0pp | |
+| Category | Weston | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 46.1% | 46.7% | -0.7pp | -1% | ▼ |
+| DPW | 6.5% | 8.3% | -1.8pp | -22% | ▼ |
+| Police | 4.6% | 4.4% | +0.2pp | +4% |  |
+| Fire | 4.8% | 4.7% | +0.1pp | +2% |  |
+| GenGov | 6.6% | 6.6% | +0.0pp | +0% |  |
+| Fixed Costs | 18.5% | 15.6% | +2.8pp | +18% | ▲ |
+| Human Svc | 0.9% | 0.7% | +0.3pp | +40% |  |
+| Culture/Rec | 1.7% | 1.7% | -0.1pp | -4% |  |
+| Debt Service | 9.7% | 9.7% | -0.0pp | -0% |  |
 
 **Spends more on:** Fixed Costs (+2.8pp)
 **Spends less on:** DPW (-1.8pp), Education (-0.7pp)
@@ -416,24 +462,25 @@ Winchester allocates 46.7% to Education and 8.3% to DPW. Here is how every comp 
 
 ### Bedford — Education at 44.6% of budget
 
-| Category | Bedford | Winchester | Diff | |
-|----------|---------|-----------|------|---|
-| Education | 44.6% | 46.7% | -2.1pp | ▼ |
-| DPW | 14.1% | 8.3% | +5.8pp | ▲ |
-| Police | 4.3% | 4.4% | -0.2pp | |
-| Fire | 3.2% | 4.7% | -1.6pp | ▼ |
-| GenGov | 7.3% | 6.6% | +0.7pp | ▲ |
-| Fixed Costs | 13.5% | 15.6% | -2.1pp | ▼ |
-| Human Svc | 1.3% | 0.7% | +0.7pp | ▲ |
-| Culture/Rec | 1.4% | 1.7% | -0.3pp | ▼ |
-| Debt Service | 9.8% | 9.7% | +0.1pp | |
+| Category | Bedford | Winchester | pp Diff | % Change | |
+|----------|-|-|-|-|-|
+| Education | 44.6% | 46.7% | -2.1pp | -4% | ▼ |
+| DPW | 14.1% | 8.3% | +5.8pp | +70% | ▲ |
+| Police | 4.3% | 4.4% | -0.2pp | -4% |  |
+| Fire | 3.2% | 4.7% | -1.6pp | -33% | ▼ |
+| GenGov | 7.3% | 6.6% | +0.7pp | +11% | ▲ |
+| Fixed Costs | 13.5% | 15.6% | -2.1pp | -13% | ▼ |
+| Human Svc | 1.3% | 0.7% | +0.7pp | +102% | ▲ |
+| Culture/Rec | 1.4% | 1.7% | -0.3pp | -18% | ▼ |
+| Debt Service | 9.8% | 9.7% | +0.1pp | +1% |  |
 
 **Spends more on:** DPW (+5.8pp), GenGov (+0.7pp), Human Svc (+0.7pp)
-**Spends less on:** Fixed Costs (-2.1pp), Education (-2.1pp), Fire (-1.6pp)
+**Spends less on:** Fixed Costs (-2.1pp), Education (-2.1pp), Fire (-1.6pp), Culture/Rec (-0.3pp)
 
 > Bedford is the only town that out-DPWs Winchester at 14.1%. Both Bedford and Winchester are DPW-heavy outliers.
 
 ---
+
 
 ## Common Pattern
 
