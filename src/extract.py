@@ -678,6 +678,8 @@ def run_extract(town: str, pdf_path: str) -> None:
                 and any(p in item["description"].upper() for p in _TOC_PATTERNS))
             # Narrative bullet fragments picked up as line items
             or item["description"].strip().startswith("•")
+            # Dollar amounts as descriptions — chart/graphic artifacts
+            or item["description"].strip().startswith("$ ")
         )
     ]
 

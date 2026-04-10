@@ -89,7 +89,7 @@ def run_validate(town: str) -> int:
         ).fetchone()[0]
         if neg_count > 0:
             # Check if negatives are known contra patterns (Tax Levy, offsets)
-            _CONTRA_PATTERNS = ("LEVY", "OFFSET", "LUHD", "CREDIT", "TRANSFER", "PAYMENT", "FUNDING", "MITIGATION")
+            _CONTRA_PATTERNS = ("LEVY", "OFFSET", "LUHD", "CREDIT", "TRANSFER", "PAYMENT", "FUNDING", "MITIGATION", "INDIRECT")
             contra_count = conn.execute(
                 """SELECT COUNT(*) FROM line_items
                    WHERE town_id = ? AND amount < 0 AND ("""
@@ -97,7 +97,14 @@ def run_validate(town: str) -> int:
                 + ")",
                 (town_id,),
             ).fetchone()[0]
-            unexplained = neg_count - contra_count
+            # Also count negatives with numeric descriptions (account object codes) as structural
+            numeric_neg_count = conn.execute(
+                """SELECT COUNT(*) FROM line_items
+                   WHERE town_id = ? AND amount < 0
+                   AND REPLACE(REPLACE(description, ' ', ''), '.', '') GLOB '[0-9]*'""",
+                (town_id,),
+            ).fetchone()[0]
+            unexplained = neg_count - contra_count - numeric_neg_count
             if unexplained > 5:
                 print(f"[WARN]  Negative amounts: {unexplained:,} unexplained negative rows (plus {contra_count} contra entries)")
                 exit_code = max(exit_code, 1)

@@ -1,0 +1,34 @@
+name: belmont
+area_sq_miles: 4.7
+school_ranking: "A"
+budget_url: "https://www.belmont-ma.gov/finance-department"
+
+metrics:
+  2027:
+    population: 27295
+    households: 10500
+    median_household_income: 165000
+    student_enrollment: 4400
+    road_miles: 75
+    total_assessed_value: 8_500_000_000
+    tax_rate: 14.50
+    total_levy: 123_000_000
+    levy_limit: 123_000_000
+    new_growth: 2_000_000
+
+extraction:
+  has_account_codes: true
+  account_code_position: "first"
+  department_header: "page_top_large_font"
+  columns:
+    # Summary pages (text-stream) use type labels
+    "FY25 ACTUAL": { fiscal_year: 2025, type: actual }
+    "FY26 APPROP.": { fiscal_year: 2026, type: appropriation }
+    "FY27 REQUEST": { fiscal_year: 2027, type: request }
+    # Detail pages (bordered tables) use bare FY year headers
+    "FY2023": { fiscal_year: 2023, type: actual }
+    "FY2024": { fiscal_year: 2024, type: actual }
+    "FY2025": { fiscal_year: 2025, type: actual }
+    "FY2026": { fiscal_year: 2026, type: appropriation }
+    "FY2027": { fiscal_year: 2027, type: request }
+  subtotal_patterns: ["Subtotal", "Total"]
