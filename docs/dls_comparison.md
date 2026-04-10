@@ -499,11 +499,18 @@ Winchester can't easily replicate lever #2 without restructuring health insuranc
 
 ## Key Takeaways for Winchester
 
-1. **Education per student is the lowest** — $14,915 vs comp average ~$21,000. The FY27 override ($76.3M) would bring this closer to peers.
-2. **DPW is the outlier** — 2nd highest per sq mile, highest % of budget (8.3%) among comparable towns. Worth investigating what's driving this.
-3. **Human services is underfunded** — $40/capita vs comp average ~$72. Only Arlington and Belmont spend less.
-4. **General government is lean** — $400/capita, below most comps. Winchester runs a relatively efficient administration.
-5. **Almost zero Prop 2½ headroom** — only $53K excess capacity. Any new spending requires an override vote.
-6. **Strong reserves** — 14.6% free cash (2nd highest), Aaa/AAA rated. Fiscally healthy but structurally constrained.
-7. **Less tax-dependent than peers** — 76.1% from property tax vs 80%+ for wealthier comps. More diversified revenue.
-8. **Police and Fire are average per capita** — but Winchester is the smallest town by area (6 sq mi), so per-sq-mile costs are high.
+1. **Education gap is real but smaller than raw numbers suggest** — $14,915/student (DLS FY24) is lowest, but classification differences inflate the gap. Winchester excludes school insurance ($9.3M) from education; Wellesley includes $45M in shared costs. Adjusted, Winchester is ~$19,721/student — still below the $21K average but not as extreme. See [Education Analysis](education_analysis.md).
+2. **DPW is inflated by $2.4M in facilities costs** — Custodians ($1.9M) and building maintenance ($540K) are in DPW; other towns have separate Facilities departments. Adjusted DPW per sq mile drops from $1.9M to $1.25M — still high but closer to comps. See [DPW Analysis](dpw_analysis.md).
+3. **DLS "Fixed Costs" comparison is misleading** — Concord and Belmont look 7pp cheaper, but it's classification noise (debt service categorized differently). Winchester actually has the HIGHEST per-capita health insurance ($825) of all comps. See [Benefits Analysis](benefits_analysis.md).
+4. **Health insurance ($18.8M) is the real cost driver** — $825/capita, highest of comps. School employee coverage ($9.3M) is nearly half. Worth investigating plan design, GIC membership, and employee contribution rates.
+5. **Human services is thin** — $40/capita vs comp average $72. Gap is only $730K but reflects fewer programs.
+6. **Almost zero Prop 2½ headroom** — 0.04% excess capacity. Any new spending requires override. But Winchester has $175M in override capacity ($20,951/household) — the constraint is political, not financial.
+7. **Strong reserves** — 14.6% free cash (2nd highest), Aaa/AAA rated. Fiscally healthy but structurally constrained.
+8. **Lexington is the best direct comp** — nearly identical student/pop ratio (19.0% vs 19.3%) but spends $27.5M more on education. That's the clearest measure of the education investment gap.
+9. **Tax burden is mid-pack** — $17,695 tax bill (7.7% of median income). Weston pays 10.2%, Concord 10.0%. Winchester has room to increase if voters approve.
+
+## Deep Dive Reports
+
+- [DPW Analysis](dpw_analysis.md) — Why Winchester's DPW looks high (facilities classification)
+- [Benefits Analysis](benefits_analysis.md) — Why "Fixed Costs" comparisons are misleading
+- [Education Analysis](education_analysis.md) — The real education gap and override impact
