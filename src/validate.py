@@ -102,16 +102,16 @@ def run_validate(town: str) -> int:
         # ── AC2: Duplicate detection ────────────────────────────────────────
         dup_count = conn.execute(
             """SELECT COUNT(*) FROM (
-                   SELECT department, description, column_type, fiscal_year
+                   SELECT department, description, column_type, fiscal_year, account_code
                    FROM line_items WHERE town_id = ?
-                   GROUP BY department, description, column_type, fiscal_year
+                   GROUP BY department, description, column_type, fiscal_year, account_code
                    HAVING COUNT(*) > 1
                )""",
             (town_id,),
         ).fetchone()[0]
         if dup_count > 0:
             print(
-                f"[CRITICAL] Duplicates: {dup_count} (dept, description, column_type, fiscal_year) "
+                f"[CRITICAL] Duplicates: {dup_count} (dept, description, column_type, fiscal_year, account_code) "
                 "combos appear more than once"
             )
             exit_code = max(exit_code, 2)
