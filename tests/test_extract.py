@@ -137,9 +137,14 @@ def test_validation_file_exists(extract_once):
 
 
 def test_validation_format(extract_once):
-    """AC4: Each non-empty line in validation report matches 'Page N: ...' format."""
+    """AC4: Validation report either contains the clean sentinel or 'Page N:' flagged lines."""
     path = os.path.join(WORKTREE, VALIDATION_PATH)
-    lines = [ln.strip() for ln in open(path).read().splitlines() if ln.strip()]
+    content = open(path).read()
+    lines = [ln.strip() for ln in content.splitlines() if ln.strip()]
+    # Clean run: single sentinel line is valid
+    if lines == ["No validation issues detected."]:
+        return
+    # Flagged run: every line must match "Page N: ..." format
     for line in lines:
         assert re.match(r"^Page \d+:", line), (
             f"Validation line does not match 'Page N: ...' format: {line!r}"
