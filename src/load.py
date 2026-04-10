@@ -23,6 +23,12 @@ def cmd_profile(args) -> None:
                 print(f"Page {page.page_number} [text]: {excerpt}")
 
 
+def cmd_extract(args) -> None:
+    """Extract budget data from PDF into DB and output files."""
+    from src.extract import run_extract
+    run_extract(args.town, args.pdf)
+
+
 def main() -> int:
     """argparse with subparsers.
     profile subcommand requires: --town (str), --pdf (str, path to PDF file)
@@ -39,6 +45,13 @@ def main() -> int:
     profile_parser.add_argument("--town", required=True, help="Town name")
     profile_parser.add_argument("--pdf", required=True, help="Path to PDF file")
 
+    extract_parser = subparsers.add_parser(
+        "extract", help="Extract budget data from PDF into database"
+    )
+    extract_parser.add_argument("--town", required=True)
+    extract_parser.add_argument("--pdf", required=True)
+    extract_parser.set_defaults(func=cmd_extract)
+
     args = parser.parse_args()
 
     if args.command is None:
@@ -50,6 +63,12 @@ def main() -> int:
             print(f"Error: PDF not found: {args.pdf}")
             return 1
         cmd_profile(args)
+
+    elif args.command == "extract":
+        if not os.path.exists(args.pdf):
+            print(f"Error: PDF not found: {args.pdf}")
+            return 1
+        cmd_extract(args)
 
     return 0
 
