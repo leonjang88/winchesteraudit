@@ -1,0 +1,5 @@
+Page 19: expected 10 columns, found 8
+Page 22: expected 10 columns, found 1
+Page 37: expected 10 columns, found 6
+Page 38: expected 10 columns, found 1
+Page 40: expected 10 columns, found 2

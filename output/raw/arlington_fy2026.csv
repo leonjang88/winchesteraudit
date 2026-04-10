@@ -1,0 +1,581 @@
+department,account_code,description,amount,fiscal_year,column_type,row_type,source_file,source_page
+Overall Revenue Summary Fiscal Year 2026 Budget,,Total,204162955.0,2023,actual,total,arlington_fy2026_budget.pdf,31
+Overall Revenue Summary Fiscal Year 2026 Budget,,Total,213984896.0,2024,actual,total,arlington_fy2026_budget.pdf,31
+Overall Revenue Summary Fiscal Year 2026 Budget,,Total,219543935.0,2025,budget,total,arlington_fy2026_budget.pdf,31
+Overall Revenue Summary Fiscal Year 2026 Budget,,Total,231632027.0,2026,budget,total,arlington_fy2026_budget.pdf,31
+Fiscal Year 2026 Budget Local Receipts,,"1 00,000",5085462.0,2023,actual,line_item,arlington_fy2026_budget.pdf,39
+Fiscal Year 2026 Budget Local Receipts,,"1 00,000",5841723.0,2024,actual,line_item,arlington_fy2026_budget.pdf,39
+Fiscal Year 2026 Budget Local Receipts,,"1 00,000",4898450.0,2025,budget,line_item,arlington_fy2026_budget.pdf,39
+Fiscal Year 2026 Budget Local Receipts,,"1 00,000",4998450.0,2026,budget,line_item,arlington_fy2026_budget.pdf,39
+Fiscal Year 2026 Budget Local Receipts,,Other Department Fees,50100.0,2023,actual,line_item,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Other Department Fees,41000.0,2024,actual,line_item,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Other Department Fees,70000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Other Department Fees,70000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Total,1998429.0,2023,actual,total,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Total,2051567.0,2024,actual,total,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Total,1550000.0,2025,budget,total,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,Total,1600000.0,2026,budget,total,arlington_fy2026_budget.pdf,40
+Fiscal Year 2026 Budget Local Receipts,,-,3388124.0,2023,actual,line_item,arlington_fy2026_budget.pdf,41
+Fiscal Year 2026 Budget Local Receipts,,-,3957865.0,2024,actual,line_item,arlington_fy2026_budget.pdf,41
+Fiscal Year 2026 Budget Local Receipts,,-,770000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,41
+Fiscal Year 2026 Budget Local Receipts,,-,770000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,41
+Fiscal Year 2026 Budget Local Receipts,,0,2668726.0,2023,actual,line_item,arlington_fy2026_budget.pdf,42
+Fiscal Year 2026 Budget Local Receipts,,0,2854218.0,2024,actual,line_item,arlington_fy2026_budget.pdf,42
+Fiscal Year 2026 Budget Local Receipts,,0,1725000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,42
+Fiscal Year 2026 Budget Local Receipts,,0,1725000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,42
+Fiscal Year 2026 Budget Local Receipts,,"78,000",76987.0,2023,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"78,000",73675.0,2024,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"78,000",73000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"78,000",151000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,-,93120.0,2024,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,-,42544.0,2025,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,-,42544.0,2026,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"-
+(45,000)",41356.0,2023,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"33,000",118343.0,2023,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"33,000",169443.0,2024,actual,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"33,000",200544.0,2025,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"33,000",233544.0,2026,budget,line_item,arlington_fy2026_budget.pdf,43
+Fiscal Year 2026 Budget Local Receipts,,"Court Fines
+Special Assessments
+Payments In Lieu of Taxes",12342.0,2023,actual,line_item,arlington_fy2026_budget.pdf,44
+Fiscal Year 2026 Budget Local Receipts,,"Court Fines
+Special Assessments
+Payments In Lieu of Taxes",15144.0,2024,actual,line_item,arlington_fy2026_budget.pdf,44
+Fiscal Year 2026 Budget Local Receipts,,"Court Fines
+Special Assessments
+Payments In Lieu of Taxes",10000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,44
+Fiscal Year 2026 Budget Local Receipts,,"Court Fines
+Special Assessments
+Payments In Lieu of Taxes",10000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,44
+Fiscal Year 2026 Budget Hotel and Meals Taxes,,Total,1412804.0,2023,actual,total,arlington_fy2026_budget.pdf,45
+Fiscal Year 2026 Budget Hotel and Meals Taxes,,Total,1554320.0,2024,actual,total,arlington_fy2026_budget.pdf,45
+Fiscal Year 2026 Budget Hotel and Meals Taxes,,Total,1084000.0,2025,budget,total,arlington_fy2026_budget.pdf,45
+Fiscal Year 2026 Budget Hotel and Meals Taxes,,Total,1089000.0,2026,budget,total,arlington_fy2026_budget.pdf,45
+Fiscal Year 2026 Budget State Aid,,Cherry Sheet Offsets,100981.0,2023,actual,line_item,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Cherry Sheet Offsets,110062.0,2024,actual,line_item,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Cherry Sheet Offsets,108800.0,2025,budget,line_item,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Cherry Sheet Offsets,125031.0,2026,budget,line_item,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Total,25221523.0,2023,actual,total,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Total,28212858.0,2024,actual,total,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Total,28603013.0,2025,budget,total,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Total,29836872.0,2026,budget,total,arlington_fy2026_budget.pdf,46
+Fiscal Year 2026 Budget State Aid,,Total,8936055.0,2023,actual,total,arlington_fy2026_budget.pdf,49
+Fiscal Year 2026 Budget State Aid,,Total,9169961.0,2024,actual,total,arlington_fy2026_budget.pdf,49
+Fiscal Year 2026 Budget State Aid,,Total,9443744.0,2025,budget,total,arlington_fy2026_budget.pdf,49
+Fiscal Year 2026 Budget State Aid,,Total,9685585.0,2026,budget,total,arlington_fy2026_budget.pdf,49
+Fiscal Year 2026 Budget State Aid,,"927,037",16073587.0,2023,actual,line_item,arlington_fy2026_budget.pdf,50
+Fiscal Year 2026 Budget State Aid,,"927,037",18812403.0,2024,actual,line_item,arlington_fy2026_budget.pdf,50
+Fiscal Year 2026 Budget State Aid,,"927,037",18963594.0,2025,budget,line_item,arlington_fy2026_budget.pdf,50
+Fiscal Year 2026 Budget State Aid,,"927,037",19890631.0,2026,budget,line_item,arlington_fy2026_budget.pdf,50
+Fiscal Year 2026 Budget State Aid,,Tax Exemption Aid,110900.0,2023,actual,line_item,arlington_fy2026_budget.pdf,52
+Fiscal Year 2026 Budget State Aid,,Tax Exemption Aid,120432.0,2024,actual,line_item,arlington_fy2026_budget.pdf,52
+Fiscal Year 2026 Budget State Aid,,Tax Exemption Aid,86875.0,2025,budget,line_item,arlington_fy2026_budget.pdf,52
+Fiscal Year 2026 Budget State Aid,,Tax Exemption Aid,135625.0,2026,budget,line_item,arlington_fy2026_budget.pdf,52
+Fiscal Year 2026 Budget Other Revenue,,Overlay Surplus,650000.0,2023,actual,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Overlay Surplus,600000.0,2024,actual,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Overlay Surplus,750000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Overlay Surplus,750000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Override Stabilization Fund,2946037.0,2023,actual,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Override Stabilization Fund,588575.0,2024,actual,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Override Stabilization Fund,4374790.0,2025,budget,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Override Stabilization Fund,8984045.0,2026,budget,line_item,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Total,3596037.0,2023,actual,total,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Total,1188575.0,2024,actual,total,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Total,5124790.0,2025,budget,total,arlington_fy2026_budget.pdf,55
+Fiscal Year 2026 Budget Other Revenue,,Total,9734045.0,2026,budget,total,arlington_fy2026_budget.pdf,55
+Finance Committee      Fiscal Year 2026 Budget,,Expenses,2019326.0,2025,budget,line_item,arlington_fy2026_budget.pdf,72
+Finance Committee      Fiscal Year 2026 Budget,,Total,2019326.0,2025,budget,total,arlington_fy2026_budget.pdf,72
+Select Board      Fiscal Year 2026 Budget,,Total,337008.0,2023,actual,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,325118.0,2024,actual,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,380017.0,2025,budget,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,369024.0,2026,request,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,4.0,2023,actual,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,3.54,2024,actual,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,3.54,2025,budget,total,arlington_fy2026_budget.pdf,74
+Select Board      Fiscal Year 2026 Budget,,Total,3.0,2026,request,total,arlington_fy2026_budget.pdf,74
+Town Manager/ Pu r c h asing/ Communications,,"Total 846,920 897,748 1,071,398 1,110,751",846920.0,2023,actual,total,arlington_fy2026_budget.pdf,77
+Town Manager/ Pu r c h asing/ Communications,,"Total 846,920 897,748 1,071,398 1,110,751",897748.0,2024,actual,total,arlington_fy2026_budget.pdf,77
+Town Manager/ Pu r c h asing/ Communications,,"Total 846,920 897,748 1,071,398 1,110,751",1071398.0,2025,budget,total,arlington_fy2026_budget.pdf,77
+Town Manager/ Pu r c h asing/ Communications,,"Total 846,920 897,748 1,071,398 1,110,751",1110751.0,2026,request,total,arlington_fy2026_budget.pdf,77
+Human Resources      Fiscal Year 2026 Budget,,Total,387705.0,2023,actual,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,403402.0,2024,actual,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,422553.0,2025,budget,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,3.8,2023,actual,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,3.8,2024,actual,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,3.8,2025,budget,total,arlington_fy2026_budget.pdf,84
+Human Resources      Fiscal Year 2026 Budget,,Total,4.0,2026,request,total,arlington_fy2026_budget.pdf,84
+Comptroller      Fiscal Year 2026 Budget,,Total,346045.0,2023,actual,total,arlington_fy2026_budget.pdf,87
+Comptroller      Fiscal Year 2026 Budget,,Total,348969.0,2024,actual,total,arlington_fy2026_budget.pdf,87
+Comptroller      Fiscal Year 2026 Budget,,Total,405196.0,2025,budget,total,arlington_fy2026_budget.pdf,87
+Comptroller      Fiscal Year 2026 Budget,,Total,421462.0,2026,request,total,arlington_fy2026_budget.pdf,87
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,10.0,2023,actual,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,10.0,2024,actual,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,10.0,2025,budget,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,10.0,2026,request,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,763439.0,2023,actual,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,776348.0,2024,actual,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,866003.0,2025,budget,total,arlington_fy2026_budget.pdf,90
+Treasurer/ Collector      Fiscal Year 2026 Budget,,Total,897019.0,2026,request,total,arlington_fy2026_budget.pdf,90
+Postage      Fiscal Year 2026 Budget,,Total,218489.0,2023,actual,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,212296.0,2024,actual,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,209700.0,2025,budget,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,190846.0,2026,request,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,0.66,2023,actual,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,0.66,2024,actual,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,0.66,2025,budget,total,arlington_fy2026_budget.pdf,93
+Postage      Fiscal Year 2026 Budget,,Total,0.66,2026,request,total,arlington_fy2026_budget.pdf,93
+Board of Assessors      Fiscal Year 2026 Budget,,Total,4.0,2023,actual,total,arlington_fy2026_budget.pdf,95
+Board of Assessors      Fiscal Year 2026 Budget,,Total,4.0,2024,actual,total,arlington_fy2026_budget.pdf,95
+Board of Assessors      Fiscal Year 2026 Budget,,Total,4.0,2025,budget,total,arlington_fy2026_budget.pdf,95
+Board of Assessors      Fiscal Year 2026 Budget,,Total,4.0,2026,request,total,arlington_fy2026_budget.pdf,95
+Information Technology      Fiscal Year 2026 Budget,,Total,7.0,2023,actual,total,arlington_fy2026_budget.pdf,98
+Information Technology      Fiscal Year 2026 Budget,,Total,7.0,2024,actual,total,arlington_fy2026_budget.pdf,98
+Information Technology      Fiscal Year 2026 Budget,,Total,7.0,2025,budget,total,arlington_fy2026_budget.pdf,98
+Information Technology      Fiscal Year 2026 Budget,,Total,8.0,2026,request,total,arlington_fy2026_budget.pdf,98
+Fiscal Year 2026 Budget Information Technology,,Hardware,3207.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Hardware,3376.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Hardware,3654.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Software,2524.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Software,2672.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Software,4347.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,New User Setup/Account Management,2988.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,New User Setup/Account Management,2197.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,New User Setup/Account Management,2598.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Project Related Changes,100.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Project Related Changes,14.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Project Related Changes,6.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Student Information System,1141.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Student Information System,1177.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Student Information System,1462.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,District Website,664.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,District Website,208.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,District Website,45.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Registration Support,322.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Registration Support,325.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Registration Support,336.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Asset Management*,2450.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Asset Management*,1165.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Asset Management*,1126.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Change Management,107.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Change Management,102.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Change Management,111.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Digital Learning Team,35.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Digital Learning Team,149.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Digital Learning Team,390.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Servers/Network,7.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Servers/Network,24.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Servers/Network,117.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Security,65.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Security,123.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Security,93.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Service Request,7.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Remote Management,2.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Special Education,11.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Special Education,153.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,System Administration,61.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,System Administration,84.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Other,66.0,2023,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Other,26.0,2024,actual,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Other,123.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Total,13685.0,2023,actual,total,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Total,11630.0,2024,actual,total,arlington_fy2026_budget.pdf,100
+Fiscal Year 2026 Budget Information Technology,,Total,14645.0,2025,estimated,total,arlington_fy2026_budget.pdf,100
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,669317.0,2023,actual,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,744922.0,2024,actual,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,639562.0,2025,budget,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,658680.0,2026,request,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,4.75,2023,actual,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,4.75,2024,actual,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,4.75,2025,budget,total,arlington_fy2026_budget.pdf,102
+Legal/ Workers’ Compensation      Fiscal Year 2026 Budget,,Total,4.75,2026,request,total,arlington_fy2026_budget.pdf,102
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,282229.0,2023,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,285773.0,2024,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,312274.0,2025,budget,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,78846.0,2023,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,67547.0,2024,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,75239.0,2025,budget,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,234101.0,2023,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,247028.0,2024,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,278704.0,2025,budget,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,4.0,2023,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,4.0,2024,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,4.0,2025,budget,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,4.0,2026,request,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,1.0,2023,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,1.0,2024,actual,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,1.0,2025,budget,total,arlington_fy2026_budget.pdf,105
+Town Clerk      Fiscal Year 2026 Budget  Board of Registrars,,Total,1.0,2026,request,total,arlington_fy2026_budget.pdf,105
+Parking      Fiscal Year 2026 Budget,,Total,66709.0,2023,actual,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,79351.0,2024,actual,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,94019.0,2025,budget,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,98985.0,2026,request,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,1.0,2023,actual,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,1.0,2024,actual,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,1.0,2025,budget,total,arlington_fy2026_budget.pdf,108
+Parking      Fiscal Year 2026 Budget,,Total,1.0,2026,request,total,arlington_fy2026_budget.pdf,108
+Fiscal Year 2026 Budget,,Total,494664.0,2023,actual,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,615900.0,2024,actual,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,864986.0,2025,budget,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,920561.0,2026,request,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,9.0,2023,actual,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,9.0,2024,actual,total,arlington_fy2026_budget.pdf,110
+Fiscal Year 2026 Budget,,Total,9.0,2025,budget,total,arlington_fy2026_budget.pdf,110
+Zoning Board of Appeals      Fiscal Year 2026 Budget,,Total,0.89,2023,actual,total,arlington_fy2026_budget.pdf,115
+Zoning Board of Appeals      Fiscal Year 2026 Budget,,Total,0.89,2024,actual,total,arlington_fy2026_budget.pdf,115
+Zoning Board of Appeals      Fiscal Year 2026 Budget,,Total,0.89,2025,budget,total,arlington_fy2026_budget.pdf,115
+Facilities      Fiscal Year 2026 Budget,,Total,857051.0,2023,actual,total,arlington_fy2026_budget.pdf,117
+Facilities      Fiscal Year 2026 Budget,,Total,1203333.0,2024,actual,total,arlington_fy2026_budget.pdf,117
+Facilities      Fiscal Year 2026 Budget,,Total,1328702.0,2025,budget,total,arlington_fy2026_budget.pdf,117
+Public Works Fiscal Year 2026 Budget,,"Personnel Services
+Expenses",3881798.0,2023,actual,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,"Personnel Services
+Expenses",3970350.0,2024,actual,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,"Personnel Services
+Expenses",4924278.0,2025,budget,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,"Personnel Services
+Expenses",5044040.0,2026,request,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,10509053.0,2023,actual,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,10898782.0,2024,actual,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,12561864.0,2025,budget,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,13456401.0,2026,request,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Public Works,45.0,2023,actual,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Public Works,45.0,2024,actual,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Public Works,45.0,2025,budget,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Public Works,45.0,2026,request,line_item,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,62.57,2023,actual,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,62.57,2024,actual,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,62.57,2025,budget,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget,,Total,62.57,2026,request,total,arlington_fy2026_budget.pdf,122
+Public Works Fiscal Year 2026 Budget  Administration,,Total,7.57,2023,actual,total,arlington_fy2026_budget.pdf,123
+Public Works Fiscal Year 2026 Budget  Administration,,Total,7.57,2024,actual,total,arlington_fy2026_budget.pdf,123
+Public Works Fiscal Year 2026 Budget  Administration,,Total,7.57,2025,budget,total,arlington_fy2026_budget.pdf,123
+Public Works Fiscal Year 2026 Budget  Administration,,Total,7.57,2026,request,total,arlington_fy2026_budget.pdf,123
+Public Works Fiscal Year 2026 Budget  Engineering,,Total,326360.0,2023,actual,total,arlington_fy2026_budget.pdf,125
+Public Works Fiscal Year 2026 Budget  Engineering,,Total,408403.0,2024,actual,total,arlington_fy2026_budget.pdf,125
+Public Works Fiscal Year 2026 Budget  Engineering,,Total,489338.0,2025,budget,total,arlington_fy2026_budget.pdf,125
+Public Works Fiscal Year 2026 Budget  Cemeteries,,Total,371825.0,2023,actual,total,arlington_fy2026_budget.pdf,129
+Public Works Fiscal Year 2026 Budget  Cemeteries,,Total,427770.0,2024,actual,total,arlington_fy2026_budget.pdf,129
+Public Works Fiscal Year 2026 Budget  Cemeteries,,Total,521213.0,2025,budget,total,arlington_fy2026_budget.pdf,129
+Public Works Fiscal Year 2026 Budget  Cemeteries,,Total,502920.0,2026,request,total,arlington_fy2026_budget.pdf,129
+Public Works Fiscal Year 2026 Budget  Natural Resources,,Total,18.0,2023,actual,total,arlington_fy2026_budget.pdf,131
+Public Works Fiscal Year 2026 Budget  Natural Resources,,Total,18.0,2024,actual,total,arlington_fy2026_budget.pdf,131
+Public Works Fiscal Year 2026 Budget  Natural Resources,,Total,18.0,2025,budget,total,arlington_fy2026_budget.pdf,131
+Public Works Fiscal Year 2026 Budget  Natural Resources,,Total,18.0,2026,request,total,arlington_fy2026_budget.pdf,131
+Public Works Fiscal Year 2026 Budget  Highway,,Total,1782638.0,2023,actual,total,arlington_fy2026_budget.pdf,133
+Public Works Fiscal Year 2026 Budget  Highway,,Total,1931522.0,2024,actual,total,arlington_fy2026_budget.pdf,133
+Public Works Fiscal Year 2026 Budget  Highway,,Total,2413472.0,2025,budget,total,arlington_fy2026_budget.pdf,133
+Public Works Fiscal Year 2026 Budget  Snow and Ice,,"Snow and Ice
+Removal",1173687.0,2023,actual,line_item,arlington_fy2026_budget.pdf,135
+Public Works Fiscal Year 2026 Budget  Snow and Ice,,"Snow and Ice
+Removal",807510.0,2024,actual,line_item,arlington_fy2026_budget.pdf,135
+Public Works Fiscal Year 2026 Budget  Snow and Ice,,"Snow and Ice
+Removal",1172013.0,2025,budget,line_item,arlington_fy2026_budget.pdf,135
+Public Works Fiscal Year 2026 Budget  Snow and Ice,,"Snow and Ice
+Removal",1172013.0,2026,request,line_item,arlington_fy2026_budget.pdf,135
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Solid Waste,3810561.0,2023,actual,line_item,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Solid Waste,4350912.0,2024,actual,line_item,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Solid Waste,4644973.0,2025,budget,line_item,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Solid Waste,5404973.0,2026,request,line_item,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Total,3810561.0,2023,actual,total,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Total,4350912.0,2024,actual,total,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Total,4644973.0,2025,budget,total,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Solid Waste,,Total,5404973.0,2026,request,total,arlington_fy2026_budget.pdf,136
+Public Works Fiscal Year 2026 Budget  Motor Equipment Repair,,Total,6.0,2023,actual,total,arlington_fy2026_budget.pdf,137
+Public Works Fiscal Year 2026 Budget  Motor Equipment Repair,,Total,6.0,2024,actual,total,arlington_fy2026_budget.pdf,137
+Public Works Fiscal Year 2026 Budget  Motor Equipment Repair,,Total,6.0,2025,budget,total,arlington_fy2026_budget.pdf,137
+Public Works Fiscal Year 2026 Budget  Motor Equipment Repair,,Total,6.0,2026,request,total,arlington_fy2026_budget.pdf,137
+Public Works Fiscal Year 2026 Budget  Streetlights,,Total,180721.0,2023,actual,total,arlington_fy2026_budget.pdf,139
+Public Works Fiscal Year 2026 Budget  Streetlights,,Total,201173.0,2024,actual,total,arlington_fy2026_budget.pdf,139
+Public Works Fiscal Year 2026 Budget  Streetlights,,Total,265000.0,2025,budget,total,arlington_fy2026_budget.pdf,139
+Public Works Fiscal Year 2026 Budget  Streetlights,,Total,265000.0,2026,request,total,arlington_fy2026_budget.pdf,139
+Fiscal Year 2026 Budget  Police Department,,Total,86.82,2023,actual,total,arlington_fy2026_budget.pdf,143
+Fiscal Year 2026 Budget  Police Department,,Total,87.44,2024,actual,total,arlington_fy2026_budget.pdf,143
+Fiscal Year 2026 Budget  Police Department,,Total,87.44,2025,budget,total,arlington_fy2026_budget.pdf,143
+Fire Department  Fiscal Year 2026 Budget,,Total,8332294.0,2023,actual,total,arlington_fy2026_budget.pdf,153
+Fire Department  Fiscal Year 2026 Budget,,35,35.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,35,35.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,35,35.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,668,750.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,668,417.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,668,500.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,9 57,855.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,9 57,745.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,9 57,800.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,"$ 5 0,190",44945.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,"$ 5 0,190",45950.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,"$ 5 0,190",45000.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Emergency Calls,6236.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Emergency Calls,5939.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Rescue Response,3106.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Rescue Response,3110.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Overlapping Calls,1518.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Overlapping Calls,1418.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Private Ambulance ALS/BLS,576.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Private Ambulance ALS/BLS,738.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Fire Calls,95.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,Fire Calls,73.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,SAFE Students Taught,3483.0,2023,actual,line_item,arlington_fy2026_budget.pdf,155
+Fire Department  Fiscal Year 2026 Budget,,SAFE Students Taught,2989.0,2024,actual,line_item,arlington_fy2026_budget.pdf,155
+Fiscal Year 2026 Budget  Inspectional Services,,Total,503675.0,2023,actual,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget  Inspectional Services,,Total,508127.0,2024,actual,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget  Inspectional Services,,Total,552744.0,2025,budget,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget  Inspectional Services,,Total,6.31,2023,actual,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget  Inspectional Services,,Total,6.4,2024,actual,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget  Inspectional Services,,Total,6.4,2025,budget,total,arlington_fy2026_budget.pdf,157
+Fiscal Year 2026 Budget Libraries,,Total,2558257.0,2023,actual,total,arlington_fy2026_budget.pdf,161
+Fiscal Year 2026 Budget Libraries,,Total,2692102.0,2024,actual,total,arlington_fy2026_budget.pdf,161
+Fiscal Year 2026 Budget Libraries,,Total,2914008.0,2025,budget,total,arlington_fy2026_budget.pdf,161
+Fiscal Year 2026 Budget,,Total,753025.0,2023,actual,total,arlington_fy2026_budget.pdf,167
+Fiscal Year 2026 Budget,,Total,674858.0,2024,actual,total,arlington_fy2026_budget.pdf,167
+Fiscal Year 2026 Budget,,Total,831218.0,2025,budget,total,arlington_fy2026_budget.pdf,167
+Fiscal Year 2026 Budget,,Total,838620.0,2026,request,total,arlington_fy2026_budget.pdf,167
+Fiscal Year 2026 Budget,,Total,9.0,2023,actual,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total,8.0,2024,actual,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total,8.0,2025,budget,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total,7.0,2026,request,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Food Inspections,295.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Food Inspections,235.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Food Inspections,300.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Tobacco Compliance Checks,41.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Tobacco Compliance Checks,40.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Biotech facility Inspection,1.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Biotech facility Inspection,1.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Biotech facility Inspection,1.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body art establishment Inspection,2.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body art establishment Inspection,0.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body art establishment Inspection,2.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Camp Inspections,8.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Camp Inspections,7.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Camp Inspections,8.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Dumpster Inspections,143.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Dumpster Inspections,156.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Dumpster Inspections,175.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Keeping of hen Inspections,14.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Keeping of hen Inspections,2.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Keeping of hen Inspections,16.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body work establishment Inspection,2.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body work establishment Inspection,1.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Body work establishment Inspection,2.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Demolition Inspections,18.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Demolition Inspections,14.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Demolition Inspections,20.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Housing Inspections,182.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Housing Inspections,140.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Housing Inspections,190.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Power sanding Inspections,5.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Power sanding Inspections,6.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Power sanding Inspections,5.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Semi/Public Pool Inspections,10.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Semi/Public Pool Inspections,10.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Semi/Public Pool Inspections,10.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Public Beach Inspections,3.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Public Beach Inspections,3.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Public Beach Inspections,3.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Resident Complaints,267.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Resident Complaints,215.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Resident Complaints,300.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Investigation,2110.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Investigation,1004.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Investigation,1000.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Flu Vaccinations Administered,304.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Flu Vaccinations Administered,315.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Flu Vaccinations Administered,300.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,COVID-19 Vaccinations,349.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,COVID-19 Vaccinations,0.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,COVID-19 Vaccinations,0.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total Case Management Clients,58.0,2023,actual,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total Case Management Clients,60.0,2024,actual,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total Case Management Clients,100.0,2025,estimated,total,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,New Case Management Clients,51.0,2023,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,New Case Management Clients,40.0,2024,actual,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,New Case Management Clients,60.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,168
+Fiscal Year 2026 Budget,,Total,234940.0,2023,actual,total,arlington_fy2026_budget.pdf,171
+Fiscal Year 2026 Budget,,Total,188630.0,2024,actual,total,arlington_fy2026_budget.pdf,171
+Fiscal Year 2026 Budget,,Total,335993.0,2025,budget,total,arlington_fy2026_budget.pdf,171
+Fiscal Year 2026 Budget,,Total,6.44,2023,actual,total,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Total,6.6,2024,actual,total,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Total,6.6,2025,budget,total,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Total,6.6,2026,request,total,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,"Unique Contacts (Visits,
+Appointments & Phone
+Consultations)",36800.0,2023,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,"Unique Contacts (Visits,
+Appointments & Phone
+Consultations)",39310.0,2024,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,"Unique Contacts (Visits,
+Appointments & Phone
+Consultations)",40000.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,COA Volunteers,370.0,2023,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,COA Volunteers,410.0,2024,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,COA Volunteers,413.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Volunteer Hours,11101.0,2023,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Volunteer Hours,13200.0,2024,actual,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,Volunteer Hours,13400.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,176
+Fiscal Year 2026 Budget,,"Total 167,400 195,774 276,642 208,475",167400.0,2023,actual,total,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,"Total 167,400 195,774 276,642 208,475",195774.0,2024,actual,total,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,"Total 167,400 195,774 276,642 208,475",276642.0,2025,budget,total,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,"Total 167,400 195,774 276,642 208,475",208475.0,2026,request,total,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Trainings - facilitated & attended,25.0,2023,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Trainings - facilitated & attended,30.0,2024,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Planning and Advisory Meetings,80.0,2023,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Planning and Advisory Meetings,92.0,2024,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,"HRC, Disability, and Rainbow
+Commission Meetings",78.0,2023,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,"HRC, Disability, and Rainbow
+Commission Meetings",95.0,2024,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Communtity Events/Programs,25.0,2023,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Communtity Events/Programs,30.0,2024,actual,line_item,arlington_fy2026_budget.pdf,178
+Fiscal Year 2026 Budget,,Total,3.0,2023,actual,total,arlington_fy2026_budget.pdf,179
+Fiscal Year 2026 Budget,,Total,3.0,2024,actual,total,arlington_fy2026_budget.pdf,179
+Fiscal Year 2026 Budget,,Total,3.0,2025,budget,total,arlington_fy2026_budget.pdf,179
+Fiscal Year 2026 Budget,,Total,2.0,2026,request,total,arlington_fy2026_budget.pdf,179
+Fiscal Year 2026 Budget  Retirement,,Total,14846687.0,2023,actual,total,arlington_fy2026_budget.pdf,183
+Fiscal Year 2026 Budget  Retirement,,Total,15676279.0,2024,actual,total,arlington_fy2026_budget.pdf,183
+Fiscal Year 2026 Budget  Retirement,,Total,16555650.0,2025,budget,total,arlington_fy2026_budget.pdf,183
+Fiscal Year 2026 Budget  Retirement,,Total,17466210.0,2026,request,total,arlington_fy2026_budget.pdf,183
+Fiscal Year 2026 Budget Insurance,,Total,21425131.0,2023,actual,total,arlington_fy2026_budget.pdf,186
+Fiscal Year 2026 Budget Insurance,,Total,22144765.0,2024,actual,total,arlington_fy2026_budget.pdf,186
+Fiscal Year 2026 Budget Insurance,,Total,24538732.0,2025,budget,total,arlington_fy2026_budget.pdf,186
+Fiscal Year 2026 Budget Insurance,,Total,27477009.0,2026,request,total,arlington_fy2026_budget.pdf,186
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,"Personnel Services
+Expenses",2281026.0,2023,actual,line_item,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,"Personnel Services
+Expenses",2486392.0,2024,actual,line_item,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,"Personnel Services
+Expenses",2887981.0,2025,budget,line_item,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,"Personnel Services
+Expenses",2932558.0,2026,request,line_item,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,Total,17.0,2023,actual,total,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,Total,17.0,2024,actual,total,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,Total,18.0,2025,budget,total,arlington_fy2026_budget.pdf,192
+Fiscal Year 2026 Budget Water/Sewer Enterprise Fund,,Total,18.0,2026,request,total,arlington_fy2026_budget.pdf,192
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,6.3,2023,actual,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,7.1,2024,actual,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,8.1,2025,budget,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,9.1,2026,request,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,1890645.0,2023,actual,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,2183782.0,2024,actual,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,2646904.0,2025,budget,total,arlington_fy2026_budget.pdf,194
+Recreation Enterprise Fund  Fiscal Year 2026 Budget,,Total,2907975.0,2026,request,total,arlington_fy2026_budget.pdf,194
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Fall,3843.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Fall,4085.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Fall,4085.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Winter,3356.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Winter,3720.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Winter,3720.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Spring,4441.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Spring,4454.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Spring,4454.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Summer,6732.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Summer,7503.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Summer,7503.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Adult Resident,116.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Adult Resident,116.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Adult Resident,120.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Child Resident,73.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Child Resident,73.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Child Resident,75.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Senior Citizen,86.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Senior Citizen,86.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Senior Citizen,90.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Resident Family,310.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Resident Family,310.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,Resident Family,310.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Resident Family Plus
+1",62.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Resident Family Plus
+1",57.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Resident Family Plus
+1",60.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Resident Family Plus
+2",15.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Resident Family Plus
+2",15.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,TOTAL Tags:,647.0,2023,actual,total,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,TOTAL Tags:,657.0,2024,actual,total,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,TOTAL Tags:,670.0,2025,estimated,total,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Reservoir Day
+Passes:",12763.0,2023,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Reservoir Day
+Passes:",12845.0,2024,actual,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Recreation Enterprise Fund,,"Reservoir Day
+Passes:",13000.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,195
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total,599553.0,2023,actual,total,arlington_fy2026_budget.pdf,197
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total,603830.0,2024,actual,total,arlington_fy2026_budget.pdf,197
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total,695104.0,2025,budget,total,arlington_fy2026_budget.pdf,197
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total,679456.0,2026,request,total,arlington_fy2026_budget.pdf,197
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"1,670",1580.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"1,670",2206.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"1,670",2206.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"3,117",4514.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"3,117",4391.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"3,117",4391.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"6,660",10236.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"6,660",10080.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"6,660",10080.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"2,963",3874.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"2,963",4191.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,"2,963",4191.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,95,214.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,95,130.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,95,130.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,790,1191.0,2023,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,790,1440.0,2024,actual,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,790,1440.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total 2.7 2.9 2.9 2.9,2.7,2023,actual,total,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total 2.7 2.9 2.9 2.9,2.9,2024,actual,total,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total 2.7 2.9 2.9 2.9,2.9,2025,budget,total,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Ed Burns Arena/Sports Center,,Total 2.7 2.9 2.9 2.9,2.9,2026,request,total,arlington_fy2026_budget.pdf,198
+Fiscal Year 2026 Budget Council on Aging Transportation,,Total,1.6,2023,actual,total,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Total,0.8,2024,actual,total,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Total,0.91,2025,budget,total,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Total,0.91,2026,request,total,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Vans - One Way Rides,6951.0,2023,actual,line_item,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Vans - One Way Rides,10226.0,2024,actual,line_item,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Vans - One Way Rides,11226.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Medical Rides (MES and Taxi),1598.0,2023,actual,line_item,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Medical Rides (MES and Taxi),2100.0,2024,actual,line_item,arlington_fy2026_budget.pdf,201
+Fiscal Year 2026 Budget Council on Aging Transportation,,Medical Rides (MES and Taxi),2500.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,201
+Program Description,,Total,1138180.0,2023,actual,total,arlington_fy2026_budget.pdf,203
+Program Description,,Total,1248618.0,2024,actual,total,arlington_fy2026_budget.pdf,203
+Program Description,,Total,1554917.0,2025,budget,total,arlington_fy2026_budget.pdf,203
+Program Description,,Total,1380000.0,2026,request,total,arlington_fy2026_budget.pdf,203
+Major Accomplishments for 2024,,Total 13.11 15.45 17.45 14.34,13.11,2023,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total 13.11 15.45 17.45 14.34,15.45,2024,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total 13.11 15.45 17.45 14.34,17.45,2025,budget,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total 13.11 15.45 17.45 14.34,14.34,2026,request,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total Counseling Sessions,9188.0,2023,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total Counseling Sessions,9868.0,2024,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total Counseling Sessions,10300.0,2025,estimated,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Psychiatric Evaluations,37.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Psychiatric Evaluations,35.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Psychiatric Evaluations,37.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Medication Management Sessions,272.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Medication Management Sessions,333.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Medication Management Sessions,350.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total AYCC Clients,378.0,2023,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total AYCC Clients,455.0,2024,actual,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Total AYCC Clients,475.0,2025,estimated,total,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,New AYCC Clients,159.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,New AYCC Clients,148.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,New AYCC Clients,155.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Group Sessions Conducted,44.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Group Sessions Conducted,30.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Group Sessions Conducted,40.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,First Step Group,48.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,First Step Group,48.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,First Step Group,48.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Case Consultation and Care Coordination,592.0,2023,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Case Consultation and Care Coordination,680.0,2024,actual,line_item,arlington_fy2026_budget.pdf,204
+Major Accomplishments for 2024,,Case Consultation and Care Coordination,650.0,2025,estimated,line_item,arlington_fy2026_budget.pdf,204
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Tax Abatement Overlay,600000.0,2023,actual,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Tax Abatement Overlay,600000.0,2024,actual,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Tax Abatement Overlay,600000.0,2025,budget,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Tax Abatement Overlay,600000.0,2026,budget,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Court Judgments & Deficits,100000.0,2023,actual,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Court Judgments & Deficits,100000.0,2024,actual,line_item,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Total,4611830.0,2023,actual,total,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Total,4778245.0,2024,actual,total,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Total,4751546.0,2025,budget,total,arlington_fy2026_budget.pdf,230
+Fiscal Year 2026 Budget Non-Appropriated Expenses,,Total,4966306.0,2026,budget,total,arlington_fy2026_budget.pdf,230

@@ -1,0 +1,291 @@
+department,account_code,description,amount,fiscal_year,column_type,row_type,source_file,source_page
+TOWN OF WESTON,,Insurance,315846.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Insurance,307139.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Insurance,309948.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Insurance,258603.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Insurance,333772.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Fringe Benefits,11369045.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Fringe Benefits,11600107.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Fringe Benefits,10652563.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Fringe Benefits,12827589.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Fringe Benefits,14186141.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Reserve Fund,731883.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Debt Service (non-excluded),2728.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Debt Service (non-excluded),4890.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Debt Service (non-excluded),2814.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Debt Service (non-excluded),4650.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Debt Service (non-excluded),6000.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,TOTAL UNCLASSIFIED,18180674.0,2022,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,TOTAL UNCLASSIFIED,18877412.0,2023,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,TOTAL UNCLASSIFIED,18730659.0,2024,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,TOTAL UNCLASSIFIED,21043822.0,2025,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,TOTAL UNCLASSIFIED,24323054.0,2026,budget,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Manager's Office,546330.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Manager's Office,572104.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Manager's Office,575629.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Manager's Office,618147.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Manager's Office,661705.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salary Reserve (to be distributed) and Merit Pay (transfer account),8996.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salary Reserve (to be distributed) and Merit Pay (transfer account),10245.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salary Reserve (to be distributed) and Merit Pay (transfer account),9186.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salary Reserve (to be distributed) and Merit Pay (transfer account),1900.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salary Reserve (to be distributed) and Merit Pay (transfer account),351661.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Legal,256996.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Legal,275457.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Legal,462828.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Legal,266983.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Legal,220000.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Facilities Maintenance (Town Hall,",70327.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Facilities Maintenance (Town Hall,",29169.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Facilities Maintenance (Town Hall,",48839.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Facilities Maintenance (Town Hall,",74564.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Facilities Maintenance (Town Hall,",83177.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Josiah Smith Tavern, Old Library)",108197.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Josiah Smith Tavern, Old Library)",206126.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Josiah Smith Tavern, Old Library)",176064.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Josiah Smith Tavern, Old Library)",162205.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,"Josiah Smith Tavern, Old Library)",154005.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Clerk & Registrars of Voters,196671.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Clerk & Registrars of Voters,240709.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Clerk & Registrars of Voters,221661.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Clerk & Registrars of Voters,235695.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Town Clerk & Registrars of Voters,233415.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Information Systems,457222.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Information Systems,487147.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Information Systems,478105.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Information Systems,525741.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Information Systems,563063.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Vets Mem Ed Fund Comm,2157.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Vets Mem Ed Fund Comm,3000.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Vets Mem Ed Fund Comm,3000.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Vets Mem Ed Fund Comm,2569.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Vets Mem Ed Fund Comm,3000.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Service Program,1160.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Service Program,743.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Service Program,1860.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Service Program,1845.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Weston Service Program,17850.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-General Government,2483064.0,2022,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-General Government,2626989.0,2023,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-General Government,2948379.0,2024,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-General Government,3226741.0,2025,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-General Government,3683382.0,2026,budget,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salaries,603332.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salaries,523790.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salaries,557760.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salaries,584084.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Salaries,708829.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Expenses,876937.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Expenses,868360.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Expenses,941880.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Expenses,772734.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Expenses,941740.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Facilities Improvements-Town wide,476553.0,2022,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Facilities Improvements-Town wide,422629.0,2023,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Facilities Improvements-Town wide,1053826.0,2024,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Facilities Improvements-Town wide,597678.0,2025,actual,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Facilities Improvements-Town wide,852229.0,2026,budget,line_item,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-Facilities Town-Wide,1956822.0,2022,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-Facilities Town-Wide,1814779.0,2023,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-Facilities Town-Wide,2553466.0,2024,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-Facilities Town-Wide,1954497.0,2025,actual,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Total-Facilities Town-Wide,2502798.0,2026,budget,total,weston_fy2027_budget.pdf,1
+TOWN OF WESTON,,Finance Committee,210.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance Committee,239.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance Committee,410.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance Committee,725.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance Committee,7750.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance,800542.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance,806778.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance,835456.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance,868164.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Finance,979132.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Finance,929668.0,2022,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Finance,941920.0,2023,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Finance,990907.0,2024,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Finance,1008604.0,2025,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Finance,1154377.0,2026,budget,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Land Use, Inspections, Planning",682682.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Land Use, Inspections, Planning",704317.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Land Use, Inspections, Planning",729514.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Land Use, Inspections, Planning",787090.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Land Use, Inspections, Planning",801143.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Total-Land Use, Inspectional Services, Planning",860487.0,2022,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Total-Land Use, Inspectional Services, Planning",926137.0,2023,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Total-Land Use, Inspectional Services, Planning",941960.0,2024,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Total-Land Use, Inspectional Services, Planning",1000913.0,2025,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,"Total-Land Use, Inspectional Services, Planning",1044438.0,2026,budget,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Police/Animal Control,3600822.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Police/Animal Control,3715446.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Police/Animal Control,4145040.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Police/Animal Control,4335336.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Police/Animal Control,4217015.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Fire,3486569.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Fire,3597772.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Fire,3689911.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Fire,3809488.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Fire,4072088.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Public Safety,8274523.0,2022,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Public Safety,8442786.0,2023,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Public Safety,9631077.0,2024,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Public Safety,9679952.0,2025,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Public Safety,10106083.0,2026,budget,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Minuteman Regional Voc-Tech,89075.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Minuteman Regional Voc-Tech,6039.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Minuteman Regional Voc-Tech,5560.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Minuteman Regional Voc-Tech,20000.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Voc-Tech Education,89075.0,2022,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Voc-Tech Education,6039.0,2023,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Voc-Tech Education,5560.0,2024,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total-Voc-Tech Education,20000.0,2025,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Salaries,2345580.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Salaries,2395742.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Salaries,2494070.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Salaries,2365535.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Salaries,2566812.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Expenses,1126964.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Expenses,1239224.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Expenses,1234583.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Expenses,1324375.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Expenses,1533885.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Snow and Ice Control,622133.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Snow and Ice Control,452012.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Snow and Ice Control,477396.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Snow and Ice Control,646670.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Snow and Ice Control,268000.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Continuing Balance Accounts:,2357720.0,2022,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Continuing Balance Accounts:,1144832.0,2023,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Continuing Balance Accounts:,1394398.0,2024,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Continuing Balance Accounts:,-77754.0,2025,actual,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Continuing Balance Accounts:,1650000.0,2026,budget,line_item,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total - Public Works,7194295.0,2022,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total - Public Works,6192454.0,2023,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total - Public Works,6646887.0,2024,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total - Public Works,5031738.0,2025,actual,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Total - Public Works,6853697.0,2026,budget,total,weston_fy2027_budget.pdf,2
+TOWN OF WESTON,,Board of Health,319181.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Board of Health,281258.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Board of Health,294547.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Board of Health,324345.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Board of Health,341539.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Mosquito Control E. Middlesex,45918.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Mosquito Control E. Middlesex,45918.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Mosquito Control E. Middlesex,45918.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Mosquito Control E. Middlesex,45918.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Mosquito Control E. Middlesex,47755.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Council on Aging,343260.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Council on Aging,384099.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Council on Aging,419426.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Council on Aging,437399.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Council on Aging,520885.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Veterans' Benefits,24148.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Veterans' Benefits,24858.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Veterans' Benefits,25646.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Veterans' Benefits,48501.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Veterans' Benefits,50800.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Health & Human Services,855216.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Health & Human Services,877262.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Health & Human Services,940929.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Health & Human Services,1002295.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Health & Human Services,1122065.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Libraries,1245554.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Libraries,1273704.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Libraries,1328262.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Libraries,1409135.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Libraries,1523986.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Art & Innovation Center,81417.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Public Library,1501314.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Public Library,1536193.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Public Library,1664354.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Public Library,1767751.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Public Library,1961797.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL TOWN WIDE- OPERATIONS,24144464.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL TOWN WIDE- OPERATIONS,23364559.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL TOWN WIDE- OPERATIONS,26323519.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL TOWN WIDE- OPERATIONS,24692490.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL TOWN WIDE- OPERATIONS,28428637.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,School Department,33385493.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,School Department,36489551.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,School Department,37379350.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,School Department,47553800.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,School Department,49410720.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL SCHOOLS- OPERATIONS,41686541.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL SCHOOLS- OPERATIONS,44534271.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL SCHOOLS- OPERATIONS,45697399.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL SCHOOLS- OPERATIONS,47553800.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,TOTAL SCHOOLS- OPERATIONS,49410720.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET APPROPRIATIONS",84011679.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET APPROPRIATIONS",86776241.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET APPROPRIATIONS",90751577.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET APPROPRIATIONS",93290112.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET APPROPRIATIONS",102162411.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Cash Capital,1795600.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Cash Capital,1565000.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Cash Capital,7085000.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Cash Capital,50000.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Post Employment Benefits Reserve,2225491.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Post Employment Benefits Reserve,2167262.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Post Employment Benefits Reserve,2377749.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Post Employment Benefits Reserve,2377749.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Post Employment Benefits Reserve,2522915.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Separate Articles,2225491.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Separate Articles,2167262.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Separate Articles,4173349.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Separate Articles,3992749.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total-Separate Articles,9607915.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET, CAPITAL & SEPARATE ARTICLES",86237170.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET, CAPITAL & SEPARATE ARTICLES",88943503.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET, CAPITAL & SEPARATE ARTICLES",94924926.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET, CAPITAL & SEPARATE ARTICLES",97282861.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,"TOTAL UNCLASSIFIED, TOWN & SCHOOL OPERATING BUDGET, CAPITAL & SEPARATE ARTICLES",111770326.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Operating Budget,86237170.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Operating Budget,88943503.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Operating Budget,94924926.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Operating Budget,97282861.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Operating Budget,111770326.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Surplus (Deficit),111770326.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Exempt Debt Service,9951616.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Exempt Debt Service,9725684.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Exempt Debt Service,9828944.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Exempt Debt Service,9185365.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Exempt Debt Service,8428977.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Exempt Debt Service,9951616.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Exempt Debt Service,9725684.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Exempt Debt Service,9828944.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Exempt Debt Service,9185365.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Exempt Debt Service,8428977.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Exempt Debt Service,120977.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Exempt Debt Service,108443.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Exempt Debt Service,96394.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Exempt Debt Service,87378.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Total Projected Revenue for Exempt Debt Service,80956.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Net Exempt Debt Service,9830639.0,2022,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Net Exempt Debt Service,9617241.0,2023,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Net Exempt Debt Service,9732550.0,2024,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Net Exempt Debt Service,9097987.0,2025,actual,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Net Exempt Debt Service,8348021.0,2026,budget,line_item,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with gross exempt debt service),96188786.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with gross exempt debt service),98669187.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with gross exempt debt service),104753870.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with gross exempt debt service),106468226.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with gross exempt debt service),120199303.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with net exempt debt service),96067809.0,2022,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with net exempt debt service),98560744.0,2023,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with net exempt debt service),104657476.0,2024,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with net exempt debt service),106380848.0,2025,actual,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Grand Total Budget Appropriations (with net exempt debt service),120118347.0,2026,budget,total,weston_fy2027_budget.pdf,3
+TOWN OF WESTON,,Recreation,1219172.0,2022,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Recreation,1380131.0,2023,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Recreation,1465551.0,2024,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Recreation,1503862.0,2025,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Recreation,1550995.0,2026,budget,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Water,331749.0,2022,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Water,338305.0,2023,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Water,375932.0,2024,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Water,385389.0,2025,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Water,391892.0,2026,budget,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Brook School Apartments,190559.0,2022,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Brook School Apartments,198825.0,2023,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Brook School Apartments,205503.0,2024,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Brook School Apartments,216516.0,2025,actual,line_item,weston_fy2027_budget.pdf,4
+TOWN OF WESTON,,Brook School Apartments,229153.0,2026,budget,line_item,weston_fy2027_budget.pdf,4

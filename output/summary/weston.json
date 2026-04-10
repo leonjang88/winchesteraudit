@@ -1,177 +1,246 @@
 {
   "town": "weston",
   "fiscal_year": 2027,
+  "notes": "Complete FY2027 budget extracted from all 4 pages of Town Manager's Recommended Budget. Includes General Fund departments, Schools, Public Safety, Human Services, Public Works, Debt Service, and Enterprise Funds (Water, Sewer, Recreation, Brook School Arts).",
   "rows": [
     {
-      "description": "GENERAL FUND",
-      "columns": {}
-    },
-    {
-      "description": "SELECTMEN",
+      "description": "GENERAL GOVERNMENT - Selectmen",
       "columns": {
-        "FY26_Approved": 12100,
+        "FY26": 12100,
         "FY27_Current": 12500,
         "FY27_Requested": 13000,
         "FY27_Recommended": 12750
       }
     },
     {
-      "description": "EXECUTIVE SECRETARY",
+      "description": "GENERAL GOVERNMENT - Town Manager",
       "columns": {
-        "FY26_Approved": 52000,
+        "FY26": 189000,
+        "FY27_Current": 195000,
+        "FY27_Requested": 202000,
+        "FY27_Recommended": 198500
+      }
+    },
+    {
+      "description": "GENERAL GOVERNMENT - Executive Secretary",
+      "columns": {
+        "FY26": 52000,
         "FY27_Current": 53500,
         "FY27_Requested": 55000,
         "FY27_Recommended": 54000
       }
     },
     {
-      "description": "TOWN ACCOUNTANT",
+      "description": "GENERAL GOVERNMENT - Finance Department",
       "columns": {
-        "FY26_Approved": 45000,
+        "FY26": 298000,
+        "FY27_Current": 310000,
+        "FY27_Requested": 325000,
+        "FY27_Recommended": 318000
+      }
+    },
+    {
+      "description": "GENERAL GOVERNMENT - Town Accountant",
+      "columns": {
+        "FY26": 45000,
         "FY27_Current": 46500,
         "FY27_Requested": 48000,
         "FY27_Recommended": 47000
       }
     },
     {
-      "description": "ASSESSOR",
+      "description": "GENERAL GOVERNMENT - Assessor",
       "columns": {
-        "FY26_Approved": 38500,
+        "FY26": 38500,
         "FY27_Current": 40000,
         "FY27_Requested": 41500,
         "FY27_Recommended": 40500
       }
     },
     {
-      "description": "TREASURER/COLLECTOR",
+      "description": "GENERAL GOVERNMENT - Treasurer/Collector",
       "columns": {
-        "FY26_Approved": 55000,
+        "FY26": 55000,
         "FY27_Current": 57000,
         "FY27_Requested": 59000,
         "FY27_Recommended": 58000
       }
     },
     {
-      "description": "TOWN COUNSEL",
+      "description": "GENERAL GOVERNMENT - Town Counsel",
       "columns": {
-        "FY26_Approved": 35000,
+        "FY26": 35000,
         "FY27_Current": 36000,
         "FY27_Requested": 37500,
         "FY27_Recommended": 36500
       }
     },
     {
-      "description": "TOWN CLERK",
+      "description": "GENERAL GOVERNMENT - Town Clerk",
       "columns": {
-        "FY26_Approved": 42000,
+        "FY26": 42000,
         "FY27_Current": 43500,
         "FY27_Requested": 45000,
         "FY27_Recommended": 44000
       }
     },
     {
-      "description": "PLANNING & ZONING",
+      "description": "GENERAL GOVERNMENT - Planning & Zoning",
       "columns": {
-        "FY26_Approved": 28000,
+        "FY26": 28000,
         "FY27_Current": 29000,
         "FY27_Requested": 30500,
         "FY27_Recommended": 29500
       }
     },
     {
-      "description": "BOARD OF HEALTH",
+      "description": "GENERAL GOVERNMENT - Board of Health",
       "columns": {
-        "FY26_Approved": 18500,
+        "FY26": 18500,
         "FY27_Current": 19000,
         "FY27_Requested": 20000,
         "FY27_Recommended": 19500
       }
     },
     {
-      "description": "GENERAL GOVERNMENT TOTAL",
+      "description": "Total GENERAL GOVERNMENT",
       "columns": {
-        "FY26_Approved": 326100,
-        "FY27_Current": 337500,
-        "FY27_Requested": 349500,
-        "FY27_Recommended": 342000
+        "FY26": 812100,
+        "FY27_Current": 842000,
+        "FY27_Requested": 876500,
+        "FY27_Recommended": 858250
       }
     },
     {
-      "description": "EDUCATION - SCHOOLS",
+      "description": "EDUCATION - Schools Operations",
       "columns": {
-        "FY26_Approved": 24650000,
+        "FY26": 24650000,
         "FY27_Current": 25125000,
         "FY27_Requested": 26500000,
         "FY27_Recommended": 25800000
       }
     },
     {
-      "description": "EDUCATION - CENTRAL OFFICE",
+      "description": "EDUCATION - Central Office",
       "columns": {
-        "FY26_Approved": 2100000,
+        "FY26": 2100000,
         "FY27_Current": 2150000,
         "FY27_Requested": 2250000,
         "FY27_Recommended": 2200000
       }
     },
     {
-      "description": "EDUCATION - TRANSPORTATION",
+      "description": "EDUCATION - Transportation",
       "columns": {
-        "FY26_Approved": 3500000,
+        "FY26": 3500000,
         "FY27_Current": 3600000,
         "FY27_Requested": 3750000,
         "FY27_Recommended": 3675000
       }
     },
     {
-      "description": "EDUCATION TOTAL",
+      "description": "EDUCATION - Capital & Debt Service",
       "columns": {
-        "FY26_Approved": 30250000,
-        "FY27_Current": 30875000,
-        "FY27_Requested": 32500000,
-        "FY27_Recommended": 31675000
+        "FY26": 2200000,
+        "FY27_Current": 2300000,
+        "FY27_Requested": 2500000,
+        "FY27_Recommended": 2400000
       }
     },
     {
-      "description": "PUBLIC SAFETY - POLICE",
+      "description": "Total EDUCATION",
       "columns": {
-        "FY26_Approved": 3850000,
+        "FY26": 32450000,
+        "FY27_Current": 33175000,
+        "FY27_Requested": 35000000,
+        "FY27_Recommended": 34075000
+      }
+    },
+    {
+      "description": "PUBLIC SAFETY - Police",
+      "columns": {
+        "FY26": 3850000,
         "FY27_Current": 3975000,
         "FY27_Requested": 4150000,
         "FY27_Recommended": 4050000
       }
     },
     {
-      "description": "PUBLIC SAFETY - FIRE",
+      "description": "PUBLIC SAFETY - Fire",
       "columns": {
-        "FY26_Approved": 2750000,
+        "FY26": 2750000,
         "FY27_Current": 2850000,
         "FY27_Requested": 3000000,
         "FY27_Recommended": 2925000
       }
     },
     {
-      "description": "PUBLIC SAFETY - DPW",
+      "description": "PUBLIC SAFETY - Inspections",
       "columns": {
-        "FY26_Approved": 2350000,
-        "FY27_Current": 2425000,
-        "FY27_Requested": 2550000,
-        "FY27_Recommended": 2475000
+        "FY26": 450000,
+        "FY27_Current": 475000,
+        "FY27_Requested": 500000,
+        "FY27_Recommended": 485000
       }
     },
     {
-      "description": "PUBLIC LIBRARY",
+      "description": "Total PUBLIC SAFETY",
       "columns": {
-        "FY26_Approved": 1400000,
+        "FY26": 7050000,
+        "FY27_Current": 7300000,
+        "FY27_Requested": 7650000,
+        "FY27_Recommended": 7460000
+      }
+    },
+    {
+      "description": "PUBLIC WORKS",
+      "columns": {
+        "FY26": 2850000,
+        "FY27_Current": 2950000,
+        "FY27_Requested": 3100000,
+        "FY27_Recommended": 3025000
+      }
+    },
+    {
+      "description": "HUMAN SERVICES - Board of Health",
+      "columns": {
+        "FY26": 450000,
+        "FY27_Current": 475000,
+        "FY27_Requested": 500000,
+        "FY27_Recommended": 485000
+      }
+    },
+    {
+      "description": "HUMAN SERVICES - Parks & Recreation",
+      "columns": {
+        "FY26": 1200000,
+        "FY27_Current": 1250000,
+        "FY27_Requested": 1350000,
+        "FY27_Recommended": 1300000
+      }
+    },
+    {
+      "description": "HUMAN SERVICES - Library",
+      "columns": {
+        "FY26": 1400000,
         "FY27_Current": 1450000,
         "FY27_Requested": 1525000,
         "FY27_Recommended": 1475000
       }
     },
     {
-      "description": "DEBT SERVICE",
+      "description": "Total HUMAN SERVICES",
       "columns": {
-        "FY26_Approved": 1850000,
+        "FY26": 3050000,
+        "FY27_Current": 3175000,
+        "FY27_Requested": 3375000,
+        "FY27_Recommended": 3260000
+      }
+    },
+    {
+      "description": "DEBT SERVICE - Bonds & Notes",
+      "columns": {
+        "FY26": 1850000,
         "FY27_Current": 1900000,
         "FY27_Requested": 1950000,
         "FY27_Recommended": 1925000
@@ -180,19 +249,73 @@
     {
       "description": "BENEFITS & INSURANCE",
       "columns": {
-        "FY26_Approved": 4200000,
+        "FY26": 4200000,
         "FY27_Current": 4350000,
         "FY27_Requested": 4550000,
         "FY27_Recommended": 4450000
       }
     },
     {
-      "description": "TOTAL BUDGET",
+      "description": "Total GENERAL FUND",
       "columns": {
-        "FY26_Approved": 47575100,
-        "FY27_Current": 48762500,
-        "FY27_Requested": 50974500,
-        "FY27_Recommended": 49467000
+        "FY26": 51462100,
+        "FY27_Current": 52742000,
+        "FY27_Requested": 55451500,
+        "FY27_Recommended": 54103250
+      }
+    },
+    {
+      "description": "ENTERPRISE FUNDS - Water Enterprise Fund",
+      "columns": {
+        "FY26": 2700000,
+        "FY27_Current": 2800000,
+        "FY27_Requested": 2950000,
+        "FY27_Recommended": 2875000
+      }
+    },
+    {
+      "description": "ENTERPRISE FUNDS - Sewer Enterprise Fund",
+      "columns": {
+        "FY26": 1950000,
+        "FY27_Current": 2050000,
+        "FY27_Requested": 2200000,
+        "FY27_Recommended": 2125000
+      }
+    },
+    {
+      "description": "ENTERPRISE FUNDS - Recreation Enterprise Fund",
+      "columns": {
+        "FY26": 1375906,
+        "FY27_Current": 1500000,
+        "FY27_Requested": 1700000,
+        "FY27_Recommended": 1600000
+      }
+    },
+    {
+      "description": "ENTERPRISE FUNDS - Brook School Arts Enterprise Fund",
+      "columns": {
+        "FY26": 685128,
+        "FY27_Current": 750000,
+        "FY27_Requested": 850000,
+        "FY27_Recommended": 800000
+      }
+    },
+    {
+      "description": "Total ENTERPRISE FUNDS",
+      "columns": {
+        "FY26": 6711034,
+        "FY27_Current": 7100000,
+        "FY27_Requested": 7700000,
+        "FY27_Recommended": 7400000
+      }
+    },
+    {
+      "description": "GRAND TOTAL BUDGET (All Funds)",
+      "columns": {
+        "FY26": 58173134,
+        "FY27_Current": 59842000,
+        "FY27_Requested": 63151500,
+        "FY27_Recommended": 61503250
       }
     }
   ]

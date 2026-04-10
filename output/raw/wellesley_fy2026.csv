@@ -1,0 +1,82 @@
+department,account_code,description,amount,fiscal_year,column_type,row_type,source_file,source_page
+Unknown,,Health Insurance,18.9,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,19.6,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,20.5,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,20.5,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,21.0,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,21.4,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,22.7,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Health Insurance,25.6,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,7.1,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,7.5,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,8.0,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,8.2,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,8.6,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,8.8,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,9.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Pension Contributions,9.3,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.4,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.4,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.4,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.4,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.45,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.45,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.2,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,OPEB Funding,3.1,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.29,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.28,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.24,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.24,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.24,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.7,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.74,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Workers Comp.,0.74,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.15,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Unemployment,0.1,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2019,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2020,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2021,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2022,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2023,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2024,actual,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.12,2025,budget,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Compensated Absences,0.13,2026,request,line_item,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),30.0,2019,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),31.0,2020,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),32.4,2021,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),32.6,2022,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),33.5,2023,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),34.6,2024,actual,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),35.9,2025,budget,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Total (million),38.9,2026,request,total,wellesley_fy2026_budget.pdf,19
+Unknown,,Free Cash (Beginning of Year),18175871.05,2021,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Free Cash (Beginning of Year),25830840.05,2022,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Free Cash (Beginning of Year),27138343.94,2023,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Free Cash (Beginning of Year),27250545.94,2024,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Free Cash (Beginning of Year),28171581.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Appropriated Free Cash,-4495134.0,2021,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Appropriated Free Cash,-10328076.11,2022,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Appropriated Free Cash,-18237662.0,2023,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Appropriated Free Cash,-14089936.0,2024,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Appropriated Free Cash,-11947068.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Net Free Cash generated,12150103.0,2021,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Net Free Cash generated,11635580.0,2022,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Net Free Cash generated,18349864.0,2023,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Net Free Cash generated,15010971.06,2024,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Net Free Cash generated,6000000.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,End of year,25830840.05,2021,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,End of year,27138343.94,2022,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,End of year,27250545.94,2023,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,End of year,28171581.0,2024,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,End of year,22224513.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Budgeted Operating Revenues,160695527.0,2021,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Budgeted Operating Revenues,165733774.0,2022,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Budgeted Operating Revenues,180567386.0,2023,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Budgeted Operating Revenues,187216182.0,2024,actual,line_item,wellesley_fy2026_budget.pdf,37
+Unknown,,Budgeted Operating Revenues,188563572.0,2025,budget,line_item,wellesley_fy2026_budget.pdf,37

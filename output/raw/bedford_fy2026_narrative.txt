@@ -1,0 +1,2971 @@
+=== Page 1 | Unknown ===
+TOWN OF BEDFORD
+Proposed Operating Budget
+Fiscal Year 2027
+July 1, 2026 to June 30, 2027
+Prepared by
+Matthew Hanson, Town Manager
+
+=== Page 2 | TABLE OF CONTENTS ===
+TABLE OF CONTENTS
+Award 4
+Introduction 5
+Financial Policies 7
+Demographics 11
+Budget Summary 16
+Boards & Committees Budget Summary 17
+FTE Chart 18
+Departments Summary 19
+General Government 20
+Select Board 21
+Select Board Financial Page 23
+Finance 26
+Finance Financials 27
+Board of Assessors 29
+Board of Assessors Financials 31
+Legal 33
+Information Technology 34
+Information Technology Financials 35
+Town Clerk 37
+Town Clerk Financials 39
+Elections and Registrations 41
+Elections and Registrations Financials 42
+Facilities Department 44
+Facilities Financials 46
+Town Center 48
+Insurance/Benefits 49
+Public Safety 51
+Police Department 52
+Police Department Financials 54
+Fire Department 56
+Fire Department Financials 58
+Building Department 60
+Building Department Financials 62
+Education 64
+Bedford Public School 65
+Bedford Public School Financials 66
+Vocational Education 68
+Vocational Education Financials 69
+Public Works 71
+Public Work 72
+Public Works Financials 74
+Public Works - Administration 76
+Public Works - Refuse 78
+Public Works - Grounds 79
+Public Works - Highway 80
+Public Works - Mechanical 81
+Public Works - Sewer 82
+
+=== Page 3 | Public Works - Water 83 ===
+Public Works - Water 83
+Snow and Ice 84
+Health & Human Services 85
+Board of Health 86
+Board of Health Financials 88
+Hazardous Waste 90
+Mosquito Control 91
+Bedford Local Transit 92
+Bedford Local Transit Financials 93
+Council on Aging 95
+Council on Aging Financials 97
+Youth and Family Services 99
+Youth and Family Services Financials 101
+Culture & Recreation 103
+Library 104
+Library Financials 106
+Recreation Commission 108
+Recreation Commission Financials 109
+Enterprise Funds 110
+Ambulance Enterprise Fund 111
+Ambulance Enterprise Fund Financials 113
+Capital Improvement One Year Plan 115
+Appendix 116
+Glossary 117
+
+=== Page 4 | GFOA Award ===
+Award
+GFOA Award
+FY2027 Proposed Operating Budget | Bedford Page 4
+
+=== Page 5 | Letter From Town Manager ===
+Introduction
+Letter From Town Manager
+TO: Select Board
+FROM: Matthew J. Hanson, Town Manager
+DATE: January, 2026
+SUBJECT: FY27 Select Board Budget Submission
+______________________________________________________________________________________________________________________
+At the start of the budget development process, the Finance Director, Assistant Town Manager, and I met with each
+department to discuss their requests, potential contingency items, and year-to-date historical spending. In
+preparation for the FY27 budget, departments were asked to focus on level-service requests and identify areas where
+efficiencies or reductions could be achieved. As in prior years, departments also provided measurable goals, priorities,
+and documentation supporting their budget requests as part of the Town’s continued effort to meet the standards of
+the Government Finance Officers Association (GFOA) budget award.
+Some departmental budgets include outside funding such as grants and donations which can fluctuate annually. Like
+the capital budgeting process, department heads were asked to provide extensive backup documentation and
+evaluate historical spending when submitting requests.
+Notable Changes
+As recommended by the Town Manager, the proposed FY27 Select Board discretionary operating budget is
+$25,927,734, representing a 2.4% increase over FY26. The recommended budget is $19,760 below the Finance
+Committee’s requested guideline of $25,947,494, which represents a 2.5% increase.
+Meeting the Finance Committee guideline was made possible through careful review of departmental requests,
+revenue optimization, and targeted expense reductions. Departments were asked to submit level-service budgets
+while also identifying opportunities for operational efficiencies. In several cases, this resulted in the elimination or
+reduction of approximately three FTE positions across general government departments, primarily through the
+reduction of part-time hours or unfilled positions.
+One of the most notable changes in the FY27 budget is the effort to address a longstanding structural deficit in the
+Police Department overtime account. The overtime budget is increased by $152,000, from $498,000 to $650,000,
+allowing the department to maintain minimum staffing levels while covering sick leave, vacation, and other vacancies
+such as retirement or parental leave.
+Several adjustments were also made to better align costs with services provided. These include shifting a portion of
+Fire Department administrative and staffing costs to the Ambulance Enterprise Fund to more accurately reflect the
+level of emergency medical service provided, as well as adjustments related to sustainability initiatives and facility
+management responsibilities.
+In addition, due to the Town’s strong pavement condition index, the Highway Department’s road resurfacing
+investment funded with free cash is reduced by $150,000 for FY27 while still maintaining strong roadway conditions.
+Contingency Requests
+In contrast to prior years, departments were primarily asked to submit level-service budgets for FY27 and be prepared
+to discuss potential reductions rather than proposing a large number of contingency requests.
+FY2027 Proposed Operating Budget | Bedford Page 5
+
+=== Page 6 | Introduction ===
+Introduction
+While some new funding requests were discussed during budget meetings, many were not advanced in order to
+remain within the Finance Committee guideline. Notable requests that remain unfunded include:
+Additional Fire Department Lieutenant (EMT)
+Council on Aging wheelchair-accessible vehicle
+Additional Police patrol officers
+Benefits funding for a grant-funded Bedford Local Transit driver
+These requests may be revisited in future budget cycles as financial conditions allow.
+FY27 Classification & Wage Schedule and Merit Article
+The proposed FY27 budget includes a 2.5% cost-of-living adjustment (COLA) for Salary Bylaw staff. Because the
+average increase in recently negotiated union contracts exceeds this amount, the budget also increases the merit pay
+reserve by $50,000. This will allow the Town Manager to provide targeted merit adjustments to non-union staff and
+help maintain alignment between union and non-union compensation levels.
+The Town does not use step systems or lanes in the Classification & Wage Schedule, so salary adjustments beyond the
+COLA are based on performance reviews and approval of the Town Manager. Maintaining flexibility in the merit
+account helps the Town remain competitive in recruiting and retaining qualified employees while recognizing strong
+performance.
+Closing
+The FY27 budget reflects the continued effort to balance fiscal discipline with the need to maintain high-quality
+municipal services. Rising costs for salaries, benefits, and operational expenses continue to place pressure on the
+Town’s budget, requiring thoughtful prioritization and ongoing evaluation of service delivery.
+This recommended budget prioritizes public safety staffing stability, responsible infrastructure investment, and
+continued operational efficiencies across departments. Through careful planning and collaboration with department
+heads, the Town has been able to address key operational needs while remaining within the Finance Committee’s
+guideline.
+Non-Discretionary Budgets
+For FY27, the proposed budget includes the following updates to the non-discretionary budget line items:
+Non-Discretionary Budgets$ change % change
+Insurance & Benefits 1,785,710 9.60%
+Debt (Principal/Interest) 274,195 2.42%
+Roads (150,000) -8.57%
+Refuse/Recycling 77,441 3.79%
+Utilities 0 0.00%
+Water Purchase (285,193) -8.49%
+MWRA Sewer 122,008 3.00%
+I would like to thank all Town employees and volunteer board members for their hard work in preparing this budget.
+FY2027 Proposed Operating Budget | Bedford Page 6
+
+=== Page 7 | Financial Policies ===
+Financial Policies
+Financial Policies
+Town of Bedford, Massachusetts
+Last Updated January 24, 2025
+Policy Purpose
+The Town of Bedford, Massachusetts through the Selectmen, as well as the School Committee and the Finance
+Committee, is responsible for the accounting of all public funds and managing Town finances wisely. This
+responsibility includes the establishment of appropriate levels of reserves and planning for the adequate funding of
+the Town's infrastructure needs and the services desired by the public. The following policies establish guidelines for
+the fiscal, economic and managerial stability of the Town.
+Policy Goals
+Financial policies are statements of the guidelines and goals that will influence and guide the financial management
+practices of the Town and are a cornerstone of sound financial management. The Town's policy goals are intended to:
+promote long term financial stability by establishing clear and consistent guidelines;
+maintain the highest credit and bond ratings possible;
+provide a comprehensive overview of Town finances;
+provide a framework for measuring the fiscal impact of government services against established benchmarks
+and indicators; and be reviewed periodically to incorporate new developments.
+Long Term Financial Planning
+The Town has adopted policies that strongly support a financial planning and modeling process which assesses, on a
+multi-year basis, the long-term financial implications of current and proposed operating and capital budgets, budget
+policies and long term revenue forecasts.
+The long term financial plan increases both policymaker and management awareness of existing or potential
+problems and will highlight the need for corrective action.
+The Town will develop and regularly update a multi-year financial forecasting model, including projections of all
+revenues, expenditures for operating costs and capital improvements. As part of the forecasting and review process,
+the governing boards and management will annually reassess the model's baseline assumptions. Elements of this
+assessment will include:
+a review of each major revenue source with respect to expected trends including potential sources of onetime
+revenues;
+the status of Payments in Lieu of Taxes (PILOT) agreements and their impact on the Town's finances;
+the identification of significant expenditure categories including analysis and evaluation of any unfunded future
+liabilities;
+an assessment of the Town's debt position and its projected borrowing capacity;
+a review of the long term capital plan and the early identification of large scale projects;\
+a review of trends in the value of the Town's property and other socio-economic indicators; and
+an historical overview of fiscal trends.
+Revenue and Expenditure Assumptions
+Extraordinary costs shall be quantified and disclosed as soon as they can be identified in order to allow for budgetary
+adjustment.
+A balanced budget is legally required and is a basic control. During the course of developing the annual budget, the
+multi-year financial forecasting model of anticipated revenues and expenditures will be used to make projections over
+FY2027 Proposed Operating Budget | Bedford Page 7
+
+=== Page 8 | Financial Policies ===
+Financial Policies
+the long term.
+Revenue Policies
+Revenue sources have particular characteristics in terms of stability, growth, sensitivity to inflation or business cycle
+effects and impact on tax and rate payers. A diversity of revenue sources improves Bedford's ability to handle
+fluctuations in revenues and helps to better distribute the cost of providing services. Within statutory limits, the policy
+is to diversify revenue sources in order to minimize the impact in fluctuations in individual sources.
+Revenue sources will be analyzed on a regular basis to ensure maximum statutory collections, and maximum
+utilization of Federal and State funding. For example, water and sewer revenues are reviewed annually and the
+resultant rates, set by the Selectmen, reflect the optimum cost recovery for the provision of these services, including
+the costs for relevant capital projects.
+The first consideration for onetime or unexpected revenue will be to maintain desirable balances in such reserves as
+the Stabilization Fund and post-employment benefits (i.e. pension, OPEB, sick leave buyback and vacation payout).
+Capital Improvement Program
+Bedford shall maintain a six-year Capital Improvement Program developed and annually updated by the Capital
+Expenditures Committee under the authority of the Town Charter. This plan is presented to the Selectmen for their
+recommendation and includes expenditures for new construction, improvements or renovations of existing Town
+buildings and infrastructure and for major purchases of equipment.
+The Town shall fund capital projects, whenever appropriate, with available funds such as free cash, water and sewer
+revenue, Proposition 2 ½ debt exclusions and Community Preservation funds.
+Capital projects will be prioritized with strong consideration to protecting existing capital investments in infrastructure
+and maintaining overall standards of safety, functionality and lowest life-cycle cost.
+Capital projects are defined in the Town By-Laws under article 15.4
+Reserve Policy
+The Town will maintain prudent levels of financial reserves to
+ensure continuity of services at desired levels;
+mitigate against unforeseen fiscal events;
+mitigate against diminished revenues during economic downturns; and
+allow flexibility to deal with future financial liabilities, such as post-employment benefits.
+The Town maintains reserves to stabilize its financial operations. These reserve funds may be utilized when necessary
+for operational reasons and as a source of funds to address future liabilities. Periodic evaluations and reviews of future
+liabilities are conducted, in conjunction with professional actuarial studies, to adjust targeted appropriation levels to
+accommodate the balance that must be struck between funding current operations and mitigating future liabilities.
+Reserves shall be replenished as soon as practical to achieve the goals indicated below.
+Free Cash
+An ample Free Cash balance provides the Town with financial flexibility and stability for the future. The intent of
+the Free Cash Policy is to avoid large swings in the amount of Free Cash used and available for the next year.
+The policy limits the sum of all usages of Free Cash to approximately 50% of the most recent certified Free Cash
+amount as determined by the Commonwealth. The policy requires the remaining balance for Free Cash, after
+appropriation by Town Meeting, to be no less than one percent (1%) of the annual Operating Budget.
+FY2027 Proposed Operating Budget | Bedford Page 8
+
+=== Page 9 | Financial Policies ===
+Financial Policies
+Stabilization Fund
+The Stabilization Fund may be utilized to protect against a reduction of service levels, to manage temporary
+revenue shortfalls and unpredicted one-time expenditures and, when practical, to avoid debt and borrowing
+costs and extraordinary increases in the tax levy.
+The desirable funding level for the Stabilization Fund is between two and six percent (2%
+- 6%) of the annual Operating Budget.
+Reserve Fund
+The Town, through its Finance Committee, shall maintain a prudent level in its Reserve Fund, to provide for
+extraordinary and unforeseen expenditures.
+The desirable annual appropriation to the Reserve Fund is half a percent (0.5%) of the annual operating budget.
+Pension Trust Fund
+Withdrawal from this fund is used to offset a portion of the annual pension assessment.
+Other Post Employment Benefits (OPEB)
+This fund is used to offset health and life insurance costs for current and future retirees.
+Starting in FY2025, the Town shall appropriate 5% of the Certified Free Cash into the OPEB Trust Fund. The
+OPEB Trust Fund contributions will be re-evaluated in five years, allowing for two additional actuarial valuations
+to be completed during this period, unless it is prudent for the Town to do this earlier.
+OPEB Background/History
+The Town established an Other Post-Employment Benefits Liability Trust Fund ("OPEB Trust Fund") in 2013 and
+later established an OPEB Trust Agreement in 2017 for the purpose of providing an irrevocable, dedicated trust
+fund as a vehicle to accept contributions from the Town to fund current and future retiree's health and life
+insurance benefits. The custodian of the OPEB Trust Fund is the Town's Finance Director, Treasurer/Collector.
+The Town utilizes the Massachusetts Pension Reserve Investment Trust Fund ("PRIT") to invest funds that are
+designated for addressing the Town's OPEB liability. Transfers into the OPEB Trust Fund require a simple
+majority vote of Town Meeting, and withdrawals from this Fund require a two-thirds vote of Town Meeting.
+An actuarial valuation of the OPEB obligations in keeping with the national standards of practice of the
+actuarial profession and in accordance with Governmental Accounting Standards Board Statement 74 and 75,
+(GASB-74/75) is performed every two years. Town Meeting as part of the insurance/benefits budget approves the
+engagement of an actuarial firm, and the selection of the actuarial firm is made by Town Manager and Finance
+Director, Treasurer/Collector.
+According to the Middlesex Retirement Board, the town’s unfunded pension liability will be fully funded by
+2036. It is the town’s intention that in 2037, or approximately thereabouts, the town will increase funding to the
+town’s OPEB trust fund with the amount previously allocated to fund the pension liability. This will continue
+until the OPEB liability is fully funded.
+Sick Leave Buyback Reserve
+The Town will monitor this account annually to ensure that there are adequate reserves, as advised by the
+Finance Director, to pay Sick Leave Buyback, when needed.
+Unfunded Liabilities
+FY2027 Proposed Operating Budget | Bedford Page 9
+
+=== Page 10 | Financial Policies ===
+Financial Policies
+It is Town policy to recognize, define and fund the Town's pension, health and sick leave responsibilities. The
+Governmental Accounting Standards Board (GASB) requires full disclosure on the Town's financial statements for
+other post-employment benefits (OPEB). The Town shall be proactive in ensuring the timely preparation of actuarial
+studies to determine the magnitude of these liabilities and to develop a funding strategy for these obligations.
+Debt Management
+Parameters for issuing and managing debt include:
+limit debt to funding of significant capital projects and purchases of large capital assets with a useful life of 5
+years or more;
+consider Proposition 2 ½ debt exclusions for large capital projects, generally those costing over 1 million dollars
+and bonded for 10 years or more;
+support debt whenever possible with relevant sources of revenue, such as water and sewer revenue and
+Enterprise user fees, and with alternative funding;
+limit the term of the debt such that it does not exceed the useful life of the project;
+amortize debt as rapidly as appropriate; and
+limit annual general fund debt service to no more than 10% of the Town's annual budget.
+The goal of the Town is that all standards related to debt management, be they internal, professional or rating agency
+related, will be met or exceeded in order to maintain the Town's AAA bond rating.
+Investment Policy
+The Town's General Fund, Special Revenue and Trust Funds are invested in accordance with all Massachusetts General
+Laws using the List of Legal Investments and taking into consideration safety, liquidity and yield.
+Internal Controls and Fraud Prevention
+The Town is committed to ensuring effective stewardship of public funds and all other assets and resources of the
+Town. It is the policy of the Town, as stated in a separate Anti-Fraud Policy and Response Program document, to
+prevent and deter all forms of fraud that could threaten the security of assets. Accordingly, the Town is committed to
+an internal control strategy for the prevention, detection, investigation and corrective action relative to fraud or misuse
+of assets of the Town.
+FY2027 Proposed Operating Budget | Bedford Page 10
+
+=== Page 11 | Demographics ===
+Demographics
+Demographics
+Population
+TOTAL POPULATION
+2.68% GROWTH RANK
+14,727
+24 351
+vs. 2023 out of Municipalities in Massachusetts
+16k
+15k
+14k
+13k
+12k
+11k
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+* Data Source: U.S. Census Bureau American Community Survey 5-year Data and the 2020, 2010, 2000, and 1990 Decennial
+Censuses
+DAYTIME POPULATION Daytime population represents the effect of persons coming into or
+26,083
+leaving a community for work, entertainment, shopping, etc. during the
+typical workday. An increased daytime population puts greater demand
+on host community services which directly impacts operational costs.
+* Data Source: American Community Survey 5-year estimates
+FY2027 Proposed Operating Budget | Bedford Page 11
+
+=== Page 12 | Demographics ===
+Demographics
+POPULATION BY AGE GROUP
+3K
+22 2KKK
+22 2KKK
+2K
+22 2KKK
+22 2KKK
+2K
+11 1KKK
+11 1KKK
+99 9444444
+1K 88 8666111
+77 7999222
+77 7111222 77 7111666
+66 6333111
+44 4888333
+500
+0
+<5 5-9 10-14 15-19 20-2425-3435-4445-5455-5960-6465-7475-84 >85
+Aging affects the needs and lifestyle choices of residents. Municipalities must adjust and plan services accordingly.
+* Data Source: American Community Survey 5-year estimates
+FY2027 Proposed Operating Budget | Bedford Page 12
+
+=== Page 13 | Demographics ===
+Demographics
+Household
+TOTAL HOUSEHOLDS Municipalities must consider the dynamics of household types to plan
+5,869
+for and provide services effectively. Household type also has a general
+correlation to income levels which affect the municipal tax base.
+Family Households Married Couples
+62% 60%
+19% 27%
+higher than state average higher than state average
+Singles Senior Living Alone
+26% 11%
+-10% -16%
+lower than state average lower than state average
+* Data Source: American Community Survey 5-year estimates
+FY2027 Proposed Operating Budget | Bedford Page 13
+
+=== Page 14 | Economic ===
+Demographics
+Economic
+Household income is a key data point in evaluating a community’s wealth and spending power. Pay levels and earnings
+typically vary by geographic regions and should be looked at in context of the overall cost of living.
+Over $200,000
+HOUSEHOLD INCOME
+Above $200,000
+100.23%
+45%
+higher than state average
+Median income
+$150,000 to $200,000 65.83%
+$172,400
+higher than state average
+$125,000 to $150,000
+Below $25,000
+$100,000 to $125,000 5% -62.57%
+lower than state average
+$75,000 to $100,000
+$50,000 to $75,000
+$25,000 to $50,000
+Below $25,000
+* Data Source: American Community Survey 5-year estimates
+FY2027 Proposed Operating Budget | Bedford Page 14
+
+=== Page 15 | Demographics ===
+Demographics
+Housing
+2024 MEDIAN HOME VALUE HOME OWNERS VS
+$898,500 RENTERS
+Bedford State Avg.
+1M
+900K
+800K
+700K
+31%
+600K
+Rent 38%
+500K
+Rent
+400K
+2 0 0
+9
+2 01
+0
+2
+011
+2 01
+2
+2 01
+3
+2 01
+4
+2 01
+5
+2 01
+6
+2 01
+7
+2 01
+8
+2 01
+9
+2 0 2
+0
+2 0
+21
+2 0 2
+2
+2 0 2
+3
+2 0 2
+4
+* Data Source: 2024 US Census Bureau, American Community Survey. Home value data
+includes all types of owner-occupied housing.
+HOME VALUE DISTRIBUTION
+> $1,000,000 11 1KKK
+$750,000 to $999,999 11 1KKK
+$500,000 to $749,999 888666777
+$400,000 to $499,999 55 5333
+$300,000 to $399,999 55 5111
+$250,000 to $299,999 22 2444
+$200,000 to $249,999 66 6555
+$150,000 to $199,999 99 9000
+69% 63%
+$100,000 to $149,999 11 1777
+Own Own
+$50,000 to $99,999 000
+< $49,999 77 7555 * Data Source: 2024 US Census
+Bureau, American Community
+0 400 800 1K
+Survey. Home value data
+* Data Source: 2024 US Census Bureau, American Community Survey. Home value data includes all types of owner-
+includes all types of owner-occupied housing. occupied housing.
+FY2027 Proposed Operating Budget | Bedford Page 15
+
+=== Page 16 | Budget Summary ===
+Budget Summary
+Budget Summary
+Expenditures by Department
+Expenditures by General Government Department
+FY27 Dept FY27 ATM
+Category FY24 Budget FY25 Budget FY26 Budget FY27 TM Rec FY27 SB Rec FY27 FC Rec
+Rec Adopt
+SELECT BOARD 1,051,520 1,111,396 1,405,290 1,434,811 1,464,811 1,464,811 1,464,811 1,464,811
+FINANCE 1,595,525 833,417 945,563 1,077,315 1,077,315 1,077,315 1,077,315 1,077,315
+BOARD OF ASSESSORS 298,612 294,826 327,137 350,434 350,384 350,384 350,384 350,384
+LEGAL SERVICES 200,300 200,300 200,300 200,300 200,300 200,300 200,300 200,300
+INFORMATION
+- 1,144,129 1,221,846 1,227,000 1,227,000 1,227,000 1,227,000 1,227,000
+TECHNOLOGY
+TOWN CLERK 282,351 302,483 347,615 374,926 338,702 338,702 338,702 338,702
+ELECTIONS AND
+73,450 77,000 29,225 54,675 54,675 54,675 54,675 54,675
+REGISTRATIONS
+FACILITIES DEPARTMENT 3,473,616 3,506,241 3,723,014 3,894,826 3,885,061 3,885,061 3,885,061 3,885,061
+POLICE DEPARTMENT 4,262,565 4,444,061 5,471,614 5,587,665 5,587,665 5,587,665 5,744,760 5,744,760
+FIRE DEPARTMENT 3,535,468 3,714,611 3,724,680 3,943,675 3,789,301 3,789,301 3,789,301 3,789,301
+TOWN CENTER 120,807 130,621 118,807 - - - - -
+CODE ENFORCEMENT 650,643 674,882 733,015 777,293 777,293 777,293 778,543 778,543
+VOCATIONAL EDUCATION 1,059,598 1,118,000 1,249,018 1,249,018 1,249,018 1,249,018 1,625,701 1,625,701
+PUBLIC WORKS TOTAL 16,391,879 17,207,013 17,330,224 17,285,140 17,255,767 17,255,767 17,255,768 17,255,768
+HAZARDOUS WASTE 27,438 27,438 28,261 28,968 28,968 28,968 - -
+MOSQUITO CONTROL 42,042 43,303 44,602 44,602 44,602 44,602 - -
+BEDFORD LOCAL TRANSIT 66,020 68,289 72,335 124,711 73,685 73,685 73,685 73,685
+COUNCIL ON AGING 269,509 281,591 314,442 329,433 303,815 303,815 303,815 329,423
+YOUTH AND FAMILY
+563,832 585,753 641,186 661,167 661,167 661,167 661,167 661,167
+SERVICES
+RECREATION COMMISSION 88,000 105,601 57,108 60,456 60,456 60,456 60,456 60,456
+HISTORICAL PRESERVATION 1,333 1,333 1,250 1,250 1,250 1,250 - -
+DEBT SERVICE 11,119,861 9,625,681 11,325,805 11,600,000 11,600,000 11,600,000 11,600,000 11,600,000
+INSURANCE/BENEFITS 14,983,209 16,699,243 18,631,741 20,404,951 20,404,951 20,404,951 20,417,451 20,417,451
+Total Expenditures 60,157,578 62,197,212 67,944,078 70,712,616 70,436,186 70,436,186 70,908,895 70,934,503
+Hazardous Waste and Mosquito Control have been moved to Board of Health.
+Historical Preservation has been moved to Code Enforcement.
+FY2027 Proposed Operating Budget | Bedford Page 16
+
+=== Page 18 | FTE Chart ===
+FTE Chart
+FTE Chart
+PERSONNEL SUMMARY FY 2023 FY 2024 FY 2025 FY 2026 FY 2027
+Actual Actual Actual Actual Recom
+SELECT BOARD DEPARTMENTS
+122 SELECT BOARD (TOWN MANAGER) 7.00 8.00 8.00 8.00 7.00
+133 FINANCE 9.50 9.50 8.00 8.00 8.00
+141 ASSESSORS 3.50 3.50 3.00 3.00 3.00
+155 INFORMATION TECHNOLOGY 0.00 0.00 3.00 3.00 3.00
+161 TOWN CLERK 3.85 3.85 3.90 3.90 3.50
+192 FACILITIES 6.75 6.75 7.25 7.25 7.30
+210 POLICE 39.35 39.35 39.35 42.35 42.35
+220 FIRE 28.00 28.00 28.00 27.50 26.00
+231 AMBULANCE ENTERPRISE 8.00 8.50 8.50 9.00 10.00
+236 TOWN CENTER 1.00 1.00 1.00 1.30 1.30
+240 CODE ENFORCEMENT 7.35 7.85 7.85 7.85 7.85
+400 PUBLIC WORKS 44.80 44.80 45.58 45.58 44.93
+540 BEDFORD LOCAL TRANSIT 1.10 1.10 1.10 1.10 1.10
+541 COUNCIL ON AGING 3.65 3.65 3.65 3.65 3.34
+542 YOUTH & FAMILY SERVICES 2.90 2.90 2.90 3.00 3.00
+630 RECREATION 1.00 1.00 1.00 0.50 0.50
+SUB TOTAL 167.75 169.75 172.08 174.98 172.17
+OTHER DEPARTMENTS
+175 PLANNING BOARD 3.00 3.00 3.00 3.00 3.00
+300 SCHOOLS 457.60 488.40 492.10 483.33 468.08
+500 BOARD OF HEALTH 4.00 4.00 4.00 4.00 4.00
+610 PUBLIC LIBRARY 17.30 17.30 17.30 17.30 17.83
+SUB TOTAL 481.90 512.70 516.40 507.63 492.91
+GROSS TOTAL 649.65 682.45 688.48 682.61 665.08
+FY2027 Proposed Operating Budget | Bedford Page 18
+
+=== Page 19 | Departments Summary ===
+Departments Summary
+THIS PAGE INTENTIONALLY LEFT BLANK
+FY2027 Proposed Operating Budget | Bedford Page 19
+
+=== Page 20 | General Government ===
+General Government
+General Government
+The following pages comprise the General Government section.
+FY2027 Proposed Operating Budget | Bedford Page 20
+
+=== Page 21 | Select BoardMission Statement ===
+Select Board
+Select Board
+Mission Statement
+The Select Board is the chief executive body of the town government. They
+set policy and execute all publicly advertised contracts for the departments
+under them. Other responsibilities include the appointment of persons to
+serve on various non-elected Town boards, commissions and committees,
+and the establishment of fees and charges under their jurisdiction. The five
+Select Board members are elected at-large on a non-partisan basis for
+staggered three-year terms. The Select Board selects a chair and a clerk from
+their membership. The Select Board currently meets Monday evenings as
+needed at Town Hall. The Select Board appoints a Town Manager on the
+basis of education, training and previous experience in public administration
+who serves at the pleasure of the Select Board. Major responsibilities of the
+Town Manager include policy recommendation, personnel administration,
+supervision of Select Board departments, budget and Town Meeting Warrant
+report preparation. The Town Manager appoints, with the confirmation of the
+Select Board, all department heads under the Select Board. Personnel in the
+Manager's office provide staff assistance to the Select Board.
+Significant Changes
+Autumn Ledgister-Cummins was hired to replace Kerri Ruffo as the department's Administrative Assistant.
+Elizabeth Gouveia was hired to replace Stephanie Oliver as the department's Human Resources Director.
+FY 26 Accomplishments
+Fire Station Project Oversight: Provided overall leadership on budgeting, procurement, and scheduling;
+construction was managed with the assistance of DPW, Facilities, and the Town's Owners Project Manager.
+Modified Work Week Pilot Program: Proposed, designed, and oversaw the implementation of the four-day work
+week schedule as a strategic initiative to improve recruitment, retention, and work-life balance, and then worked
+with the Select Board on extending the trial.
+Strategic Grant Coordination: Led and coordinated major grant efforts, aligning departmental needs with
+funding opportunities and Board approvals.
+Charter & Bylaw Review Support: Provided staff coordination and administrative support to advance committee
+recommendations to the Select Board.
+Pedestrian Safety Initiatives: Worked with the Police Department and DPW on coordinated messaging for a
+pedestrian and vehicle education campaign, and the design and construction of traffic safety improvements.
+Electronic Warrant Distribution: Developed bylaw change and policy development for sustainable electronic
+warrant distribution, keeping a hard-copy option upon request.
+FY2027 Proposed Operating Budget | Bedford Page 21
+
+=== Page 22 | FY 27 Department Goals ===
+Select Board
+FY 27 Department Goals
+Explore future uses of 55 The Great Road and Old Town Hall.
+Review options and recommendations for the future of PEG (Bedford TV) Access services, including alternate
+funding sources.
+Continue discussions with TAC and Staff regarding Roadway Safety Improvements.
+Actively support the Ad Hoc Willson Park Committee in the planning and redesign of Willson Park.
+Continue to explore Community Investments and Engagement activities such as the feasibility of electronic
+voting clickers for Town Meeting and additional Board and Committee training sessions.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Town Manager 1.00 1.00 1.00 1.00
+Executive Asst 1.00 1.00 1.00 1.00
+Asst. Town Mgr. 1.00 1.00 1.00 1.00
+HR Director 1.00 1.00 1.00 1.00
+Housing & Econ. Dev. Director 1.00 1.00 1.00 1.00
+Special Asst. TM 1.00 1.00 1.00 1.00
+Energy Manager 1.00 1.00 1.00 -
+HR/Benefits Coord. 1.00 1.00 1.00 1.00
+TOTAL 8.00 8.00 8.00 7.00
+FY2027 Proposed Operating Budget | Bedford Page 22
+
+=== Page 23 | Select Board Financial Page ===
+Select Board Financial Page
+Select Board Financial Page
+Expenditure Summary
+Historical Expenditures Across Department
+$1,750K
+$1,500K
+$1,250K
+$1,000K
+$750K
+$500K
+$250K
+0
+FY2024 FY2025 FY2026 FY2027
+Expenditures Actual Expenditures Budgeted
+Expenditures by Object
+The Fiscal Year Expenditures by Department for the Select Board total $1 million, representing 100% of the
+expenditures.
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+Budget (% Change)
+SELECT BOARD
+SALARIES REGULAR 869,096 975,563 892,384 -8.53%
+SALARIES REG - CHAIR BOS 2,400 2,400 2,400 0.00%
+SALARIES REGULAR -- CLERK BOS 2,000 2,000 2,000 0.00%
+SALARIES REGULAR - OTHER BOS 4,800 4,800 4,800 0.00%
+PROFESSIONAL SERVICES 50,600 50,000 110,000 120.00%
+ADVERTISING 5,300 5,600 5,600 0.00%
+TOWN REPORT 16,000 16,000 16,000 0.00%
+EMPLOYEE TRAINING SUPPLY 3,000 3,000 3,000 0.00%
+OUT OF STATE TRAVEL 4,000 4,000 4,000 0.00%
+DUES ONLY 10,000 10,000 12,000 20.00%
+CONF, SEMINARS, MEETING 7,000 7,000 7,500 7.14%
+EXPENSES/RESERVES 110,000 285,000 240,000 -15.79%
+CULTURAL COUNCIL PROGRAM 6,000 6,000 4,000 -33.33%
+MERIT PAY - - 125,000 -
+FY2027 Proposed Operating Budget | Bedford Page 23
+
+=== Page 24 | Select Board Financial Page ===
+Select Board Financial Page
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+Budget (% Change)
+MISC-OTHER CHARGES 1,800 1,800 4,000 122.22%
+PUBLIC CEREMONIES 9,500 9,500 9,500 0.00%
+MAGIC DUES AND HATS 7,900 7,925 7,925 0.00%
+PATRIOTIC HOLIDAY COMMITTEE 600 600 600 0.00%
+CITIZENS OF THE YEAR PROGRAM 500 500 500 0.00%
+POLE CAPPING DAY 900 900 900 0.00%
+CULTURAL DISTRICT ACTIVITIES - 12,702 12,702 0.00%
+Total SELECT BOARD 1,111,396 1,405,290 1,464,811 4.24%
+Total Expenditures 1,111,396 1,405,290 1,464,811 4.24%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$2,000K
+$$$111MMM
+$$$111MMM
+$1,500K
+$$$111MMM $$$111MMM
+$1,000K
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL CONTRACTED SERVICES OTHER EXPENSE
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+1.46M
+PROFESSIONAL SALARY $901,584 61.55%
+OTHER EXPENSE $428,627 29.26%
+CONTRACTED SERVICES $131,600 8.98%
+SUPPLIES & MATERIAL $3,000 0.20%
+For the fiscal year, the "Fiscal Year Expenditures by Expense Object Category" are as follows: PROFESSIONAL SALARY
+accounts for $858,527, representing 83.8% of the total expenditures. CONTRACTED SERVICES amount to $117,407,
+FY2027 Proposed Operating Budget | Bedford Page 24
+
+=== Page 25 | Select Board Financial Page ===
+Select Board Financial Page
+which is 11.46%. OTHER EXPENSE totals $45,586, making up 4.45%. Lastly, SUPPLIES & MATERIAL is $3,000, comprising
+0.29% of the expenditures.
+Expenditures by Expense Object Category
+FY24 FY25 FY26 FY27 Dept FY27 TM FY27 SB FY27 FC FY27 ATM
+Category
+Budget Budget Budget Rec Rec Rec Rec Adopt
+PROFESSIONAL SALARY 858,527 878,296 984,763 901,584 901,584 901,584 901,584 901,584
+CONTRACTED SERVICES 79,407 71,900 71,600 101,600 131,600 131,600 131,600 131,600
+SUPPLIES & MATERIAL 3,000 3,000 3,000 3,000 3,000 3,000 3,000 3,000
+OTHER EXPENSE 110,586 158,200 345,927 428,627 428,627 428,627 428,627 428,627
+Total Expenditures 1,051,520 1,111,396 1,405,290 1,434,811 1,464,811 1,464,811 1,464,811 1,464,811
+FY2027 Proposed Operating Budget | Bedford Page 25
+
+=== Page 26 | FinanceMission StatementDescription ===
+Finance
+Finance
+Mission Statement
+In a spirit of excellence, integrity, and dedication, the Finance Department is
+committed to providing timely, accurate, clear and complete information and
+support to other Town departments, citizens, and the community at large.
+Description
+The Finance Director/Town Accountant is responsible for the management and
+supervision of the Finance Department (Accounting and Treasurer/Collector’s
+Office). In addition, the Finance Director is responsible for the financial
+management, multi-year financial reporting and budgeting of the Town, as well
+as oversight of insurance and benefits, debt, supply purchasing, mail, tax billing and collections, utility and motor
+vehicle collection, payroll, parking clerk, investment, and cash management, accounts payable, overseeing
+departmental appropriations, fixed assets, preparation of annual financial and audit reports.
+Significant Changes
+Finance Director Paul Sagarino resigned in FY26, and incoming Finance Director Al Rego will begin with the
+Town February 2026.
+FY 26 Accomplishments
+All receivables were fully converted to MUNIS by August 2025 from the previous financial software system.
+The Town's FY25 books were closed by September 1, 2025.
+FY 27 Department Goals
+Apply for the Annual Comprehensive Financial Report (ACFR) Award by December 2026.
+Close the Town's FY26 books by September 1, 2026.
+Identify and mitigate financial risks related to economic cycles, inflation, and state/federal policy changes.
+Support punctual, annual audits with minimal findings.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Finance Director, T/A 1.00 1.00 1.00 1.00
+Treasurer/Collector 1.00 1.00 1.00 1.00
+Admin. Asst. I 2.00 2.00 2.00 2.00
+Asst. Town Accountant 1.00 1.00 1.00 1.00
+Asst. Treas/Collector 0.50 1.00 1.00 1.00
+Finance Assistant 1.00 1.00 1.00 1.00
+Payroll Administrator - 1.00 1.00 1.00
+TOTAL 9.50 8.00 8.00 8.00
+FY2027 Proposed Operating Budget | Bedford Page 26
+
+=== Page 27 | Finance FinancialsExpenditures by Department ===
+Finance Financials
+Finance Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+FINANCE 833,417 945,563 1,077,315 13.93%
+Total Expenditures 833,417 945,563 1,077,315 13.93%
+FY 2027 Budget includes the amount of $99,000 for Financial Audit and Required Reporting, which is to be voted on
+at Annual Town Meeting. If the article is approved at Annual Town Meeting, this amount will be moved to the
+appropriate line item.
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$2,000K
+$$$222MMM
+$1,500K
+$$ $111MMM
+$1,000K $$ $888888999KKK $$ $999444666KKK
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL OTHER EXPENSE CONTRACTED SERVICES
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+1.08M
+PROFESSIONAL SALARY $789,315 73.27%
+CONTRACTED SERVICES $251,000 23.30%
+OTHER EXPENSE $23,500 2.18%
+SUPPLIES & MATERIAL $13,500 1.25%
+FY2027 Proposed Operating Budget | Bedford Page 27
+
+=== Page 29 | Board of AssessorsMission Statement ===
+Board of Assessors
+Board of Assessors
+Mission Statement
+The Board of Assessors and the Assessing Department are charged with valuing all real and personal property in the
+Town of Bedford fairly and equitably in accordance with applicable Massachusetts General Laws, and with providing
+quality service to the public and operating departments while also ensuring excellent financial management and
+maximum operational efficiencies.
+Description
+By utilizing accepted mass appraisal techniques, the Board of Assessors ensures that all real and personal property
+within the Town is assessed at its full and fair cash value. This results in each property owner assuming a fair share of
+the property tax, the largest single source of revenue for the Town. The Assessors Department performs all the
+administrative functions necessary for the annual approval of the tax rates by the Massachusetts Department of
+Revenue (DOR). In addition, the Assessors Department also administers the property tax exemption program, motor
+vehicle excise tax abatement process, and all appeals of real and personal property tax. The Assessors Department is
+responsible for the maintenance of data regarding the ownership, legal status, and descriptive land and building
+information for all property within the Town and serves as the clearinghouse for such information for the general
+public and other Town departments. The Board of Assessors is made up of three members elected to staggered
+three-year terms.
+Significant Changes
+Changed how growth is collected and reported (cyclical program now included and also new reporting method).
+Added an additional software program, CoStar, to assist with calculating the value of commercial properties.
+FY 26 Accomplishments
+Successfully implemented valuation process with newly selected vendor, saving the Town approximately
+$10,000.
+Values and Growth were certified on time, and in compliance with all state requirements to set the tax rate.
+Started using the ‘Frequently Asked Questions’ form to the Assessor website.
+Incorporated a new senior exemption known as the 41C 1/2 exemption.
+Continued to educate the public on the valuation process as well as conduct annual public education seminars
+on personal exemptions for real estate taxes.
+Continued developing web-based interactions between Assessors to increase efficiencies
+Played significant role in new program to allow contributions from, and distribution to, low income and veteran
+residents.
+FY2027 Proposed Operating Budget | Bedford Page 29
+
+=== Page 30 | FY 27 Department Goals ===
+Board of Assessors
+FY 27 Department Goals
+Continue to accurately assess all real and personal property to state standards and provide timely certification of
+values and information needed to set tax rate on time.
+Continue to build up the overlay account balance.
+Through public outreach, make the assessment and tax rate process more easily understood.
+Convert more of the routine processes to web-based interactions where feasible and useful to the public.
+Provide increased support for tax relief programs, and look for new ways to aid seniors and veterans experiencing
+increased tax bills.
+Provide staff with opportunities to grow their skill sets through training and seminars.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Assessing Director 1.00 1.00 1.00 1.00
+Admin. Asst. I 1.50 1.00 1.00 1.00
+Assistant Assessor 1.00 1.00 1.00 1.00
+TOTAL 3.50 3.00 3.00 3.00
+FY2027 Proposed Operating Budget | Bedford Page 30
+
+=== Page 31 | Board of Assessors FinancialsExpenditures by Department ===
+Board of Assessors Financials
+Board of Assessors Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+BOARD OF ASSESSORS 294,826 327,137 350,384 7.11%
+Total Expenditures 294,826 327,137 350,384 7.11%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$400K
+$$ $333555000KKK
+$$ $333222777KKK
+$$ $222999999KKK $$ $333000111KKK
+$300K
+$200K
+$100K
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL OTHER EXPENSE CONTRACTED SERVICES
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+350K
+PROFESSIONAL SALARY $268,934 76.75%
+CONTRACTED SERVICES $73,650 21.02%
+OTHER EXPENSE $4,300 1.23%
+SUPPLIES & MATERIAL $3,500 1.00%
+FY2027 Proposed Operating Budget | Bedford Page 31
+
+=== Page 33 | Legal ServicesDescription ===
+Legal
+Legal Services
+Description
+These funds provide for the legal services of both Town Counsel and various Special Counsel. The Town Counsel is the
+legal advisor to the Select Board, Town Manager and all departments, boards and commissions of the Town
+government. Services of the Town Counsel are coordinated through the Town Manager. The Town Counsel provides
+legal assistance for problems or questions which may arise. He or she represents the Town in general litigation
+matters, reviews or prepares proposed charter amendments, bylaw amendments, and warrant articles for annual and
+special Town Meetings, and drafts required legal documents. Funds from this account also provide for labor counsel
+services. Special Counsels are appointed by the Select Board when the legal matter requires specialized expertise in a
+particular legal field. All services are rendered on a fee basis.
+Expenditures by Expense Object Category
+FY24 FY25 FY26 FY27 Dept FY27 TM FY27 SB FY27 FC FY27 ATM
+Category
+Budget Budget Budget Rec Rec Rec Rec Adopt
+CONTRACTED SERVICES 200,000 200,000 200,000 200,000 200,000 200,000 200,000 200,000
+OTHER EXPENSE 300 300 300 300 300 300 300 300
+Total Expenditures 200,300 200,300 200,300 200,300 200,300 200,300 200,300 200,300
+FY2027 Proposed Operating Budget | Bedford Page 33
+
+=== Page 34 | Information TechnologyMission Statement ===
+Information Technology
+Information Technology
+Mission Statement
+The Information Technology (IT) Department is the Town’s central technology provider whose mission is to provide
+systems, technologies, and services that develop and support Town personnel with information relative to their
+operations and respective missions, support day-to-day operations and strategic planning, promote effective data and
+technology resource management, and enhance their ability to serve citizens.
+Description
+The Information Technology (IT) Department is the Town’s central technology provider whose mission is to provide
+systems, technologies, and services that develop and support Town personnel with information relative to their
+operations and respective missions, support day-to-day operations and strategic planning, promote effective data and
+technology resource management, and enhance their ability to serve citizens.
+Significant Changes
+No significant changes.
+FY 26 Accomplishments
+Added Fire and Board of Health E-Permitting modules for online permitting.
+Upgraded Cisco phone servers.
+Replaced all computer servers and storage systems at the DPW.
+Install new routers for the Police Criminal Justice Information Services, which is a State requirement.
+Upgraded Police firewall.
+All new public safety software is fully utilized as of summer 2025.
+Installed secure new network for police body cameras.
+Installed new external Wi-Fi for police cruisers to upload car videos.
+FY 27 Department Goals
+Upgrade Town Hall servers and storage.
+Upgrade the Cisco routers.
+Personnel
+FY
+FY 2024 2025 FY2026 FY2027
+Actual Actual Actual Recom
+IT Director 1.00 1.00 1.00
+IT Network Engineer 1.00 1.00 1.00
+Tech. Support 1.00 1.00 1.00
+TOTAL 3.00 3.00 3.00
+FY2027 Proposed Operating Budget | Bedford Page 34
+
+=== Page 35 | Information Technology Financials ===
+Information Technology Financials
+Information Technology Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+INFORMATION TECHNOLOGY 1,144,129 1,221,846 1,227,000 0.42%
+Total Expenditures 1,144,129 1,221,846 1,227,000 0.42%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$1,500K
+$$$111MMM $$$111MMM
+$$$111MMM
+$1,000K
+$500K
+000
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL OTHER EXPENSE PROFESSIONAL SALARY
+CONTRACTED SERVICES
+FY27 Expenditures by Expense Object Category
+1.23M
+CONTRACTED SERVICES $860,898 70.16%
+PROFESSIONAL SALARY $362,702 29.56%
+OTHER EXPENSE $3,000 0.24%
+SUPPLIES & MATERIAL $400 0.03%
+FY2027 Proposed Operating Budget | Bedford Page 35
+
+=== Page 37 | Town ClerkMission Statement ===
+Town Clerk
+Town Clerk
+Mission Statement
+To be a reliable provider of information and quality services to the community and its
+residents and to work cooperatively with all departments, boards and committees
+while complying with state and local statutes as well as the Town Charter and
+Bylaws.
+Description
+The Town Clerk’s Office serves as a central information point for local government.
+We respond to inquiries from the public as well as from other departments, boards,
+and committees. The Town Clerk’s Office oversees the polls and the conduct of all
+elections and election-related activity for federal, state, and local elections. We also
+conduct the annual census and maintain the street and voter lists.
+As the Town’s recording official, the Clerk keeps records of all births, marriages and deaths, all actions of Town Meeting
+and elections, zoning decisions, and Annual Reports. The Clerk’s Office maintains the bylaws, the official Town bulletin
+board, records of oaths of office, appointments and resignations of all Town Officials. We also issue some state licenses
+and permits, including marriage licenses, business certificates and renewals, dog licenses, fuel storage licenses,
+raffle/bazaar permits and requests for public documents. The Town Clerk’s Office is the custodian of the official records
+and documents of the Town, responsible for elections, minutes of Town Meetings and a Registrar of Voters.
+The additional services provided by this office are information on government operations, copies of vital records, voter
+registration, dog licenses, marriage licenses, business certificates, raffle permits, zoning, general and sign by-laws,
+Town Meeting article certifications, public records requests, meeting notices and agendas, ethics and open meeting
+law information, and archival research.
+The Town Clerk also performs duties and responsibilities under the jurisdiction of the Secretary of the Commonwealth,
+the Executive Office of Health and Human Services, the Department of Revenue, the Attorney General, the State Ethics
+Commission, the Office of Political and Campaign Finance, the Governor’s Office, as well as County Courts and County
+Officials.
+FY 26 Accomplishments
+Working towards completion of the vital record disbinding, and rehousing project.
+Hired an Assistant Town Clerk.
+FY 27 Department Goals
+Run fair and transparent elections in FY27.
+Attend all three Massachusetts Town Clerk Conferences to stay up-to-date on everything clerk related.
+FY2027 Proposed Operating Budget | Bedford Page 37
+
+=== Page 38 | Personnel ===
+Town Clerk
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Town Clerk 1.00 1.00 1.00 1.00
+Asst. Town Clerk/ Asst. Archivist 1.00 1.00 1.00 1.00
+Archivist 1.00 1.00 1.00 1.00
+Dept. Assistant I 0.85 0.90 0.90 0.50
+TOTAL 3.85 3.90 3.90 3.50
+FY2027 Proposed Operating Budget | Bedford Page 38
+
+=== Page 39 | Town Clerk FinancialsExpenditures by Department ===
+Town Clerk Financials
+Town Clerk Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+TOWN CLERK 302,483 347,615 338,702 -2.56%
+Total Expenditures 302,483 347,615 338,702 -2.56%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$400K
+$$ $333444888KKK $$ $333333999KKK
+$$ $333111000KKK
+$$ $222999666KKK
+$300K
+$200K
+$100K
+0
+FY2024 FY2025 FY2026 FY2027
+CONTRACTED SERVICES OTHER EXPENSE SUPPLIES & MATERIAL
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+339K
+PROFESSIONAL SALARY $317,517 93.75%
+CONTRACTED SERVICES $8,520 2.52%
+OTHER EXPENSE $6,570 1.94%
+SUPPLIES & MATERIAL $6,095 1.80%
+FY2027 Proposed Operating Budget | Bedford Page 39
+
+=== Page 41 | Elections and RegistrationsMission Statement ===
+Elections and Registrations
+Elections and Registrations
+Mission Statement
+To plan and conduct elections in compliance with Town, State and Federal Laws and regulations, maintain the
+integrity of the voter registration process, accuracy of the lists of residents and voters based on the annual town
+census, communication with residents, and the Secretary of the Commonwealth in accordance with Town, State and
+Federal laws. Record and certify the Proceedings of the Town.
+Description
+Strategic planning and execution of elections in compliance with government mandates and regulations. Record,
+report and certify the legislative actions of town meetings. Conduct voter registration and early in-person voter
+sessions. Produce and certify the official records of town meeting proceedings.
+Significant Changes
+The sole reason for the budget increase is the number of elections, increasing from one (1) in FY6 to three (3) in
+FY27.
+FY2027 Proposed Operating Budget | Bedford Page 41
+
+=== Page 42 | Elections and Registrations Financials ===
+Elections and Registrations Financials
+Elections and Registrations Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+ELECTIONS AND REGISTRATIONS 77,000 29,225 54,675 87.08%
+Total Expenditures 77,000 29,225 54,675 87.08%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$100K
+$$ $777333KKK
+$75K
+$$ $555555KKK
+$50K $$ $444333KKK
+$$ $222999KKK
+$25K
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL CONTRACTED SERVICES PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+54.7K
+PROFESSIONAL SALARY $34,900 63.83%
+CONTRACTED SERVICES $13,475 24.65%
+SUPPLIES & MATERIAL $6,300 11.52%
+FY2027 Proposed Operating Budget | Bedford Page 42
+
+=== Page 44 | Facilities DepartmentMission Statement ===
+Facilities Department
+Facilities Department
+Mission Statement
+The mission of the Facilities Department is to provide quality custodial,
+maintenance, and construction management services while ensuring safety,
+health & efficiency in Town and School. buildings in a cost effective, customer
+oriented manner as needed to protect the capital investment made by the
+residents of Bedford in their public facilities.
+Description
+Continue to monitor and audit all buildings energy use, and take corrective
+action where needed.
+Look for opportunities to further reduce energy to enhance Bedford’s
+commitment and designation of “Green Community”.
+To provide safe, healthy, and clean space environment while maintaining the comprehensive capital
+improvement program for all buildings that addresses a range of needs, including mechanical systems, structural
+components, space planning, electrical systems, technology systems, historic preservation, environmental
+sustainability, and accessibility.
+Significant Changes
+Continued to build upon the department changes initiated in FY25. New staff and responsibility changes have
+greatly improved the functionality of the department.
+Shifted some of the responsibilities that were once managed by the Energy and Sustainability Manager to the
+Project Manager in the Facilities Department. This position also was renamed to Project Manager, Municipal
+Energy and Sustainability.
+FY2027 Proposed Operating Budget | Bedford Page 44
+
+=== Page 45 | FY 26 Accomplishments ===
+Facilities Department
+FY 26 Accomplishments
+Completed the Mechanical, Electrical, and Plumbing Engineering (MEP) Project at the Bedford Free Public
+Library.
+Successfully bid and initiated the New Fire Station Project with assistance from multiple departments, with
+competition of the project expected winter of 2026.
+Completed the replacement of the front exterior stairs to the Old Town Hall.
+Completed multiple energy efficiency upgrades including LED light conversions at BHS and weatherization of
+existing windows at the Davis School.
+Installed door access system in all school buildings to increase the safety and security of staff and students.
+Through the departments efforts toward recycling, food waste diversion, and the repurposing of furniture and
+equipment, Facilities was able to reduce the volume of waste from our waste stream by the following: 31 tons of
+food scarps diverted in the schools, 10.5 tons of food put into share fridges for students to eat at any time, 1400
+lbs of food to Bedford Food Bank, 37 tons of textiles diverted townwide, 16.5 tons of furniture repurposed
+throughout town and school buildings.
+Managed the demolition of existing buildings on town property: 33 Shawsheen Road, 76 Loomis Street, and 190
+Springs Rd. These demolished buildings will allow the Town to begin planned capital work at each location.
+In conjunction with DPW, initiated the work to rebuild the Salt Storage Shed at 108 Carlisle Road.
+FY 27 Department Goals
+Continue to monitor and audit all buildings' energy use, and take corrective action where needed.
+Look for opportunities to further work towards the Town’s carbon reduction and ENZ goals.
+Successfuly bid, design, and construct the ADA compliant ramps at the front of Town Hall.
+Successfuly bid, design, and construct the ADA compliant bathrooms on the lower level of Town Hall.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director 0.30 0.30 0.30 0.30
+Asst. Director 0.05 - - -
+Admin. Assistant I - 0.30 0.30 0.30
+Admin. Assistant II 0.30 0.30 0.30 0.30
+Custodian 2.35 2.35 2.35 2.35
+Info/Proc Analyst 0.30 0.30 0.30 0.30
+Maintenance Tech 3.45 3.45 3.45 3.45
+Project Manager - 0.25 0.25 0.30
+TOTAL 6.75 7.25 7.25 7.30
+FY2027 Proposed Operating Budget | Bedford Page 45
+
+=== Page 46 | Facilities Financials ===
+Facilities Financials
+Facilities Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+FACILITIES DEPARTMENT 3,506,241 3,723,014 3,885,061 4.35%
+Total Expenditures 3,506,241 3,723,014 3,885,061 4.35%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$6M
+$4M $$$444MMM $$$444MMM $$$444MMM
+$$ $333MMM
+$2M
+0
+FY2024 FY2025 FY2026 FY2027
+CAPITAL OTHER EXPENSE SUPPLIES & MATERIAL
+PROFESSIONAL SALARY CONTRACTED SERVICES
+FY27 Expenditures by Expense Object Category
+3.89M
+CONTRACTED SERVICES $2,706,563 69.67%
+PROFESSIONAL SALARY $804,995 20.72%
+SUPPLIES & MATERIAL $362,933 9.34%
+OTHER EXPENSE $10,570 0.27%
+FY2027 Proposed Operating Budget | Bedford Page 46
+
+=== Page 48 | Town CenterMission Statement ===
+Town Center
+Town Center
+Mission Statement
+The mission of the Facilities
+Department is to provide quality
+custodial, maintenance, and
+construction management services
+while ensuring safety, health &
+efficiency in Town and School
+buildings in a cost effective,
+customer oriented manner as
+needed to protect the capital
+investment made by the residents
+of Bedford in their public facilities.
+Description
+Town Center is a multi-service community center housing various Town Departments and non-profit organizations on
+a rental basis.
+The Town Departments with offices in Town Center are Council on Aging, Health, Recreation, Veterans Services, Youth
+and Family Services. The Town Center building is also home to the Bedford Food Bank which provides food for those
+residents in need. Space is available for occasional rentals in the evenings and on weekends for community groups
+and individuals. Rentals are handled by Facilities Department Staff. Operational costs are covered through the
+Facilities Revolving Fund which is also offset by rental income.
+Significant Changes
+No significant changes
+FY 26 Accomplishments
+Generated over $57,000 in rental income at Town Center.
+Converted a long term outside rental space to newer storage area with upgraded electrical capacity for the
+Bedford Food Bank at Town Center.
+Converted an old office space to a meeting room to accommodate the needs to the departments occupying
+Town Center.
+Staffed bi-weekly food bank deliveries from the Greater Boston Food Bank with custodial staff at Town Center.
+FY 27 Department Goals
+Continue to evaluate the Town space needs as it relates to the use of Town Center.
+FY2027 Proposed Operating Budget | Bedford Page 48
+
+=== Page 49 | Insurance/BenefitsMission StatementDescription ===
+Insurance/Benefits
+Insurance/Benefits
+Mission Statement
+To provide quality administration and monitoring of insurance and benefits for Town and School employees.
+Description
+The insurance and benefits budgets, inclusive of all Town Departments and the School Department includes health,
+dental and life insurance, general, professional, fleet, building, liability and workers compensation insurances,
+Medicare and unemployment insurance.
+In addition, this budget funds the mandated Middlesex County Retirement System assessment to the Town.
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+INSURANCE/BENEFITS 16,699,243 18,631,741 20,417,451 9.58%
+Total Expenditures 16,699,243 18,631,741 20,417,451 9.58%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$30M
+$$ $222000MMM
+$$ $111999MMM
+$20M
+$$ $111777MMM
+$$$111555MMM
+$10M
+0
+FY2024 FY2025 FY2026 FY2027
+OTHER EXPENSE
+FY2027 Proposed Operating Budget | Bedford Page 49
+
+=== Page 51 | Public Safety ===
+Public Safety
+Public Safety
+The following pages comprise the Public Safety section.
+FY2027 Proposed Operating Budget | Bedford Page 51
+
+=== Page 52 | Police DepartmentMission Statement ===
+Police Department
+Police Department
+Mission Statement
+We are dedicated to our community through excellence, service
+and professionalism.
+Excellence – We strive to be the best in all we do.
+Service – We are committed to make Bedford a safe community to
+live and work.
+Professionalism – We are role models within our community and
+are the example of what law enforcement personnel should be.
+Description
+The Bedford Police Department (BPD) is committed to providing Bedford residents, businesses, and visitors with the
+highest level of professional law enforcement services while respecting the rights of all that we serve. The strength of
+the organization lies in its philosophy and the method of operation, which combines the effectiveness of community
+policing and problem-orientated policing.
+The Police Department is a dedicated group of professionals who are committed to working with the community to
+make Bedford a safe and desirable place to live, work and visit. BPD’s core mission is to partner with the community to
+solve problems, foster trust, and improve public safety in a manner that is fair, impartial and transparent.
+Significant Changes
+In FY26, Police Chief Fisher retired. A Police Chief Assessment Center will be performed and a new Chief will be
+hired within the fiscal year.
+FY 26 Accomplishments
+Achieved State Accreditation.
+Implemented new body-worn camera system and new cruiser mounted system.
+FY 27 Department Goals
+Continue to work towards the hiring goals outlined in the Raftelis Staffing Study report.
+FY2027 Proposed Operating Budget | Bedford Page 52
+
+=== Page 53 | Personnel ===
+Police Department
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Chief 1.00 1.00 1.00 1.00
+Admin. Asst. I 1.00 1.00
+Executive Asst 1.00 1.00 1.00 1.00
+Animal Control 1.00 1.00 1.00 1.00
+Emer. Com. Off. 8.00 8.00 9.00 9.00
+Lieutenant 2.00 2.00 2.00 2.00
+MCC Officer 1.00 1.00 1.00 1.00
+Patrol Officers 17.00 17.00 18.00 18.00
+Resource Officer 1.00 1.00 1.00 1.00
+School Traffic 0.35 0.35 0.35 0.35
+Sergeant 7.00 7.00 7.00 7.00
+TOTAL 39.35 39.35 42.35 42.35
+FY2027 Proposed Operating Budget | Bedford Page 53
+
+=== Page 54 | Police Department Financials ===
+Police Department Financials
+Police Department Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+(% Change)
+POLICE DEPARTMENT
+SALARIES REGULAR 2,846,409 3,612,020 3,781,623 4.70%
+SALARIES DISPATCHERS 497,806 619,578 634,087 2.34%
+SALARIES OVERTIME 450,000 498,028 650,000 30.51%
+SALARIES OVERTIME DISPATCHERS 73,101 82,726 55,000 -33.52%
+SALARIES OVERTIME TRAINING 135,736 135,736 105,000 -22.64%
+OVERTIME TRAINING-DISPATCHER 7,576 7,576 5,700 -24.76%
+SALARIES HOLIDAYS 150,802 214,592 181,990 -15.19%
+SALARIES HOLIDAY DISPATCHERS 35,187 35,608 36,442 2.34%
+SALARIES TOWN EVENTS 5,000 10,000 26,235 162.35%
+COMPUTER SERVICE 16,000 16,560 16,974 2.50%
+PHYSICAL EXAM ALLOWANCE 800 828 3,000 262.32%
+TRAINING SCHOOL 23,082 23,889 24,690 3.35%
+TELEPHONE 23,000 23,805 24,400 2.50%
+PRINTING 3,000 3,105 3,182 2.48%
+OFFICE SUPPLY 9,000 9,315 9,547 2.49%
+PHOTOCOPIER/PHOTO SUPPLY 500 517 517 0.00%
+REPAIRS & MAINTENANCE SUPPLY 34,134 35,329 36,212 2.50%
+RADIO REPAIR SUPPLY 1,500 1,552 1,590 2.45%
+GENERAL EQUIPMENT 6,872 7,112 7,289 2.49%
+MEDICAL SUPPLY 951 984 1,008 2.44%
+UNIFORMS 28,838 29,847 30,593 2.50%
+OFFICER'S SUPPLY 1,250 1,294 1,326 2.47%
+ARMOURMENT 3,500 3,622 3,712 2.48%
+FINGERPRINT SUPPLY 500 517 529 2.32%
+COMPUTER EQUIPMENT/PROGRAMS 1,500 1,552 1,590 2.45%
+CONTRACT ITEMS 19,550 20,234 20,739 2.50%
+PRISONER SUPPLY 1,200 1,242 1,273 2.50%
+OFFICE EQUIPMENT/FURNISHINGS 7,500 7,762 7,956 2.50%
+OUT OF STATE TRAVEL 1,500 1,552 1,590 2.45%
+DUES AND MEMBERSHIPS 23,713 24,542 30,000 22.24%
+SUBSCRIPTIONS/PUBLICATIONS 500 517 529 2.32%
+NEMLEC 5,500 5,500 5,500 0.00%
+MISC OTHER CHARGES 8,081 8,363 8,572 2.50%
+VEHICLE MAINTENANCE 6,000 6,210 6,365 2.50%
+CAPITAL OUTLAY EQUIPMENT 14,473 20,000 20,000 0.00%
+Total POLICE DEPARTMENT 4,444,061 5,471,614 5,744,760 4.99%
+Total Expenditures 4,444,061 5,471,614 5,744,760 4.99%
+FY2027 Proposed Operating Budget | Bedford Page 54
+
+=== Page 56 | Fire DepartmentMission Statement ===
+Fire Department
+Fire Department
+Mission Statement
+The Bedford Fire Department is a professional and
+dedicated organization that is constantly evolving to
+meet the ever-changing demands of the community.
+Our organization is guided by moral and ethical
+principals in providing the highest level of quality of
+services, training/professional development, fiscal
+responsibility and direct community interaction and
+involvement. We are forever committed to successfully
+responding to and mitigating the challenges of fire,
+rescue, medical emergencies, hazardous materials,
+disaster preparedness and national securityby
+promoting fire prevention, public education, and
+community risk reduction.
+Description
+The Bedford Fire Department provides fire
+suppression, rescue and emergency medical services,
+hazardous materials mitigation, fire inspection, fire
+investigation, and public education to the Town of
+Bedford, Massachusetts. The Bedford Fire Department
+is consistently working to achieve and/or maintain the
+highest level of professionalism and efficiency on
+behalf of those it serves.
+The history of the Department dates back to 1828
+when the Select Board voted in March of that year to
+fund the “Bedford Fire Establishment”. The Fire
+Department moved to its present location at 55 The
+Great Road on April 29, 1949. In 1957, the Town hired its
+first full time firefighter and the following year the Department acquired a Volkswagen bus to use as the first
+ambulance.
+From our humble beginnings over 190 years ago, the Department now consists of 35 career firefighter/EMTs and
+firefighter/Paramedics. The men and women of the Department proudly serve the community responding to over
+3,500 incidents annually.
+Significant Changes
+Appointed two (2) new firefighters fall 2025.
+Trained and certified three (3) firefighters as National Registered Emergency Medical -Technician Paramedic level
+from October 2025 to December 2025.
+Firefighter Thomas Piccirillo retired August 2025 with 32 years of service to fire department.
+FY2027 Proposed Operating Budget | Bedford Page 56
+
+=== Page 57 | FY 26 AccomplishmentsFY 27 Department Goals ===
+Fire Department
+FY 26 Accomplishments
+All department guidelines, procedures, protocols, and policies became web-based on July 1, 2025.
+Designed a replacement ambulance with the manufacturer; delivery is expected in summer 2026;
+Began construction phase for new fire station July 2025.
+FY 27 Department Goals
+Implement new national incident reporting system, NERIS.
+Ensure ambulance enterprise account continues to grow with staffing of 2 fire department ambulances full-time.
+Oversee construction phases for new fire station.
+Initiate Fire Department health and wellness program focused on annual medical screenings, nutrition, and
+functional strength training.
+Research, apply for, and obtain grant funding that can be used to supplement new station furniture, fixtures, and
+equipment.
+Research, apply for, and obtain grant funding that can be used to supplement fire department health and
+wellness programs.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Chief 1.00 1.00 0.50 0.50
+Executive Assistant 1.00 1.00 1.00 0.50
+Captains 2.00 2.00 6.00 6.00
+Lieutenants 4.00 4.00 4.00 3.00
+Firefighters 20.00 20.00 16.00 16.00
+TOTAL 28.00 28.00 27.50 26.00
+FY2027 Proposed Operating Budget | Bedford Page 57
+
+=== Page 58 | Fire Department Financials ===
+Fire Department Financials
+Fire Department Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+(% Change)
+FIRE DEPARTMENT
+SALARIES REGULAR 2,888,681 2,861,143 2,912,055 1.78%
+SALARIES OVERTIME 381,265 400,200 410,205 2.50%
+SALARIES OVERTIME TRAINING 20,515 22,350 23,000 2.91%
+SALARIES HOLIDAY 157,127 167,027 164,689 -1.40%
+VEHICLE REPAIRS 51,990 57,000 65,900 15.61%
+SCUBA MAINTENANCE 4,898 4,898 5,000 2.08%
+PHYSICAL EXAM ALLOWANCE 6,300 6,500 4,500 -30.77%
+FIRE FIGHTING TRAINING 8,160 8,500 8,500 0.00%
+TELEPHONE 17,271 17,271 15,500 -10.25%
+RADIO REPAIR SUPPLY 19,505 19,505 19,000 -2.59%
+BUILDING/GROUNDS SUPPLY 3,740 4,000 2,500 -37.50%
+CUSTODIAL SUPPLY 3,525 3,700 4,000 8.11%
+VEHICLE PARTS/ACCESSORIES 8,750 8,750 9,560 9.26%
+PERISHABLES 1,200 2,000 1,500 -25.00%
+MEDICAL SUPPLY 6,182 6,300 4,000 -36.51%
+AUDIO-VISUAL SUPPLY 600 600 600 0.00%
+UNIFORMS 33,000 33,000 33,000 0.00%
+FIRE ALARMS 3,125 3,125 1,500 -52.00%
+HAZARDOUS MATERIALS 8,359 8,359 5,000 -40.18%
+FIREFIGHTING SUPPLY/EQUIP 21,800 21,800 25,000 14.68%
+RESCUE EQUIPMENT 11,756 11,760 16,000 36.05%
+OFFICE EQUIPMENT/FURNISHINGS 2,770 2,800 2,800 0.00%
+ADD'L FIREFIGHTER EQUIP/SUPPLY 1,050 1,050 1,050 0.00%
+OUT OF STATE TRAVEL 3,600 3,600 5,000 38.89%
+DUES AND MEMBERSHIPS 2,200 2,200 2,200 0.00%
+SUBSCRIPTIONS/PUBLICATIONS 4,800 4,800 4,800 0.00%
+EMERGENCY PREPAREDNESS 11,660 11,660 11,660 0.00%
+CAPITAL OUTLAY EQUIPMENT 30,782 30,782 30,782 0.00%
+Total FIRE DEPARTMENT 3,714,611 3,724,680 3,789,301 1.73%
+Total Expenditures 3,714,611 3,724,680 3,789,301 1.73%
+FY2027 Proposed Operating Budget | Bedford Page 58
+
+=== Page 60 | Building DepartmentMission Statement ===
+Building Department
+Building Department
+Mission Statement
+The purpose of the Building Department is to promote the general health, safety and welfare of the people of the
+Town of Bedford through professional, fair, consistent and unbiased enforcement of all applicable codes & regulations
+associated with buildings & structures and land use activities and the protection/preservation of Bedford’s natural
+resources.
+Description
+This department provides all administrative, supervision, clerical, inspection and managerial services required to
+administer and enforce the MA Building, Electrical, Plumbing and Gas Codes, Weights and Measures Regulations,
+Local Zoning Law, Sign Bylaw, Wetlands Protection Bylaw and state wetlands laws. Included are the salaries for
+personnel and all relevant expenses. The Director is the administrative supervisor of all these functions. The
+Conservation Commission consists of 7 volunteer members appointed by the Select Board. The primary function of
+the Commission is the protection of wetland resources through the administration of the MA Wetlands Protection Act
+and the Town of Bedford Wetlands Protection Bylaw. The Commission reviews applications for projects near wetlands
+and floodplains. The Commission is also actively engaged in activities related to open space acquisition, conservation
+land management and preservation of Bedford’s natural resources. The Zoning Board of Appeals (ZBA) consists of five
+full and three associate members appointed by the Select Board. The primary function of the Zoning Board of Appeals
+is to consider petitions for zoning variances and special permits. The Historic District Commission is responsible for
+promoting the general welfare of the community through preservation and protection of buildings/structures within
+the Historic District.
+Significant Changes
+The Department formally changed its name from "Code Department" to "Building Department" to better
+represent the scope of work performed on a day-to-day basis.
+FY 26 Accomplishments
+Processed approximately 2,000 building, electrical, plumbing, gas and miscellaneous permits ranging from large
+commercial projects to small residential renovations.
+Revamped the ZBA and HDC applications to be more user-friendly with helpful information regarding the
+process.
+Working with the Town Archivist to continue scanning paper building plans that are currently being stored in the
+vault.
+FY 27 Department Goals
+Work with IT and Permit Eyes to allow the public to view permits and permit history (i.e. inspections, sign-offs,
+Certificate of Occupancies issued, etc.).
+Work with ZBA to provide training to members on proper procedures and protocol during meetings and new
+case law on zoning matters.
+Continue to work with staff to create policies and procedures for each position in office to promote cross-
+training.
+FY2027 Proposed Operating Budget | Bedford Page 60
+
+=== Page 61 | Personnel ===
+Building Department
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director 1.00 1.00 1.00 1.00
+Admin. Assistant I 1.00 1.00 1.00 1.00
+Alternate Inspector 0.25 0.25 0.25 0.15
+Conservation 1.00 1.00 1.00 1.00
+Dept. Assistant II 2.00 2.00 2.00 2.00
+Inspector 1.00 1.00 1.00 1.00
+Plumb/Gas Inspector 0.60 0.60 0.60 0.60
+Wire Inspector 0.50 0.50 0.50 0.60
+Local Inspector 0.50 0.50 0.50 0.50
+TOTAL 7.85 7.85 7.85 7.85
+FY2027 Proposed Operating Budget | Bedford Page 61
+
+=== Page 62 | Building Department FinancialsExpenditures by Department ===
+Building Department Financials
+Building Department Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+CODE ENFORCEMENT 674,882 733,015 778,543 6.21%
+Total Expenditures 674,882 733,015 778,543 6.21%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$1,000K
+$$ $777777999KKK
+$$ $777333333KKK
+$750K $$ $666555111KKK $$ $666444222KKK
+$500K
+$250K
+0
+FY2024 FY2025 FY2026 FY2027
+CONTRACTED SERVICES OTHER EXPENSE SUPPLIES & MATERIAL
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+779K
+PROFESSIONAL SALARY $718,368 92.27%
+SUPPLIES & MATERIAL $30,305 3.89%
+OTHER EXPENSE $23,800 3.06%
+CONTRACTED SERVICES $6,070 0.78%
+FY2027 Proposed Operating Budget | Bedford Page 62
+
+=== Page 64 | Education ===
+Education
+Education
+The following pages comprise the Education section.
+FY2027 Proposed Operating Budget | Bedford Page 64
+
+=== Page 65 | Bedford Public School ===
+Bedford Public School
+Bedford Public School
+The School prepares its own Budget. You may access it using the link
+below.
+FY 2027 Bedford Public School Budget
+FY2027 Proposed Operating Budget | Bedford Page 65
+
+=== Page 66 | Bedford Public School FinancialsExpenditures by Department ===
+Bedford Public School Financials
+Bedford Public School Financials
+Expenditures by Department
+Historical Expenditures by Department
+$60M
+$$ $555222MMM $$$555444MMM
+$$ $555000MMM
+$$ $444777MMM
+$40M
+$20M
+0
+FY2024 FY2025 FY2026 FY2027
+SCHOOL
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+Budget (% Change)
+SCHOOL 49,593,798 52,090,425 53,998,325 3.66%
+Total Expenditures 49,593,798 52,090,425 53,998,325 3.66%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$60M
+$$ $555222MMM $$$555444MMM
+$$ $555000MMM
+$$ $444777MMM
+$40M
+$20M
+0
+FY2024 FY2025 FY2026 FY2027
+OTHER EXPENSE SUPPLIES & MATERIAL CONTRACTED SERVICES
+PROFESSIONAL SALARY OTHER FINANCING USES
+FY2027 Proposed Operating Budget | Bedford Page 66
+
+=== Page 68 | Vocational EducationMission Statement ===
+Vocational Education
+Vocational Education
+Mission Statement
+The Shawsheen Valley Regional Technical School District will offer a high school experience that optimizes student
+aptitude, achievement and skills by integrating vocational-technical and academic curricula in order to prepare
+students to begin adult life and careers immediately and independently.
+Similarly, Minuteman Regional High School is designed to provide strong, career-focused high school learning and
+preparation for college, incorporating partnerships with many companies and colleges.
+Description
+This budget funds the Vocational Education assessment for Bedford students. Shawsheen Valley Vocational Technical
+High School and Minuteman Vocational Technical High School provide educational services for most of Bedford’s
+students, high school age, who seek a vocational education as an alternative to Bedford’s own high school.
+FY2027 Proposed Operating Budget | Bedford Page 68
+
+=== Page 69 | Vocational Education Financials ===
+Vocational Education Financials
+Vocational Education Financials
+Expenditures by Department
+Historical Expenditures by Department
+$2,000K
+$$$222MMM
+$1,500K
+$$$111MMM
+$$$111MMM $$$111MMM
+$1,000K
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+VOCATIONAL EDUCATION
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+VOCATIONAL EDUCATION 1,118,000 1,249,018 1,625,701 30.16%
+Total Expenditures 1,118,000 1,249,018 1,625,701 30.16%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$2,000K
+$$$222MMM
+$1,500K
+$$$111MMM
+$$$111MMM $$$111MMM
+$1,000K
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+CONTRACTED SERVICES
+FY2027 Proposed Operating Budget | Bedford Page 69
+
+=== Page 71 | Public Works ===
+Public Works
+Public Works
+The following pages comprise the Public Works section.
+FY2027 Proposed Operating Budget | Bedford Page 71
+
+=== Page 72 | Public WorksMission Statement ===
+Public Work
+Public Works
+Mission Statement
+The mission of the Department of Public Works is
+to provide high quality essential municipal services
+to the residents, businesses, and visitors to Bedford
+in an efficient and cost-effective manner.
+Description
+The DPW is responsible for supervising the design
+and construction of non-building capital
+infrastructure in the Town.
+The Grounds Division performs interments and
+maintains 22 acres at two Town cemeteries in
+addition to the complete maintenance of 130 acres
+of athletic fields and parkland.
+The Highway Division maintains the quality and
+drivability of the Town’s 82 miles of paved roads and their drainage systems, as well as 32 miles of sidewalks and
+bikeways.
+The Mechanical Division maintains and repairs most of the Town’s 151 vehicles and equipment pieces.
+The Water/ Sewer Divisions oversee the day-to-day operations and maintenance of the Town’s 80 miles of water mains,
+5,200 water service connections, approximately 4,500 sewer service connections, and 800 fire hydrants.
+The trash and recycling program provides trash and recycling collection to approximately 4,700 residences as well as
+yard waste pickup, bulk, white good pickup, and special collection events.
+DPW also provides engineering services to other Town departments and typically provides labor and support for local
+events such as Pole Capping, Memorial Day, Fourth of July, Bedford Day, Veterans Day, summer concerts, and holiday
+tree lighting.
+FY 26 Accomplishments
+For Department accomplishments, please reference the accomplishments of each division.
+FY 27 Department Goals
+For Department goals, please reference the goals for each division.
+FY2027 Proposed Operating Budget | Bedford Page 72
+
+=== Page 73 | Personnel ===
+Public Work
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Administration 13.20 13.90 14.58 14.13
+Grounds 9.00 9.00 9.00 9.00
+Highway 8.00 8.00 8.00 8.00
+Mechanical 4.00 4.00 4.00 4.00
+Recycle Admin. 0.60 0.68
+Seasonal Labor 1.00 1.00 1.00 0.80
+Sewer 5.00 5.00 5.00 5.00
+Water 4.00 4.00 4.00 4.00
+TOTAL 44.80 45.58 45.58 44.93
+FY2027 Proposed Operating Budget | Bedford Page 73
+
+=== Page 74 | Public Works FinancialsExpenditures by Department ===
+Public Works Financials
+Public Works Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+PUBLIC WORKS TOTAL 17,207,013 17,330,224 17,255,768 -0.43%
+Total Expenditures 17,207,013 17,330,224 17,255,768 -0.43%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$20M
+$$$111777MMM $$$111777MMM
+$$$111777MMM
+$$ $111666MMM
+$15M
+$10M
+$5M
+0
+FY2024 FY2025 FY2026 FY2027
+OTHER EXPENSE CAPITAL SUPPLIES & MATERIAL
+PROFESSIONAL SALARY CONTRACTED SERVICES
+FY27 Expenditures by Expense Object Category
+17.3M
+CONTRACTED SERVICES $11,926,270 69.11%
+PROFESSIONAL SALARY $4,010,886 23.24%
+SUPPLIES & MATERIAL $1,312,176 7.60%
+OTHER EXPENSE $6,436 0.04%
+FY2027 Proposed Operating Budget | Bedford Page 74
+
+=== Page 76 | Public Works - AdministrationMission StatementDescription ===
+Public Works - Administration
+Public Works - Administration
+Mission Statement
+The mission of the Administration Division is to manage the entire public works operations, and to provide necessary
+engineering services for all divisions within the Department as well as of other Town departments and committees.
+Description
+The Administration Division budget provides personnel funding for management and administrative support, office
+supplies and repairs, advertising for contract bids, and professional association dues. The Public Works Administration
+budget are funds associated with union- contracted items such as uniform and protective clothing, license fee
+reimbursement, and meals during extended work periods. In addition to its functions of overseeing the entire public
+works operation, budget, and capital improvement to the town’s infrastructure, the functions of the Public Works
+Administration include utility billing for water and sewer usage for 4,500 accounts; processing vehicle and property
+insurance claims; coordinating cemetery sales and burials; and procurement of equipment, materials and services in
+accordance with Massachusetts laws. Oversight of the automated refuse/ recycling collection program also falls within
+the Administration Division. The Engineering Division provides support for environmental, water, sewer, highway and
+other Public Works projects with contract specifications and construction inspections, ensuring technical competence
+and compliance with all current codes and regulations. The Engineering Division is continuously developing,
+upgrading and maintaining the Town’s Geographical Information System (GIS), which is a computerized mapping
+system of the Town and its infrastructure.
+Significant Changes
+No significant changes are proposed for FY2027.
+FY 26 Accomplishments
+In FY26, the Department implemented additional online permitting and inspection processes.
+Continued in-house training program for AFSCME (union) employees to obtain their Commercial Driver’s License
+(CDL). As of this report, seven employees are taking advantage of the program to obtain their CDL.
+Raised awareness of recycling programs, including a naming contest for the new cardboard compactor
+Received the MassRecycle Award in the municipal category
+Completed the first stormwater related culvert project from the Culvert Asset Management Plan
+Completed a major pump station rehabilitation project at our third-largest pump station in Town, on Middlesex
+Turnpike.
+FY2027 Proposed Operating Budget | Bedford Page 76
+
+=== Page 77 | FY 27 Department Goals ===
+Public Works - Administration
+FY 27 Department Goals
+The Department will continue to look at new ways to utilize existing software for efficiencies. These include
+Munis, AutoCAD, Bluebeam, and others.
+The Engineering Division will provide support for the redevelopment of the Carlisle Road sewer pump station.
+The Department will begin integration of the new GPS unit into multiple division work processes, including
+surveying, asset inventory, public tree locating, construction as-builts, and ballfield markings layout.
+The Water and Engineering Divisions will complete the inventory of all water services in town to confirm there
+are no lead services.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director 1.00 1.00 1.00 1.00
+Business Manager - - 0.68 0.80
+Admin. Asst / Exec Asst 3.00 3.00 2.00 1.00
+Department Assistant - - - 0.48
+Water/Sewer Administrator - - 1.00 1.00
+Engineering Assistant 2.00 2.00 2.00 2.00
+Town Engineer 1.20 1.20 1.20 1.00
+Assistant Town Engineer 1.00 1.00 1.00 1.00
+GIS Administrator 1.00 1.00 1.00 1.00
+Groud Op Manager 1.00 1.00 1.00 1.00
+Highway Oper. Manager 1.00 1.00 1.00 1.00
+Recycle Administrator 0.60 0.68
+W/S Oper. Manager 1.00 1.00 1.00 1.00
+Capital Program Manager 0.70 0.70 0.85
+Info & Procurement Analst 1.00 1.00 1.00 1.00
+TOTAL 13.80 14.58 14.58 14.13
+FY2027 Proposed Operating Budget | Bedford Page 77
+
+=== Page 78 | Public Works - RefuseMission Statement ===
+Public Works - Refuse
+Public Works - Refuse
+Mission Statement
+The mission of the Refuse and Recycling Division is to collect all solid waste
+and recyclable material generated by residents, Town buildings, schools and
+churches in a manner that minimizes the quantity of trash to reduce costs
+associated with the disposal of the waste stream in order to best control
+costs and promote the initiatives of recycling and refuse.
+Description
+The Refuse and Recycling budget includes funding for all costs to remove and/or recycle solid waste collected from
+Bedford’s residences, condominiums, schools, churches, and Town departments. Annual expenses include the
+Department’s contract with Republic Services, Inc., for the curbside collection and hauling of refuse to the Covanta
+waste-to- energy plant; and the curbside collection and hauling to the Waste Management material recycling facility;
+the weekly curbside collection of bulk goods and white goods; the annual four week (three in the fall, one in the
+spring) program for curbside collection and hauling of leaves to the Department’s composting facility on Carlisle Road;
+and the collection of Christmas trees to the Department’s composting facility on Carlisle Road. This collection contract
+will expire on June 30, 2024.
+Additional expenses include a separate contract with Covanta Haverhill Associates of Haverhill, Massachusetts for
+tipping fees associated with only the tonnage of refuse actually delivered. The Town began a five-year contract with
+Covanta Haverhill Associates for disposal of Bedford’s refuse in FY2011. The current five-year contract expires on June
+30, 2029. The current tipping fee is $99.77 per ton and the fee will be increased in the upcoming fiscal year based on
+Boston CPI-U. The Department also incurs a cost to process recyclable materials at Waste Management’s Material
+Recovery Facility in Billerica, Massachusetts. Beginning July 1, 2019, the Town pays the variable cost of processing less
+the value of the materials processed.
+Significant Changes
+No significant changes are proposed for FY2027.
+FY 26 Accomplishments
+The Recycling Center has continued to evolve with the installation of a cardboard compactor in July 2025,
+accompanied by a successful community naming contest in partnership with The Bedford Citizen. The winning
+name—Trisha the Squisha—was announced ahead of the unit’s debut and the launch of a new “Cardboard Fast
+Lane” to improve traffic flow and efficiency.
+FY 27 Department Goals
+Continue to provide special collection events and food waste service options.
+FY2027 Proposed Operating Budget | Bedford Page 78
+
+=== Page 79 | Public Works - GroundsMission StatementDescription ===
+Public Works - Grounds
+Public Works - Grounds
+Mission Statement
+The mission of the Grounds Division is to provide quality landscaping services for all Town facilities, safe and playable
+athletic fields for all Town and School activities, aesthetically pleasing and hazard free trees along our roads and in our
+parks, and professional interment services at Shawsheen Cemetery.
+Description
+The Grounds Division budget provides the funds necessary to maintain one hundred and thirty (130) acres of athletic
+fields, parks, school grounds and historic sites. The Grounds Division also maintains five (5) playgrounds, ten (10) hard
+courts and the bike paths. These areas are utilized by Town residents, the School Department, the Recreation
+Department and various other Town and volunteer-sponsored programs. The Division’s responsibilities for these areas
+include turf maintenance, landscape maintenance, trash collection, as well as site amenity maintenance.
+The Grounds Division maintains all public trees along the Town’s eighty-two (82) miles of roadway and in all publicly
+owned areas to sustain an aesthetic environment while protecting the community from any hazardous situations. The
+Grounds Division budget also supports all operations at the Shawsheen Cemetery. These responsibilities include
+performing interments in cooperation with funeral homes and maintaining twenty two (22) acres of landscaping
+within the two cemeteries. Funding for materials and expenses associated with various Committee and community
+projects, Bedford Day and Springs Brook Park are included in the Grounds Division budget.
+Significant Changes
+No significant changes are proposed for FY2027.
+FY 26 Accomplishments
+The Grounds Division provided support for the completion of the Sabourin Field track and artificial turf project.
+The Division built the Shawsheen Cemetery "mini expansion" located in the section called Morningside 5.
+FY 27 Department Goals
+The Grounds Division will be trained in maintenance techniques for the new Sabourin artificial turf infill.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Work. Foreman 2.00 2.00 2.00 2.00
+Ass't. Work Foreman 2.00 2.00 2.00 2.00
+Heavy Equipment Op. 5.00 5.00 5.00 5.00
+Seasonal Labor 0.80 0.80 0.80 0.80
+TOTAL 9.80 9.80 9.80 9.80
+FY2027 Proposed Operating Budget | Bedford Page 79
+
+=== Page 80 | Public Works - HighwayMission StatementDescription ===
+Public Works - Highway
+Public Works - Highway
+Mission Statement
+The mission of the Highway Division is to maintain and improve a transportation network consisting of safe and
+efficient roadways, sidewalks, and bikeways.
+Description
+The major functions of the Highway Division include snow and ice control, pavement repair and replacement,
+stormwater and drainage system management, traffic signal maintenance and sidewalk repairs as well as providing
+support to the Towns refuse and recycling program. The budget supports these functions by funding associated costs
+such as road patching, catch basin cleaning, repair and installation of traffic signs, roadside mowing, litter and debris
+collection, delivery and repair of trash and recycling carts and the street sweeping program. The cost of electricity and
+repairs for the Town’s fifteen hundred (1,500) Town-owned streetlights is included in the Highway Division budget.
+Funding for the major improvements to the Town’s roadways is provided in the operating budget. A detailed
+Pavement Management Program is updated annually and provides the guidance for the most effective use of funds.
+The seasonal storage facility at 108 Carlisle Road serves as the Highway and Grounds Divisions’ facility to store off-
+season equipment. The Highway Division routinely partners with the Eastern Middlesex Mosquito Control District to
+improve drainage to reduce the incidence of mosquito borne illnesses. The Highway Division staff operates the
+composting facility on Carlisle Road, effectively converting over two-hundred fifty (250) tons of leaves into loam each
+year, in addition to recycling hundreds of tons of construction debris into useable gravel for Town roadway and utility
+projects.
+Significant Changes
+No significant change are proposed for FY2027.
+FY 26 Accomplishments
+The Highway Division worked with contractors to treat 42 of the Town's 220 roads with a roadway maintenance
+program that included six treatments; fog seal, microsurfacing, overlay, mill and overlay, and reclamation.
+FY 27 Department Goals
+The Highway Division coordinate paving work with drainage, culvert, water, sewer, gas, and electric
+infrastructure work to minimize the time roads are opened.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Work. Foreman 2.00 2.00 2.00 2.00
+Ass't. Work Foreman 1.00 1.00 1.00 1.00
+Heavy Equipment Op. 5.00 5.00 5.00 5.00
+TOTAL 8.00 8.00 8.00 8.00
+FY2027 Proposed Operating Budget | Bedford Page 80
+
+=== Page 81 | Public Works - MechanicalMission StatementDescription ===
+Public Works - Mechanical
+Public Works - Mechanical
+Mission Statement
+The mission of the Mechanical Division is to provide safe and effective vehicles and equipment to all Town
+departments, so they can adequately carry out their respective missions. If applicable, vehicles and equipment are
+purchased and maintained to reduce the Town’s carbon footprint.
+Description
+The functions of the Mechanical Division include purchasing, diagnosing, and repairing the Town’s fleet of automotive
+and specialized vehicles, including heavy and small equipment, coordinating outside repairs with vendors and
+monitoring the inventory of fleet parts. The Mechanical Division’s preventive maintenance program is essential to
+ensuring that the Town vehicles have the least life cycle costs obtainable. The Mechanical Division is also responsible
+for the operation and maintenance of the fuel management and dispensing system.
+Significant Changes
+Two police vehicle are being added to the fleet, which is maintained by the Mechanical Division.
+FY 26 Accomplishments
+In FY26, the Mechanical Division continued to recycle tires, parts cleaner, and waste oil which have beneficial
+reuse.
+FY 27 Department Goals
+The Division is always looking at additional hybrid and electric vehicle opportunities.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Work. Foreman 1.00 1.00 1.00 1.00
+Mechanic 3.00 3.00 3.00 3.00
+TOTAL 4.00 4.00 4.00 4.00
+FY2027 Proposed Operating Budget | Bedford Page 81
+
+=== Page 82 | Public Works - SewerMission StatementDescription ===
+Public Works - Sewer
+Public Works - Sewer
+Mission Statement
+The mission of the Sewer Division is to maintain an efficient system of sewers, pumping stations and force mains to
+collect and transport the Town’s wastewater to the Massachusetts Water Resource Authority interceptor system.
+Description
+The Sewer Division maintains the Town’s sewerage system that encompasses thirty (30) pumping stations, ninety (90)
+miles of sewage collection infrastructure, sixty (60) sewer pumps, and fifteen (15) standby generators. The Sewer
+Division’s preventative sewer maintenance program includes routine cleaning of thirty (30) sewer wet-wells, biannual
+cleaning of six (6) sewer siphon lines, and daily inspections of sewer station pumps, controls and generators. All of
+these activities sustain a free-flowing system while reducing emergency sewer backups to protect water quality. The
+Sewer Division permits and inspects approximately forty (40) private and institutional construction sewer projects
+each year that include sewer line connections, relocations, replacements, and conversions. The Division also consults
+with contactors, utility companies, and provides technical assistance to homeowners.
+Significant Changes
+The redevelopment of the Carlisle Road sewer pump station is expected to begin in FY2027, funded through a
+combination of public and private funding.
+FY 26 Accomplishments
+The Sewer Division, working with contractors, completed the Middlesex Turnpike sewer pump station project.
+This was the final major improvement needed for the Middlesex Turnpike infrastructure expansion project
+started in 2020.
+FY 27 Department Goals
+The Sewer Division is working to replace the generator at The Great Road sewer pump station, with the possibility
+of coordinating it with the replacement of the 314 Great Road (DPW building) generator.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Chief Sys Op/Foreman 1.00 1.00 1.00 1.00
+Sewer Sys. Op/Asst Foreman 1.00 1.00 1.00 1.00
+Heavy Equip. Operator 2.00 2.00 2.00 2.00
+Maintenance Craftsman 1.00 1.00 1.00 1.00
+Seasonal Labor 0.20 0.20 0.20-
+TOTAL 5.20 5.20 5.20 5.00
+FY2027 Proposed Operating Budget | Bedford Page 82
+
+=== Page 83 | Public Works - WaterMission StatementDescription ===
+Public Works - Water
+Public Works - Water
+Mission Statement
+The mission of the Water Division is to ensure that the community has ample safe drinking water for domestic and
+firefighting requirements that complies with all state and federal water quality standards.
+Description
+The Water Division is a municipally owned and operated water utility servicing the Town of Bedford residents and
+businesses. The mission of the Water Division is to provide a safe, uninterrupted water supply of the highest quality to
+residents at a reasonable cost. The division is dedicated to sustaining the integrity of the water systems infrastructure
+to ensure a continued supply of potable water for future generations. The primary function of the Water Division is to
+maintain and operate the Town’s water system and its related facilities. This includes three ground wells, a
+groundwater treatment facility, the distribution system consisting of approximately 811 fire hydrants, 6,000 water
+meters, and three water storage tanks. Other primary functions of the Water Division include monthly, quarterly and
+annual water quality testing; annual backflow inspections to protect the water distribution system from non-potable
+sources; annual leak detection; fire hydrant upkeep; monthly water meter readings; and emergency repairs to the
+distribution system. Up to 15% of the water consumed may be supplied from the Shawsheen Road Wellfield, with the
+remaining amount being supplied by the Massachusetts Water Resource Authority (MWRA) through three
+interconnecting vaults.
+Significant Changes
+No significant changes are proposed for FY2027.
+FY 26 Accomplishments
+The Water Division worked with contractors to continue the investigation Town-wide for lead water service lines.
+To date, no lead water mains or services have been found.
+FY 27 Department Goals
+The Water Division plans to complete the lead service line investigation, and replace any lines that are found.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Chief Sys. Op/Foreman 1.00 1.00 1.00 1.00
+Water Sys Op/Asst Foreman 1.00 1.00 1.00 1.00
+Water Sys. Operator 2.00 2.00 2.00 2.00
+TOTAL 4.00 4.00 4.00 4.00
+FY2027 Proposed Operating Budget | Bedford Page 83
+
+=== Page 84 | Snow and IceMission StatementDescription ===
+Snow and Ice
+Snow and Ice
+Mission Statement
+The mission of the Snow and Ice Division is to oversee winter clearing of public roads, municipal parking lots, and
+selected sidewalks and major trails. Roads shall be kept clear for access of emergency vehicles and for students to
+safely wait for school buses. Sidewalks around schools shall be kept clear for students to walk to school.
+Description
+The Snow and Ice budget provides funding in three categories: overtime, contractual services, and material and
+equipment. Overtime covers all staff time outside regular work hours. Contractual services covers all contractor
+payments. Materials and equipment covers items such as salt, cutting blades, and other related material costs.
+Significant Changes
+No significant changes.
+FY 26 Accomplishments
+It was a below average winter for this part of the country, with the DPW responding to 12 snow and ice events,
+three of which were multiple day events.
+One storm was an extremely long event requiring staff to work continuously for 35 hours. This again shows the
+commitment and dedication our employees have to provide the highest level of service for the residents of
+Bedford under the most severe circumstances.
+Snowfall totals for the year measured 25 inches.
+FY2027 Proposed Operating Budget | Bedford Page 84
+
+=== Page 85 | Health & Human Services ===
+Health & Human Services
+Health & Human Services
+The following pages comprise the Health & Human Services section.
+FY2027 Proposed Operating Budget | Bedford Page 85
+
+=== Page 86 | Board of HealthMission Statement ===
+Board of Health
+Board of Health
+Mission Statement
+The Board of Health (BOH) strives to help neighbors lead healthy lives in Bedford. The BOH
+is dedicated to serve all residents and businesses of Bedford, particularly the underserved,
+and to promote healthy people, healthy families and a healthy environment through
+compassionate care, education information sharing and disease prevention. The BOH will
+identify emerging public health needs, create needed regulations, set policy, hold hearings
+and consider variances.
+The Health Department mission is to prevent and reduce public health risks; promote a healthy community through
+vaccination clinics, health education, information sharing, and environmental mitigation; prepare the community by
+planning for emergencies; and protect the community by enforcing codes and regulations governing tobacco and
+nicotine use, the environment and environmental health, food establishments, housing, sharps/needle collection and
+keeping of animals.
+Description
+The Health Department is a division of the Health and Human Services Department (HHS), formed in FY20, in
+conjunction with the Youth and Family Services Department, the Council on Aging (COA), and Recreation
+Department.
+Working under the general direction of the five (5) elected BOH members, through performance of statutory and
+regulatory obligations and coalition building, the Health Department Staff operationally execute their mission and
+that of the BOH for the benefit of all Bedford residents and businesses.
+FY 26 Accomplishments
+Worked closely with the six other towns in the Great Meadows Health Collaborative (GMPHC) and the Regional
+Substance Use Prevention Coordinator, to develop and disseminate Bedford's Opioid Settlement Fund Survey.
+Coordinated, planned, and hosted a total of 20 vaccine clinics which served 703 Bedford residents and
+community members.
+Added four new clinics to its schedule, and flu vaccines to home-bound residents.
+Launched Bedford's Community Naloxone Program to order Narcan distribution cabinets in each of the Town
+buildings.
+Installed medical sharps collection kiosk in the Town Center Building. This new model locks if the kiosk is full
+which prevents kiosks being jammed with sharps containers.
+The hoarding task force with interdepartmental support, including the Health Department, Fire Department,
+Police Department, and social work team, worked together to allow people to remain in their own homes safely.
+FY 27 Department Goals
+Analyze and synthesize the results of Bedford's Opioid Settlement Fund Survey to make data-informed decisions
+about how to best spend Bedford's funds.
+Utilize the online permitting platform PermitEyes to process summer camp permit applications.
+Utilize state funded Housing Code Pro software to streamline housing inspections.
+FY2027 Proposed Operating Budget | Bedford Page 86
+
+=== Page 87 | Personnel ===
+Board of Health
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Health/Human 1.00 1.00 1.00 1.00
+Executive Asst 1.00 1.00 1.00 1.00
+Commun. R.N. 1.00 1.00 1.00 1.00
+Asst. Health Dir 1.00 1.00 1.00 1.00
+TOTAL 4.00 4.00 4.00 4.00
+FY2027 Proposed Operating Budget | Bedford Page 87
+
+=== Page 88 | Board of Health Financials ===
+Board of Health Financials
+Board of Health Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+BOARD OF HEALTH 420,781 462,056 548,412 18.69%
+HAZARDOUS WASTE 27,438 28,261 - -
+MOSQUITO CONTROL 43,303 44,602 - -
+Total Expenditures 491,522 534,919 548,412 2.52%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$600K
+$$ $555333555KKK $$ $555444888KKK
+$$ $444888888KKK $$ $444999666KKK
+$400K
+$200K
+0
+FY2024 FY2025 FY2026 FY2027
+OTHER EXPENSE SUPPLIES & MATERIAL CONTRACTED SERVICES
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+548K
+PROFESSIONAL SALARY $399,634 72.87%
+CONTRACTED SERVICES $120,845 22.04%
+SUPPLIES & MATERIAL $15,363 2.80%
+OTHER EXPENSE $12,570 2.29%
+FY2027 Proposed Operating Budget | Bedford Page 88
+
+=== Page 90 | Hazardous WasteMission StatementDescription ===
+Hazardous Waste
+Hazardous Waste
+Mission Statement
+To provide residents with a convenient, legal and affordable mechanism for proper disposal of household hazardous
+wastes and medical sharps.
+Description
+On behalf of the Select Board, the Health Department represents the Town in a regional collaboration with eight other
+communities to provide a cost effective household hazardous waste collection and disposal program. There are eight
+monthly collections each year, April through November. Residents pre-register for an event, arrive at the disposal
+location (currently the Lexington Landfill on Hartwell Avenue) with an ID or utility bill displaying a Bedford address
+and their waste is collected for proper disposal. The Health Department website maintains a listing of materials
+approved for disposal at the events.
+In response to the ban on disposal of household medical sharps in household trash which went into effect on July 1,
+2012, the Health Department manages two Household Medical Sharps collection kiosks at the Police Department and
+the Fire Department for collection of medical sharps (lancets and needles).
+Significant Changes
+In FY26, initiated a new flow for waste drop off at the Minuteman Household Hazardous Waste Collaborative
+venue which shortened the wait time for residents by approximately 50 percent.
+FY 26 Accomplishments
+Hosted 8 collection events, one of which was held on a week-day evening (versus only Saturdays) to allow for
+more resident access.
+Bedford CERT staffed the event that Bedford was required to support as part of its membership in the
+collaborative.
+Successfully new on-site technology for tracking resident utilization and waste volumes.
+FY 27 Department Goals
+Provide cost effective, convenient and proper disposal of household hazardous wastes (HHW) for Bedford
+residents. Provide safe and proper disposal of medical sharps to Bedford residents in compliance with the 2012
+ban on medical sharps from household trash. Provide a means of proper disposal to prevent needle sticks by
+trash handling personnel.
+We seek to add an additional mid-week evening event and/or a Sunday HHW collection event in FY27.
+We seek to add additional kiosks for disposal and more frequent vendor collection of sharps and prescription
+drugs from the kiosks due to increased utilization of these services by Bedford residents.
+FY2027 Proposed Operating Budget | Bedford Page 90
+
+=== Page 91 | Mosquito ControlMission StatementDescription ===
+Mosquito Control
+Mosquito Control
+Mission Statement
+To provide public health protection from mosquito borne diseases and to provide relief from mosquito nuisance(s).
+Description
+On behalf of the Select Board, the Health Department collaborates with our mosquito control service provider, East
+Middlesex Mosquito Control Project, who provides a professional, multi-disciplined and regional approach to mosquito
+control. This includes all labor, equipment and overhead costs associated with, but not limited to: surveillance
+activities, laboratory testing, larval and adult mosquito control and ditch maintenance.
+Significant Changes
+No significant changes in FY26.
+FY 26 Accomplishments
+700 packets of the larvacide treatment were supplied to DPW for catch basin applications.
+One helicopter application of the larvacide treatment was applied to 230 acres of wetlands in town.
+14 locations in town were visited to inspect for mosquito larvae and when necessary, mosquito larvae were
+treated.
+6 truck mounted spraying events through town to treat for adult mosquitoes.
+33 mosquito pool samples were submitted to be tested for EEE and West Nile virus; 2 samples tested positive for
+WNV.
+No mosquitoes were identified with EEE. No human cases with EEE or WNV were identified in 2025.
+22 traps were set to collect mosquitoes for population evaluation.
+FY 27 Department Goals
+Meet once annually with the Commissioners of the East Middlesex Mosquito Control Project to learn of trends
+and plans for the annual regional mosquito response. Meet as needed with Project staff to address any special
+activities required for prevention of mosquito-borne diseases and public health nuisances relative to mosquitoes.
+Throughout the mosquito season, typically May through November, engage in outreach via the Health
+Department website and social and print media, provide robust education to the public on mosquito bite
+prevention activities and methods to reduce mosquito populations on and around their property.
+FY2027 Proposed Operating Budget | Bedford Page 91
+
+=== Page 92 | Bedford Local TransitMission Statement ===
+Bedford Local Transit
+Bedford Local Transit
+Mission Statement
+The purpose of the Bedford Local Transit (BLT) service is to assist the
+Town in meeting the transportation needs of older adults, and people
+with disabilities, when the transportation is unavailable, insufficient,
+or inappropriate to meet these needs.
+Description
+The BLT is a door-to-door, public transportation service provided by
+the Town of Bedford. The service is part-funded by a grant from the
+MassDOT and the MBTA. The BLT offers on-demand service to
+destinations in the town of Bedford. Same day rides must be
+arranged between 7:30am and 8:30am daily. In-town medical rides
+require 3 days notice. Weekly trips to Market Basket in Billerica are provided every Tuesday and Thursday. These rides
+require advanced reservation, as seating is limited. No other out-of-town rides are available at this time. The BLT is
+available to all town residents. It is equipped with ADA complaint features and operates using a wheelchair-assessible
+van.
+Significant Changes
+The BLT conducted a summer/fall trial of 4-day service with later days Monday - Thursday. A community survey
+was conducted, and the hours have been adjusted based on rider preferences, which is now: Monday - Thursday
+from 7:30am - 3:30pm and Fridays 7:30am - 12:30pm.
+FY 26 Accomplishments
+A total of 4,475 rides were provided, including 2,863 for disabled riders, 142 for adults, and 1,470 for elders. The
+service operated for 224 days, covering 12,190 miles. The Town received $11,225 in 50% service reimbursement
+through a Supplemental Transportation Grant from MassDOT, along with $4,489 in rider fares.
+FY 27 Department Goals
+To address accessible transportation inequities for seniors, veterans, residents with disabilities and those with
+limited resources who do not qualify for alternative resources.
+To provide accessible, medical transportation to out-of-town destinations to meet rising demand.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Oper./Cord. 1.00 1.00 1.00 1.00
+Substitute 0.10 0.10 0.10 0.10
+TOTAL 1.10 1.10 1.10 1.10
+FY2027 Proposed Operating Budget | Bedford Page 92
+
+=== Page 93 | Bedford Local Transit Financials ===
+Bedford Local Transit Financials
+Bedford Local Transit Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+BEDFORD LOCAL TRANSIT $68,289 $72,335 $73,685 1.87%
+Total Expenditures $68,289 $72,335 $73,685 1.87%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$100K
+$$ $777222KKK $$ $777444KKK
+$75K $$ $666666KKK
+$$ $666000KKK
+$50K
+$25K
+0
+FY2024 FY2025 FY2026 FY2027
+CONTRACTED SERVICES OTHER EXPENSE PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+73.7K
+PROFESSIONAL SALARY $71,535 97.08%
+OTHER EXPENSE $1,550 2.10%
+CONTRACTED SERVICES $600 0.81%
+FY2027 Proposed Operating Budget | Bedford Page 93
+
+=== Page 95 | Council on AgingMission Statement ===
+Council on Aging
+Council on Aging
+Mission Statement
+The mission of the Bedford Council on Aging
+is to advocate for and support the well-being
+of people over 60 ensuring Bedford remains a
+vibrant and inclusive place to age with dignity,
+independence and purpose.
+Description
+The Bedford Council on Aging is a department of the Town, under the Health and Human Services Department,
+dedicated to the health and well-being of Bedford’s residents aged 60 and older, currently 29% of the Town’s
+population. The senior population, aged 60 and older, grows in number every year both locally and nationally. It is the
+purpose of the COA Board and staff to ensure programs and services meet the needs of the older members of the
+Bedford Community. The COA aids and supports caregivers, families and professional elder service providers on whom
+Bedford elders depend. The COA also promotes an interdependent, multigenerational community by encouraging all
+residents aged 60 to 100+ to engage with the wide range of COA programs and essential services that are available.
+Younger family members and caregivers are also supported while caring for older family members at home, or in
+another state. All COA activities, programs and services are designed to assist older residents of Bedford and their
+loved ones to meet the physical, emotional, social, spiritual and financial challenges of aging. Other goals of our
+programs include providing opportunities for personal development, new experiences, life-long learning and overall
+fulfillment at later stages of life. To reach as many older adults as possible the COA is open Monday through Friday and
+Saturdays. In-person, virtual, hybrid and occasional cable programs are also provided to reach and encourage
+engagement in various forms.
+Significant Changes
+Formally recognized as a state certified COA Director/Center; this certification is valid for five years
+The COA Board developed Mission, Vision, Core Values, Operational Procedures, Marketing, Outreach and
+Strategic Plans.
+FY2027 Proposed Operating Budget | Bedford Page 95
+
+=== Page 96 | FY 26 Accomplishments ===
+Council on Aging
+FY 26 Accomplishments
+Collected over $7,400 in program fees
+Delivered 15-week workshops and support groups for individuals with hoarding disorders; developed an ongoing
+monthly 'Clutter Free Friends' support group for program alumni, fostering peer connection and shared
+accountability for clutter-free living.
+Awarded $13,400 in Service Incentive Grants from Massachusetts Councils on Aging to fund outreach efforts and
+hearing technology initiatives
+Administered the second year of the Senior and Veteran Tax Work-Off Program
+Completed the fifth year of the Social Service Internship Program with the Health and Human Services
+Department
+Continued successful Saturday LGBTQIA+ programming in collaboration with Minuteman Senior Services and the
+Aging Project of Boston
+FY 27 Department Goals
+Increase the reimbursement from $1,000 to $1,500, per qualified household, for the Senior/Veteran Tax Work Off
+Program.
+Collaborate with the Disability Commission in promoting equitable access to programs, services, transport and
+facilities.
+To develop fundraising efforts in accordance with G.L. c.44, S 53A to fund COA programs and services.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director 1.00 1.00 1.00 1.00
+Admin. Assistant I 1.00 1.00 1.00 1.00
+Dept. Assistant I 0.65 0.65 0.65 0.34
+Social Worker 1.00 1.00 1.00 1.00
+TOTAL 3.65 3.65 3.65 3.34
+FY2027 Proposed Operating Budget | Bedford Page 96
+
+=== Page 97 | Council on Aging FinancialsExpenditures by Department ===
+Council on Aging Financials
+Council on Aging Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+COUNCIL ON AGING 281,591 314,442 329,423 4.76%
+Total Expenditures 281,591 314,442 329,423 4.76%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$400K
+$$ $333222999KKK
+$$ $333000999KKK $$ $333111444KKK
+$$ $222888555KKK
+$300K
+$200K
+$100K
+0
+FY2024 FY2025 FY2026 FY2027
+CAPITAL CONTRACTED SERVICES SUPPLIES & MATERIAL
+OTHER EXPENSE PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+329K
+PROFESSIONAL SALARY $307,453 93.33%
+OTHER EXPENSE $9,513 2.89%
+SUPPLIES & MATERIAL $7,484 2.27%
+CONTRACTED SERVICES $4,973 1.51%
+FY2027 Proposed Operating Budget | Bedford Page 97
+
+=== Page 99 | Youth and Family ServicesMission Statement ===
+Youth and Family Services
+Youth and Family Services
+Mission Statement
+Youth & Family Services (YFS) is committed to identify the social, emotional and developmental needs of children,
+youth, adults and families in Bedford and through programs, services, outreach and support, strive to meet those
+needs. The Lexington-Bedford-Carlisle Veterans District mission is to support veterans and their families in need of
+service and provide information and access to services for which they are eligible under the law.
+Description
+YFS is a division of the Health and Human Services Department (HHS), formed in FY20, in conjunction with the Health
+Department, the Council on Aging and the Recreation Department.
+In executing its mission, YFS provides supportive counseling, community education, prevention resources, social
+service outreach, youth empowerment and healthy community programming and wellness outreach. YFS is also the
+managing department of the Bedford Food Bank. YFS staff work closely with schools, police, other town departments,
+community agencies and citizen groups. We envision a town committed to the well-being and safety of children,
+youth, adults, including veterans, and families; a town that promotes community awareness of healthy lifestyles; and a
+community where these commitments are demonstrated in policies and actions.
+The Department continues to promote inclusiveness, diversity, and cultural competence in both our individual and
+programmatic dealings. To that end, the 9-member YFS Committee, which typically meets 5 times annually, provides
+advice to the Department on programs and services that identify and address the social, emotional, and
+developmental needs of children, youth, adults and families in Bedford.
+Significant Changes
+In FY26, YFS entered into a new partnership with Edinburg Center to provide outpatient therapy, community
+presentations and support groups for the Bedford community.
+In FY26, utilizing Community Preservation Act Funds, HHS took over management of the Life Skills Management
+Program in partnership with Community Teamwork, Inc., of Lowell, offering financial coaching, tax services, and
+financial literacy classes.
+The grant funded Food Bank Transportation Assistant, hired in FY25, allowed the Food Bank to acquire 20%
+additional free product from new and existing partners, over FY25.
+FY2027 Proposed Operating Budget | Bedford Page 99
+
+=== Page 100 | FY 26 Accomplishments ===
+Youth and Family Services
+FY 26 Accomplishments
+YFS received a $1,500 grant from Emerson Hospital to install 'happy to chat' benches in the Town Center Circle, to
+encourage community and offer a welcoming place to gather.
+The Bedford Food Bank addressed increasing resident food insecurity by serving over 300 unique households.
+YFS hosted two separate community groups of 'Clear the Clutter' which is a support group for Hoarding Disorder.
+YFS hosted 2 Social Work interns from Boston University and Merrimack College who have assisted in providing
+community services.
+YFS, through ongoing partnerships with Cradles to Crayons, Hope and Comfort, Salvation Army, Knights of
+Columbus, and the Bedford Rotary, continues to supply the community with items that provide direct financial
+relief including diapers, winter coats/ clothing, hygiene products, holiday toys, backpacks, and emergency gift
+cards/grocery vouchers.
+FY 27 Department Goals
+YFS will continue the Social Work Internship Program with the onboarding of a social work intern. The Social
+Work interns assist the Social Service team with supportive programming and gain experience serving residents.
+Through the use of opioid settlement funds, expand programming to address youth mental health.
+Implement a parenting program and support group similar to the 'Parenting Journey' model.
+The Bedford Food Bank will seek other donors, collaborators and vendors to access nutrient dense food.
+The Bedford Food Bank will expand fundraising efforts to support the enduring operations of the program.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Food Bank Coordinator 0.90 0.90 1.00 1.00
+Social Worker 1.00 1.00 1.00 1.00
+Youth Social Worker 1.00 1.00 1.00 1.00
+TOTAL 2.90 2.90 3.00 3.00
+FY2027 Proposed Operating Budget | Bedford Page 100
+
+=== Page 101 | Youth and Family Services Financials ===
+Youth and Family Services Financials
+Youth and Family Services Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+YOUTH AND FAMILY SERVICES 585,753 641,186 661,167 3.12%
+Total Expenditures 585,753 641,186 661,167 3.12%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$750K
+$$ $666444111KKK $$ $666666111KKK
+$$ $666111555KKK
+$$ $555888555KKK
+$500K
+$250K
+0
+FY2024 FY2025 FY2026 FY2027
+SUPPLIES & MATERIAL CONTRACTED SERVICES OTHER EXPENSE
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+661K
+PROFESSIONAL SALARY $311,186 47.07%
+OTHER EXPENSE $182,900 27.66%
+CONTRACTED SERVICES $165,539 25.04%
+SUPPLIES & MATERIAL $1,542 0.23%
+FY2027 Proposed Operating Budget | Bedford Page 101
+
+=== Page 103 | Culture & Recreation ===
+Culture & Recreation
+Culture & Recreation
+The following pages comprise the Culture & Recreation section.
+FY2027 Proposed Operating Budget | Bedford Page 103
+
+=== Page 104 | LibraryMission Statement ===
+Library
+Library
+Mission Statement
+The Bedford Free Public Library provides free and open
+access to information, knowledge, and the pursuit of
+ideas in an environment that is comfortable and
+welcoming to patrons of all ages, abilities, and cultures
+within and beyond its walls.
+Description
+The Bedford Free Public Library serves as a central resource for the town, supporting the informational, educational,
+and recreational needs of the Bedford community. The library is open 60 hours per week (56 hours during the
+summer) and provides access to materials for borrowing, study, and research.
+Library collections include print and electronic books, magazines, and newspapers, as well as digital media, streaming
+services, DVDs, CDs, a Library of Things, and museum passes. Materials may also be borrowed through the Minuteman
+Library Network and other library partnerships.
+Information services are a priority, with access to online databases, print resources, and assistance from professional
+librarians. The Children’s Room offers diverse materials and year-round programs, including story times and a robust
+summer reading program. Adult programs such as author talks, book groups, lectures, and film screenings are offered
+throughout the year.
+Significant Changes
+Hired a new Director, Assistant Director, and Head of Technical Services.
+FY 26 Accomplishments
+The BFPL HVAC project was completed.
+New digital projector and assisted listening system installed in Meeting Room.
+Additional security cameras installed in the building.
+Strategic Planning process has begun, scheduled completion by June 2026.
+Main lobby and atrium painted.
+FY 27 Department Goals
+Paint additional areas including Local History Room, both study rooms, and hallways off of Main Lobby and
+atrium
+Replace meeting room tables and chairs
+Increase in-person adult programming offerings
+FY2027 Proposed Operating Budget | Bedford Page 104
+
+=== Page 105 | Personnel ===
+Library
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director/Asst Director 2.00 2.00 2.00 2.00
+Executive Asst 1.00 1.00 1.00 1.00
+Maint. Sup./Cust. 1.90 1.90 1.90 2.08
+Children's Librarian 1.90 1.90 1.90 2.81
+Library Assistant 4.35 4.35 4.35 2.23
+Pages 0.95 0.95 0.95 0.88
+Reference Librarian 2.20 2.20 2.20 2.83
+Sr. Library Technicians 3.00 3.00 3.00 3.00
+Technical Svcs Librarian 1.00
+TOTAL 17.30 17.30 17.30 17.83
+FY2027 Proposed Operating Budget | Bedford Page 105
+
+=== Page 106 | Library FinancialsExpenditures by Department ===
+Library Financials
+Library Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+LIBRARY 1,518,205 1,668,212 1,719,795 3.09%
+Total Expenditures 1,518,205 1,668,212 1,719,795 3.09%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$2,000K
+$$$222MMM
+$$$222MMM $$$222MMM
+$$$111MMM
+$1,500K
+$1,000K
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+CAPITAL OTHER EXPENSE CONTRACTED SERVICES
+SUPPLIES & MATERIAL PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+1.72M
+PROFESSIONAL SALARY $1,369,895 79.65%
+SUPPLIES & MATERIAL $265,000 15.41%
+CONTRACTED SERVICES $79,300 4.61%
+OTHER EXPENSE $5,600 0.33%
+FY2027 Proposed Operating Budget | Bedford Page 106
+
+=== Page 108 | Recreation CommissionMission Statement ===
+Recreation Commission
+Recreation Commission
+Mission Statement
+To enhance the quality of life for a thriving, cohesive community by
+offering a variety of recreation opportunities that meet the diverse
+needs and desires of the residents of Bedford.
+Description
+The Town of Bedford Recreation Department offers various
+programs to the community. In addition to participation in the
+programs, opportunities abound for involvement in roles such as
+coach, referee, counselor, lifeguard, instructor, chaperone and
+more. Administrative cost of the Recreation Director is covered by
+funds appropriated at Annual Town Meeting. Department
+guidelines are established by a five-member Commission
+appointed by the Select Board. The Commission meets once per
+month.
+Significant Changes
+Long time Program Coordinator retired; the department hired her replacement in FY26.
+Hired a new Director for the Summer Adventures program.
+FY 26 Accomplishments
+Managed the Sabourin Track and Turf Field Renovation project.
+Completed the Springs Brook Park Future Use Study & Master Plan.
+Installed batting cages for baseball/softball field at Page field and C field using Community Preservation funding.
+Increased middle school aged programming.
+Offered more programming for inclusion and special needs.
+FY 27 Department Goals
+Seek funding for the replacement of the outdoor lights at the Town Center basketball and tennis courts.
+Continue to evaluate program offerings to ensure that the community’s needs and desires are met to the
+greatest extent possible.
+Explore a field renovation project at Springs Brook Park.
+Further prioritize inclusion options and programming for children and continue to offer more programming to
+meet these needs.
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Director 1.00 1.00 0.50 0.50
+TOTAL 1.00 1.00 0.50 0.50
+FY2027 Proposed Operating Budget | Bedford Page 108
+
+=== Page 109 | Recreation Commission Financials ===
+Recreation Commission Financials
+Recreation Commission Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt (%
+Change)
+RECREATION COMMISSION 105,601 57,108 60,456 5.86%
+Total Expenditures 105,601 57,108 60,456 5.86%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$150K
+$$ $111000666KKK $$ $111111000KKK
+$100K
+$$ $555777KKK $$ $666000KKK
+$50K
+0
+FY2024 FY2025 FY2026 FY2027
+PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+60.5K
+PROFESSIONAL SALARY $60,456 100.00%
+Expenditures by Expense Object Category
+FY24 FY25 FY26 FY27 Dept FY27 TM FY27 SB FY27 FC FY27 ATM
+Category
+Budget Budget Budget Rec Rec Rec Rec Adopt
+PROFESSIONAL SALARY 88,000 105,601 57,108 60,456 60,456 60,456 60,456 60,456
+Total Expenditures 88,000 105,601 57,108 60,456 60,456 60,456 60,456 60,456
+FY2027 Proposed Operating Budget | Bedford Page 109
+
+=== Page 110 | Enterprise Funds ===
+Enterprise Funds
+Enterprise Funds
+The following pages comprise the Enterprise Funds section.
+FY2027 Proposed Operating Budget | Bedford Page 110
+
+=== Page 111 | Ambulance Enterprise FundMission Statement ===
+Ambulance Enterprise Fund
+Ambulance Enterprise Fund
+Mission Statement
+The Bedford Fire Department is a professional and dedicated
+organization that is constantly evolving to meet the ever-changing
+demands of the community. Our organization is guided by moral
+and ethical principals in providing the highest level of quality of
+services, training/professional development, fiscal responsibility and
+direct community interaction and involvement. We are forever
+committed to successfully responding to and mitigating the
+challenges of fire, rescue, medical emergencies, hazardous
+materials, disaster preparedness and national security by promoting
+fire prevention, public education and community risk reduction.
+Description
+This budget is for the Town’s Emergency Medical Services provided through the Fire Department. The budget is
+appropriated through a separate fund established by Town Meeting.
+The members of the Bedford Fire Department are part of the community; as such, they have a vested interest in
+providing the highest level of medical care to the Town of Bedford. This starts with providing emergency medical
+dispatch when the call is received, responding with the appropriate level of care for the illness or injury, and using a
+comprehensive quality assurance and training program.
+Significant Changes
+Trained and certified three (3) firefighters as National Registered Emergency Medical -Technician Paramedic level
+from October 2025 to December 2025.
+FY 26 Accomplishments
+All department guidelines, procedures, protocols, and policies became web-based on July 1, 2025.
+Designed replacement ambulance with manufacturer; Delivery expected in summer 2026.
+FY 27 Department Goals
+Ensure ambulance enterprise account continues to grow with staffing of 2 fire department ambulances full-time.
+Initiate fire department health and wellness program focused on annual medical screenings, nutrition, and
+functional strength training.
+Research, apply for, and obtain grant funding that can be used to supplement fire department health and
+wellness programs.
+FY2027 Proposed Operating Budget | Bedford Page 111
+
+=== Page 112 | Personnel ===
+Ambulance Enterprise Fund
+Personnel
+FY 2024 FY 2025 FY2026 FY2027
+Actual Actual Actual Recom
+Chief - - 0.50 0.50
+Executive Assistant - - - 0.50
+PT Billing Admin 0.50 0.50 0.50 -
+Lieutenants - - - 1.00
+Firefighters 8.00 8.00 8.00 8.00
+TOTAL 8.50 8.50 9.00 10.00
+FY2027 Proposed Operating Budget | Bedford Page 112
+
+=== Page 113 | Ambulance Enterprise Fund Financials ===
+Ambulance Enterprise Fund Financials
+Ambulance Enterprise Fund Financials
+Expenditures by Department
+Expenditures by Department
+FY26 Budget vs.
+Category FY25 Budget FY26 Budget FY27 ATM Adopt FY27 ATM Adopt
+Budget (% Change)
+AMBULANCE 1,260,018 1,354,352 1,665,864 23.00%
+Total Expenditures 1,260,018 1,354,352 1,665,864 23.00%
+Expenditures by Expense Object Category
+Historical Expenditures by Expense Object Category
+$2,000K
+$$$222MMM
+$1,500K $$$111MMM
+$$$111MMM
+$$$111MMM
+$1,000K
+$500K
+0
+FY2024 FY2025 FY2026 FY2027
+CAPITAL OTHER EXPENSE SUPPLIES & MATERIAL
+CONTRACTED SERVICES PROFESSIONAL SALARY
+FY27 Expenditures by Expense Object Category
+1.67M
+PROFESSIONAL SALARY $1,368,983 82.18%
+CONTRACTED SERVICES $166,908 10.02%
+SUPPLIES & MATERIAL $99,852 5.99%
+OTHER EXPENSE $30,121 1.81%
+FY2027 Proposed Operating Budget | Bedford Page 113
+
+=== Page 115 | Capital Improvement One Year Plan ===
+Capital Improvement One Year Plan
+FY2027 Proposed Operating Budget | Bedford Page 115
+
+=== Page 116 | Appendix ===
+Appendix
+Appendix
+THIS PAGE INTENTIONALLY LEFT BLANK
+FY2027 Proposed Operating Budget | Bedford Page 116
+
+=== Page 117 | Glossary ===
+Glossary
+Glossary
+Abatement: A reduction or elimination of a real or personal property tax, motor vehicle excise, a fee, charge, or special
+assessment imposed by a governmental unit. Granted only on application of the person seeking the abatement and
+only by the committing governmental unit.
+Accounting System: The total structure of records and procedures that identify record, classify, and report
+information on the financial position and operations of a governmental unit or any of its funds, account groups, and
+organizational components.
+Accrued Interest: The amount of interest that has accumulated on the debt since the date of the last interest
+payment, and on the sale of a bond, the amount accrued up to but not including the date of delivery (settlement
+date). (See Interest)
+ACFR: Annual Comprehensive Financial Report - A detailed report of an organization's financial activities and
+performance over the fiscal year.
+Amortization: The gradual repayment of an obligation over time and in accordance with a predetermined payment
+schedule.
+Appropriation: A legal authorization from the community's legislative body to expend money and incur obligations
+for specific public purposes. An appropriation is usually limited in amount and as to the time period within which it
+may be expended.
+Arbitrage: As applied to municipal debt, the investment of tax-exempt bonds or note proceeds in higher yielding,
+taxable securities. Section 103 of the Internal Revenue Service (IRS) Code restricts this practice and requires (beyond
+certain limits) that earnings be rebated (paid) to the IRS.
+Assessed Valuation: A value assigned to real estate or other property by a government as the basis for levying taxes.
+Assets: Items owned by an organization that have economic value, such as cash, investments, property, and
+equipment.
+Audit: An examination of a community's financial systems, procedures, and data by a certified public accountant
+(independent auditor), and a report on the fairness of financial statements and on local compliance with statutes and
+regulations. The audit serves as a valuable management tool in evaluating the fiscal performance of a community.
+Audit Report: Prepared by an independent auditor, an audit report includes: (a) a statement of the scope of the audit;
+(b) explanatory comments as to application of auditing procedures; (c) findings and opinions. It is almost always
+accompanied by a management letter which contains supplementary comments and recommendations.
+Available Funds: Balances in the various fund types that represent non-recurring revenue sources. As a matter of
+sound practice, they are frequently appropriated to meet unforeseen expenses, for capital expenditures or other one-
+time costs.
+Balance Sheet: A statement that discloses the assets, liabilities, reserves and equities of a fund or governmental unit
+at a specified date.
+Betterments (Special Assessments): Whenever a specific area of a community receives benefit from a public
+improvement (e.g., water, sewer, sidewalk, etc.), special property taxes may be assessed to reimburse the
+governmental entity for all or part of the costs it incurred. Each parcel receiving benefit from the improvement is
+assessed for its proportionate share of the cost of such improvements. The proportionate share may be paid in full or
+the property owner may request that the assessors apportion the betterment over 20 years. Over the life of the
+FY2027 Proposed Operating Budget | Bedford Page 117
+
+=== Page 118 | Glossary ===
+Glossary
+betterment, one year’s apportionment along with one year’s committed interest computed from October 1 to October
+1 is added to the tax bill until the betterment has been paid.
+Bond: A means to raise money through the issuance of debt. A bond issuer/borrower promises in writing to repay a
+specified sum of money, alternately referred to as face value, par value or bond principal, to the buyer of the bond on a
+specified future date (maturity date), together with periodic interest at a specified rate. The term of a bond is always
+greater than one year. (See Note)
+Bond and Interest Record: (Bond Register) – The permanent and complete record maintained by a treasurer for each
+bond issue. It shows the amount of interest and principal coming due each date and all other pertinent information
+concerning the bond issue.
+Bonds Authorized and Unissued: Balance of a bond authorization not yet sold. Upon completion or abandonment of
+a project, any remaining balance of authorized and unissued bonds may not be used for other purposes, but must be
+rescinded by the community's legislative body to be removed from community's books.
+Bond Issue: Generally, the sale of a certain number of bonds at one time by a governmental unit.
+Bond Rating (Municipal): A credit rating assigned to a municipality to help investors assess the future ability, legal
+obligation, and willingness of the municipality (bond issuer) to make timely debt service payments. Stated otherwise,
+a rating helps prospective investors determine the level of risk associated with a given fixed-income investment.
+Rating agencies, such as Moody's and Standard and Poors, use rating systems, which designate a letter or a
+combination of letters and numerals where AAA is the highest rating and C1 is a very low rating.
+Budget: A plan for allocating resources to support particular services, purposes and functions over a specified period
+of time. (See Performance Budget, Program Budget)
+Capital Assets: All real and tangible property used in the operation of government, which is not easily converted into
+cash, and has an initial useful live extending beyond a single financial reporting period. Capital assets include land and
+land improvements; infrastructure such as roads, bridges, water and sewer lines; easements; buildings and building
+improvements; vehicles, machinery and equipment. Communities typically define capital assets in terms of a
+minimum useful life and a minimum initial cost. (See Fixed Assets)
+Capital Budget: An appropriation or spending plan that uses borrowing or direct outlay for capital or fixed asset
+improvements. Among other information, a capital budget should identify the method of financing each
+recommended expenditure, i.e., tax levy or rates, and identify those items that were not recommended. (See Capital
+Assets, Fixed Assets)
+Cash: Currency, coin, checks, postal and express money orders and bankers’ drafts on hand or on deposit with an
+official or agent designated as custodian of cash and bank deposits.
+Cash Flow: The movement of money into or out of an organization, showing its liquidity and ability to meet financial
+obligations.
+Cash Management: The process of monitoring the ebb and flow of money in an out of municipal accounts to ensure
+cash availability to pay bills and to facilitate decisions on the need for short- term borrowing and investment of idle
+cash.
+Certificate of Deposit (CD): A bank deposit evidenced by a negotiable or non-negotiable instrument, which provides
+on its face that the amount of such deposit plus a specified interest payable to a bearer or to any specified person on a
+certain specified date, at the expiration of a certain specified time, or upon notice in writing.
+FY2027 Proposed Operating Budget | Bedford Page 118
+
+=== Page 119 | Glossary ===
+Glossary
+Classification of Real Property: Assessors are required to classify all real property according to use into one of four
+classes: residential, open space, commercial, and industrial. Having classified its real properties, local officials are
+permitted to determine locally, within limitations established by statute and the Commissioner of Revenue, what
+percentage of the tax burden is to be borne by each class of real property and by personal property owners.
+Collective Bargaining: The process of negotiating workers' wages, hours, benefits, working conditions, etc., between
+an employer and some or all of its employees, who are represented by a recognized labor union, regarding wages,
+hours and working conditions.
+Compliance: Adherence to relevant laws, regulations, and internal policies governing financial reporting and
+operations.
+Consumer Price Index: The statistical measure of changes, if any, in the overall price level of consumer goods and
+services. The index is often called the "cost-of-living index."
+Cost-Benefit Analysis: A decision-making tool that allows a comparison of options based on the level of benefit
+derived and the cost to achieve the benefit from different alternatives.
+Debt Burden: The amount of debt carried by an issuer usually expressed as a measure of value (i.e., debt as a
+percentage of assessed value, debt per capita, etc.). Sometimes debt burden refers to debt service costs as a
+percentage of the total annual budget.
+Debt Service: The repayment cost, usually stated in annual terms and based on an amortization schedule, of the
+principal and interest on any particular bond issue.
+Encumbrance: A reservation of funds to cover obligations arising from purchase orders, contracts, or salary
+commitments that are chargeable to, but not yet paid from, a specific appropriation account.
+Enterprise Funds: An enterprise fund is a separate accounting and financial reporting mechanism for municipal
+services for which a fee is charged in exchange for goods or services. It allows a community to demonstrate to the
+public the portion of total costs of a service that is recovered through user charges and the portion that is subsidized
+by the tax levy, if any. With an enterprise fund, all costs of service delivery — direct, indirect, and capital costs — are
+identified. This allows the community to recover total service costs through user fees if it chooses. Enterprise
+accounting also enables communities to reserve the "surplus" or net assets unrestricted generated by the operation of
+the enterprise rather than closing it out to the general fund at year-end. Services that may be treated as enterprises
+include, but are not limited to, water, sewer, hospital, and airport services.
+Equalized Valuations (EQVs): The determination of the full and fair cash value of all property in the community that is
+subject to local taxation.
+Equity: The residual interest in the assets of an organization after deducting liabilities, representing the owners' stake
+in the business.
+Estimated Receipts: A term that typically refers to anticipated local revenues often based on the previous year's
+receipts and represent funding sources necessary to support a community's annual budget. (See Local Receipts)
+Exemptions: A discharge, established by statute, from the obligation to pay all or a portion of a property tax. The
+exemption is available to particular categories of property or persons upon the timely submission and approval of an
+application to the assessors. Properties exempt from taxation include hospitals, schools, houses of worship, and
+cultural institutions. Persons who may qualify for exemptions include disabled veterans, blind individuals, surviving
+spouses, and seniors.
+FY2027 Proposed Operating Budget | Bedford Page 119
+
+=== Page 120 | Glossary ===
+Glossary
+Expenditure: An outlay of money made by municipalities to provide the programs and services within their approved
+budget.
+Fiduciary Funds: Repository of money held by a municipality in a trustee capacity or as an agent for individuals,
+private organizations, other governmental units, and other funds. These include pension (and other employee benefit)
+trust funds, investment trust funds, private- purpose trust funds, and agency funds.
+Financial Statements: Reports summarizing an organization's financial activities and position, including the balance
+sheet, income statement, and cash flow statement.
+Fiscal Year: The 12-month period for which an organization plans the use of its funds, typically not the same as the
+calendar year.
+Fixed Assets: Long-lived, assets such as buildings, equipment and land obtained or controlled as a result of past
+transactions or circumstances.
+Fixed Costs: Costs that are legally or contractually mandated such as retirement, FICA/Social Security, insurance, debt
+service costs or interest on loans.
+Float: The difference between the bank balance for a local government’s account and its book balance at the end of
+the day. The primary factor creating float is clearing time on checks and deposits. Delays in receiving deposit and
+withdrawal information also influence float.
+Full Faith and Credit: A pledge of the general taxing powers for the payment of governmental obligations. Bonds
+carrying such pledges are usually referred to as general obligation or full faith and credit bonds.
+Fund: An accounting entity with a self-balancing set of accounts that are segregated for the purpose of carrying on
+identified activities or attaining certain objectives in accordance with specific regulations, restrictions, or limitations.
+Fund Accounting: Organizing financial records into multiple, segregated locations for money. A fund is a distinct
+entity within the municipal government in which financial resources and activity (assets, liabilities, fund balances,
+revenues, and expenditures) are accounted for independently in accordance with specific regulations, restrictions or
+limitations. Examples of funds include the general fund and enterprise funds. Communities whose accounting records
+are organized according to the Uniform Municipal Accounting System (UMAS) use multiple funds.
+GAAP: Generally Accepted Accounting Principles - Standard accounting principles, standards, and procedures that
+companies use to compile their financial statements.
+GASB 34: A major pronouncement of the Governmental Accounting Standards Board that establishes new criteria on
+the form and content of governmental financial statements. GASB 34 requires a report on overall financial health, not
+just on individual funds. It requires more complete information on the cost of delivering value estimates on public
+infrastructure assets, such as bridges, road, sewers, etc. It also requires the presentation of a narrative statement the
+government's financial performance, trends and prospects for the future.
+GASB 45: This is another Governmental Accounting Standards Board major pronouncement that each public entity
+account for and report other postemployment benefits in its accounting statements. Through actuarial analysis,
+municipalities must identify the true costs of the OPEB earned by employees over their estimated years of actual
+service.
+General Fund: The fund used to account for most financial resources and activities governed by the normal
+appropriation process.
+FY2027 Proposed Operating Budget | Bedford Page 120
+
+=== Page 121 | Glossary ===
+Glossary
+General Obligation Bonds: Bonds issued by a municipality for purposes allowed by statute that are backed by the full
+faith and credit of its taxing authority.
+Governing Body: A board, committee, commission, or other executive or policymaking body of a municipality or
+school district.
+Indirect Cost: Costs of a service not reflected in the operating budget of the entity providing the service. An example
+of an indirect cost of providing water service would be the value of time spent by non-water department employees
+processing water bills. A determination of these costs is necessary to analyze the total cost of service delivery. The
+matter of indirect costs arises most often in the context of enterprise funds.
+Internal Controls: Policies and procedures implemented by an organization to ensure the reliability of financial
+reporting and compliance with laws and regulations, aiming to prevent fraud and errors.
+Interest: Compensation paid or to be paid for the use of money, including amounts payable at periodic intervals or
+discounted at the time a loan is made. In the case of municipal bonds, interest payments accrue on a day-to-day basis,
+but are paid every six months.
+Interest Rate: The interest payable, expressed as a percentage of the principal available for use during a specified
+period of time. It is always expressed in annual terms.
+Investments: Securities and real estate held for the production of income in the form of interest, dividends, rentals or
+lease payments. The term does not include fixed assets used in governmental operations.
+Liabilities: Debts or obligations owed by an organization, including loans, accounts payable, and accrued expenses.
+Line Item Budget: A budget that separates spending into categories, or greater detail, such as supplies, equipment,
+maintenance, or salaries, as opposed to a program budget.
+Local Aid: Revenue allocated by the state or counties to municipalities and school districts.
+Maturity Date: The date that the principal of a bond becomes due and payable in full.
+Municipal(s): (As used in the bond trade) "Municipal" refers to any state or subordinate governmental unit.
+"Municipals" (i.e., municipal bonds) include not only the bonds of all political subdivisions, such as cities, towns, school
+districts, special districts, counties but also bonds of the state and agencies of the state.
+Net Income: The difference between an organization's revenues and expenses, representing its profit or loss for a
+specific period.
+Note: A short-term loan, typically with a maturity date of a year or less.
+Objects of Expenditures: A classification of expenditures that is used for coding any department disbursement, such
+as “personal services,” “expenses,” or “capital outlay.”
+Official Statement: A document prepared for potential investors that contains information about a prospective bond
+or note issue and the issuer. The official statement is typically published with the notice of sale. It is sometimes called
+an offering circular or prospectus.
+Operating Budget: A plan of proposed expenditures for personnel, supplies, and other expenses for the coming fiscal
+year.
+Overlapping Debt: A community's proportionate share of the debt incurred by an overlapping government entity,
+such as a regional school district, regional transit authority, etc.
+FY2027 Proposed Operating Budget | Bedford Page 121
+
+=== Page 122 | Glossary ===
+Glossary
+Performance Budget: A budget that stresses output both in terms of economy and efficiency.
+Principal: The face amount of a bond, exclusive of accrued interest.
+Program: A combination of activities to accomplish an end.
+Program Budget: A budget that relates expenditures to the programs they fund. The emphasis of a program budget
+is on output.
+Proprietary Funds: Funds used to record the financial transactions of governmental entities when they engage in
+activities that are intended to recover the cost of providing goods or services to the general public on a user-fee basis.
+Purchased Services: The cost of services that are provided by a vendor.
+Refunding of Debt: Transaction where one bond issue is redeemed and replaced by a new bond issue under
+conditions generally more favorable to the issuer.
+Reserve Fund: An amount set aside annually within the budget of a town to provide a funding source for
+extraordinary or unforeseen expenditures.
+Revaluation: The assessors of each community are responsible for developing a reasonable and realistic program to
+achieve the fair cash valuation of property in accordance with constitutional and statutory requirements. The nature
+and extent of that program will depend on the assessors’ analysis and consideration of many factors, including, but
+not limited to, the status of the existing valuation system, the results of an in-depth sales ratio study, and the accuracy
+of existing property record information.
+Revenues: Inflows of resources or other enhancements of assets of an organization, usually from sales of goods or
+services.
+Revenue Anticipation Note (RAN): A short-term loan issued to be paid off by revenues, such as tax collections and
+state aid. RANs are full faith and credit obligations.
+Revenue Bond: A bond payable from and secured solely by specific revenues and thereby not a full faith and credit
+obligation.
+Revolving Fund: Allows a community to raise revenues from a specific service and use those revenues without
+appropriation to support the service.
+Sale of Real Estate Fund: A fund established to account for the proceeds of the sale of municipal real estate other
+than proceeds acquired through tax title foreclosure.
+Stabilization Fund: A fund designed to accumulate amounts for capital and other future spending purposes,
+although it may be appropriated for any lawful purpose.
+Surplus Revenue: The amount by which cash, accounts receivable, and other assets exceed liabilities and reserves.
+Tax Rate: The amount of property tax stated in terms of a unit of the municipal tax base; for example, $14.80 per $1,000
+of assessed valuation of taxable real and personal property.
+Tax Title Foreclosure: The procedure initiated by a municipality to obtain legal title to real property already in tax title
+and on which property taxes are overdue.
+Trust Fund: In general, a fund for money donated or transferred to a municipality with specific instructions on its use.
+As custodian of trust funds, the treasurer invests and expends such funds as stipulated by trust agreements, as
+FY2027 Proposed Operating Budget | Bedford Page 122
+
+=== Page 123 | Glossary ===
+Glossary
+directed by the commissioners of trust funds or by the community's legislative body. Both principal and interest may
+be used if the trust is established as an expendable trust. For nonexpendable trust funds, only interest (not principal)
+may be expended as directed.
+Uncollected Funds: Recently deposited checks included in an account’s balance but drawn on other banks and not
+yet credited by the Federal Reserve Bank or local clearinghouse to the bank cashing the checks. (These funds may not
+be loaned or used as part of the bank’s reserves and they are not available for disbursement.)
+Undesignated Fund Balance: Monies in the various government funds as of the end of the fiscal year that are neither
+encumbered nor reserved, and are therefore available for expenditure once certified as part of free cash.
+Unreserved Fund Balance (Surplus Revenue Account): The amount by which cash, accounts receivable, and other
+assets exceed liabilities and restricted reserves. It is akin to a "stockholders’ equity" account on a corporate balance
+sheet. It is not, however, available for appropriation in full because a portion of the assets listed as "accounts
+receivable" may be taxes receivable and uncollected. (See Free Cash)
+Valuation (100 Percent): The legal requirement that a community’s assessed value on property must reflect its
+market, or full and fair cash value.
+FY2027 Proposed Operating Budget | Bedford Page 123
+

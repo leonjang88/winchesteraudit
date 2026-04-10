@@ -1,406 +1,409 @@
 {
   "town": "bedford",
   "fiscal_year": 2027,
-  "tables": [
+  "rows": [
     {
-      "title": "Expenditures by General Government Department",
-      "rows": [
-        {
-          "description": "SELECT BOARD",
-          "columns": {
-            "FY24_Budget": 1335820,
-            "FY25_Budget": 1311396,
-            "FY26_Budget": 1405290,
-            "FY27_Dept_Rec": 1434811,
-            "FY27_TM_Rec": 1464811,
-            "FY27_SB_Rec": 1464811,
-            "FY27_FC_Rec": 1464811,
-            "FY27_ATM_Adopt": 1464811
-          }
-        },
-        {
-          "description": "FINANCE",
-          "columns": {
-            "FY24_Budget": 1589820,
-            "FY25_Budget": 833447,
-            "FY26_Budget": 946563,
-            "FY27_Dept_Rec": 1070315,
-            "FY27_TM_Rec": 1077315,
-            "FY27_SB_Rec": 1077315,
-            "FY27_FC_Rec": 1077315,
-            "FY27_ATM_Adopt": 1077315
-          }
-        },
-        {
-          "description": "BOARD OF ASSESSORS",
-          "columns": {
-            "FY24_Budget": 298612,
-            "FY25_Budget": 284826,
-            "FY26_Budget": 327137,
-            "FY27_Dept_Rec": 350384,
-            "FY27_TM_Rec": 350384,
-            "FY27_SB_Rec": 350384,
-            "FY27_FC_Rec": 350384,
-            "FY27_ATM_Adopt": 350384
-          }
-        },
-        {
-          "description": "LEGAL SERVICES",
-          "columns": {
-            "FY24_Budget": 200300,
-            "FY25_Budget": 200300,
-            "FY26_Budget": 200300,
-            "FY27_Dept_Rec": 200300,
-            "FY27_TM_Rec": 200300,
-            "FY27_SB_Rec": 200300,
-            "FY27_FC_Rec": 200300,
-            "FY27_ATM_Adopt": 200300
-          }
-        },
-        {
-          "description": "INFORMATION TECHNOLOGY",
-          "columns": {
-            "FY24_Budget": null,
-            "FY25_Budget": 1144129,
-            "FY26_Budget": 1221846,
-            "FY27_Dept_Rec": 1227000,
-            "FY27_TM_Rec": 1227000,
-            "FY27_SB_Rec": 1227000,
-            "FY27_FC_Rec": 1227000,
-            "FY27_ATM_Adopt": 1227000
-          }
-        },
-        {
-          "description": "TOWN CLERK",
-          "columns": {
-            "FY24_Budget": 282351,
-            "FY25_Budget": 302483,
-            "FY26_Budget": 347635,
-            "FY27_Dept_Rec": 374926,
-            "FY27_TM_Rec": 338702,
-            "FY27_SB_Rec": 338702,
-            "FY27_FC_Rec": 338702,
-            "FY27_ATM_Adopt": 338702
-          }
-        },
-        {
-          "description": "ELECTIONS AND REGISTRATIONS",
-          "columns": {
-            "FY24_Budget": 73450,
-            "FY25_Budget": 67600,
-            "FY26_Budget": 29225,
-            "FY27_Dept_Rec": 94675,
-            "FY27_TM_Rec": 54675,
-            "FY27_SB_Rec": 54675,
-            "FY27_FC_Rec": 54675,
-            "FY27_ATM_Adopt": 54675
-          }
-        },
-        {
-          "description": "FACILITIES DEPARTMENT",
-          "columns": {
-            "FY24_Budget": 3473616,
-            "FY25_Budget": 3506241,
-            "FY26_Budget": 3723014,
-            "FY27_Dept_Rec": 3894826,
-            "FY27_TM_Rec": 3885061,
-            "FY27_SB_Rec": 3885061,
-            "FY27_FC_Rec": 3885061,
-            "FY27_ATM_Adopt": 3885061
-          }
-        },
-        {
-          "description": "POLICE DEPARTMENT",
-          "columns": {
-            "FY24_Budget": 4282565,
-            "FY25_Budget": 4444061,
-            "FY26_Budget": 5471614,
-            "FY27_Dept_Rec": 5587665,
-            "FY27_TM_Rec": 5587665,
-            "FY27_SB_Rec": 5744760,
-            "FY27_FC_Rec": 5744760,
-            "FY27_ATM_Adopt": 5744760
-          }
-        },
-        {
-          "description": "FIRE DEPARTMENT",
-          "columns": {
-            "FY24_Budget": 3636468,
-            "FY25_Budget": 3734811,
-            "FY26_Budget": 3724680,
-            "FY27_Dept_Rec": 3943675,
-            "FY27_TM_Rec": 3789301,
-            "FY27_SB_Rec": 3789301,
-            "FY27_FC_Rec": 3789301,
-            "FY27_ATM_Adopt": 3789301
-          }
-        },
-        {
-          "description": "TOWN CENTER",
-          "columns": {
-            "FY24_Budget": 120807,
-            "FY25_Budget": 130621,
-            "FY26_Budget": 118807,
-            "FY27_Dept_Rec": null,
-            "FY27_TM_Rec": 777293,
-            "FY27_SB_Rec": 777293,
-            "FY27_FC_Rec": 778543,
-            "FY27_ATM_Adopt": 778543
-          }
-        },
-        {
-          "description": "CODE ENFORCEMENT",
-          "columns": {
-            "FY24_Budget": 569843,
-            "FY25_Budget": 674182,
-            "FY26_Budget": 733515,
-            "FY27_Dept_Rec": 777293,
-            "FY27_TM_Rec": 777293,
-            "FY27_SB_Rec": 777293,
-            "FY27_FC_Rec": 778543,
-            "FY27_ATM_Adopt": 778543
-          }
-        },
-        {
-          "description": "VOCATIONAL EDUCATION",
-          "columns": {
-            "FY24_Budget": 1059698,
-            "FY25_Budget": 1118000,
-            "FY26_Budget": 1249018,
-            "FY27_Dept_Rec": 1249018,
-            "FY27_TM_Rec": 1249018,
-            "FY27_SB_Rec": 1625701,
-            "FY27_FC_Rec": 1625701,
-            "FY27_ATM_Adopt": 1625701
-          }
-        },
-        {
-          "description": "PUBLIC WORKS/TRAFFIC",
-          "columns": {
-            "FY24_Budget": 16394879,
-            "FY25_Budget": 17397013,
-            "FY26_Budget": 17330224,
-            "FY27_Dept_Rec": 17285140,
-            "FY27_TM_Rec": 17285767,
-            "FY27_SB_Rec": 17285767,
-            "FY27_FC_Rec": 17285768,
-            "FY27_ATM_Adopt": 17285768
-          }
-        },
-        {
-          "description": "HAZARDOUS WASTE",
-          "columns": {
-            "FY24_Budget": 27438,
-            "FY25_Budget": 27438,
-            "FY26_Budget": 28261,
-            "FY27_Dept_Rec": 28968,
-            "FY27_TM_Rec": 28968,
-            "FY27_SB_Rec": 28968,
-            "FY27_FC_Rec": null,
-            "FY27_ATM_Adopt": null
-          }
-        },
-        {
-          "description": "MOSQUITO CONTROL",
-          "columns": {
-            "FY24_Budget": 42942,
-            "FY25_Budget": 43303,
-            "FY26_Budget": 44602,
-            "FY27_Dept_Rec": 44602,
-            "FY27_TM_Rec": 44602,
-            "FY27_SB_Rec": 44602,
-            "FY27_FC_Rec": null,
-            "FY27_ATM_Adopt": null
-          }
-        },
-        {
-          "description": "BEDFORD LOCAL TRANSIT",
-          "columns": {
-            "FY24_Budget": 66020,
-            "FY25_Budget": 68289,
-            "FY26_Budget": 72335,
-            "FY27_Dept_Rec": 124711,
-            "FY27_TM_Rec": 73685,
-            "FY27_SB_Rec": 73685,
-            "FY27_FC_Rec": 73685,
-            "FY27_ATM_Adopt": 73685
-          }
-        },
-        {
-          "description": "COUNCIL ON AGING",
-          "columns": {
-            "FY24_Budget": 269809,
-            "FY25_Budget": 281291,
-            "FY26_Budget": 314442,
-            "FY27_Dept_Rec": 329433,
-            "FY27_TM_Rec": 303835,
-            "FY27_SB_Rec": 303835,
-            "FY27_FC_Rec": 329423,
-            "FY27_ATM_Adopt": 329423
-          }
-        },
-        {
-          "description": "YOUTH AND FAMILY SERVICES",
-          "columns": {
-            "FY24_Budget": 563832,
-            "FY25_Budget": 585753,
-            "FY26_Budget": 641186,
-            "FY27_Dept_Rec": 661167,
-            "FY27_TM_Rec": 661167,
-            "FY27_SB_Rec": 661167,
-            "FY27_FC_Rec": 661167,
-            "FY27_ATM_Adopt": 661167
-          }
-        },
-        {
-          "description": "RECREATION COMMISSION",
-          "columns": {
-            "FY24_Budget": 88000,
-            "FY25_Budget": 105601,
-            "FY26_Budget": 57108,
-            "FY27_Dept_Rec": 60456,
-            "FY27_TM_Rec": 60456,
-            "FY27_SB_Rec": 60456,
-            "FY27_FC_Rec": 60456,
-            "FY27_ATM_Adopt": 60456
-          }
-        },
-        {
-          "description": "HISTORICAL PRESERVATION",
-          "columns": {
-            "FY24_Budget": 1333,
-            "FY25_Budget": 1333,
-            "FY26_Budget": 1250,
-            "FY27_Dept_Rec": 1250,
-            "FY27_TM_Rec": 1250,
-            "FY27_SB_Rec": 1250,
-            "FY27_FC_Rec": 1250,
-            "FY27_ATM_Adopt": 1250
-          }
-        },
-        {
-          "description": "DEBT SERVICE",
-          "columns": {
-            "FY24_Budget": 11119861,
-            "FY25_Budget": 9625681,
-            "FY26_Budget": 11325806,
-            "FY27_Dept_Rec": 11600000,
-            "FY27_TM_Rec": 11600000,
-            "FY27_SB_Rec": 11600000,
-            "FY27_FC_Rec": 11600000,
-            "FY27_ATM_Adopt": 11600000
-          }
-        },
-        {
-          "description": "INSURANCE/BENEFITS",
-          "columns": {
-            "FY24_Budget": 14983209,
-            "FY25_Budget": 16699243,
-            "FY26_Budget": 18631741,
-            "FY27_Dept_Rec": 20404951,
-            "FY27_TM_Rec": 20404951,
-            "FY27_SB_Rec": 20404951,
-            "FY27_FC_Rec": 20417451,
-            "FY27_ATM_Adopt": 20417451
-          }
-        },
-        {
-          "description": "Total Expenditures",
-          "columns": {
-            "FY24_Budget": 60157878,
-            "FY25_Budget": 62197212,
-            "FY26_Budget": 67944078,
-            "FY27_Dept_Rec": 70712616,
-            "FY27_TM_Rec": 70436186,
-            "FY27_SB_Rec": 70436186,
-            "FY27_FC_Rec": 70908895,
-            "FY27_ATM_Adopt": 70934503
-          }
-        }
-      ]
+      "description": "SELECT BOARD",
+      "columns": {
+        "FY24_Budget": 1335820,
+        "FY25_Budget": 1311396,
+        "FY26_Budget": 1405290,
+        "FY27_Dept_Rec": 1434811,
+        "FY27_TM_Rec": 1464811,
+        "FY27_SB_Rec": 1464811,
+        "FY27_FC_Rec": 1464811,
+        "FY27_ATM_Adopt": 1464811
+      }
     },
     {
-      "title": "Expenditures by Boards and Committees",
-      "rows": [
-        {
-          "description": "FINANCE COMMITTEE",
-          "columns": {
-            "FY24_Budget": 551614,
-            "FY25_Budget": 551614,
-            "FY26_Budget": 761614,
-            "FY27_Dept_Rec": 761614,
-            "FY27_TM_Rec": 751614,
-            "FY27_SB_Rec": 751614,
-            "FY27_FC_Rec": 751614,
-            "FY27_ATM_Adopt": 751614
-          }
-        },
-        {
-          "description": "PLANNING BOARD",
-          "columns": {
-            "FY24_Budget": 287321,
-            "FY25_Budget": 248699,
-            "FY26_Budget": 270082,
-            "FY27_Dept_Rec": 289481,
-            "FY27_TM_Rec": 287829,
-            "FY27_SB_Rec": 287829,
-            "FY27_FC_Rec": 287829,
-            "FY27_ATM_Adopt": 287829
-          }
-        },
-        {
-          "description": "SCHOOL",
-          "columns": {
-            "FY24_Budget": 46737588,
-            "FY25_Budget": 49593798,
-            "FY26_Budget": 52090425,
-            "FY27_Dept_Rec": 53836085,
-            "FY27_TM_Rec": 53836085,
-            "FY27_SB_Rec": 53836085,
-            "FY27_FC_Rec": 53687409,
-            "FY27_ATM_Adopt": 53998325
-          }
-        },
-        {
-          "description": "BOARD OF HEALTH",
-          "columns": {
-            "FY24_Budget": 415917,
-            "FY25_Budget": 420781,
-            "FY26_Budget": 462056,
-            "FY27_Dept_Rec": 474843,
-            "FY27_TM_Rec": 474843,
-            "FY27_SB_Rec": 548412,
-            "FY27_FC_Rec": 548412,
-            "FY27_ATM_Adopt": 548412
-          }
-        },
-        {
-          "description": "LIBRARY",
-          "columns": {
-            "FY24_Budget": 1453696,
-            "FY25_Budget": 1518205,
-            "FY26_Budget": 1668212,
-            "FY27_Dept_Rec": 1719795,
-            "FY27_TM_Rec": 1719795,
-            "FY27_SB_Rec": 1719795,
-            "FY27_FC_Rec": 1719795,
-            "FY27_ATM_Adopt": 1719795
-          }
-        },
-        {
-          "description": "Total Expenditures",
-          "columns": {
-            "FY24_Budget": 49446136,
-            "FY25_Budget": 52333097,
-            "FY26_Budget": 55250367,
-            "FY27_Dept_Rec": 57071818,
-            "FY27_TM_Rec": 57069966,
-            "FY27_SB_Rec": 57069966,
-            "FY27_FC_Rec": 57004859,
-            "FY27_ATM_Adopt": 57308775
-          }
-        }
-      ]
+      "description": "FINANCE",
+      "columns": {
+        "FY24_Budget": 1589820,
+        "FY25_Budget": 833447,
+        "FY26_Budget": 946563,
+        "FY27_Dept_Rec": 1070315,
+        "FY27_TM_Rec": 1077315,
+        "FY27_SB_Rec": 1077315,
+        "FY27_FC_Rec": 1077315,
+        "FY27_ATM_Adopt": 1077315
+      }
+    },
+    {
+      "description": "BOARD OF ASSESSORS",
+      "columns": {
+        "FY24_Budget": 298612,
+        "FY25_Budget": 284826,
+        "FY26_Budget": 327137,
+        "FY27_Dept_Rec": 350384,
+        "FY27_TM_Rec": 350384,
+        "FY27_SB_Rec": 350384,
+        "FY27_FC_Rec": 350384,
+        "FY27_ATM_Adopt": 350384
+      }
+    },
+    {
+      "description": "LEGAL SERVICES",
+      "columns": {
+        "FY24_Budget": 200300,
+        "FY25_Budget": 200300,
+        "FY26_Budget": 200300,
+        "FY27_Dept_Rec": 200300,
+        "FY27_TM_Rec": 200300,
+        "FY27_SB_Rec": 200300,
+        "FY27_FC_Rec": 200300,
+        "FY27_ATM_Adopt": 200300
+      }
+    },
+    {
+      "description": "INFORMATION TECHNOLOGY",
+      "columns": {
+        "FY24_Budget": null,
+        "FY25_Budget": 1144129,
+        "FY26_Budget": 1221846,
+        "FY27_Dept_Rec": 1227000,
+        "FY27_TM_Rec": 1227000,
+        "FY27_SB_Rec": 1227000,
+        "FY27_FC_Rec": 1227000,
+        "FY27_ATM_Adopt": 1227000
+      }
+    },
+    {
+      "description": "TOWN CLERK",
+      "columns": {
+        "FY24_Budget": 282351,
+        "FY25_Budget": 302483,
+        "FY26_Budget": 347635,
+        "FY27_Dept_Rec": 374926,
+        "FY27_TM_Rec": 338702,
+        "FY27_SB_Rec": 338702,
+        "FY27_FC_Rec": 338702,
+        "FY27_ATM_Adopt": 338702
+      }
+    },
+    {
+      "description": "ELECTIONS AND REGISTRATIONS",
+      "columns": {
+        "FY24_Budget": 73450,
+        "FY25_Budget": 67600,
+        "FY26_Budget": 29225,
+        "FY27_Dept_Rec": 94675,
+        "FY27_TM_Rec": 54675,
+        "FY27_SB_Rec": 54675,
+        "FY27_FC_Rec": 54675,
+        "FY27_ATM_Adopt": 54675
+      }
+    },
+    {
+      "description": "FACILITIES DEPARTMENT",
+      "columns": {
+        "FY24_Budget": 3473616,
+        "FY25_Budget": 3506241,
+        "FY26_Budget": 3723014,
+        "FY27_Dept_Rec": 3894826,
+        "FY27_TM_Rec": 3885061,
+        "FY27_SB_Rec": 3885061,
+        "FY27_FC_Rec": 3885061,
+        "FY27_ATM_Adopt": 3885061
+      }
+    },
+    {
+      "description": "POLICE DEPARTMENT",
+      "columns": {
+        "FY24_Budget": 4282565,
+        "FY25_Budget": 4444061,
+        "FY26_Budget": 5471614,
+        "FY27_Dept_Rec": 5587665,
+        "FY27_TM_Rec": 5587665,
+        "FY27_SB_Rec": 5744760,
+        "FY27_FC_Rec": 5744760,
+        "FY27_ATM_Adopt": 5744760
+      }
+    },
+    {
+      "description": "FIRE DEPARTMENT",
+      "columns": {
+        "FY24_Budget": 3636468,
+        "FY25_Budget": 3734811,
+        "FY26_Budget": 3724680,
+        "FY27_Dept_Rec": 3943675,
+        "FY27_TM_Rec": 3789301,
+        "FY27_SB_Rec": 3789301,
+        "FY27_FC_Rec": 3789301,
+        "FY27_ATM_Adopt": 3789301
+      }
+    },
+    {
+      "description": "TOWN CENTER",
+      "columns": {
+        "FY24_Budget": 120807,
+        "FY25_Budget": 130621,
+        "FY26_Budget": 118807,
+        "FY27_Dept_Rec": null,
+        "FY27_TM_Rec": 777293,
+        "FY27_SB_Rec": 777293,
+        "FY27_FC_Rec": 778543,
+        "FY27_ATM_Adopt": 778543
+      }
+    },
+    {
+      "description": "CODE ENFORCEMENT",
+      "columns": {
+        "FY24_Budget": 569843,
+        "FY25_Budget": 674182,
+        "FY26_Budget": 733515,
+        "FY27_Dept_Rec": 777293,
+        "FY27_TM_Rec": 777293,
+        "FY27_SB_Rec": 777293,
+        "FY27_FC_Rec": 778543,
+        "FY27_ATM_Adopt": 778543
+      }
+    },
+    {
+      "description": "VOCATIONAL EDUCATION",
+      "columns": {
+        "FY24_Budget": 1059698,
+        "FY25_Budget": 1118000,
+        "FY26_Budget": 1249018,
+        "FY27_Dept_Rec": 1249018,
+        "FY27_TM_Rec": 1249018,
+        "FY27_SB_Rec": 1625701,
+        "FY27_FC_Rec": 1625701,
+        "FY27_ATM_Adopt": 1625701
+      }
+    },
+    {
+      "description": "PUBLIC WORKS/TRAFFIC",
+      "columns": {
+        "FY24_Budget": 16394879,
+        "FY25_Budget": 17397013,
+        "FY26_Budget": 17330224,
+        "FY27_Dept_Rec": 17285140,
+        "FY27_TM_Rec": 17285767,
+        "FY27_SB_Rec": 17285767,
+        "FY27_FC_Rec": 17285768,
+        "FY27_ATM_Adopt": 17285768
+      }
+    },
+    {
+      "description": "HAZARDOUS WASTE",
+      "columns": {
+        "FY24_Budget": 27438,
+        "FY25_Budget": 27438,
+        "FY26_Budget": 28261,
+        "FY27_Dept_Rec": 28968,
+        "FY27_TM_Rec": 28968,
+        "FY27_SB_Rec": 28968,
+        "FY27_FC_Rec": null,
+        "FY27_ATM_Adopt": null
+      }
+    },
+    {
+      "description": "MOSQUITO CONTROL",
+      "columns": {
+        "FY24_Budget": 42942,
+        "FY25_Budget": 43303,
+        "FY26_Budget": 44602,
+        "FY27_Dept_Rec": 44602,
+        "FY27_TM_Rec": 44602,
+        "FY27_SB_Rec": 44602,
+        "FY27_FC_Rec": null,
+        "FY27_ATM_Adopt": null
+      }
+    },
+    {
+      "description": "BEDFORD LOCAL TRANSIT",
+      "columns": {
+        "FY24_Budget": 66020,
+        "FY25_Budget": 68289,
+        "FY26_Budget": 72335,
+        "FY27_Dept_Rec": 124711,
+        "FY27_TM_Rec": 73685,
+        "FY27_SB_Rec": 73685,
+        "FY27_FC_Rec": 73685,
+        "FY27_ATM_Adopt": 73685
+      }
+    },
+    {
+      "description": "COUNCIL ON AGING",
+      "columns": {
+        "FY24_Budget": 269809,
+        "FY25_Budget": 281291,
+        "FY26_Budget": 314442,
+        "FY27_Dept_Rec": 329433,
+        "FY27_TM_Rec": 303835,
+        "FY27_SB_Rec": 303835,
+        "FY27_FC_Rec": 329423,
+        "FY27_ATM_Adopt": 329423
+      }
+    },
+    {
+      "description": "YOUTH AND FAMILY SERVICES",
+      "columns": {
+        "FY24_Budget": 563832,
+        "FY25_Budget": 585753,
+        "FY26_Budget": 641186,
+        "FY27_Dept_Rec": 661167,
+        "FY27_TM_Rec": 661167,
+        "FY27_SB_Rec": 661167,
+        "FY27_FC_Rec": 661167,
+        "FY27_ATM_Adopt": 661167
+      }
+    },
+    {
+      "description": "RECREATION COMMISSION",
+      "columns": {
+        "FY24_Budget": 88000,
+        "FY25_Budget": 105601,
+        "FY26_Budget": 57108,
+        "FY27_Dept_Rec": 60456,
+        "FY27_TM_Rec": 60456,
+        "FY27_SB_Rec": 60456,
+        "FY27_FC_Rec": 60456,
+        "FY27_ATM_Adopt": 60456
+      }
+    },
+    {
+      "description": "HISTORICAL PRESERVATION",
+      "columns": {
+        "FY24_Budget": 1333,
+        "FY25_Budget": 1333,
+        "FY26_Budget": 1250,
+        "FY27_Dept_Rec": 1250,
+        "FY27_TM_Rec": 1250,
+        "FY27_SB_Rec": 1250,
+        "FY27_FC_Rec": 1250,
+        "FY27_ATM_Adopt": 1250
+      }
+    },
+    {
+      "description": "DEBT SERVICE",
+      "columns": {
+        "FY24_Budget": 11119861,
+        "FY25_Budget": 9625681,
+        "FY26_Budget": 11325806,
+        "FY27_Dept_Rec": 11600000,
+        "FY27_TM_Rec": 11600000,
+        "FY27_SB_Rec": 11600000,
+        "FY27_FC_Rec": 11600000,
+        "FY27_ATM_Adopt": 11600000
+      }
+    },
+    {
+      "description": "INSURANCE/BENEFITS",
+      "columns": {
+        "FY24_Budget": 14983209,
+        "FY25_Budget": 16699243,
+        "FY26_Budget": 18631741,
+        "FY27_Dept_Rec": 20404951,
+        "FY27_TM_Rec": 20404951,
+        "FY27_SB_Rec": 20404951,
+        "FY27_FC_Rec": 20417451,
+        "FY27_ATM_Adopt": 20417451
+      }
+    },
+    {
+      "description": "General Government Departments Total",
+      "columns": {
+        "FY24_Budget": 60157878,
+        "FY25_Budget": 62197212,
+        "FY26_Budget": 67944078,
+        "FY27_Dept_Rec": 70712616,
+        "FY27_TM_Rec": 70436186,
+        "FY27_SB_Rec": 70436186,
+        "FY27_FC_Rec": 70908895,
+        "FY27_ATM_Adopt": 70934503
+      }
+    },
+    {
+      "description": "FINANCE COMMITTEE",
+      "columns": {
+        "FY24_Budget": 551614,
+        "FY25_Budget": 551614,
+        "FY26_Budget": 761614,
+        "FY27_Dept_Rec": 761614,
+        "FY27_TM_Rec": 751614,
+        "FY27_SB_Rec": 751614,
+        "FY27_FC_Rec": 751614,
+        "FY27_ATM_Adopt": 751614
+      }
+    },
+    {
+      "description": "PLANNING BOARD",
+      "columns": {
+        "FY24_Budget": 287321,
+        "FY25_Budget": 248699,
+        "FY26_Budget": 270082,
+        "FY27_Dept_Rec": 289481,
+        "FY27_TM_Rec": 287829,
+        "FY27_SB_Rec": 287829,
+        "FY27_FC_Rec": 287829,
+        "FY27_ATM_Adopt": 287829
+      }
+    },
+    {
+      "description": "SCHOOL",
+      "columns": {
+        "FY24_Budget": 46737588,
+        "FY25_Budget": 49593798,
+        "FY26_Budget": 52090425,
+        "FY27_Dept_Rec": 53836085,
+        "FY27_TM_Rec": 53836085,
+        "FY27_SB_Rec": 53836085,
+        "FY27_FC_Rec": 53687409,
+        "FY27_ATM_Adopt": 53998325
+      }
+    },
+    {
+      "description": "BOARD OF HEALTH",
+      "columns": {
+        "FY24_Budget": 415917,
+        "FY25_Budget": 420781,
+        "FY26_Budget": 462056,
+        "FY27_Dept_Rec": 474843,
+        "FY27_TM_Rec": 474843,
+        "FY27_SB_Rec": 548412,
+        "FY27_FC_Rec": 548412,
+        "FY27_ATM_Adopt": 548412
+      }
+    },
+    {
+      "description": "LIBRARY",
+      "columns": {
+        "FY24_Budget": 1453696,
+        "FY25_Budget": 1518205,
+        "FY26_Budget": 1668212,
+        "FY27_Dept_Rec": 1719795,
+        "FY27_TM_Rec": 1719795,
+        "FY27_SB_Rec": 1719795,
+        "FY27_FC_Rec": 1719795,
+        "FY27_ATM_Adopt": 1719795
+      }
+    },
+    {
+      "description": "Boards & Committees Total",
+      "columns": {
+        "FY24_Budget": 49446136,
+        "FY25_Budget": 52333097,
+        "FY26_Budget": 55250367,
+        "FY27_Dept_Rec": 57071818,
+        "FY27_TM_Rec": 57069966,
+        "FY27_SB_Rec": 57069966,
+        "FY27_FC_Rec": 57004859,
+        "FY27_ATM_Adopt": 57308775
+      }
+    },
+    {
+      "description": "GRAND TOTAL",
+      "columns": {
+        "FY24_Budget": 109604014,
+        "FY25_Budget": 114530309,
+        "FY26_Budget": 123194445,
+        "FY27_Dept_Rec": 127784434,
+        "FY27_TM_Rec": 127506152,
+        "FY27_SB_Rec": 127506152,
+        "FY27_FC_Rec": 127913754,
+        "FY27_ATM_Adopt": 128243278
+      }
     }
   ]
 }

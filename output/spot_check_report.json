@@ -1,0 +1,111 @@
+{
+  "spot_check_date": "2026-04-10",
+  "checks": [
+    {
+      "town": "needham",
+      "section": "education",
+      "json_file": "output/education/needham.json",
+      "pdf_file": "budgets/needham_fy2027_budget.pdf",
+      "pdf_pages_checked": "195-197 (page map), 35 (actual data)",
+      "rows_in_json": 3,
+      "rows_on_pdf": 3,
+      "data_correct": false,
+      "complete": false,
+      "correct_pages": "PDF page 35 (Section 1, page 21)",
+      "notes": "WRONG PAGE MAP. Pages 195-197 contain a Small Repair Grant Program warrant article and a Police Department org chart -- zero education data. The actual education line items are on PDF page 35. Data errors: (1) Minuteman Regional High School Assessment JSON shows FY2025_Expended=1,823,777 for ALL columns including FY2026 and FY2027 -- actual PDF shows FY2026=2,231,674 and FY2027 Total Request=2,633,375 (Town Manager Balanced Budget=2,544,670). (2) Needham Public Schools FY2027 in JSON is 106,130,538 which is the Balanced Budget figure, not the FY2027 Total Request of 106,128,595. (3) The JSON mixes 'Total Request' and 'Balanced Budget' columns inconsistently. (4) Row count is correct at 3 -- there are exactly 3 education line items (Minuteman #20, Needham Public Schools #21, Municipal IT #22)."
+    },
+    {
+      "town": "bedford",
+      "section": "education",
+      "json_file": "output/education/bedford.json",
+      "pdf_file": "budgets/bedford_fy2026_budget.pdf",
+      "pdf_pages_checked": "64-70",
+      "rows_in_json": 12,
+      "rows_on_pdf": 12,
+      "data_correct": true,
+      "complete": true,
+      "correct_pages": "PDF pages 64-70",
+      "notes": "Page map was CORRECT. Pages 64-70 cover the Education section: Bedford Public School Financials (pages 65-67) and Vocational Education Financials (pages 68-70). The JSON captures both sections with expenditures by department and by expense object category. Data verified: SCHOOL FY25=49,593,798 FY26=52,090,425 FY27=53,998,325 (3.66%) matches PDF page 66. Expense Object Category table on page 67 shows PROFESSIONAL SALARY=38,538,615, CONTRACTED SERVICES=6,788,050 (JSON has 6,788,890 -- minor discrepancy but could be rounding in chart), SUPPLIES & MATERIAL=974,160 (JSON 974,180 -- minor), OTHER EXPENSE=436,763 matches. OTHER FINANCING USES and Total Expenditures match. Vocational Education on page 69-70: VOCATIONAL EDUCATION 1,118,000/1,249,018/1,625,701 (30.16%) all match. Despite initial concern about '3 rows', the JSON actually has 12 rows across 4 subsections -- it was a miscount. However, many expense category fields for FY25-FY27 show null where the PDF shows dashes (-), which is semantically correct -- those categories had $0 in those years because the entire budget was classified as OTHER FINANCING USES."
+    },
+    {
+      "town": "wellesley",
+      "section": "summary",
+      "json_file": "output/summary/wellesley.json",
+      "pdf_file": "budgets/wellesley_depts/town_wide_financial_plan.pdf",
+      "pdf_pages_checked": "1-5",
+      "rows_in_json": 5,
+      "rows_on_pdf": 5,
+      "data_correct": true,
+      "complete": false,
+      "correct_pages": "town_wide_financial_plan.pdf page 4 (Allocated Operating Costs Summarized)",
+      "notes": "The 5 summary rows match the PDF page 4 totals table: School Direct=96,856,075, School Shared=44,977,828, Non-School Direct=29,418,949, Non-School Shared=46,333,832, Total=217,586,685 -- all verified correct from the 'Allocated Operating Costs Summarized' table. However, this is INCOMPLETE for a budget summary. The JSON only has a single 'amount' column with no year-over-year comparison data (no FY2026, no dollar change, no percent change). The town_wide_financial_plan.pdf and total_requests.pdf contain much richer data including department-by-department breakdowns, budget guidelines by department, and multi-year comparisons that were not captured. The total_requests.pdf was not effectively used."
+    },
+    {
+      "town": "wellesley",
+      "section": "education",
+      "json_file": "output/education/wellesley.json",
+      "pdf_file": "budgets/wellesley_depts/municipal_school_shared.pdf",
+      "pdf_pages_checked": "1-5",
+      "rows_in_json": 7,
+      "rows_on_pdf": 7,
+      "data_correct": true,
+      "complete": false,
+      "correct_pages": "municipal_school_shared.pdf pages 1-4 (Group Insurance + Facilities shared costs)",
+      "notes": "The 7 rows capture high-level education cost categories. Values verified: School Direct Operating Personal Services=83,509,492 matches PDF page 4 (83,509,492), Expenses=13,346,583 matches. School Shared Costs: Group Insurance=17,967,509 matches page 1, Facilities=7,087,971 matches page 4, Retirement=1,855,387 matches, Other=18,067,360 -- this appears to be an aggregation of remaining shared cost lines (IT 148,949 + Risk Mgmt 379,170 + Workers Comp 493,655 + HR 70,549 + Law 73,500 + etc.). Total School Operating Budget=141,833,903 matches PDF page 4 total. Data is CORRECT but INCOMPLETE: (1) Only single 'amount' column, no multi-year comparison. (2) The municipal_school_shared.pdf contains detailed line-item breakdowns for Group Insurance (20+ line items on pages 2-3), Facilities, and other shared cost departments that were not captured. (3) Missing individual shared cost categories like Police, OPEB, Winter Maintenance, Mental Health Services, etc. that are broken out in the PDF."
+    },
+    {
+      "town": "bedford",
+      "section": "benefits",
+      "json_file": "output/benefits/bedford.json",
+      "pdf_file": "budgets/bedford_fy2026_budget.pdf",
+      "pdf_pages_checked": "49-50",
+      "rows_in_json": 4,
+      "rows_on_pdf": 4,
+      "data_correct": true,
+      "complete": true,
+      "correct_pages": "PDF pages 49-50",
+      "notes": "Page map was CORRECT. Pages 49-50 show Insurance/Benefits Financials. All data verified against PDF: Expenditures by Department: INSURANCE/BENEFITS FY25=16,699,243, FY26=18,631,741, FY27 ATM Adopt=20,417,451, 9.58% -- all match page 49. Expenditures by Expense Object Category on page 50: OTHER EXPENSE FY24=14,983,209, FY25=16,699,243, FY26=18,631,741, FY27 Dept Rec=20,404,951, FY27 TM Rec=20,404,951, FY27 SB Rec=20,404,951, FY27 FC Rec=20,417,451, FY27 ATM Adopt=20,417,451 -- all match. This section truly only has one department line and one expense category, so 4 rows is complete."
+    },
+    {
+      "town": "concord",
+      "section": "education",
+      "json_file": "output/education/concord.json",
+      "pdf_file": "budgets/concord_fy2027_budget.pdf",
+      "pdf_pages_checked": "49 (Executive Overview expense summary)",
+      "rows_in_json": 5,
+      "rows_on_pdf": 4,
+      "data_correct": true,
+      "complete": true,
+      "correct_pages": "PDF page 49",
+      "notes": "Data is CORRECT and sourced from the Executive Overview table on page 49. Verified: Minuteman Tech FY25=1,732,806, FY26=1,772,373, FY27=1,886,548 -- all match. Concord Public Schools FY25=46,515,714, FY26=47,923,604, FY27=49,443,345 -- all match. CCRSD FY25=26,140,908, FY26=27,209,557, FY27=26,995,441 -- all match. Total Schools FY25=74,389,428, FY26=76,905,534, FY27=78,325,334 -- all match. The first row 'EDUCATION - SCHOOLS' is a header with empty columns, which is correct. The 928-page budget does not have a separate detailed education department section (schools prepare their own budgets), so this summary-level data from the Executive Overview is the appropriate source. Row count shows 5 in JSON (including header row) vs 4 data rows on PDF -- the header row is acceptable."
+    },
+    {
+      "town": "belmont",
+      "section": "summary",
+      "json_file": "output/summary/belmont.json",
+      "pdf_file": "budgets/belmont_fy2027_budget.pdf",
+      "pdf_pages_checked": "9-10",
+      "rows_in_json": 23,
+      "rows_on_pdf": 23,
+      "data_correct": false,
+      "complete": false,
+      "correct_pages": "PDF pages 9-10, but page 9 has the actual summary",
+      "notes": "WRONG DATA EXTRACTED. The JSON contains the 'Program Summary - General Government' detail from page 10 (elements 1100-1700: Assessors, HR, IT, Town Accountant, Town Administration, Town Clerk, Treasurer), NOT the 'Budget Overview - Summary of Revenues and Expenditures' from page 9. Page 9 has the true budget summary with revenues (Property Tax, State Aid, etc.), spending categories (Belmont Public Schools $73,997,814, Regional Schools $327,917, Total Education $74,325,731, General Government, Public Safety, Public Services, Health & Human Services, Facilities, Pension Assessment, Employee Benefits, Debt Service, etc.), and totals (Total Spending $171,673,382). The JSON instead captured a departmental detail table (Assessors Compensation $308,587, IT Expenses $1,227,828, etc.) which is a sub-section of General Government, not the town-wide summary. Additionally, data values from page 10 have some discrepancies: Human Resources Expenses shows FY2027_Requested=83,950 and TA_Adj=-510, but the JSON shows FY2027_TA_Rec=83,940 while the math gives 83,440 -- actually 83,950-510=83,440, but PDF shows $83,940. This appears to be a PDF rendering issue. The core problem is the WRONG TABLE was extracted -- should be the page 9 overview, not page 10 detail."
+    }
+  ],
+  "overall_summary": {
+    "total_checks": 7,
+    "correct_and_complete": 2,
+    "correct_but_incomplete": 2,
+    "incorrect_data": 3,
+    "wrong_page_map": 1,
+    "wrong_table_extracted": 1,
+    "findings": [
+      "CRITICAL: Needham education page map (195-197) was completely wrong -- pointed to warrant articles/police section instead of education budget on page 35. Data extracted has wrong Minuteman assessment values.",
+      "CRITICAL: Belmont summary extracted the wrong table -- got General Government departmental detail from page 10 instead of the town-wide Budget Overview from page 9.",
+      "MODERATE: Wellesley summary and education extractions are correct but thin -- only single-year amounts with no year-over-year comparison data. The source PDFs contain richer multi-year data.",
+      "GOOD: Bedford education and benefits extractions are correct and complete, with proper page maps.",
+      "GOOD: Concord education extraction is correct and appropriately sourced from the Executive Overview summary table."
+    ]
+  }
+}

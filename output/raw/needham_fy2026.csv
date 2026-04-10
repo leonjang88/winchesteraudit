@@ -1,0 +1,104 @@
+department,account_code,description,amount,fiscal_year,column_type,row_type,source_file,source_page
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",43.4,2022,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",44.5,2023,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",44.5,2024,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",38.5,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",38.5,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"General Government
+& Land Use",39.5,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,150.8,2022,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,152.8,2023,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,152.8,2024,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,152.8,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,153.2,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Public Safety,153.2,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",152.3,2022,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",156.0,2023,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",159.0,2024,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",161.3,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",161.3,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"Public Works &
+Facilities",161.3,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,38.3,2022,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,39.3,2023,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,39.3,2024,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,42.3,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,42.3,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Community Services,42.3,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,839.0,2022,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,825.9,2023,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,856.4,2024,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,865.4,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,853.7,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,School Department*,858.4,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"School Department
+Municipal IT",6.0,2025,actual,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"School Department
+Municipal IT",6.0,2026,budget,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,"School Department
+Municipal IT",6.4,2027,request,line_item,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1223.8,2022,actual,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1218.5,2023,actual,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1252.0,2024,actual,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1266.3,2025,actual,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1255.0,2026,budget,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Total All Departments,1261.1,2027,request,total,needham_fy2027_budget.pdf,19
+Fiscal Year 2027 Proposed Budget,,Earned Rewards,25966.0,2022,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Earned Rewards,34467.0,2023,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Earned Rewards,36440.0,2024,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Earned Rewards,40057.0,2025,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Liability Claims,101.0,2022,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Liability Claims,92.0,2023,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Liability Claims,98.0,2024,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,Liability Claims,84.0,2025,actual,line_item,needham_fy2027_budget.pdf,69
+Fiscal Year 2027 Proposed Budget,,"Solar Energy, Electric, & Natural Gas",5917524.0,2027,request,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,"Solar Energy, Electric, & Natural Gas",5624194.0,2026,budget,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Repairs and Maintenance Services,67500.0,2027,request,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Repairs and Maintenance Services,63000.0,2026,budget,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,"Professional, Technical, &
+Communication Expenses",22400.0,2027,request,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,"Professional, Technical, &
+Communication Expenses",25000.0,2026,budget,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Other Supplies and Equipment,23000.0,2027,request,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Other Supplies and Equipment,25000.0,2026,budget,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Dues and Subscriptions,1100.0,2027,request,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Dues and Subscriptions,1000.0,2026,budget,line_item,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Total,6031524.0,2027,request,total,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,Total,5738194.0,2026,budget,total,needham_fy2027_budget.pdf,79
+Fiscal Year 2027 Proposed Budget,,"Professional and
+Technical",22000.0,2026,budget,line_item,needham_fy2027_budget.pdf,95
+Fiscal Year 2027 Proposed Budget,,Funding Amount,140000.0,2027,request,line_item,needham_fy2027_budget.pdf,107
+Fiscal Year 2027 Proposed Budget,,"Repairs &
+Maintenance
+Services
+524 525",-2624.0,2026,budget,line_item,needham_fy2027_budget.pdf,215
+Fiscal Year 2027 Proposed Budget,,"Professional &
+Technical
+Service
+530 531",305.0,2026,budget,line_item,needham_fy2027_budget.pdf,215
+Fiscal Year 2027 Proposed Budget,,Funding Amount,51338.0,2027,request,line_item,needham_fy2027_budget.pdf,235
+Fiscal Year 2027 Proposed Budget,,"9,476",84.17,2027,request,line_item,needham_fy2027_budget.pdf,272
+Fiscal Year 2027 Proposed Budget,,Energy,6245.0,2026,budget,line_item,needham_fy2027_budget.pdf,272
+Fiscal Year 2027 Proposed Budget,,"Repairs &
+Maint
+Services",5000.0,2026,budget,line_item,needham_fy2027_budget.pdf,273
+Fiscal Year 2027 Proposed Budget,,"Rentals &
+Leases",179.0,2026,budget,line_item,needham_fy2027_budget.pdf,273
+Fiscal Year 2027 Proposed Budget,,5110,1456697.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5120,582518.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5191,4000.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5245,4500.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5305,80267.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5344,8500.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5380,1250.0,2027,request,line_item,needham_fy2027_budget.pdf,401
+Fiscal Year 2027 Proposed Budget,,5580,12000.0,2027,request,line_item,needham_fy2027_budget.pdf,401

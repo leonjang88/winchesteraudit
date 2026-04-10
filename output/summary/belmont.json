@@ -3,303 +3,71 @@
   "fiscal_year": 2027,
   "rows": [
     {
-      "element": "1100",
-      "description": "Assessors Compensation",
+      "description": "General Government",
       "columns": {
-        "FY2025_Actual": 304168,
-        "FY2026_Approp": 301391,
-        "FY2027_Requested": 308587,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 308587,
-        "Dollar_Change": 7196,
-        "Percent_Change": "2.4 %"
+        "FY2027_TA_Rec": 6455514
       }
     },
     {
-      "element": "1100",
-      "description": "Assessors Expenses",
+      "description": "Shared Services",
       "columns": {
-        "FY2025_Actual": 136132,
-        "FY2026_Approp": 166000,
-        "FY2027_Requested": 162500,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 162500,
-        "Dollar_Change": -3500,
-        "Percent_Change": "(2.1)%"
+        "FY2027_TA_Rec": 39794371
       }
     },
     {
-      "element": "1100",
-      "description": "Subtotal 1100 Assessors",
+      "description": "Public Safety",
       "columns": {
-        "FY2025_Actual": 440300,
-        "FY2026_Approp": 467391,
-        "FY2027_Requested": 471087,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 471087,
-        "Dollar_Change": 3696,
-        "Percent_Change": "0.8 %"
+        "FY2027_TA_Rec": 14825596
       }
     },
     {
-      "element": "1200",
-      "description": "Human Resources Compensation",
+      "description": "Education",
       "columns": {
-        "FY2025_Actual": 232188,
-        "FY2026_Approp": 238244,
-        "FY2027_Requested": 249817,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 249817,
-        "Dollar_Change": 11573,
-        "Percent_Change": "4.9 %"
+        "FY2027_TA_Rec": 74325731
       }
     },
     {
-      "element": "1200",
-      "description": "Human Resources Expenses",
+      "description": "Public Services",
       "columns": {
-        "FY2025_Actual": 49770,
-        "FY2026_Approp": 79940,
-        "FY2027_Requested": 83950,
-        "TA_Adj": -510,
-        "FY2027_TA_Rec": 83940,
-        "Dollar_Change": 4000,
-        "Percent_Change": "5.0 %"
+        "FY2027_TA_Rec": 9807632
       }
     },
     {
-      "element": "1250",
-      "description": "Salary Reserve",
+      "description": "Human Services",
       "columns": {
-        "FY2025_Actual": 571980,
-        "FY2026_Approp": 470215,
-        "FY2027_Requested": 674898,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 674898,
-        "Dollar_Change": 204483,
-        "Percent_Change": "43.5 %"
+        "FY2027_TA_Rec": 4009640
       }
     },
     {
-      "element": "1200",
-      "description": "Subtotal 1200 Human Resources",
+      "description": "Debt Service",
       "columns": {
-        "FY2025_Actual": 853938,
-        "FY2026_Approp": 788399,
-        "FY2027_Requested": 1008665,
-        "TA_Adj": -510,
-        "FY2027_TA_Rec": 1008455,
-        "Dollar_Change": 220056,
-        "Percent_Change": "27.9 %"
+        "FY2027_TA_Rec": 17698826
       }
     },
     {
-      "element": "1300",
-      "description": "IT Compensation",
+      "description": "Capital Expenditures",
       "columns": {
-        "FY2025_Actual": 509882,
-        "FY2026_Approp": 640501,
-        "FY2027_Requested": 608819,
-        "TA_Adj": 57226,
-        "FY2027_TA_Rec": 666045,
-        "Dollar_Change": 25544,
-        "Percent_Change": "4.0 %"
+        "FY2027_TA_Rec": 4656073
       }
     },
     {
-      "element": "1300",
-      "description": "IT Expenses",
+      "description": "Other Articles",
       "columns": {
-        "FY2025_Actual": 1238109,
-        "FY2026_Approp": 1132947,
-        "FY2027_Requested": 1223208,
-        "TA_Adj": 4620,
-        "FY2027_TA_Rec": 1227828,
-        "Dollar_Change": 94881,
-        "Percent_Change": "8.4 %"
+        "FY2027_TA_Rec": 100000
       }
     },
     {
-      "element": "1300",
-      "description": "Subtotal 1300 IT",
+      "description": "Enterprise Funds",
       "columns": {
-        "FY2025_Actual": 1747991,
-        "FY2026_Approp": 1773448,
-        "FY2027_Requested": 1832027,
-        "TA_Adj": 61846,
-        "FY2027_TA_Rec": 1893873,
-        "Dollar_Change": 120425,
-        "Percent_Change": "6.8 %"
+        "FY2027_TA_Rec": 19633819
       }
     },
     {
-      "element": "1400",
-      "description": "Town Accountant Compensation",
+      "description": "Revolving Funds",
       "columns": {
-        "FY2025_Actual": 339668,
-        "FY2026_Approp": 375977,
-        "FY2027_Requested": 312323,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 312323,
-        "Dollar_Change": -63454,
-        "Percent_Change": "(16.9)%"
-      }
-    },
-    {
-      "element": "1400",
-      "description": "Town Accountant Expenses",
-      "columns": {
-        "FY2025_Actual": 70893,
-        "FY2026_Approp": 93950,
-        "FY2027_Requested": 111250,
-        "TA_Adj": -2000,
-        "FY2027_TA_Rec": 109250,
-        "Dollar_Change": 15300,
-        "Percent_Change": "16.3 %"
-      }
-    },
-    {
-      "element": "1400",
-      "description": "Subtotal 1400 Town Accountant",
-      "columns": {
-        "FY2025_Actual": 410561,
-        "FY2026_Approp": 469727,
-        "FY2027_Requested": 423573,
-        "TA_Adj": -2000,
-        "FY2027_TA_Rec": 421573,
-        "Dollar_Change": -48154,
-        "Percent_Change": "(10.3)%"
-      }
-    },
-    {
-      "element": "1500",
-      "description": "Town Administration Compensation",
-      "columns": {
-        "FY2025_Actual": 721584,
-        "FY2026_Approp": 772531,
-        "FY2027_Requested": 1138959,
-        "TA_Adj": -223580,
-        "FY2027_TA_Rec": 915379,
-        "Dollar_Change": 142848,
-        "Percent_Change": "18.5 %"
-      }
-    },
-    {
-      "element": "1500",
-      "description": "Town Administration Expenses",
-      "columns": {
-        "FY2025_Actual": 411086,
-        "FY2026_Approp": 707520,
-        "FY2027_Requested": 503520,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 503520,
-        "Dollar_Change": -204000,
-        "Percent_Change": "(28.8)%"
-      }
-    },
-    {
-      "element": "1500",
-      "description": "Subtotal 1500 Town Administration",
-      "columns": {
-        "FY2025_Actual": 1132680,
-        "FY2026_Approp": 1480051,
-        "FY2027_Requested": 1642479,
-        "TA_Adj": -223580,
-        "FY2027_TA_Rec": 1418899,
-        "Dollar_Change": -61152,
-        "Percent_Change": "(4.1)%"
-      }
-    },
-    {
-      "element": "1600",
-      "description": "Town Clerk Compensation",
-      "columns": {
-        "FY2025_Actual": 409986,
-        "FY2026_Approp": 367227,
-        "FY2027_Requested": 440023,
-        "TA_Adj": -22642,
-        "FY2027_TA_Rec": 417381,
-        "Dollar_Change": 50154,
-        "Percent_Change": "13.7 %"
-      }
-    },
-    {
-      "element": "1600",
-      "description": "Town Clerk Expenses",
-      "columns": {
-        "FY2025_Actual": 140157,
-        "FY2026_Approp": 114338,
-        "FY2027_Requested": 155430,
-        "TA_Adj": -17294,
-        "FY2027_TA_Rec": 138136,
-        "Dollar_Change": 23798,
-        "Percent_Change": "20.8 %"
-      }
-    },
-    {
-      "element": "1600",
-      "description": "Subtotal 1600 Town Clerk",
-      "columns": {
-        "FY2025_Actual": 550143,
-        "FY2026_Approp": 481565,
-        "FY2027_Requested": 595453,
-        "TA_Adj": -39936,
-        "FY2027_TA_Rec": 555517,
-        "Dollar_Change": 73952,
-        "Percent_Change": "15.4 %"
-      }
-    },
-    {
-      "element": "1700",
-      "description": "Treasurer Compensation",
-      "columns": {
-        "FY2025_Actual": 412491,
-        "FY2026_Approp": 420732,
-        "FY2027_Requested": 504010,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 504010,
-        "Dollar_Change": 83278,
-        "Percent_Change": "19.8 %"
-      }
-    },
-    {
-      "element": "1700",
-      "description": "Treasurer Expenses",
-      "columns": {
-        "FY2025_Actual": 157215,
-        "FY2026_Approp": 186900,
-        "FY2027_Requested": 182100,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 182100,
-        "Dollar_Change": -4800,
-        "Percent_Change": "(2.6)%"
-      }
-    },
-    {
-      "element": "1700",
-      "description": "Subtotal 1700 Treasurer",
-      "columns": {
-        "FY2025_Actual": 569707,
-        "FY2026_Approp": 607632,
-        "FY2027_Requested": 686110,
-        "TA_Adj": null,
-        "FY2027_TA_Rec": 686110,
-        "Dollar_Change": 78478,
-        "Percent_Change": "12.9 %"
-      }
-    },
-    {
-      "element": null,
-      "description": "Total General Government",
-      "columns": {
-        "FY2025_Actual": 5705320,
-        "FY2026_Approp": 6068213,
-        "FY2027_Requested": 6659194,
-        "TA_Adj": -203680,
-        "FY2027_TA_Rec": 6455514,
-        "Dollar_Change": 387301,
-        "Percent_Change": "6.4 %"
+        "FY2027_TA_Rec": 2041070
       }
     }
-  ]
+  ],
+  "grand_total": 193348372
 }
