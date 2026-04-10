@@ -1,0 +1,31 @@
+name: bedford
+area_sq_miles: 13.8
+school_ranking: "A"
+budget_url: "https://www.bedfordma.gov/finance/pages/budget-information"
+
+metrics:
+  2027:
+    population: 14500
+    households: 5869
+    median_household_income: 172400
+    student_enrollment: 2400
+    road_miles: 80
+    total_assessed_value: 5_200_000_000
+    tax_rate: 13.50
+    total_levy: 70_000_000
+    levy_limit: 70_000_000
+    new_growth: 1_500_000
+
+extraction:
+  has_account_codes: false
+  department_header: "page_top_large_font"
+  columns:
+    "FY24 BUDGET": { fiscal_year: 2024, type: budget }
+    "FY25 BUDGET": { fiscal_year: 2025, type: budget }
+    "FY26 BUDGET": { fiscal_year: 2026, type: budget }
+    "FY27 DEPT REC": { fiscal_year: 2027, type: request }
+    "FY27 TM REC": { fiscal_year: 2027, type: manager }
+    "FY27 SB REC": { fiscal_year: 2027, type: manager }
+    "FY27 FC REC": { fiscal_year: 2027, type: fincom }
+    "FY27 ATM ADOPT": { fiscal_year: 2027, type: budget }
+  subtotal_patterns: ["Total", "SUB TOTAL", "GROSS TOTAL"]
