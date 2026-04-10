@@ -1,0 +1,33 @@
+name: wellesley
+area_sq_miles: 10.2
+school_ranking: "A+"
+budget_url: "https://www.wellesleyma.gov/budget"
+
+metrics:
+  2026:
+    population: 29673
+    households: 9500
+    median_household_income: 210000
+    student_enrollment: 5000
+    road_miles: 100
+    total_assessed_value: 12_000_000_000
+    tax_rate: 13.00
+    total_levy: 156_000_000
+    levy_limit: 156_000_000
+    new_growth: 3_000_000
+
+extraction:
+  has_account_codes: false
+  department_header: "page_top_large_font"
+  columns:
+    "FY25 BUDGET": { fiscal_year: 2025, type: budget }
+    "FY26 REQUEST": { fiscal_year: 2026, type: request }
+    "FY19": { fiscal_year: 2019, type: actual }
+    "FY20": { fiscal_year: 2020, type: actual }
+    "FY21": { fiscal_year: 2021, type: actual }
+    "FY22": { fiscal_year: 2022, type: actual }
+    "FY23": { fiscal_year: 2023, type: actual }
+    "FY24": { fiscal_year: 2024, type: actual }
+    "FY25": { fiscal_year: 2025, type: budget }
+    "FY26": { fiscal_year: 2026, type: request }
+  subtotal_patterns: ["Total", "Sub-Total"]

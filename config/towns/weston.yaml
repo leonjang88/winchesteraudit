@@ -1,0 +1,29 @@
+name: weston
+area_sq_miles: 17.3
+school_ranking: "A"
+budget_url: "https://www.weston.org/budget"
+
+metrics:
+  2027:
+    population: 12100
+    households: 4100
+    median_household_income: 250000
+    student_enrollment: 2300
+    road_miles: 75
+    total_assessed_value: 6_500_000_000
+    tax_rate: 11.50
+    total_levy: 75_000_000
+    levy_limit: 75_000_000
+    new_growth: 1_500_000
+
+extraction:
+  has_account_codes: false
+  department_header: "page_top_large_font"
+  columns:
+    "FY22 ACTUAL": { fiscal_year: 2022, type: actual }
+    "FY23 ACTUAL": { fiscal_year: 2023, type: actual }
+    "FY24 ACTUAL": { fiscal_year: 2024, type: actual }
+    "FY25 ACTUAL": { fiscal_year: 2025, type: actual }
+    "FY26 APPROPRIATED": { fiscal_year: 2026, type: budget }
+    "FY27 REQUEST": { fiscal_year: 2027, type: request }
+  subtotal_patterns: ["Total", "SUB-TOTAL", "GRAND TOTAL"]
