@@ -1,6 +1,5 @@
 sources.zip
 output/
 *.db
-output/
 __pycache__/
 *.pyc
