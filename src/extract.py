@@ -61,7 +61,7 @@ def _parse_amount(text: Optional[str]) -> Optional[float]:
         return None
 
 
-_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM", "RECOMMENDED", "APPROP.", "APPROPRIATION", "ESTIMATED"}
+_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM", "RECOMMENDED", "APPROP.", "APPROPRIATION", "ESTIMATED", "EXPENDITURES"}
 
 
 def _build_col_map(config: dict) -> dict:

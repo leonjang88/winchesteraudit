@@ -1,0 +1,40 @@
+name: needham
+area_sq_miles: 12.7
+school_ranking: "A+"
+budget_url: "https://www.needhamma.gov/budget"
+
+metrics:
+  2027:
+    population: 32000
+    households: 11400
+    median_household_income: 195000
+    student_enrollment: 5800
+    road_miles: 110
+    total_assessed_value: 10_500_000_000
+    tax_rate: 12.00
+    total_levy: 126_000_000
+    levy_limit: 126_000_000
+    new_growth: 3_000_000
+
+extraction:
+  has_account_codes: false
+  department_header: "page_top_large_font"
+  columns:
+    # Bare FY year headers from detail tables
+    "FY2022": { fiscal_year: 2022, type: actual }
+    "FY2023": { fiscal_year: 2023, type: actual }
+    "FY2024": { fiscal_year: 2024, type: actual }
+    "FY2025": { fiscal_year: 2025, type: actual }
+    "FY2026": { fiscal_year: 2026, type: budget }
+    "FY2027": { fiscal_year: 2027, type: request }
+    # Text-stream type-labeled columns
+    "FY27 REQUEST": { fiscal_year: 2027, type: request }
+    "FY27 BUDGET": { fiscal_year: 2027, type: budget }
+    "FY26 BUDGET": { fiscal_year: 2026, type: budget }
+    "FY25 EXPENDITURES": { fiscal_year: 2025, type: actual }
+    "FY24 EXPENDITURES": { fiscal_year: 2024, type: actual }
+    "FY23 EXPENDITURES": { fiscal_year: 2023, type: actual }
+    "FY22 EXPENDITURES": { fiscal_year: 2022, type: actual }
+    # Budget 2026 column header variant
+    "BUDGET 2026": { fiscal_year: 2026, type: budget }
+  subtotal_patterns: ["Total", "Subtotal", "TOTAL"]
