@@ -16,16 +16,23 @@ Winchester's education gap is **84% explained by two structural factors:**
 
 ---
 
-## Revenue Comparison: Towns With Similar Per-Capita Revenue
+## Revenue: Total and Per Capita (All Towns)
 
-| Town | Revenue/Capita | Tax Levy/Cap | State Aid/Cap | Other/Cap |
-|------|---------------|-------------|-------------|----------|
-| Concord | $7,758 | $6,427 | $371 | $960 |
-| Needham | $7,678 | $5,984 | $503 | $1,191 |
-| Wellesley | $7,245 | $5,865 | $394 | $986 |
-| **Winchester** | **$7,238** | **$5,508** | **$556** | **$1,174** |
+| Town | Total Revenue | Per Capita | Tax Levy/Cap | State Aid/Cap | Local Rcpt/Cap | Ent/CPA/Cap | Other/Cap |
+|------|-------------|-----------|-------------|-------------|---------------|------------|----------|
+| Weston | $111,882,392 | **$9,608** | $8,288 | $443 | $540 | $1,232 | $336 |
+| Lexington | $310,247,202 | **$9,157** | $7,565 | $604 | $478 | $1,442 | $510 |
+| Bedford | $123,907,741 | **$8,608** | $6,005 | $667 | $1,282 | $284 | $655 |
+| Concord | $140,308,066 | **$7,758** | $6,427 | $371 | $610 | $299 | $351 |
+| Needham | $246,909,270 | **$7,678** | $5,984 | $503 | $479 | $948 | $712 |
+| Wellesley | $222,648,268 | **$7,245** | $5,865 | $394 | $370 | $982 | $616 |
+| **Winchester** | **$165,290,340** | **$7,238** | **$5,508** | **$556** | **$488** | **$499** | **$685** |
+| Belmont | $166,229,031 | **$6,183** | $4,929 | $564 | $388 | $834 | $302 |
+| Arlington | $221,499,524 | **$4,804** | $3,604 | $629 | $222 | $681 | $347 |
 
-Winchester's total revenue per capita is essentially identical to Wellesley. But the tax levy component is $357 lower per capita ($5,508 vs $5,865) — that's **$8.2M less** from property taxes alone.
+Winchester's total revenue per capita ($7,238) is virtually identical to Wellesley ($7,245). But the **tax levy** component is where Winchester falls behind: $5,508/capita vs $5,865 (Wellesley), $5,984 (Needham), $6,427 (Concord), $7,565 (Lexington).
+
+The towns above Winchester in revenue per capita all collect more from property taxes — driven by higher assessed values, higher tax rates, or both.
 
 ### Why Is the Levy Lower?
 
