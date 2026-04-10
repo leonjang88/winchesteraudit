@@ -666,11 +666,27 @@ def run_extract(town: str, pdf_path: str) -> None:
                         }
                     )
 
+    # Filter out garbage rows before DB insert
+    _TOC_PATTERNS = ("SERVICE PROGRAMS", "REVENUES, EXPENSES AND RESERVES")
+    all_line_items = [
+        item for item in all_line_items
+        if not (
+            # Negative "reductions" — computed summary values, not real line items
+            (item["amount"] < 0 and "REDUCTION" in item["description"].upper())
+            # TOC page references — section titles with page numbers as amounts
+            or (0 < item["amount"] <= 200 and item["amount"] == int(item["amount"])
+                and any(p in item["description"].upper() for p in _TOC_PATTERNS))
+            # Narrative bullet fragments picked up as line items
+            or item["description"].strip().startswith("•")
+        )
+    ]
+
     # Normalize department names to resolve duplicates
     _DEPT_NORMALIZE = {
         "DEPARTMENT OF PUBLIC WORKS (DPW)": "DEPARTMENT OF PUBLIC WORKS",
         "RECREATION DEPARTMENT": "RECREATION",
         "SEALER OF WEIGHTS AND MEASURER": "SEALER OF WEIGHTS & MEASURES",
+        "ASSESSORS": "ASSESSOR",
     }
     for item in all_line_items:
         dept = item.get("department", "")
