@@ -35,6 +35,12 @@ def cmd_extract(args) -> None:
     run_extract(args.town, args.pdf)
 
 
+def cmd_rescue(args) -> None:
+    """Rescue failed pages using Claude CLI subagents."""
+    from rescue import run_rescue
+    run_rescue(args.town, args.pdf)
+
+
 def main() -> int:
     """argparse with subparsers.
     profile subcommand requires: --town (str), --pdf (str, path to PDF file)
@@ -58,6 +64,13 @@ def main() -> int:
     extract_parser.add_argument("--pdf", required=True)
     extract_parser.set_defaults(func=cmd_extract)
 
+    rescue_parser = subparsers.add_parser(
+        "rescue", help="Rescue failed pages using Claude CLI subagents"
+    )
+    rescue_parser.add_argument("--town", required=True)
+    rescue_parser.add_argument("--pdf", required=True)
+    rescue_parser.set_defaults(func=cmd_rescue)
+
     args = parser.parse_args()
 
     if args.command is None:
@@ -75,6 +88,12 @@ def main() -> int:
             print(f"Error: PDF not found: {args.pdf}")
             return 1
         cmd_extract(args)
+
+    elif args.command == "rescue":
+        if not os.path.exists(args.pdf):
+            print(f"Error: PDF not found: {args.pdf}")
+            return 1
+        cmd_rescue(args)
 
     return 0
 
