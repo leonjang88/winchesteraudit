@@ -134,6 +134,96 @@ None of this changes total spending — it just reclassifies it. But it would ma
 
 ---
 
+## The Percentage Question
+
+The dollar analysis above explains why Winchester has fewer dollars for education. But there's a separate question: **even with the dollars it has, why does Winchester allocate a lower percentage to education?**
+
+Winchester puts 46.7% of its budget toward education — 8th of 9. Even towns with similar or lower total budgets (Belmont, Arlington) allocate more.
+
+### Non-Education Spending: Where Winchester's Share Goes
+
+| Town | Education % | Non-Ed % | Biggest Non-Ed Categories |
+|------|-----------|---------|--------------------------|
+| Concord | **56.4%** | 43.6% | DPW 4.1%, Fixed 8.9%, PS 9.5% |
+| Lexington | **52.3%** | 47.7% | Fixed 16.6%, Debt 8.8%, GG 8.3% |
+| Belmont | 47.8% | 52.2% | Debt 11.1%, GG 10.6%, PS 10.9% |
+| Needham | 47.8% | 52.2% | Fixed 18.0%, PS 10.5%, Debt 9.7% |
+| Arlington | 47.6% | 52.4% | Fixed 18.2%, Debt 11.4%, PS 9.1% |
+| Wellesley | 47.3% | 52.7% | Fixed 16.0%, Debt 10.1%, GG 8.6% |
+| **Winchester** | **46.7%** | **53.3%** | **Fixed 15.6%, PS 10.1%, DPW 8.3%** |
+| Weston | 46.1% | 53.9% | Fixed 18.5%, PS 9.8%, Debt 9.7% |
+| Bedford | 44.6% | 55.4% | DPW 14.1%, Fixed 13.5%, Debt 9.8% |
+
+### To Reach the Comp Average Education % (48.8%), Winchester Would Need $2.8M
+
+Three categories are above the comp average and could theoretically be redirected:
+
+| Category | Winchester | Comp Avg | Over by | $ Amount |
+|----------|-----------|---------|---------|---------|
+| **DPW** | 8.3% | 6.2% | **+2.0pp** | **+$2,790,054** |
+| Police+Fire | 10.1% | 9.1% | +1.0pp | +$1,413,931 |
+| Fixed Costs | 15.6% | 14.8% | +0.9pp | +$1,182,760 |
+| **Total over** | | | | **+$5,386,745** |
+
+DPW alone covers the gap. But as we showed in the DPW analysis, $2.4M of that is facilities costs that other towns budget elsewhere — it's classification, not waste.
+
+### What Every Comp Town Trades Off for Higher Education
+
+**Every town** that allocates more to education than Winchester does it by spending less on DPW:
+
+| Town | Ed % | How They Fund It (vs Winchester) |
+|------|------|--------------------------------|
+| **Concord** | 56.4% | DPW -4.2pp, Fixed Costs -6.7pp, Debt -1.0pp |
+| **Lexington** | 52.3% | DPW -4.6pp, Police+Fire -2.9pp, Debt -0.9pp |
+| **Belmont** | 47.8% | DPW -2.7pp, Fixed Costs -7.1pp |
+| **Needham** | 47.8% | DPW -3.7pp, GenGov -1.2pp |
+| **Arlington** | 47.6% | DPW -2.7pp, GenGov -2.6pp, Police+Fire -1.0pp |
+| **Wellesley** | 47.3% | DPW -2.2pp, Police+Fire -1.8pp |
+
+**The universal pattern: Lower DPW = higher education.** The second lever varies:
+- Concord + Belmont: much lower Fixed Costs (different insurance structure)
+- Lexington: lower Police+Fire (economies of scale from larger population)
+- Arlington: lower GenGov (also economies of scale)
+
+### The Combined Answer
+
+Winchester's education underfunding has **two layers:**
+
+**Layer 1 — Fewer dollars (the revenue gap):**
+- Lower assessed values = $5.7M less tax levy than similar-revenue towns
+- This means fewer total dollars to allocate, regardless of priorities
+
+**Layer 2 — Lower percentage (the allocation gap):**
+- Winchester allocates 46.7% to education vs 48.8% average
+- DPW at 8.3% (vs 6.2% average) absorbs 2.0pp that could go to education
+- $2.4M of that DPW excess is facilities costs classified differently
+- Police+Fire at 10.1% (vs 9.1%) absorbs another 1.0pp
+
+**Both layers matter.** Even if Winchester reallocated from DPW to education, it would only reach 48.8% — still below Concord (56.4%) and Lexington (52.3%). To truly match those towns requires both reallocation AND more revenue (via override or assessed value growth).
+
+---
+
+## Can Reallocation Close the Gap?
+
+**No.** The per-student gap to the comp average is $6,834 ($29.7M total). Here's what each lever provides:
+
+| Scenario | $ Moved | New Per Student | Gap Closed | Rank |
+|---------|---------|----------------|-----------|------|
+| Current (FY24 DLS) | — | $14,915 | — | #8 of 9 |
+| Move DPW excess only | $2.8M | $15,557 | 9% | #7 |
+| Move DPW + Police/Fire excess | $4.2M | $15,883 | 14% | #7 |
+| Move ALL excess (DPW+PS+Fixed) | $5.4M | $16,156 | 18% | #7 |
+| FY27 Override alone | $11.5M | $17,570 | 39% | #7 |
+| **Override + ALL reallocation** | **$16.9M** | **$18,811** | **57%** | **#6** |
+| To match comp average | $29.7M | $21,749 | 100% | #5 |
+| To match Lexington | $27.5M | $21,242 | — | — |
+
+Even the most aggressive scenario (override + moving every dollar of excess from three departments) only closes 57% of the gap and moves Winchester from #8 to #6.
+
+**The remaining $12.8M gap ($2,938/student) can only be closed by growing revenue** — either through assessed value growth (new construction, property appreciation) or additional overrides.
+
+---
+
 ## Conclusions
 
 1. **Winchester is not mismanaging money.** The education gap is structural — lower property values and DPW classification — not bad choices.
