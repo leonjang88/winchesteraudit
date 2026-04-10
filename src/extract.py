@@ -58,7 +58,7 @@ def _parse_amount(text: Optional[str]) -> Optional[float]:
         return None
 
 
-_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM"}
+_TYPE_LABELS = {"BUDGET", "ACTUAL", "REQUEST", "MANAGER", "FINCOM", "RECOMMENDED", "APPROP.", "APPROPRIATION", "ESTIMATED"}
 
 
 def _build_col_map(config: dict) -> dict:
@@ -286,7 +286,7 @@ def _extract_text_rows(page, config: dict) -> list[dict]:
         if i < 0:
             break
         year_count = sum(
-            1 for w in word_lines[i] if re.match(r"^FY\d{2}$", w["text"].upper())
+            1 for w in word_lines[i] if re.match(r"^FY\d{2,4}$", w["text"].upper())
         )
         if year_count >= 3:
             year_line_idx = i
@@ -297,11 +297,12 @@ def _extract_text_rows(page, config: dict) -> list[dict]:
 
     # Pair each type label with its nearest year label by x-center
     col_defs: list[tuple[float, tuple]] = []  # (x_center, (fiscal_year, column_type))
-    year_positions = [
-        ((w["x0"] + w["x1"]) / 2, 2000 + int(w["text"][2:]))
-        for w in year_words
-        if re.match(r"^FY\d{2}$", w["text"].upper())
-    ]
+    year_positions = []
+    for w in year_words:
+        if re.match(r"^FY\d{2,4}$", w["text"].upper()):
+            yr_str = w["text"][2:]
+            yr = int(yr_str) if len(yr_str) > 2 else 2000 + int(yr_str)
+            year_positions.append(((w["x0"] + w["x1"]) / 2, yr))
 
     for tw in type_words:
         type_name = tw["text"].upper()
