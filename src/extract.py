@@ -69,6 +69,25 @@ def _build_col_map(config: dict) -> dict:
     return col_map
 
 
+def _validate_department_name(name: Optional[str]) -> Optional[str]:
+    """Validate that a detected name looks like a real department."""
+    if not name or len(name) < 3:
+        return None
+    upper = name.upper()
+    if "FY2" in upper or "FY1" in upper:
+        return None
+    if any(tok in upper for tok in ["BUDGET", "ACTUAL", "REQUEST", "FINCOM", "MANAGER"]):
+        return None
+    if name[0].isdigit() or name[0].islower() or name[0] in "•-":
+        return None
+    if name.count(",") > 2 or len(name) > 60:
+        return None
+    # Ends with period = sentence, not a department
+    if name.endswith("."):
+        return None
+    return name
+
+
 def _detect_department(page) -> Optional[str]:
     """Extract department name from large-font text at page top.
     Falls back to text-line detection when font-size heuristic fails."""
@@ -94,8 +113,9 @@ def _detect_department(page) -> Optional[str]:
 
             if header_chars:
                 result = "".join(c.get("text", "") for c in header_chars).strip()
-                if result:
-                    return result
+                validated = _validate_department_name(result)
+                if validated:
+                    return validated
 
     # --- Text fallback: word-position-based ---
     try:
@@ -124,11 +144,19 @@ def _detect_department(page) -> Optional[str]:
                 if not line:
                     continue
                 upper = line.upper()
+                # Skip column header lines (FY markers, column type labels)
                 if any(
                     tok in upper
                     for tok in ["FY2", "BUDGET", "ACTUAL", "REQUEST", "FINCOM", "MANAGER"]
                 ):
                     continue
+                # Skip lines that start with digits (likely data rows with account codes)
+                if line[0].isdigit():
+                    continue
+                # Skip lines starting with lowercase (likely narrative prose)
+                if line[0].islower():
+                    continue
+                # Skip pure numbers / page numbers
                 if (
                     line.replace(",", "")
                     .replace(".", "")
@@ -137,9 +165,18 @@ def _detect_department(page) -> Optional[str]:
                     .isdigit()
                 ):
                     continue
-                if len(line) < 3:
+                # Skip lines with many commas (likely data rows with amounts)
+                if line.count(",") > 2:
                     continue
-                return line
+                # Skip very short or very long lines (garbage or narrative)
+                if len(line) < 3 or len(line) > 60:
+                    continue
+                # Skip bullet points (narrative)
+                if line.startswith("•") or line.startswith("-"):
+                    continue
+                validated = _validate_department_name(line)
+                if validated:
+                    return validated
 
     return None
 
