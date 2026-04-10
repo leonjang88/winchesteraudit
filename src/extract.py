@@ -616,7 +616,7 @@ def run_extract(town: str, pdf_path: str) -> None:
                     town_id,
                     item["fiscal_year"],
                     item["department"],
-                    item.get("account_code"),
+                    item.get("account_code") or "",
                     item["description"],
                     item["amount"],
                     item["column_type"],
