@@ -1,0 +1,230 @@
+{
+  "town": "bedford",
+  "fiscal_year": 2027,
+  "source": "bedford_fy2026_budget.pdf",
+  "departments": [
+    {
+      "name": "Public Works - Administration",
+      "items": [
+        {
+          "description": "Professional Salary - Administration",
+          "amount": 4040258,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Grounds",
+          "amount": 718406,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Highway",
+          "amount": 645022,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Mechanical",
+          "amount": 323499,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Sewer",
+          "amount": 451746,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Water",
+          "amount": 345195,
+          "type": "personnel"
+        },
+        {
+          "description": "Professional Salary - Admin",
+          "amount": 1392218,
+          "type": "personnel"
+        },
+        {
+          "description": "Contracted Services - Administration",
+          "amount": 11926270,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Refuse",
+          "amount": 2119510,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Grounds",
+          "amount": 6495,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Highway",
+          "amount": 1745685,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Mechanical",
+          "amount": 92851,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Sewer",
+          "amount": 4504864,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Water",
+          "amount": 3192366,
+          "type": "expense"
+        },
+        {
+          "description": "Contracted Services - Admin",
+          "amount": 178325,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - External",
+          "amount": 1312176,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Grounds",
+          "amount": 236963,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Highway",
+          "amount": 350113,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Mechanical",
+          "amount": 350113,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Sewer",
+          "amount": 115412,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Water",
+          "amount": 240307,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials - Admin",
+          "amount": 80123,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Administration",
+          "amount": 6436,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Grounds",
+          "amount": 2383,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Highway",
+          "amount": 230,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Sewer",
+          "amount": 375,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Water",
+          "amount": 471,
+          "type": "expense"
+        },
+        {
+          "description": "Other Expense - Admin",
+          "amount": 2977,
+          "type": "expense"
+        },
+        {
+          "description": "Capital - Public Works",
+          "amount": 0,
+          "type": "equipment"
+        },
+        {
+          "description": "Capital - Grounds",
+          "amount": 0,
+          "type": "equipment"
+        },
+        {
+          "description": "Capital - Water",
+          "amount": 0,
+          "type": "equipment"
+        }
+      ],
+      "subtotals": {
+        "personnel": 7876344,
+        "expenses": 28923472,
+        "equipment": 0,
+        "total": 17255768
+      }
+    },
+    {
+      "name": "Public Works - Grounds",
+      "items": [
+        {
+          "description": "Work Foreman",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Asst. Work Foreman",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Heavy Equipment Op",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Seasonal Labor",
+          "amount": 0,
+          "type": "personnel"
+        }
+      ],
+      "subtotals": {
+        "personnel": 0,
+        "expenses": 0,
+        "equipment": 0,
+        "total": 0
+      }
+    },
+    {
+      "name": "Public Works - Highway",
+      "items": [
+        {
+          "description": "Work Foreman",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Asst. Work Foreman",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Heavy Equipment Op",
+          "amount": 0,
+          "type": "personnel"
+        }
+      ],
+      "subtotals": {
+        "personnel": 0,
+        "expenses": 0,
+        "equipment": 0,
+        "total": 0
+      }
+    }
+  ]
+}

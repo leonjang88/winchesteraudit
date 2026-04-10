@@ -1,0 +1,48 @@
+{
+  "town": "wellesley",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "School Direct Operating - Personal Services",
+      "columns": {
+        "amount": 83509492
+      }
+    },
+    {
+      "description": "School Direct Operating - Expenses",
+      "columns": {
+        "amount": 13346583
+      }
+    },
+    {
+      "description": "School Shared Costs - Group Insurance",
+      "columns": {
+        "amount": 17967509
+      }
+    },
+    {
+      "description": "School Shared Costs - Facilities",
+      "columns": {
+        "amount": 7087971
+      }
+    },
+    {
+      "description": "School Shared Costs - Retirement",
+      "columns": {
+        "amount": 1855387
+      }
+    },
+    {
+      "description": "School Shared Costs - Other (IT, Risk, Workers Comp, HR, Law, etc)",
+      "columns": {
+        "amount": 18067360
+      }
+    },
+    {
+      "description": "Total School Operating Budget",
+      "columns": {
+        "amount": 141833903
+      }
+    }
+  ]
+}

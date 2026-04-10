@@ -1,0 +1,622 @@
+{
+  "town": "needham",
+  "fiscal_year": 2027,
+  "source": "needham_fy2027_budget.pdf",
+  "departments": [
+    {
+      "name": "Department of Public Works - General Fund",
+      "divisions": [
+        {
+          "name": "Administration",
+          "items": [
+            {
+              "description": "Confirm & Asset Essentials Work Order System",
+              "amount": -5000,
+              "type": "expense"
+            },
+            {
+              "description": "Event Manager - Space Permitting",
+              "amount": 23000,
+              "type": "expense"
+            },
+            {
+              "description": "Monday.com",
+              "amount": 100,
+              "type": "expense"
+            },
+            {
+              "description": "PeopleGIS - PeopleForm Licenses/ Snow Ops",
+              "amount": 2125,
+              "type": "expense"
+            },
+            {
+              "description": "Safety Management System",
+              "amount": 1000,
+              "type": "expense"
+            },
+            {
+              "description": "See Click Fix",
+              "amount": 15000,
+              "type": "expense"
+            },
+            {
+              "description": "Seminars and Training",
+              "amount": 1232,
+              "type": "expense"
+            },
+            {
+              "description": "Legal Ads",
+              "amount": 1000,
+              "type": "expense"
+            },
+            {
+              "description": "Advertising",
+              "amount": 500,
+              "type": "expense"
+            },
+            {
+              "description": "Wireless Communications",
+              "amount": 600,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 39557,
+            "equipment": 0,
+            "total": 39557
+          }
+        },
+        {
+          "name": "Building Maintenance",
+          "items": [
+            {
+              "description": "Oil (Heating Fuel)",
+              "amount": 112862,
+              "type": "expense"
+            },
+            {
+              "description": "Alarm & Sprinkler Servicing",
+              "amount": 65004,
+              "type": "expense"
+            },
+            {
+              "description": "Building Repairs",
+              "amount": 184378,
+              "type": "expense"
+            },
+            {
+              "description": "Door Repairs",
+              "amount": 32699,
+              "type": "expense"
+            },
+            {
+              "description": "Elevator Maintenance",
+              "amount": 67302,
+              "type": "expense"
+            },
+            {
+              "description": "Equipment Repair",
+              "amount": 21683,
+              "type": "expense"
+            },
+            {
+              "description": "Generator Repair",
+              "amount": 23205,
+              "type": "expense"
+            },
+            {
+              "description": "HVAC Maintenance",
+              "amount": 964908,
+              "type": "expense"
+            },
+            {
+              "description": "Mechanical, Electrical, Plumbing Maintenance",
+              "amount": 449708,
+              "type": "expense"
+            },
+            {
+              "description": "Roof Repairs",
+              "amount": 74377,
+              "type": "expense"
+            },
+            {
+              "description": "Contract Cleaning",
+              "amount": 830150,
+              "type": "expense"
+            },
+            {
+              "description": "Irrigation Systems",
+              "amount": 11562,
+              "type": "expense"
+            },
+            {
+              "description": "Other Property Related Services",
+              "amount": 111098,
+              "type": "expense"
+            },
+            {
+              "description": "Parking Lot Maintenance",
+              "amount": 43470,
+              "type": "expense"
+            },
+            {
+              "description": "Pest Control Services",
+              "amount": 26392,
+              "type": "expense"
+            },
+            {
+              "description": "Rentals of Specialty Equipment",
+              "amount": 5279,
+              "type": "expense"
+            },
+            {
+              "description": "Shop Supplies, Gas, Welding Supplies",
+              "amount": 1500,
+              "type": "expense"
+            },
+            {
+              "description": "Custodial Supplies",
+              "amount": 17861,
+              "type": "expense"
+            },
+            {
+              "description": "Grounds Keeping Supplies",
+              "amount": 1547,
+              "type": "expense"
+            },
+            {
+              "description": "Uniforms",
+              "amount": 10700,
+              "type": "expense"
+            },
+            {
+              "description": "Cable/Internet",
+              "amount": 284,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 3883797,
+            "equipment": 0,
+            "total": 3883797
+          }
+        },
+        {
+          "name": "Engineering",
+          "items": [
+            {
+              "description": "Gasoline",
+              "amount": 4817,
+              "type": "expense"
+            },
+            {
+              "description": "HVAC Programming",
+              "amount": 4227,
+              "type": "expense"
+            },
+            {
+              "description": "Annual Licensing for Electronic Diagnostic Tool",
+              "amount": 2000,
+              "type": "expense"
+            },
+            {
+              "description": "Large Document Copiers & Survey Equipment Repair",
+              "amount": 930,
+              "type": "expense"
+            },
+            {
+              "description": "Drafting, Engineering, & Surveying Supplies",
+              "amount": 158,
+              "type": "expense"
+            },
+            {
+              "description": "Plan Size Copy Paper, Large Toner Bar, Books, Manuals",
+              "amount": 35,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 12167,
+            "equipment": 0,
+            "total": 12167
+          }
+        },
+        {
+          "name": "Fleet",
+          "items": [
+            {
+              "description": "Vehicle Repair",
+              "amount": 5000,
+              "type": "expense"
+            },
+            {
+              "description": "Diesel Fuel",
+              "amount": 3076,
+              "type": "expense"
+            },
+            {
+              "description": "Gasoline",
+              "amount": 4384,
+              "type": "expense"
+            },
+            {
+              "description": "Professional & Technical Services",
+              "amount": 20000,
+              "type": "expense"
+            },
+            {
+              "description": "Annual Licensing for Electronic Diagnostic Tool",
+              "amount": 2000,
+              "type": "expense"
+            },
+            {
+              "description": "GPS Monitoring Services",
+              "amount": 18000,
+              "type": "expense"
+            },
+            {
+              "description": "Equipment Refurbishment",
+              "amount": 20000,
+              "type": "expense"
+            },
+            {
+              "description": "Equipment Repair",
+              "amount": 10000,
+              "type": "expense"
+            },
+            {
+              "description": "Fuel Tank Maintenance",
+              "amount": 5000,
+              "type": "expense"
+            },
+            {
+              "description": "Vehicle & Equipment Inspections",
+              "amount": 15600,
+              "type": "expense"
+            },
+            {
+              "description": "Repairs & Maintenance Services",
+              "amount": 5000,
+              "type": "expense"
+            },
+            {
+              "description": "Other Supplies & Equipment",
+              "amount": 1105,
+              "type": "expense"
+            },
+            {
+              "description": "Vehicle First Aid Kits",
+              "amount": 105,
+              "type": "expense"
+            },
+            {
+              "description": "Hardware Supplies",
+              "amount": 350,
+              "type": "expense"
+            },
+            {
+              "description": "Shop Supplies",
+              "amount": 245,
+              "type": "expense"
+            },
+            {
+              "description": "2-Way Radio Supplies",
+              "amount": 1000,
+              "type": "expense"
+            },
+            {
+              "description": "Shop Equipment",
+              "amount": 105,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 110970,
+            "equipment": 0,
+            "total": 110970
+          }
+        },
+        {
+          "name": "Highway",
+          "items": [
+            {
+              "description": "Fence/Guardrail",
+              "amount": 1185,
+              "type": "expense"
+            },
+            {
+              "description": "Repairs & Maintenance to Traffic Signals",
+              "amount": 859,
+              "type": "expense"
+            },
+            {
+              "description": "Roadway Markings",
+              "amount": 8934,
+              "type": "expense"
+            },
+            {
+              "description": "Diesel Fuel",
+              "amount": -8706,
+              "type": "expense"
+            },
+            {
+              "description": "Gasoline",
+              "amount": 494,
+              "type": "expense"
+            },
+            {
+              "description": "Crack Seal",
+              "amount": 8311,
+              "type": "expense"
+            },
+            {
+              "description": "Disposal of Street Sweepings",
+              "amount": 1774,
+              "type": "expense"
+            },
+            {
+              "description": "Road Surface Treatments",
+              "amount": 12961,
+              "type": "expense"
+            },
+            {
+              "description": "Roadway Paving",
+              "amount": 45981,
+              "type": "expense"
+            },
+            {
+              "description": "Sidewalk Curb, & HP Improvements",
+              "amount": 11456,
+              "type": "expense"
+            },
+            {
+              "description": "Street Sweeping",
+              "amount": 1247,
+              "type": "expense"
+            },
+            {
+              "description": "Hydro seeding",
+              "amount": 25000,
+              "type": "expense"
+            },
+            {
+              "description": "Speed Radar Data Subscription",
+              "amount": 2000,
+              "type": "expense"
+            },
+            {
+              "description": "Police Details",
+              "amount": 3782,
+              "type": "expense"
+            },
+            {
+              "description": "Traffic Marking Paint",
+              "amount": 140,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 114419,
+            "equipment": 0,
+            "total": 114419
+          }
+        },
+        {
+          "name": "Parks & Forestry",
+          "items": [
+            {
+              "description": "Mowing/Mulching",
+              "amount": 317430,
+              "type": "expense"
+            },
+            {
+              "description": "Crane Work - Trees",
+              "amount": 31050,
+              "type": "expense"
+            },
+            {
+              "description": "Diamond Maintenance",
+              "amount": 25000,
+              "type": "expense"
+            },
+            {
+              "description": "Fertilizer & Grub Control",
+              "amount": 165915,
+              "type": "expense"
+            },
+            {
+              "description": "Field Work",
+              "amount": 67981,
+              "type": "expense"
+            },
+            {
+              "description": "Sod Installation",
+              "amount": 4000,
+              "type": "expense"
+            },
+            {
+              "description": "Soil Sampling",
+              "amount": 1899,
+              "type": "expense"
+            },
+            {
+              "description": "Spray Services",
+              "amount": 4900,
+              "type": "expense"
+            },
+            {
+              "description": "Top Dressing",
+              "amount": 31534,
+              "type": "expense"
+            },
+            {
+              "description": "Trail Maintenance",
+              "amount": 20000,
+              "type": "expense"
+            },
+            {
+              "description": "Tree Spade",
+              "amount": 6000,
+              "type": "expense"
+            },
+            {
+              "description": "Infield Mix",
+              "amount": 4000,
+              "type": "expense"
+            },
+            {
+              "description": "Grounds Keeping Supplies",
+              "amount": 1547,
+              "type": "expense"
+            },
+            {
+              "description": "Loam, Sod, & Soil Additives",
+              "amount": 88,
+              "type": "expense"
+            },
+            {
+              "description": "Quick Dry Clay",
+              "amount": 1500,
+              "type": "expense"
+            },
+            {
+              "description": "Seed",
+              "amount": 2562,
+              "type": "expense"
+            },
+            {
+              "description": "Trees & Shrubs",
+              "amount": 10000,
+              "type": "expense"
+            },
+            {
+              "description": "Police Details",
+              "amount": 4000,
+              "type": "expense"
+            },
+            {
+              "description": "Consulting",
+              "amount": 10000,
+              "type": "expense"
+            },
+            {
+              "description": "Seminars and Training",
+              "amount": 400,
+              "type": "expense"
+            },
+            {
+              "description": "Licenses and Certifications",
+              "amount": 200,
+              "type": "expense"
+            },
+            {
+              "description": "Professional Association Memberships",
+              "amount": 1525,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 711628,
+            "equipment": 0,
+            "total": 711628
+          }
+        },
+        {
+          "name": "Recycling & Solid Waste",
+          "items": [
+            {
+              "description": "MSW Disposal (Tipping Fee)",
+              "amount": 797605,
+              "type": "expense"
+            },
+            {
+              "description": "MSW Hauling",
+              "amount": 244316,
+              "type": "expense"
+            },
+            {
+              "description": "Recycling Hauling",
+              "amount": -9525,
+              "type": "expense"
+            },
+            {
+              "description": "Tailings Disposal",
+              "amount": 5250,
+              "type": "expense"
+            },
+            {
+              "description": "Pay-Per-Throw Supplies",
+              "amount": 10110,
+              "type": "expense"
+            },
+            {
+              "description": "Uniforms",
+              "amount": 1030,
+              "type": "expense"
+            },
+            {
+              "description": "Employee Clothing",
+              "amount": 3090,
+              "type": "expense"
+            }
+          ],
+          "subtotals": {
+            "personnel": 0,
+            "expenses": 1051876,
+            "equipment": 0,
+            "total": 1051876
+          }
+        }
+      ],
+      "items": [
+        {
+          "description": "Salary and Wages",
+          "amount": 12885933,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 10259369,
+          "type": "expense"
+        },
+        {
+          "description": "Capital",
+          "amount": 28000,
+          "type": "equipment"
+        },
+        {
+          "description": "Snow & Ice",
+          "amount": 450726,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 12885933,
+        "expenses": 10710095,
+        "equipment": 28000,
+        "total": 23624028
+      }
+    }
+  ],
+  "summary": {
+    "total_budget": 23624028,
+    "personnel_total": 12885933,
+    "expenses_total": 10710095,
+    "equipment_total": 28000,
+    "main_divisions": [
+      "Administration",
+      "Building Maintenance",
+      "Engineering",
+      "Fleet",
+      "Highway",
+      "Parks & Forestry",
+      "Recycling & Solid Waste"
+    ]
+  }
+}

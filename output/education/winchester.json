@@ -1,0 +1,187 @@
+{
+  "town": "winchester",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "table": "Table 1 - School Committee Adopted Budget (Override)",
+      "description": "Total Personnel",
+      "columns": {
+        "FY26 Budget": 62024532,
+        "FY27 Budget": 67205687
+      }
+    },
+    {
+      "table": "Table 1 - School Committee Adopted Budget (Override)",
+      "description": "Total Other Expenses",
+      "columns": {
+        "FY26 Budget": 8391186,
+        "FY27 Budget": 9064883
+      }
+    },
+    {
+      "table": "Table 1 - School Committee Adopted Budget (Override)",
+      "description": "Total Budget",
+      "columns": {
+        "FY26 Budget": 70415718,
+        "FY27 Budget": 76270570
+      }
+    },
+    {
+      "table": "Table 1 - School Committee Adopted Budget (Override)",
+      "description": "FY26 to FY27 %Δ",
+      "columns": {
+        "FY27 Budget": "8.31%"
+      }
+    },
+    {
+      "table": "Table 2 - WPS Level Services",
+      "description": "Total Budget",
+      "columns": {
+        "FY26 Budget": 70415718,
+        "FY27 Budget": 75206504
+      }
+    },
+    {
+      "table": "Table 2 - WPS Level Services",
+      "description": "FY26 to FY27 %Δ",
+      "columns": {
+        "FY27 Budget": "6.80%"
+      }
+    },
+    {
+      "table": "Table 2 - WPS Level Services",
+      "description": "Cumulative Reduction from School Committee Adopted Budget (Override)",
+      "columns": {
+        "FY27 Budget": -1064066
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY23 (Oct 1) Grades K-8",
+      "columns": {
+        "enrollment": 1848
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY23 (Oct 1) Grades 9-12",
+      "columns": {
+        "enrollment": 1037
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY23 (Oct 1) Total Enrollment",
+      "columns": {
+        "enrollment": 4268
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY24 (Oct 1) Grades K-8",
+      "columns": {
+        "enrollment": 1848
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY24 (Oct 1) Grades 9-12",
+      "columns": {
+        "enrollment": 1038
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY24 (Oct 1) Total Enrollment",
+      "columns": {
+        "enrollment": 4264
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY25 (Oct 1) Grades K-8",
+      "columns": {
+        "enrollment": 1824
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY25 (Oct 1) Grades 9-12",
+      "columns": {
+        "enrollment": 1038
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY25 (Oct 1) Total Enrollment",
+      "columns": {
+        "enrollment": 4320
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY26 (Oct 1) Grades K-8",
+      "columns": {
+        "enrollment": 1802
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY26 (Oct 1) Grades 9-12",
+      "columns": {
+        "enrollment": 1063
+      }
+    },
+    {
+      "table": "Chart 1 - WPS Enrollment by Grade Span (K-12)",
+      "description": "FY26 (Oct 1) Total Enrollment",
+      "columns": {
+        "enrollment": 4283
+      }
+    },
+    {
+      "table": "Table 3 - SOTT 5% Model - Foundational Budget",
+      "description": "Total Budget",
+      "columns": {
+        "FY26 Budget": 70415718,
+        "FY27 Budget": 73936504
+      }
+    },
+    {
+      "table": "Table 3 - SOTT 5% Model - Foundational Budget",
+      "description": "FY26 to FY27 %Δ",
+      "columns": {
+        "FY27 Budget": "5.00%"
+      }
+    },
+    {
+      "table": "Table 3 - SOTT 5% Model - Foundational Budget",
+      "description": "Cumulative Reduction from School Committee Adopted Budget (Override)",
+      "columns": {
+        "FY27 Budget": -2334066
+      }
+    },
+    {
+      "table": "Table 4 - No-Override Scenario (3.81% Model)",
+      "description": "Total Budget",
+      "columns": {
+        "FY26 Budget": 70415718,
+        "FY27 Budget": 73098557
+      }
+    },
+    {
+      "table": "Table 4 - No-Override Scenario (3.81% Model)",
+      "description": "FY26 to FY27 %Δ",
+      "columns": {
+        "FY27 Budget": "3.81%"
+      }
+    },
+    {
+      "table": "Table 4 - No-Override Scenario (3.81% Model)",
+      "description": "Cumulative Reduction from School Committee Adopted Budget (Override)",
+      "columns": {
+        "FY27 Budget": -3172013
+      }
+    }
+  ]
+}

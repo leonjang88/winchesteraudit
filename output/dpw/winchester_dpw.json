@@ -1,0 +1,862 @@
+{
+  "town": "winchester",
+  "fiscal_year": 2027,
+  "source": "winchester_fy2027_budget.pdf",
+  "departments": [
+    {
+      "name": "DEPARTMENT OF PUBLIC WORKS",
+      "items": [
+        {
+          "description": "DEPARTMENT OF PUBLIC WORKS",
+          "amount": 9926966.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "PERSONAL SERVICES",
+          "amount": 6249595.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Personal Services",
+          "amount": 6249595.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "PERMANENT",
+          "amount": 3707229.0,
+          "account_code": "51101",
+          "type": "personnel"
+        },
+        {
+          "description": "EXPENSES",
+          "amount": 3657871.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Other Expenses",
+          "amount": 3657871.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "CUSTODIANS",
+          "amount": 1906122.0,
+          "account_code": "51113",
+          "type": "personnel"
+        },
+        {
+          "description": "SOLID WASTE DISPOSAL",
+          "amount": 971190.0,
+          "account_code": "53165",
+          "type": "expense"
+        },
+        {
+          "description": "PROF SERVICES",
+          "amount": 714299.0,
+          "account_code": "53118",
+          "type": "expense"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 546369.0,
+          "account_code": "51359",
+          "type": "personnel"
+        },
+        {
+          "description": "R&M BLDG & STRUCT",
+          "amount": 540000.0,
+          "account_code": "53138",
+          "type": "expense"
+        },
+        {
+          "description": "RECYCLING SERVICES",
+          "amount": 385000.0,
+          "account_code": "53164",
+          "type": "expense"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 223300.0,
+          "account_code": "0141711 51359",
+          "type": "other"
+        },
+        {
+          "description": "CUST SUP N CONS",
+          "amount": 205000.0,
+          "account_code": "52114",
+          "type": "expense"
+        },
+        {
+          "description": "CHEMICALS",
+          "amount": 125000.0,
+          "account_code": "0141712 52153",
+          "type": "other"
+        },
+        {
+          "description": "CONTRACTUAL SERVICE",
+          "amount": 119530.0,
+          "account_code": "53172",
+          "type": "expense"
+        },
+        {
+          "description": "SUPPLIES, AUTOMOTIVE",
+          "amount": 100100.0,
+          "account_code": "52138",
+          "type": "expense"
+        },
+        {
+          "description": "ANNUAL S/W RENEWALS & SUBSCRIP",
+          "amount": 89678.0,
+          "account_code": "53238",
+          "type": "expense"
+        },
+        {
+          "description": "HIRED EQUIPMENT",
+          "amount": 68700.0,
+          "account_code": "0141712 53126",
+          "type": "other"
+        },
+        {
+          "description": "SUPPLIES & MATERIALS",
+          "amount": 55960.0,
+          "account_code": "52186",
+          "type": "expense"
+        },
+        {
+          "description": "HIRED EQUIPMENT",
+          "amount": 52750.0,
+          "account_code": "53126",
+          "type": "expense"
+        },
+        {
+          "description": "R&M PLAYGROUND",
+          "amount": 47000.0,
+          "account_code": "53252",
+          "type": "expense"
+        },
+        {
+          "description": "R & M AUTOMOTIVE",
+          "amount": 43000.0,
+          "account_code": "53127",
+          "type": "expense"
+        },
+        {
+          "description": "AGRICULTURE AND HORTICULTURE",
+          "amount": 40500.0,
+          "account_code": "52136",
+          "type": "expense"
+        },
+        {
+          "description": "ELECTRICAL SUPPLIES",
+          "amount": 32643.0,
+          "account_code": "52116",
+          "type": "expense"
+        },
+        {
+          "description": "TEMPORARY",
+          "amount": 30000.0,
+          "account_code": "51251",
+          "type": "personnel"
+        },
+        {
+          "description": "SICK LEAVE BUYBACK - DPW",
+          "amount": 26475.0,
+          "account_code": "51160",
+          "type": "personnel"
+        },
+        {
+          "description": "CLOTHING & UNIFORMS",
+          "amount": 25500.0,
+          "account_code": "52184",
+          "type": "expense"
+        },
+        {
+          "description": "SUPPLIES, AUTOMOBILE",
+          "amount": 25000.0,
+          "account_code": "0141712 52138",
+          "type": "other"
+        },
+        {
+          "description": "LANDSCAPING EQUIPMENT",
+          "amount": 25000.0,
+          "account_code": "0141713 55111",
+          "type": "other"
+        },
+        {
+          "description": "BITUMINOUS PRODUCTS",
+          "amount": 22000.0,
+          "account_code": "52128",
+          "type": "expense"
+        },
+        {
+          "description": "SICK LEAVE BUYBACK - NON-UNION",
+          "amount": 20200.0,
+          "account_code": "51161",
+          "type": "personnel"
+        },
+        {
+          "description": "HARDWARE",
+          "amount": 20080.0,
+          "account_code": "52123",
+          "type": "expense"
+        },
+        {
+          "description": "TIRES, TUBES & CHAINS",
+          "amount": 20000.0,
+          "account_code": "52142",
+          "type": "expense"
+        },
+        {
+          "description": "POLICE DETAIL SERVICES",
+          "amount": 20000.0,
+          "account_code": "57010",
+          "type": "other"
+        },
+        {
+          "description": "EQUIPMENT",
+          "amount": 19500.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Equipment",
+          "amount": 19500.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "LANDSCAPING EQUIPMENT",
+          "amount": 19500.0,
+          "account_code": "55111",
+          "type": "equipment"
+        },
+        {
+          "description": "SUPPLIES, SMALL EQUIPMENT",
+          "amount": 18100.0,
+          "account_code": "52137",
+          "type": "expense"
+        },
+        {
+          "description": "SAND, GRAVEL & LOAM",
+          "amount": 16000.0,
+          "account_code": "0141712 52130",
+          "type": "other"
+        },
+        {
+          "description": "PUBLIC SAFETY SUPPLY",
+          "amount": 15500.0,
+          "account_code": "52181",
+          "type": "expense"
+        },
+        {
+          "description": "CLOTHING/BOOT ALLOWANCE",
+          "amount": 12700.0,
+          "account_code": "51901",
+          "type": "personnel"
+        },
+        {
+          "description": "TIRES, TUBES & CHAINS",
+          "amount": 10000.0,
+          "account_code": "0141712 52142",
+          "type": "other"
+        },
+        {
+          "description": "PLUMBING, HEATING & VENTILAT",
+          "amount": 10000.0,
+          "account_code": "52127",
+          "type": "expense"
+        },
+        {
+          "description": "CONS LANDSCAPING/MILL POND",
+          "amount": 10000.0,
+          "account_code": "53251",
+          "type": "expense"
+        },
+        {
+          "description": "READY MIX CONCRETE",
+          "amount": 9200.0,
+          "account_code": "52133",
+          "type": "expense"
+        },
+        {
+          "description": "COM R&M TOOLS & EQUIPMENT",
+          "amount": 8700.0,
+          "account_code": "53128",
+          "type": "expense"
+        },
+        {
+          "description": "PAINTING SUPPLIES",
+          "amount": 8600.0,
+          "account_code": "52125",
+          "type": "expense"
+        },
+        {
+          "description": "SMALL TOOLS & IMPLMT",
+          "amount": 8000.0,
+          "account_code": "52143",
+          "type": "expense"
+        },
+        {
+          "description": "SAND, GRAVEL & LOAM",
+          "amount": 6500.0,
+          "account_code": "52130",
+          "type": "expense"
+        },
+        {
+          "description": "PIPE & FITTINGS",
+          "amount": 5950.0,
+          "account_code": "52152",
+          "type": "expense"
+        },
+        {
+          "description": "TELEPHONE TOWN BLDGS",
+          "amount": 5600.0,
+          "account_code": "53110",
+          "type": "expense"
+        },
+        {
+          "description": "WELDING SUPPLIES",
+          "amount": 5000.0,
+          "account_code": "52124",
+          "type": "expense"
+        },
+        {
+          "description": "RECREATIONAL SUPPLIES",
+          "amount": 4500.0,
+          "account_code": "52176",
+          "type": "expense"
+        },
+        {
+          "description": "LUMBER AND WOOD PRODUCTS",
+          "amount": 3550.0,
+          "account_code": "52134",
+          "type": "expense"
+        },
+        {
+          "description": "ATHLETIC RECREATIONAL",
+          "amount": 3500.0,
+          "account_code": "52126",
+          "type": "expense"
+        },
+        {
+          "description": "TUITION",
+          "amount": 3300.0,
+          "account_code": "53166",
+          "type": "expense"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 3100.0,
+          "account_code": "53115",
+          "type": "expense"
+        },
+        {
+          "description": "CLEANING SUPPLIES",
+          "amount": 3000.0,
+          "account_code": "52113",
+          "type": "expense"
+        },
+        {
+          "description": "LICENSE REIMBURSEMENT",
+          "amount": 2900.0,
+          "account_code": "53303",
+          "type": "expense"
+        },
+        {
+          "description": "OFFICE SUPPLIES",
+          "amount": 2400.0,
+          "account_code": "52101",
+          "type": "expense"
+        },
+        {
+          "description": "SUPPLIES & MATERIALS",
+          "amount": 2000.0,
+          "account_code": "0141712 52186",
+          "type": "other"
+        },
+        {
+          "description": "MASONRY SUPPLIES",
+          "amount": 2000.0,
+          "account_code": "52129",
+          "type": "expense"
+        },
+        {
+          "description": "COMMUNICATIONS",
+          "amount": 1800.0,
+          "account_code": "55104",
+          "type": "equipment"
+        },
+        {
+          "description": "DUES AND MEMBERSHIPS",
+          "amount": 1600.0,
+          "account_code": "54101",
+          "type": "expense"
+        },
+        {
+          "description": "PROF SERVICES",
+          "amount": 1500.0,
+          "account_code": "0141712 53118",
+          "type": "other"
+        },
+        {
+          "description": "PRINTING & STATIONERY",
+          "amount": 1100.0,
+          "account_code": "53101",
+          "type": "expense"
+        },
+        {
+          "description": "HARDWARE",
+          "amount": 1000.0,
+          "account_code": "0141712 52123",
+          "type": "other"
+        },
+        {
+          "description": "PAINTING SUPPLIES",
+          "amount": 1000.0,
+          "account_code": "0141712 52125",
+          "type": "other"
+        },
+        {
+          "description": "R & M AUTOMOTIVE",
+          "amount": 1000.0,
+          "account_code": "0141712 53127",
+          "type": "other"
+        },
+        {
+          "description": "RENTALS AND STORAGE",
+          "amount": 900.0,
+          "account_code": "54102",
+          "type": "expense"
+        },
+        {
+          "description": "FLAGS",
+          "amount": 750.0,
+          "account_code": "52112",
+          "type": "expense"
+        },
+        {
+          "description": "IRON CASTINGS",
+          "amount": 750.0,
+          "account_code": "52135",
+          "type": "expense"
+        },
+        {
+          "description": "LANDSCAPING",
+          "amount": 700.0,
+          "account_code": "53125",
+          "type": "expense"
+        },
+        {
+          "description": "SMALL TOOLS & IMPLMT",
+          "amount": 500.0,
+          "account_code": "0141712 52143",
+          "type": "other"
+        },
+        {
+          "description": "SICK LEAVE BUYBACK - UNION",
+          "amount": 500.0,
+          "account_code": "51155",
+          "type": "personnel"
+        },
+        {
+          "description": "STONE",
+          "amount": 500.0,
+          "account_code": "52131",
+          "type": "expense"
+        },
+        {
+          "description": "CURRENT CHARGES",
+          "amount": 341.0,
+          "account_code": "54126",
+          "type": "expense"
+        },
+        {
+          "description": "PRINTING AND REPRODUC SUPPLI",
+          "amount": 300.0,
+          "account_code": "52103",
+          "type": "expense"
+        },
+        {
+          "description": "TRAVEL - INSIDE MASS",
+          "amount": 300.0,
+          "account_code": "53122",
+          "type": "expense"
+        },
+        {
+          "description": "BIND & BK REPAIRS",
+          "amount": 200.0,
+          "account_code": "53116",
+          "type": "expense"
+        },
+        {
+          "description": "OFF DUTY",
+          "amount": 0.0,
+          "account_code": "51365",
+          "type": "personnel"
+        },
+        {
+          "description": "EQUIPMENT LEASES/RENTALS",
+          "amount": 0.0,
+          "account_code": "52250",
+          "type": "expense"
+        },
+        {
+          "description": "BEACH HOUSE/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53136",
+          "type": "expense"
+        },
+        {
+          "description": "HS/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53140",
+          "type": "expense"
+        },
+        {
+          "description": "LY/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53141",
+          "type": "expense"
+        },
+        {
+          "description": "MC/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53142",
+          "type": "expense"
+        },
+        {
+          "description": "AMBROSE/R&M BLDG & STRUC",
+          "amount": 0.0,
+          "account_code": "53143",
+          "type": "expense"
+        },
+        {
+          "description": "LI/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53144",
+          "type": "expense"
+        },
+        {
+          "description": "MU/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53145",
+          "type": "expense"
+        },
+        {
+          "description": "MY/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53146",
+          "type": "expense"
+        },
+        {
+          "description": "VO/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53148",
+          "type": "expense"
+        },
+        {
+          "description": "PUBLIC SAFETY/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53218",
+          "type": "expense"
+        },
+        {
+          "description": "DPW/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53219",
+          "type": "expense"
+        },
+        {
+          "description": "TOWN HALL/R&M BLDG & STRUCT",
+          "amount": 0.0,
+          "account_code": "53220",
+          "type": "expense"
+        },
+        {
+          "description": "LIB/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53234",
+          "type": "expense"
+        },
+        {
+          "description": "PH/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53240",
+          "type": "expense"
+        },
+        {
+          "description": "TRTMT PLT/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53242",
+          "type": "expense"
+        },
+        {
+          "description": "TS&DP/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53243",
+          "type": "expense"
+        },
+        {
+          "description": "CEM/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53244",
+          "type": "expense"
+        },
+        {
+          "description": "WESTSIDE/R&M BLDG & STR",
+          "amount": 0.0,
+          "account_code": "53245",
+          "type": "expense"
+        },
+        {
+          "description": "Custodian - Schools",
+          "amount": 30.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Public Works",
+          "amount": 22.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Professional/Technical",
+          "amount": 12.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Managerial",
+          "amount": 4.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Clerical",
+          "amount": 3.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Custodian - Public Works",
+          "amount": 1.0,
+          "account_code": "",
+          "type": "other"
+        }
+      ],
+      "subtotals": {
+        "SNOW AND ICE TOTAL": 500000.0,
+        "TOTAL": 25000.0
+      }
+    },
+    {
+      "name": "ENGINEERING",
+      "items": [
+        {
+          "description": "ENGINEERING",
+          "amount": 700829.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "PERSONAL SERVICES",
+          "amount": 582799.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Personal Services",
+          "amount": 582799.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "PERMANENT",
+          "amount": 575234.0,
+          "account_code": "0114121 51101",
+          "type": "other"
+        },
+        {
+          "description": "EXPENSES",
+          "amount": 118030.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Other Expenses",
+          "amount": 118030.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "PROF SERVICES",
+          "amount": 90000.0,
+          "account_code": "0114122 53118",
+          "type": "other"
+        },
+        {
+          "description": "PRINTING AND REPRODUC SUPPLI",
+          "amount": 7500.0,
+          "account_code": "0114122 52103",
+          "type": "other"
+        },
+        {
+          "description": "ANNUAL S/W RENEWALS & SUBSCRIP",
+          "amount": 7000.0,
+          "account_code": "0114122 53238",
+          "type": "other"
+        },
+        {
+          "description": "EQUIPMENT LEASES/RENTALS",
+          "amount": 6000.0,
+          "account_code": "014122 52250",
+          "type": "other"
+        },
+        {
+          "description": "SICK LEAVE BUYBACK - UNION",
+          "amount": 4315.0,
+          "account_code": "0114121 51155",
+          "type": "other"
+        },
+        {
+          "description": "SICK LEAVE BUYBACK - NON-UNION",
+          "amount": 2250.0,
+          "account_code": "0114121 51161",
+          "type": "other"
+        },
+        {
+          "description": "R&M FURNITURE/EQUIPMENT",
+          "amount": 2000.0,
+          "account_code": "0114122 53161",
+          "type": "other"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 1000.0,
+          "account_code": "0114121 51359",
+          "type": "other"
+        },
+        {
+          "description": "OFFICE SUPPLIES",
+          "amount": 1000.0,
+          "account_code": "0114122 52101",
+          "type": "other"
+        },
+        {
+          "description": "TUITION",
+          "amount": 750.0,
+          "account_code": "0114122 53166",
+          "type": "other"
+        },
+        {
+          "description": "PRINTING & STATIONERY",
+          "amount": 500.0,
+          "account_code": "0114122 53101",
+          "type": "other"
+        },
+        {
+          "description": "REPRODUCING SVC",
+          "amount": 500.0,
+          "account_code": "0114122 53106",
+          "type": "other"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 500.0,
+          "account_code": "0114122 53115",
+          "type": "other"
+        },
+        {
+          "description": "COM R&M TOOLS & EQUIPMENT",
+          "amount": 500.0,
+          "account_code": "0114122 53128",
+          "type": "other"
+        },
+        {
+          "description": "DUES AND MEMBERSHIPS",
+          "amount": 500.0,
+          "account_code": "0114122 54101",
+          "type": "other"
+        },
+        {
+          "description": "TELEPHONE TOWN BLDGS",
+          "amount": 480.0,
+          "account_code": "0114122 53110",
+          "type": "other"
+        },
+        {
+          "description": "TRAVEL - INSIDE MASS",
+          "amount": 250.0,
+          "account_code": "0114122 53122",
+          "type": "other"
+        },
+        {
+          "description": "COMPUTER SUPPLIES",
+          "amount": 200.0,
+          "account_code": "0114122 52105",
+          "type": "other"
+        },
+        {
+          "description": "SUPPLIES, AUTOMOBILE",
+          "amount": 200.0,
+          "account_code": "0114122 52138",
+          "type": "other"
+        },
+        {
+          "description": "BOOKS AND PERIODICALS",
+          "amount": 100.0,
+          "account_code": "0114122 52106",
+          "type": "other"
+        },
+        {
+          "description": "HARDWARE",
+          "amount": 50.0,
+          "account_code": "0114122 52123",
+          "type": "other"
+        },
+        {
+          "description": "OFFICE EQUIPMENT",
+          "amount": 0.0,
+          "account_code": "0114122 52146",
+          "type": "other"
+        },
+        {
+          "description": "POSTAGE-GEN SERVICES",
+          "amount": 0.0,
+          "account_code": "0114122 53108",
+          "type": "other"
+        },
+        {
+          "description": "R&M AUTOMOTIVE",
+          "amount": 0.0,
+          "account_code": "0114122 53127",
+          "type": "other"
+        },
+        {
+          "description": "Managerial",
+          "amount": 3.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Clerical",
+          "amount": 1.0,
+          "account_code": "",
+          "type": "other"
+        },
+        {
+          "description": "Professional/Technical",
+          "amount": 1.0,
+          "account_code": "",
+          "type": "other"
+        }
+      ],
+      "subtotals": {}
+    }
+  ]
+}

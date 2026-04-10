@@ -1,0 +1,1054 @@
+{
+  "town": "lexington",
+  "fiscal_year": 2027,
+  "data": {
+    "program_2100_employee_benefits_insurance": {
+      "budget_summary_general_fund": [
+        {
+          "description": "Tax Levy",
+          "columns": {
+            "FY2024_Actual": 6162502,
+            "FY2025_Actual": 16122322,
+            "FY2026_Estimate": 55100446,
+            "FY2027_Projected": 56076346,
+            "Dollar_Increase": 976000,
+            "Percent_Increase": "1.76%"
+          }
+        },
+        {
+          "description": "Transfers from Enterprise Funds to General Fund (Indirect)",
+          "columns": {
+            "FY2024_Actual": 611795,
+            "FY2025_Actual": 805256,
+            "FY2026_Estimate": 863256,
+            "FY2027_Projected": 888732,
+            "Dollar_Increase": 25466,
+            "Percent_Increase": "2.95%"
+          }
+        },
+        {
+          "description": "Free Cash",
+          "columns": {
+            "FY2024_Actual": 400000,
+            "FY2025_Actual": 400000,
+            "FY2026_Estimate": 400000,
+            "FY2027_Projected": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "FEG Access Special Revenue Fund",
+          "columns": {
+            "FY2024_Actual": 5575,
+            "FY2025_Actual": 5176,
+            "FY2026_Estimate": 4961,
+            "FY2027_Projected": 6223,
+            "Dollar_Increase": 1262,
+            "Percent_Increase": "24.08%"
+          }
+        },
+        {
+          "description": "Total 2100 Funding Sources",
+          "columns": {
+            "FY2024_Actual": 42879509,
+            "FY2025_Actual": 47333296,
+            "FY2026_Estimate": 43380665,
+            "FY2027_Projected": 57171658,
+            "Dollar_Increase": 14002987,
+            "Percent_Increase": "7.03%"
+          }
+        }
+      ],
+      "appropriation_summary_general_fund": [
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 163757,
+            "FY2025_Actual": 181098,
+            "FY2026_Revised": 179264,
+            "FY2027_Recommended": 205135,
+            "Dollar_Increase": 26071,
+            "Percent_Increase": "14.34%"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 42715112,
+            "FY2025_Actual": 47152498,
+            "FY2026_Revised": 53189429,
+            "FY2027_Recommended": 56966523,
+            "Dollar_Increase": 3777094,
+            "Percent_Increase": "7.11%"
+          }
+        },
+        {
+          "description": "Total 2100 Employee Benefits",
+          "columns": {
+            "FY2024_Actual": 42879509,
+            "FY2025_Actual": 47333296,
+            "FY2026_Revised": 53369693,
+            "FY2027_Recommended": 57171658,
+            "Dollar_Increase": 3802065,
+            "Percent_Increase": "7.13%"
+          }
+        }
+      ],
+      "level_service_requests_general_fund": [
+        {
+          "description": "Total 2110 Contributory Retirement",
+          "columns": {
+            "FY2024_Actual": 16154402,
+            "FY2025_Actual": 18743076,
+            "FY2026_Revised": 11521508,
+            "FY2027_Recommended": 12300042,
+            "Dollar_Increase": 778538,
+            "Percent_Increase": "6.76%"
+          }
+        },
+        {
+          "description": "Total 2120 Medicare Tax",
+          "columns": {
+            "FY2024_Actual": 2737202,
+            "FY2025_Actual": 2387981,
+            "FY2026_Revised": 2426393,
+            "FY2027_Recommended": 3148715,
+            "Dollar_Increase": 722322,
+            "Percent_Increase": "29.81%"
+          }
+        },
+        {
+          "description": "Total 2130 Health Insurance",
+          "columns": {
+            "FY2024_Actual": 28999888,
+            "FY2025_Actual": 32746384,
+            "FY2026_Revised": 37301396,
+            "FY2027_Recommended": 40399019,
+            "Dollar_Increase": 3097623,
+            "Percent_Increase": "8.02%"
+          }
+        },
+        {
+          "description": "Total 2130 Dental Insurance",
+          "columns": {
+            "FY2024_Actual": 1057156,
+            "FY2025_Actual": 1166628,
+            "FY2026_Revised": 1300511,
+            "FY2027_Recommended": 1404426,
+            "Dollar_Increase": 103915,
+            "Percent_Increase": "7.99%"
+          }
+        },
+        {
+          "description": "Total 2130 Life Insurance",
+          "columns": {
+            "FY2024_Actual": 16633,
+            "FY2025_Actual": 21893,
+            "FY2026_Revised": 25000,
+            "FY2027_Recommended": 25000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Total 2130 + Health/Life Benefits",
+          "columns": {
+            "FY2024_Actual": 32746834,
+            "FY2025_Actual": 26242121,
+            "FY2026_Revised": 61627189,
+            "FY2027_Recommended": 67224498,
+            "Dollar_Increase": 7224498,
+            "Percent_Increase": "7.34%"
+          }
+        },
+        {
+          "description": "Total 2150 Workers Compensation",
+          "columns": {
+            "FY2024_Actual": 500000,
+            "FY2025_Actual": 500000,
+            "FY2026_Revised": 500000,
+            "FY2027_Recommended": 500000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Total 2160 Unemployment Insurance",
+          "columns": {
+            "FY2024_Actual": 436298,
+            "FY2025_Actual": 486359,
+            "FY2026_Revised": 700000,
+            "FY2027_Recommended": 700000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Total 2100 Employee Benefits",
+          "columns": {
+            "FY2024_Actual": 42879509,
+            "FY2025_Actual": 47333296,
+            "FY2026_Revised": 53369693,
+            "FY2027_Recommended": 57171658,
+            "Dollar_Increase": 3802065,
+            "Percent_Increase": "7.13%"
+          }
+        }
+      ],
+      "object_code_summary_general_fund": [
+        {
+          "description": "Salaries & Wages",
+          "columns": {
+            "FY2024_Actual": 163757,
+            "FY2025_Actual": 181098,
+            "FY2026_Revised": 179264,
+            "FY2027_Recommended": 205135,
+            "Dollar_Increase": 26071,
+            "Percent_Increase": "14.34%"
+          }
+        },
+        {
+          "description": "Overtime",
+          "columns": {
+            "FY2024_Actual": null,
+            "FY2025_Actual": null,
+            "FY2026_Revised": null,
+            "FY2027_Recommended": null,
+            "Dollar_Increase": null,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Personal Services",
+          "columns": {
+            "FY2024_Actual": 163757,
+            "FY2025_Actual": 181098,
+            "FY2026_Revised": 179264,
+            "FY2027_Recommended": 205135,
+            "Dollar_Increase": 26071,
+            "Percent_Increase": "14.34%"
+          }
+        },
+        {
+          "description": "Contractual Services",
+          "columns": {
+            "FY2024_Actual": 42716112,
+            "FY2025_Actual": 47152198,
+            "FY2026_Revised": 53189429,
+            "FY2027_Recommended": 56966523,
+            "Dollar_Increase": 3777094,
+            "Percent_Increase": "7.11%"
+          }
+        },
+        {
+          "description": "Utilities",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Revised": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Supplies",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Revised": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Small Capital",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Revised": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 42716112,
+            "FY2025_Actual": 47152198,
+            "FY2026_Revised": 53189429,
+            "FY2027_Recommended": 56966523,
+            "Dollar_Increase": 3777094,
+            "Percent_Increase": "7.11%"
+          }
+        },
+        {
+          "description": "Total 2100 Employee Benefits",
+          "columns": {
+            "FY2024_Actual": 42879509,
+            "FY2025_Actual": 47333296,
+            "FY2026_Revised": 53369693,
+            "FY2027_Recommended": 57171658,
+            "Dollar_Increase": 3802065,
+            "Percent_Increase": "7.13%"
+          }
+        }
+      ],
+      "budget_summary_revolving_funds": [
+        {
+          "description": "Directed Funding (Revolving Funds)",
+          "columns": {
+            "FY2024_Actual": 92131,
+            "FY2025_Actual": 68810,
+            "FY2026_Estimate": 105891,
+            "FY2027_Projected": 193669,
+            "Dollar_Increase": 87758,
+            "Percent_Increase": "82.88%"
+          }
+        },
+        {
+          "description": "Total 2100 Funding Sources",
+          "columns": {
+            "FY2024_Actual": 92131,
+            "FY2025_Actual": 68810,
+            "FY2026_Estimate": 105891,
+            "FY2027_Projected": 193669,
+            "Dollar_Increase": 87758,
+            "Percent_Increase": "82.88%"
+          }
+        }
+      ],
+      "level_service_requests_revolving_funds": [
+        {
+          "description": "Total 2130 Health Insurance",
+          "columns": {
+            "FY2024_Actual": 89122,
+            "FY2025_Actual": 68810,
+            "FY2026_Revised": 102448,
+            "FY2027_Recommended": 166498,
+            "Dollar_Increase": 64050,
+            "Percent_Increase": "62.04%"
+          }
+        },
+        {
+          "description": "Total 2130 Dental Insurance",
+          "columns": {
+            "FY2024_Actual": 2404,
+            "FY2025_Actual": 2695,
+            "FY2026_Revised": 3352,
+            "FY2027_Recommended": 6372,
+            "Dollar_Increase": 3219,
+            "Percent_Increase": "95.98%"
+          }
+        },
+        {
+          "description": "Total 2100 Employee Benefits",
+          "columns": {
+            "FY2024_Actual": 92131,
+            "FY2025_Actual": 68810,
+            "FY2026_Revised": 105891,
+            "FY2027_Recommended": 193669,
+            "Dollar_Increase": 87758,
+            "Percent_Increase": "82.88%"
+          }
+        }
+      ],
+      "budget_summary_all_funds": [
+        {
+          "description": "Appropriation",
+          "columns": {
+            "FY2024_Actual": 163757,
+            "FY2025_Actual": 181098,
+            "FY2026_Revised": 179264,
+            "FY2027_Recommended": 205135,
+            "Dollar_Increase": 26071,
+            "Percent_Increase": "14.34%"
+          }
+        },
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 163757,
+            "FY2025_Actual": 181098,
+            "FY2026_Revised": 179264,
+            "FY2027_Recommended": 205135,
+            "Dollar_Increase": 26071,
+            "Percent_Increase": "14.34%"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 42808744,
+            "FY2025_Actual": 47220508,
+            "FY2026_Revised": 53259232,
+            "FY2027_Recommended": 57366158,
+            "Dollar_Increase": 4106926,
+            "Percent_Increase": "7.72%"
+          }
+        },
+        {
+          "description": "Total 2100 Employee Benefits",
+          "columns": {
+            "FY2024_Actual": 42972601,
+            "FY2025_Actual": 47401606,
+            "FY2026_Revised": 53474894,
+            "FY2027_Recommended": 57564258,
+            "Dollar_Increase": 3988364,
+            "Percent_Increase": "7.46%"
+          }
+        }
+      ],
+      "health_insurance_budget_table": [
+        {
+          "description": "Town",
+          "columns": {
+            "FY2022_Actual": 4148176,
+            "FY2023_Actual": 5059791,
+            "FY2024_Actual": 5340948,
+            "FY2025_Actual": 6625687,
+            "FY2026_Projected": 6697946,
+            "FY2027_Projected": 10.49
+          }
+        },
+        {
+          "description": "School",
+          "columns": {
+            "FY2022_Actual": 13985906,
+            "FY2023_Actual": 16244427,
+            "FY2024_Actual": 17475695,
+            "FY2025_Actual": 14242734,
+            "FY2026_Projected": 22060557,
+            "FY2027_Projected": 23635355,
+            "Increase_FY2026_to_FY2027": "7.14%"
+          }
+        },
+        {
+          "description": "Retirees",
+          "columns": {
+            "FY2022_Actual": 7233013,
+            "FY2023_Actual": 8175329,
+            "FY2024_Actual": 8718255,
+            "FY2025_Actual": 7496451,
+            "FY2026_Projected": 9572796,
+            "FY2027_Projected": 10402529,
+            "Increase_FY2026_to_FY2027": "8.67%"
+          }
+        },
+        {
+          "description": "Total",
+          "columns": {
+            "FY2022_Actual": 25367096,
+            "FY2023_Actual": 29479547,
+            "FY2024_Actual": 31534898,
+            "FY2025_Actual": 25951026,
+            "FY2026_Projected": 37331300,
+            "FY2027_Projected": 40333571,
+            "Increase_FY2026_to_FY2027": "8.04%"
+          }
+        },
+        {
+          "description": "Medicare Part B Penalty",
+          "columns": {
+            "FY2022_Actual": 77917,
+            "FY2023_Actual": 74935,
+            "FY2024_Actual": 77917,
+            "FY2025_Actual": 66345,
+            "FY2026_Projected": 70097,
+            "FY2027_Projected": 66345,
+            "Increase_FY2026_to_FY2027": "(5.35)%"
+          }
+        },
+        {
+          "description": "Net Budget Amount",
+          "columns": {
+            "FY2022_Actual": 25445013,
+            "FY2023_Actual": 29554482,
+            "FY2024_Actual": 31612815,
+            "FY2025_Actual": 26017371,
+            "FY2026_Projected": 37401396,
+            "FY2027_Projected": 40399916,
+            "Increase_FY2026_to_FY2027": "8.02%"
+          }
+        }
+      ],
+      "health_insurance_enrollments_table": [
+        {
+          "description": "Municipal Subscribers",
+          "columns": {
+            "Nov2023_FY2022": 110,
+            "Nov2023_FY2023": 105,
+            "Nov2023_FY2024": 116,
+            "Nov2025_FY2025": 113,
+            "FY2026_Budget": 126,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "Individual",
+          "columns": {
+            "Nov2023_FY2022": 110,
+            "Nov2023_FY2023": 105,
+            "Nov2023_FY2024": 116,
+            "Nov2025_FY2025": 113,
+            "FY2026_Budget": 126,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "Family",
+          "columns": {
+            "Nov2023_FY2022": 122,
+            "Nov2023_FY2023": 166,
+            "Nov2023_FY2024": 156,
+            "Nov2025_FY2025": 145,
+            "FY2026_Budget": 140,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "Municipal subtotal",
+          "columns": {
+            "Nov2023_FY2022": 282,
+            "Nov2023_FY2023": 271,
+            "Nov2023_FY2024": 272,
+            "Nov2025_FY2025": 258,
+            "FY2026_Budget": 266,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "School Individual",
+          "columns": {
+            "Nov2023_FY2022": 376,
+            "Nov2023_FY2023": 374,
+            "Nov2023_FY2024": 371,
+            "Nov2025_FY2025": 412,
+            "FY2026_Budget": 373,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "School Family",
+          "columns": {
+            "Nov2023_FY2022": 536,
+            "Nov2023_FY2023": 520,
+            "Nov2023_FY2024": 544,
+            "Nov2025_FY2025": 571,
+            "FY2026_Budget": 554,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "School subtotal",
+          "columns": {
+            "Nov2023_FY2022": 912,
+            "Nov2023_FY2023": 894,
+            "Nov2023_FY2024": 915,
+            "Nov2025_FY2025": 983,
+            "FY2026_Budget": 927,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "Retirees",
+          "columns": {
+            "Nov2023_FY2022": 1338,
+            "Nov2023_FY2023": 1372,
+            "Nov2023_FY2024": 1391,
+            "Nov2025_FY2025": 1414,
+            "FY2026_Budget": 1421,
+            "FY2027_Budget": null
+          }
+        },
+        {
+          "description": "Retirees subtotal",
+          "columns": {
+            "Nov2023_FY2022": 2532,
+            "Nov2023_FY2023": 2537,
+            "Nov2023_FY2024": 2578,
+            "Nov2025_FY2025": 2655,
+            "FY2026_Budget": 2614,
+            "FY2027_Budget": null
+          }
+        }
+      ]
+    },
+    "program_2200_property_liability_insurance": {
+      "budget_summary": [
+        {
+          "description": "Tax Levy",
+          "columns": {
+            "FY2024_Actual": 1191806,
+            "FY2025_Actual": 1352990,
+            "FY2026_Estimate": 1447746,
+            "FY2027_Projected": 1622708,
+            "Dollar_Increase": 174962,
+            "Percent_Increase": "12.09%"
+          }
+        },
+        {
+          "description": "Transfers from Enterprise Funds to General Fund (Indirect)",
+          "columns": {
+            "FY2024_Actual": 25039,
+            "FY2025_Actual": 30137,
+            "FY2026_Estimate": 29950,
+            "FY2027_Projected": 30831,
+            "Dollar_Increase": 884,
+            "Percent_Increase": "2.95%"
+          }
+        },
+        {
+          "description": "Total 2200 Property & Liability Insurance",
+          "columns": {
+            "FY2024_Actual": 1216845,
+            "FY2025_Actual": 1383127,
+            "FY2026_Estimate": 1477696,
+            "FY2027_Projected": 1653542,
+            "Dollar_Increase": 175846,
+            "Percent_Increase": "11.90%"
+          }
+        }
+      ],
+      "appropriation_summary": [
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 41220,
+            "FY2025_Actual": 44233,
+            "FY2026_Appropriation": 43639,
+            "FY2027_Recommended": 48076,
+            "Dollar_Increase": 4437,
+            "Percent_Increase": "10.17%"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 1175624,
+            "FY2025_Actual": 1338893,
+            "FY2026_Appropriation": 1434057,
+            "FY2027_Recommended": 1605466,
+            "Dollar_Increase": 171409,
+            "Percent_Increase": "11.95%"
+          }
+        },
+        {
+          "description": "Total 2200 Property & Liability Insurance",
+          "columns": {
+            "FY2024_Actual": 1216845,
+            "FY2025_Actual": 1383127,
+            "FY2026_Appropriation": 1477696,
+            "FY2027_Recommended": 1653542,
+            "Dollar_Increase": 175846,
+            "Percent_Increase": "11.90%"
+          }
+        }
+      ],
+      "level_service_requests": [
+        {
+          "description": "Total 2210 Property & Liability Insurance",
+          "columns": {
+            "FY2024_Actual": 1016845,
+            "FY2025_Actual": 1183127,
+            "FY2026_Appropriation": 1277696,
+            "FY2027_Recommended": 1453542,
+            "Dollar_Increase": 175846,
+            "Percent_Increase": "13.76%"
+          }
+        },
+        {
+          "description": "Total 2220 Uninsured Losses",
+          "columns": {
+            "FY2024_Actual": 200000,
+            "FY2025_Actual": 200000,
+            "FY2026_Appropriation": 200000,
+            "FY2027_Recommended": 200000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Total 2200 Property & Liability Insurance",
+          "columns": {
+            "FY2024_Actual": 1216845,
+            "FY2025_Actual": 1383127,
+            "FY2026_Appropriation": 1477696,
+            "FY2027_Recommended": 1653542,
+            "Dollar_Increase": 175846,
+            "Percent_Increase": "11.90%"
+          }
+        }
+      ],
+      "object_code_summary": [
+        {
+          "description": "Salaries & Wages",
+          "columns": {
+            "FY2024_Actual": 41220,
+            "FY2025_Actual": 44233,
+            "FY2026_Appropriation": 43639,
+            "FY2027_Recommended": 48076,
+            "Dollar_Increase": 4437,
+            "Percent_Increase": "10.17%"
+          }
+        },
+        {
+          "description": "Overtime",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 41220,
+            "FY2025_Actual": 44233,
+            "FY2026_Appropriation": 43639,
+            "FY2027_Recommended": 48076,
+            "Dollar_Increase": 4437,
+            "Percent_Increase": "10.17%"
+          }
+        },
+        {
+          "description": "Contractual Services",
+          "columns": {
+            "FY2024_Actual": 1175624,
+            "FY2025_Actual": 1338893,
+            "FY2026_Appropriation": 1434057,
+            "FY2027_Recommended": 1605466,
+            "Dollar_Increase": 171409,
+            "Percent_Increase": "11.95%"
+          }
+        },
+        {
+          "description": "Utilities",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Supplies",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Small Capital",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 1175624,
+            "FY2025_Actual": 1338893,
+            "FY2026_Appropriation": 1434057,
+            "FY2027_Recommended": 1605466,
+            "Dollar_Increase": 171409,
+            "Percent_Increase": "11.95%"
+          }
+        },
+        {
+          "description": "Total 2200 Property & Liability Insurance",
+          "columns": {
+            "FY2024_Actual": 1216845,
+            "FY2025_Actual": 1383127,
+            "FY2026_Appropriation": 1477696,
+            "FY2027_Recommended": 1653542,
+            "Dollar_Increase": 175846,
+            "Percent_Increase": "11.90%"
+          }
+        }
+      ]
+    },
+    "program_2300_solar_producer_payments": {
+      "budget_summary": [
+        {
+          "description": "Tax Levy",
+          "columns": {
+            "FY2024_Actual": "(471743)",
+            "FY2025_Actual": "(556229)",
+            "FY2026_Estimate": "(490100)",
+            "FY2027_Projected": "(479000)",
+            "Dollar_Increase": "(39000)",
+            "Percent_Increase": "8.86%"
+          }
+        },
+        {
+          "description": "Net-Metering Credits",
+          "columns": {
+            "FY2024_Actual": 823246,
+            "FY2025_Actual": 920511,
+            "FY2026_Estimate": 830000,
+            "FY2027_Projected": 869000,
+            "Dollar_Increase": 39000,
+            "Percent_Increase": "4.70%"
+          }
+        },
+        {
+          "description": "Total 2300 Solar Producer Payments",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Estimate": 390000,
+            "FY2027_Projected": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        }
+      ],
+      "appropriation_summary": [
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Total 2300 Solar Producer Payments",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        }
+      ],
+      "level_service_requests": [
+        {
+          "description": "Total 2300 Solar Producer Payments",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Total 2300 Solar Producer Payments",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        }
+      ],
+      "object_code_summary": [
+        {
+          "description": "Salaries & Wages",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Overtime",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Compensation",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Contractual Services",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Utilities",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Supplies",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Small Capital",
+          "columns": {
+            "FY2024_Actual": 0,
+            "FY2025_Actual": 0,
+            "FY2026_Appropriation": 0,
+            "FY2027_Recommended": 0,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Expenses",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        },
+        {
+          "description": "Total 2300 Solar Producer Payments",
+          "columns": {
+            "FY2024_Actual": 351503,
+            "FY2025_Actual": 364281,
+            "FY2026_Appropriation": 390000,
+            "FY2027_Recommended": 390000,
+            "Dollar_Increase": 0,
+            "Percent_Increase": "—%"
+          }
+        }
+      ],
+      "hartwell_table": [
+        {
+          "description": "Hartwell Net Metering Revenue",
+          "columns": {
+            "FY2022_Actuals": 642150,
+            "FY2023_Actuals": 841417,
+            "FY2024_Actuals": 823246,
+            "FY2025_Actuals": 920511,
+            "FY2026_Estimate": 830000,
+            "FY2027_Estimate": 869000
+          }
+        },
+        {
+          "description": "Hartwell Annual PILOT",
+          "columns": {
+            "FY2022_Actuals": 55400,
+            "FY2023_Actuals": 55400,
+            "FY2024_Actuals": 55400,
+            "FY2025_Actuals": 55400,
+            "FY2026_Estimate": 55400,
+            "FY2027_Estimate": 55400
+          }
+        },
+        {
+          "description": "Hartwell Annual Lease",
+          "columns": {
+            "FY2022_Actuals": 1000,
+            "FY2023_Actuals": 1000,
+            "FY2024_Actuals": 1000,
+            "FY2025_Actuals": 1000,
+            "FY2026_Estimate": 1000,
+            "FY2027_Estimate": 1000
+          }
+        },
+        {
+          "description": "Net Revenues subtotal",
+          "columns": {
+            "FY2022_Actuals": 698550,
+            "FY2023_Actuals": 897817,
+            "FY2024_Actuals": 879646,
+            "FY2025_Actuals": 976911,
+            "FY2026_Estimate": 886400,
+            "FY2027_Estimate": 925400
+          }
+        },
+        {
+          "description": "Hartwell Solar Payments",
+          "columns": {
+            "FY2022_Actuals": "(360184)",
+            "FY2023_Actuals": "(340537)",
+            "FY2024_Actuals": "(351502)",
+            "FY2025_Actuals": "(364281)",
+            "FY2026_Estimate": "(390000)",
+            "FY2027_Estimate": "(390000)"
+          }
+        },
+        {
+          "description": "Total Net Benefit from Hartwell Solar",
+          "columns": {
+            "FY2022_Actuals": 338366,
+            "FY2023_Actuals": 557280,
+            "FY2024_Actuals": 528143,
+            "FY2025_Actuals": 612630,
+            "FY2026_Estimate": 496400,
+            "FY2027_Estimate": 535400
+          }
+        }
+      ]
+    }
+  }
+}

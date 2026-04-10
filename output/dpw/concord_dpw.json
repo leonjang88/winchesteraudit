@@ -1,0 +1,1119 @@
+{
+  "town": "concord",
+  "fiscal_year": 2027,
+  "source": "concord_fy2027_budget.pdf",
+  "departments": [
+    {
+      "name": "Public Works Administration",
+      "items": [
+        {
+          "description": "Director of Public Works",
+          "amount": 421910,
+          "type": "personnel"
+        },
+        {
+          "description": "Business Manager",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Program Analyst",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "FULL",
+          "amount": 375758,
+          "type": "personnel"
+        },
+        {
+          "description": "LIMITED STATUS BASE",
+          "amount": 45000,
+          "type": "personnel"
+        },
+        {
+          "description": "STAFF TRAINING SERVICES",
+          "amount": 16000,
+          "type": "expense"
+        },
+        {
+          "description": "TELEPHONE",
+          "amount": 2000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER PROF.TECHNICAL SVCS",
+          "amount": 6000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISC. PURCHASE SERV",
+          "amount": 800,
+          "type": "expense"
+        },
+        {
+          "description": "OFFICE SUPPLIES",
+          "amount": 600,
+          "type": "expense"
+        },
+        {
+          "description": "FOOD SERVICE SUPPLIES",
+          "amount": 900,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER CLOTHING ARTICLES",
+          "amount": 2500,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISCELLANEOUS SUPP",
+          "amount": 200,
+          "type": "expense"
+        },
+        {
+          "description": "IN-STATE TRANSPORTATION",
+          "amount": 100,
+          "type": "expense"
+        },
+        {
+          "description": "DUES-TOWN MEMBERSHIP",
+          "amount": 500,
+          "type": "expense"
+        },
+        {
+          "description": "CONFERENCE REGISTRATION",
+          "amount": 900,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 462710,
+        "expenses": 30500,
+        "total": 452410
+      }
+    },
+    {
+      "name": "Engineering",
+      "items": [
+        {
+          "description": "Town Engineer",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Assistant Town Engineer",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Public Works Engineer",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Senior Public Works Engineer",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Program Analyst",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Administrative Specialist",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "FULL",
+          "amount": 647594,
+          "type": "personnel"
+        },
+        {
+          "description": "OTHER PROF.TECHNICAL SVCS",
+          "amount": 25000,
+          "type": "expense"
+        },
+        {
+          "description": "TELEPHONE",
+          "amount": 2620,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR MAINTENANCE",
+          "amount": 1200,
+          "type": "expense"
+        },
+        {
+          "description": "COPIER MAINTENANCE",
+          "amount": 1000,
+          "type": "expense"
+        },
+        {
+          "description": "PRINTING",
+          "amount": 1000,
+          "type": "expense"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 3500,
+          "type": "expense"
+        },
+        {
+          "description": "COPIER SUPPLIES",
+          "amount": 2500,
+          "type": "expense"
+        },
+        {
+          "description": "OFFICE SUPPLIES",
+          "amount": 900,
+          "type": "expense"
+        },
+        {
+          "description": "GASOLINE",
+          "amount": 1500,
+          "type": "expense"
+        },
+        {
+          "description": "POSTAGE",
+          "amount": 200,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 658346,
+        "expenses": 45200,
+        "total": 703546
+      }
+    },
+    {
+      "name": "Highway Maintenance",
+      "items": [
+        {
+          "description": "Highway & Grounds Superintendent",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Assistant Highway & Grounds Superintendent",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Operations Manager",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Program Analyst",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Fleet Supervisor",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Crew Leader (multiple positions)",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Master Mechanic (2 FTE)",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Equipment Operator (multiple positions)",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Administrative Specialist",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Environmental Health & Safety Manager",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Laborer/Truck Driver",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Park & Tree Specialist (Aerial)",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Park & Tree Specialist (multiple)",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Cemetery Supervisor",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "Cemetery Specialist",
+          "amount": null,
+          "type": "personnel"
+        },
+        {
+          "description": "REGULAR FULL-TIME",
+          "amount": 1301991,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 99292,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME-POLICE DETAIL",
+          "amount": 35020,
+          "type": "expense"
+        },
+        {
+          "description": "ELECTRICITY",
+          "amount": 1633,
+          "type": "expense"
+        },
+        {
+          "description": "WASTE OIL REMOVAL",
+          "amount": 2265,
+          "type": "expense"
+        },
+        {
+          "description": "EQUIPMENT MAINTENANCE",
+          "amount": 10300,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR MAINTENANCE",
+          "amount": 46350,
+          "type": "expense"
+        },
+        {
+          "description": "COMMO EQUIPMENT MAINT",
+          "amount": 824,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR EQUIPMENT RENTAL",
+          "amount": 4000,
+          "type": "expense"
+        },
+        {
+          "description": "SOLID WASTE RECYCLING",
+          "amount": 8840,
+          "type": "expense"
+        },
+        {
+          "description": "SOLID WASTE COLLECTION SERV",
+          "amount": 83200,
+          "type": "expense"
+        },
+        {
+          "description": "SOLID WASTE DISPOSAL",
+          "amount": 15965,
+          "type": "expense"
+        },
+        {
+          "description": "TREE REMOVAL SERVICE",
+          "amount": 11330,
+          "type": "expense"
+        },
+        {
+          "description": "CATCH BASIN CLEANING",
+          "amount": 12747,
+          "type": "expense"
+        },
+        {
+          "description": "STREET SWEEPINGS DISPOSAL",
+          "amount": 15141,
+          "type": "expense"
+        },
+        {
+          "description": "MEDICAL/HOSPITAL SERVICES",
+          "amount": 1800,
+          "type": "expense"
+        },
+        {
+          "description": "INSPECTION SERVICES",
+          "amount": 1313,
+          "type": "expense"
+        },
+        {
+          "description": "STAFF TRAINING SERVICES",
+          "amount": 5000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER PROF.TECHNICAL SVCS",
+          "amount": 5000,
+          "type": "expense"
+        },
+        {
+          "description": "TELEPHONE",
+          "amount": 2000,
+          "type": "expense"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 772,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISC. PURCHASE SERV",
+          "amount": 47380,
+          "type": "expense"
+        },
+        {
+          "description": "GASOLINE",
+          "amount": 29870,
+          "type": "expense"
+        },
+        {
+          "description": "DIESEL FUEL",
+          "amount": 50000,
+          "type": "expense"
+        },
+        {
+          "description": "PRINTED FORMS",
+          "amount": 100,
+          "type": "expense"
+        },
+        {
+          "description": "COMPUTER EQUIPMENT",
+          "amount": 670,
+          "type": "expense"
+        },
+        {
+          "description": "OFFICE SUPPLIES",
+          "amount": 1725,
+          "type": "expense"
+        },
+        {
+          "description": "PAINTING SUPPLIES",
+          "amount": 1673,
+          "type": "expense"
+        },
+        {
+          "description": "CUSTODIAL SUPPLIES",
+          "amount": 447,
+          "type": "expense"
+        },
+        {
+          "description": "OIL LUBRICANTS",
+          "amount": 5150,
+          "type": "expense"
+        },
+        {
+          "description": "TIRESUBESCHAINS",
+          "amount": 2600,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER VEHICULAR SUPPLIES",
+          "amount": 25750,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER EQUIPMENT SUPPLIES",
+          "amount": 47163,
+          "type": "expense"
+        },
+        {
+          "description": "SWEEPER BROOMS",
+          "amount": 3050,
+          "type": "expense"
+        },
+        {
+          "description": "FOOD SERVICE SUPPLIES",
+          "amount": 15450,
+          "type": "expense"
+        },
+        {
+          "description": "MEDICAL SURGICAL SUPPLIES",
+          "amount": 2100,
+          "type": "expense"
+        },
+        {
+          "description": "BRICKS CONCRETE BLOCKS",
+          "amount": 1545,
+          "type": "expense"
+        },
+        {
+          "description": "BITUMINOUS PRODUCTS",
+          "amount": 2650,
+          "type": "expense"
+        },
+        {
+          "description": "BITUMINOUS CONCRETE",
+          "amount": 58246,
+          "type": "expense"
+        },
+        {
+          "description": "GRAV STONE CONCR MAS SND",
+          "amount": 4000,
+          "type": "expense"
+        },
+        {
+          "description": "LOAM",
+          "amount": 2060,
+          "type": "expense"
+        },
+        {
+          "description": "PIPE FITTINGS CASTINGS",
+          "amount": 500,
+          "type": "expense"
+        },
+        {
+          "description": "SIGN MATERIALS-LETTERS POSTS",
+          "amount": 20600,
+          "type": "expense"
+        },
+        {
+          "description": "HARDWARE-N&B SCREWS",
+          "amount": 545,
+          "type": "expense"
+        },
+        {
+          "description": "LUMBER SUPPLIES",
+          "amount": 798,
+          "type": "expense"
+        },
+        {
+          "description": "SAFETY SIGNS",
+          "amount": 1442,
+          "type": "expense"
+        },
+        {
+          "description": "SAFETY APPAREL",
+          "amount": 4000,
+          "type": "expense"
+        },
+        {
+          "description": "UNIFORMS",
+          "amount": 7848,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER CLOTHING ARTICLES",
+          "amount": 20300,
+          "type": "expense"
+        },
+        {
+          "description": "SMALL TOOLS",
+          "amount": 5459,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISCELLANEOUS SUPP",
+          "amount": 11330,
+          "type": "expense"
+        },
+        {
+          "description": "DUES-TOWN MEMBERSHIP",
+          "amount": 800,
+          "type": "expense"
+        },
+        {
+          "description": "CONFERENCE REGISTRATION",
+          "amount": 1957,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICLE INSPECTION",
+          "amount": 5675,
+          "type": "expense"
+        },
+        {
+          "description": "LICENSE FEES",
+          "amount": 2100,
+          "type": "expense"
+        },
+        {
+          "description": "FULL",
+          "amount": 1278422,
+          "type": "personnel"
+        },
+        {
+          "description": "HIGHWAY NONWINTER STAND-BY",
+          "amount": 1209,
+          "type": "expense"
+        },
+        {
+          "description": "TREE WARDEN STIPEND",
+          "amount": 384,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1414327,
+        "expenses": 613483,
+        "total": 2027810
+      }
+    },
+    {
+      "name": "Winter Maintenance",
+      "items": [
+        {
+          "description": "REGULAR OVERTIME 1.5",
+          "amount": 201999,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME-POLICE DETAIL",
+          "amount": 1600,
+          "type": "expense"
+        },
+        {
+          "description": "ELECTRICITY",
+          "amount": 1000,
+          "type": "expense"
+        },
+        {
+          "description": "EQUIPMENT MAINTENANCE",
+          "amount": 6516,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR MAINTENANCE",
+          "amount": 17414,
+          "type": "expense"
+        },
+        {
+          "description": "SNOW REMOVAL SERVICE",
+          "amount": 95281,
+          "type": "expense"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 2500,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISC. PURCHASE SERV",
+          "amount": 18000,
+          "type": "expense"
+        },
+        {
+          "description": "GASOLINE",
+          "amount": 9900,
+          "type": "expense"
+        },
+        {
+          "description": "DIESEL FUEL",
+          "amount": 27600,
+          "type": "expense"
+        },
+        {
+          "description": "OIL LUBRICANTS",
+          "amount": 1897,
+          "type": "expense"
+        },
+        {
+          "description": "TIRESUBESCHAINS",
+          "amount": 4657,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER VEHICULAR SUPPLIES",
+          "amount": 23450,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER EQUIPMENT SUPPLIES",
+          "amount": 32326,
+          "type": "expense"
+        },
+        {
+          "description": "PLOW BLADES",
+          "amount": 13434,
+          "type": "expense"
+        },
+        {
+          "description": "FOOD SERVICE SUPPLIES",
+          "amount": 1993,
+          "type": "expense"
+        },
+        {
+          "description": "ROAD SALT",
+          "amount": 167683,
+          "type": "expense"
+        },
+        {
+          "description": "ROAD SAND",
+          "amount": 2000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISCELLANEOUS SUPP",
+          "amount": 26250,
+          "type": "expense"
+        },
+        {
+          "description": "CONTINGENCY",
+          "amount": 0,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 203599,
+        "expenses": 451901,
+        "total": 655500
+      }
+    },
+    {
+      "name": "Parks & Trees",
+      "items": [
+        {
+          "description": "REGULAR FULL-TIME",
+          "amount": 627736,
+          "type": "personnel"
+        },
+        {
+          "description": "TEMPORARY STATUS",
+          "amount": 30240,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 659646,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME-POLICE DETAIL",
+          "amount": 10300,
+          "type": "expense"
+        },
+        {
+          "description": "ELECTRICITY",
+          "amount": 3680,
+          "type": "expense"
+        },
+        {
+          "description": "WATER USER CHARGE",
+          "amount": 3319,
+          "type": "expense"
+        },
+        {
+          "description": "EQUIPMENT MAINTENANCE",
+          "amount": 7402,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR MAINTENANCE",
+          "amount": 6500,
+          "type": "expense"
+        },
+        {
+          "description": "CARDBOARD RECYCLING",
+          "amount": 10000,
+          "type": "expense"
+        },
+        {
+          "description": "TREE REMOVAL SERVICE",
+          "amount": 128944,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER PROPERTY RELATED SERV",
+          "amount": 20311,
+          "type": "expense"
+        },
+        {
+          "description": "MEDICAL SURGICAL SUPPLIES",
+          "amount": 1250,
+          "type": "expense"
+        },
+        {
+          "description": "STAFF TRAINING SERVICES",
+          "amount": 618,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER PROF.TECHNICAL SVCS",
+          "amount": 21500,
+          "type": "expense"
+        },
+        {
+          "description": "TELEPHONE",
+          "amount": 1440,
+          "type": "expense"
+        },
+        {
+          "description": "ADVERTISING",
+          "amount": 2121,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISC. PURCHASE SERV",
+          "amount": 16362,
+          "type": "expense"
+        },
+        {
+          "description": "GASOLINE",
+          "amount": 8849,
+          "type": "expense"
+        },
+        {
+          "description": "DIESEL FUEL",
+          "amount": 15000,
+          "type": "expense"
+        },
+        {
+          "description": "PRINTED FORMS",
+          "amount": 434,
+          "type": "expense"
+        },
+        {
+          "description": "PAINTING SUPPLIES",
+          "amount": 834,
+          "type": "expense"
+        },
+        {
+          "description": "PETRI FEDS INSECTICIDES",
+          "amount": 25000,
+          "type": "expense"
+        },
+        {
+          "description": "TREES SHRUBS",
+          "amount": 2200,
+          "type": "expense"
+        },
+        {
+          "description": "FIELD MARKING PAINT",
+          "amount": 16686,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER GROUNDSKEEPING SUPP",
+          "amount": 46535,
+          "type": "expense"
+        },
+        {
+          "description": "OIL LUBRICANTS",
+          "amount": 1617,
+          "type": "expense"
+        },
+        {
+          "description": "TIRESUBESCHAINS",
+          "amount": 2882,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER VEHICULAR SUPPLIES",
+          "amount": 9000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER EQUIPMENT SUPPLIES",
+          "amount": 26630,
+          "type": "expense"
+        },
+        {
+          "description": "MEDICAL SURGICAL SUPPLIES",
+          "amount": 927,
+          "type": "expense"
+        },
+        {
+          "description": "GRAV STONE CONCR MAS SND",
+          "amount": 329,
+          "type": "expense"
+        },
+        {
+          "description": "LOAM",
+          "amount": 2500,
+          "type": "expense"
+        },
+        {
+          "description": "HARDWARE-N&B SCREWS",
+          "amount": 473,
+          "type": "expense"
+        },
+        {
+          "description": "UNIFORMS",
+          "amount": 4779,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER CLOTHING ARTICLES",
+          "amount": 13441,
+          "type": "expense"
+        },
+        {
+          "description": "SMALL TOOLS",
+          "amount": 5459,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISCELLANEOUS SUPP",
+          "amount": 5253,
+          "type": "expense"
+        },
+        {
+          "description": "DUES-TOWN MEMBERSHIP",
+          "amount": 400,
+          "type": "expense"
+        },
+        {
+          "description": "CONFERENCE REGISTRATION",
+          "amount": 2060,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICLE INSPECTION",
+          "amount": 2832,
+          "type": "expense"
+        },
+        {
+          "description": "LICENSE FEES",
+          "amount": 2700,
+          "type": "expense"
+        },
+        {
+          "description": "HIGHWAY IMPROVEMENTS",
+          "amount": 2500,
+          "type": "equipment"
+        },
+        {
+          "description": "OTHER CAPITAL IMPROVEMS",
+          "amount": 2500,
+          "type": "equipment"
+        },
+        {
+          "description": "TEMPORARY",
+          "amount": 31147,
+          "type": "personnel"
+        },
+        {
+          "description": "FULL",
+          "amount": 736706,
+          "type": "personnel"
+        },
+        {
+          "description": "REGULAR OVERTIME 1.5",
+          "amount": 59395,
+          "type": "personnel"
+        }
+      ],
+      "subtotals": {
+        "personnel": 837548,
+        "expenses": 425960,
+        "total": 1263508
+      }
+    },
+    {
+      "name": "Cemetery",
+      "items": [
+        {
+          "description": "REGULAR FULL-TIME",
+          "amount": 153629,
+          "type": "personnel"
+        },
+        {
+          "description": "OVERTIME",
+          "amount": 30000,
+          "type": "personnel"
+        },
+        {
+          "description": "ELECTRICTY",
+          "amount": 1335,
+          "type": "expense"
+        },
+        {
+          "description": "HEATING FUEL",
+          "amount": 2600,
+          "type": "expense"
+        },
+        {
+          "description": "WATER USER CHARGE",
+          "amount": 225,
+          "type": "expense"
+        },
+        {
+          "description": "BUILDING MAINTENANCE",
+          "amount": 550,
+          "type": "expense"
+        },
+        {
+          "description": "EQUIPMENT MAINTENANCE",
+          "amount": 450,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICULAR MAINTENANCE",
+          "amount": 750,
+          "type": "expense"
+        },
+        {
+          "description": "TREE REMOVAL SERVICE",
+          "amount": 5000,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER PROPERTY RELATED SERV",
+          "amount": 7500,
+          "type": "expense"
+        },
+        {
+          "description": "INSPECTION SERVICES",
+          "amount": 52,
+          "type": "expense"
+        },
+        {
+          "description": "STAFF TRAINING SERVICES",
+          "amount": 350,
+          "type": "expense"
+        },
+        {
+          "description": "CELL PHONE",
+          "amount": 350,
+          "type": "expense"
+        },
+        {
+          "description": "GASOLINE",
+          "amount": 1600,
+          "type": "expense"
+        },
+        {
+          "description": "FERTILIZER INSECTICIDES",
+          "amount": 25000,
+          "type": "expense"
+        },
+        {
+          "description": "TREES SHRUBS",
+          "amount": 2650,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER GROUNDSKEEPING SUPP",
+          "amount": 1500,
+          "type": "expense"
+        },
+        {
+          "description": "OIL LUBRICANTS",
+          "amount": 150,
+          "type": "expense"
+        },
+        {
+          "description": "TIRESUBESCHAINS",
+          "amount": 250,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER VEHICULAR SUPPLIES",
+          "amount": 1150,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER EQUIPMENT SUPPLIES",
+          "amount": 2000,
+          "type": "expense"
+        },
+        {
+          "description": "GRAV STONE CONCR MAS SND",
+          "amount": 200,
+          "type": "expense"
+        },
+        {
+          "description": "LUMBER SUPPLIES",
+          "amount": 200,
+          "type": "expense"
+        },
+        {
+          "description": "UNIFORMS",
+          "amount": 800,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER CLOTHING ARTICLES",
+          "amount": 2900,
+          "type": "expense"
+        },
+        {
+          "description": "SMALL TOOLS",
+          "amount": 500,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER MISCELLANEOUS SUPP",
+          "amount": 600,
+          "type": "expense"
+        },
+        {
+          "description": "DUES-TOWN MEMBERSHIP",
+          "amount": 100,
+          "type": "expense"
+        },
+        {
+          "description": "CONFERENCE REGISTRATION",
+          "amount": 1000,
+          "type": "expense"
+        },
+        {
+          "description": "VEHICLE INSPECTION",
+          "amount": 70,
+          "type": "expense"
+        },
+        {
+          "description": "LICENSE FEES",
+          "amount": 675,
+          "type": "expense"
+        },
+        {
+          "description": "OTHER CAPITAL IMPROVEMS",
+          "amount": 47050,
+          "type": "equipment"
+        },
+        {
+          "description": "GENERAL FUND INDIRECT COSTS",
+          "amount": 7037,
+          "type": "expense"
+        },
+        {
+          "description": "FULL",
+          "amount": 179097,
+          "type": "personnel"
+        }
+      ],
+      "subtotals": {
+        "personnel": 209097,
+        "expenses": 82557,
+        "total": 298691
+      }
+    },
+    {
+      "name": "Street Lighting",
+      "items": [
+        {
+          "description": "ELECTRICITY - STREET LIGHTING",
+          "amount": 82094,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 0,
+        "expenses": 82094,
+        "total": 82094
+      }
+    }
+  ],
+  "summary": {
+    "total_public_works_budget": 7530725,
+    "total_personnel": 4625095,
+    "total_expenses": 2898593,
+    "total_transfers": 7037,
+    "note": "All amounts are in FY2027 budgeted dollars. Personnel costs include salaries, wages, overtime, and related costs. Expenses include supplies, services, and operational costs."
+  }
+}

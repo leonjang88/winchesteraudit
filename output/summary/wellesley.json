@@ -1,0 +1,36 @@
+{
+  "town": "wellesley",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "School (Direct Operating)",
+      "columns": {
+        "amount": 96856075
+      }
+    },
+    {
+      "description": "School (Shared Costs)",
+      "columns": {
+        "amount": 44977828
+      }
+    },
+    {
+      "description": "Non-School (Direct Operating)",
+      "columns": {
+        "amount": 29418949
+      }
+    },
+    {
+      "description": "Non-School (Shared Costs)",
+      "columns": {
+        "amount": 46333832
+      }
+    },
+    {
+      "description": "Total Operating Budget",
+      "columns": {
+        "amount": 217586685
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "town": "weston",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "BENEFITS & INSURANCE - HEALTH INSURANCE",
+      "columns": {
+        "FY26_Approved": 2850000,
+        "FY27_Current": 2950000,
+        "FY27_Requested": 3100000,
+        "FY27_Recommended": 3000000
+      }
+    },
+    {
+      "description": "BENEFITS & INSURANCE - PENSION FUND",
+      "columns": {
+        "FY26_Approved": 950000,
+        "FY27_Current": 1000000,
+        "FY27_Requested": 1050000,
+        "FY27_Recommended": 1025000
+      }
+    },
+    {
+      "description": "BENEFITS & INSURANCE - FICA/PAYROLL TAXES",
+      "columns": {
+        "FY26_Approved": 400000,
+        "FY27_Current": 400000,
+        "FY27_Requested": 400000,
+        "FY27_Recommended": 400000
+      }
+    },
+    {
+      "description": "DEBT SERVICE",
+      "columns": {
+        "FY26_Approved": 1850000,
+        "FY27_Current": 1900000,
+        "FY27_Requested": 1950000,
+        "FY27_Recommended": 1925000
+      }
+    },
+    {
+      "description": "BENEFITS & INSURANCE TOTAL",
+      "columns": {
+        "FY26_Approved": 4200000,
+        "FY27_Current": 4350000,
+        "FY27_Requested": 4550000,
+        "FY27_Recommended": 4450000
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "town": "concord",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "GENERAL FUND",
+      "columns": {}
+    },
+    {
+      "description": "General Government",
+      "columns": {
+        "FY25_Approved": 6002619,
+        "FY26_Approved": 6041559,
+        "FY27_Proposed": 6002405
+      }
+    },
+    {
+      "description": "Finance",
+      "columns": {
+        "FY25_Approved": 2599727,
+        "FY26_Approved": 2710398,
+        "FY27_Proposed": 2764786
+      }
+    },
+    {
+      "description": "Community Development",
+      "columns": {
+        "FY25_Approved": 2628721,
+        "FY26_Approved": 2297065,
+        "FY27_Proposed": 2339321
+      }
+    },
+    {
+      "description": "Human Services",
+      "columns": {
+        "FY25_Approved": 3489951,
+        "FY26_Approved": 3848785,
+        "FY27_Proposed": 3840691
+      }
+    },
+    {
+      "description": "Public Safety",
+      "columns": {
+        "FY25_Approved": 12106896,
+        "FY26_Approved": 12650246,
+        "FY27_Proposed": 13258165
+      }
+    },
+    {
+      "description": "Public Works",
+      "columns": {
+        "FY25_Approved": 5112219,
+        "FY26_Approved": 7168703,
+        "FY27_Proposed": 7478688
+      }
+    },
+    {
+      "description": "Unclassifieds",
+      "columns": {
+        "FY25_Approved": 806506,
+        "FY26_Approved": 962133,
+        "FY27_Proposed": 836805
+      }
+    },
+    {
+      "description": "Total Town Government",
+      "columns": {
+        "FY25_Approved": 32745639,
+        "FY26_Approved": 33678889,
+        "FY27_Proposed": 34520861
+      }
+    },
+    {
+      "description": "JOINT ACCOUNTS (Town - Concord Public Schools)",
+      "columns": {}
+    },
+    {
+      "description": "Group Insurance",
+      "columns": {
+        "FY25_Approved": 8000000,
+        "FY26_Approved": 9405564,
+        "FY27_Proposed": 10097630
+      }
+    },
+    {
+      "description": "Property/Liability Insurance",
+      "columns": {
+        "FY25_Approved": 539412,
+        "FY26_Approved": 637087,
+        "FY27_Proposed": 701151
+      }
+    },
+    {
+      "description": "Unemployment",
+      "columns": {
+        "FY25_Approved": 140760,
+        "FY26_Approved": 143575,
+        "FY27_Proposed": 143575
+      }
+    },
+    {
+      "description": "Worker's Compensation",
+      "columns": {
+        "FY25_Approved": 176149,
+        "FY26_Approved": 193764,
+        "FY27_Proposed": 276175
+      }
+    },
+    {
+      "description": "Medicare",
+      "columns": {
+        "FY25_Approved": 1028735,
+        "FY26_Approved": 905172,
+        "FY27_Proposed": 941379
+      }
+    },
+    {
+      "description": "Retirement Assessment, General Fund",
+      "columns": {
+        "FY25_Approved": 4349746,
+        "FY26_Approved": 3584157,
+        "FY27_Proposed": 3727523
+      }
+    },
+    {
+      "description": "Retirement Assessment, Pension Reserve",
+      "columns": {
+        "FY25_Approved": 1650000,
+        "FY26_Approved": 1567124,
+        "FY27_Proposed": 1618041
+      }
+    },
+    {
+      "description": "Debt Service, Within Levy Limit",
+      "columns": {
+        "FY25_Approved": 3576699,
+        "FY26_Approved": 4707036,
+        "FY27_Proposed": 3955051
+      }
+    },
+    {
+      "description": "CPS Principal & Interest",
+      "columns": {
+        "FY25_Approved": 806651,
+        "FY26_Approved": 861510,
+        "FY27_Proposed": 723346
+      }
+    },
+    {
+      "description": "Interest on Short-Term Notes",
+      "columns": {
+        "FY25_Approved": 70000,
+        "FY26_Approved": 0,
+        "FY27_Proposed": 35000
+      }
+    },
+    {
+      "description": "Debt Service, Excluded from Levy Limit",
+      "columns": {
+        "FY25_Approved": 303794,
+        "FY26_Approved": 295294,
+        "FY27_Proposed": 937851
+      }
+    },
+    {
+      "description": "DPS Principal & Interest",
+      "columns": {
+        "FY25_Approved": 6286880,
+        "FY26_Approved": 7670889,
+        "FY27_Proposed": 7653884
+      }
+    },
+    {
+      "description": "Total Joint Accounts",
+      "columns": {
+        "FY25_Approved": 26928826,
+        "FY26_Approved": 29951172,
+        "FY27_Proposed": 30810606
+      }
+    },
+    {
+      "description": "SCHOOLS",
+      "columns": {}
+    },
+    {
+      "description": "Minuteman Tech",
+      "columns": {
+        "FY25_Approved": 1732806,
+        "FY26_Approved": 1772373,
+        "FY27_Proposed": 1886548
+      }
+    },
+    {
+      "description": "Concord Public Schools",
+      "columns": {
+        "FY25_Approved": 46515714,
+        "FY26_Approved": 47923604,
+        "FY27_Proposed": 49443345
+      }
+    },
+    {
+      "description": "CCRSD",
+      "columns": {
+        "FY25_Approved": 26140908,
+        "FY26_Approved": 27209557,
+        "FY27_Proposed": 26995441
+      }
+    },
+    {
+      "description": "Total Schools",
+      "columns": {
+        "FY25_Approved": 74389428,
+        "FY26_Approved": 76905534,
+        "FY27_Proposed": 78325334
+      }
+    },
+    {
+      "description": "MISC. EXPENSES",
+      "columns": {}
+    },
+    {
+      "description": "Capital Improvement Plan",
+      "columns": {
+        "FY25_Approved": 2180000,
+        "FY26_Approved": 2520150,
+        "FY27_Proposed": 2294420
+      }
+    },
+    {
+      "description": "OPEB Assessment",
+      "columns": {
+        "FY25_Approved": 1467851,
+        "FY26_Approved": 1467851,
+        "FY27_Proposed": 1387565
+      }
+    },
+    {
+      "description": "Overlay",
+      "columns": {
+        "FY25_Approved": 500000,
+        "FY26_Approved": 514236,
+        "FY27_Proposed": 500000
+      }
+    },
+    {
+      "description": "Other Articles",
+      "columns": {
+        "FY25_Approved": 4500,
+        "FY26_Approved": 4943,
+        "FY27_Proposed": 0
+      }
+    },
+    {
+      "description": "Total Misc. Expenses",
+      "columns": {
+        "FY25_Approved": 4152351,
+        "FY26_Approved": 4507180,
+        "FY27_Proposed": 4181985
+      }
+    },
+    {
+      "description": "TOTAL EXPENDITURES",
+      "columns": {
+        "FY25_Approved": 138216244,
+        "FY26_Approved": 145042775,
+        "FY27_Proposed": 147838786
+      }
+    }
+  ]
+}

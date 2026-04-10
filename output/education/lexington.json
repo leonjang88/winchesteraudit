@@ -1,0 +1,352 @@
+{
+  "town": "lexington",
+  "fiscal_year": 2027,
+  "program": "1000",
+  "department": "1100",
+  "department_name": "Lexington Public Schools",
+  "rows": [
+    {
+      "description": "School Budget",
+      "columns": {
+        "line_number": 1,
+        "prior_year_appropriation": 146033000,
+        "shared": null,
+        "municipal": null,
+        "school": 146033000,
+        "fy2027_revenue": 146033000
+      }
+    },
+    {
+      "description": "Municipal Budget - Community Center Support",
+      "columns": {
+        "line_number": 2,
+        "prior_year_appropriation": 812500,
+        "shared": null,
+        "municipal": 601264,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Minuteman",
+      "columns": {
+        "line_number": 3,
+        "prior_year_appropriation": 4149000,
+        "shared": 4149000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Contribution Reimbursement",
+      "columns": {
+        "line_number": 4,
+        "prior_year_appropriation": 312500,
+        "shared": 312500,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Benefits",
+      "columns": {
+        "line_number": 5,
+        "prior_year_appropriation": 45220000,
+        "shared": 45220000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Uninsured",
+      "columns": {
+        "line_number": 6,
+        "prior_year_appropriation": 200000,
+        "shared": 8000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Workers Comp",
+      "columns": {
+        "line_number": 7,
+        "prior_year_appropriation": 500000,
+        "shared": 600000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Property and Liability Insurance",
+      "columns": {
+        "line_number": 8,
+        "prior_year_appropriation": 1454000,
+        "shared": 1454000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Uninsured Losses",
+      "columns": {
+        "line_number": 9,
+        "prior_year_appropriation": 200000,
+        "shared": 200000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Solar Production Payment",
+      "columns": {
+        "line_number": 10,
+        "prior_year_appropriation": 390000,
+        "shared": 390000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Debt Service",
+      "columns": {
+        "line_number": 11,
+        "prior_year_appropriation": 6275000,
+        "shared": 6275000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Reserves",
+      "columns": {
+        "line_number": 12,
+        "prior_year_appropriation": 1200000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Refuse and Recycle Collection for Muni + School",
+      "columns": {
+        "line_number": 13,
+        "prior_year_appropriation": 109000,
+        "shared": 109000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Facilities Department Budget",
+      "columns": {
+        "line_number": 14,
+        "prior_year_appropriation": 15545000,
+        "shared": 15545000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Facilities Pilot",
+      "columns": {
+        "line_number": 15,
+        "prior_year_appropriation": 35000,
+        "shared": 35000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Set-aside for yet to be identified FY2026 needs",
+      "columns": {
+        "line_number": 16,
+        "prior_year_appropriation": null,
+        "shared": 800000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Unanticipated Current Fiscal Year Needs FY2025",
+      "columns": {
+        "line_number": 17,
+        "prior_year_appropriation": null,
+        "shared": 200000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Special Education Reserves/Stabilization Fund",
+      "columns": {
+        "line_number": 18,
+        "prior_year_appropriation": null,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Set-aside for one-time School Curriculum/Textbooks",
+      "columns": {
+        "line_number": 19,
+        "prior_year_appropriation": 600000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Tax Levy Dedicated to Capital Stabilization Fund",
+      "columns": {
+        "line_number": 20,
+        "prior_year_appropriation": null,
+        "shared": 6581000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Cash Capital - Free Cash and Other Available Funds",
+      "columns": {
+        "line_number": 21,
+        "prior_year_appropriation": 28795000,
+        "shared": 45211000,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Cash Capital - Tax Levy",
+      "columns": {
+        "line_number": 22,
+        "prior_year_appropriation": null,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "OPEB (Free Cash)",
+      "columns": {
+        "line_number": 23,
+        "prior_year_appropriation": 2130000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Street Improvement Program (Tax Levy)",
+      "columns": {
+        "line_number": 24,
+        "prior_year_appropriation": 2747000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Building Envelope Program (Tax Levy)",
+      "columns": {
+        "line_number": 25,
+        "prior_year_appropriation": 242000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Vision Survey (Free Cash)",
+      "columns": {
+        "line_number": 26,
+        "prior_year_appropriation": 75000,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Senior Tax Work-Off Program (Free Cash)",
+      "columns": {
+        "line_number": 27,
+        "prior_year_appropriation": null,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Base Budget - Used for Allocation",
+      "columns": {
+        "line_number": 28,
+        "prior_year_appropriation": 313469000,
+        "shared": 115271000,
+        "municipal": 601264,
+        "school": 146033000,
+        "fy2027_revenue": 146033000
+      }
+    },
+    {
+      "description": "Percentage - Municipal and School Only",
+      "columns": {
+        "line_number": 29,
+        "prior_year_appropriation": null,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "percentage": "26.0%",
+        "fy2027_percentage": "74.0%"
+      }
+    },
+    {
+      "description": "Incremental Revenue",
+      "columns": {
+        "line_number": 30,
+        "prior_year_appropriation": 7695000,
+        "shared": null,
+        "municipal": 2000000,
+        "school": 5696000,
+        "fy2027_revenue": null
+      }
+    },
+    {
+      "description": "Percent of Current Budget",
+      "columns": {
+        "line_number": 31,
+        "prior_year_appropriation": null,
+        "shared": null,
+        "municipal": null,
+        "school": null,
+        "percentage": "3.8%",
+        "fy2027_percentage": "3.9%"
+      }
+    }
+  ]
+}

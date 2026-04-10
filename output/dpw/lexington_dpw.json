@@ -1,0 +1,472 @@
+{
+  "town": "lexington",
+  "fiscal_year": 2027,
+  "source": "lexington_fy2027_budget.pdf",
+  "departments": [
+    {
+      "name": "3100 DPW Administration & Engineering",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 1926167,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds (Indirects)",
+          "amount": 482672,
+          "type": "revenue"
+        },
+        {
+          "description": "Charges for Services",
+          "amount": 200,
+          "type": "revenue"
+        },
+        {
+          "description": "Licenses & Permits",
+          "amount": 52100,
+          "type": "revenue"
+        },
+        {
+          "description": "Parking Fund",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "Salaries & Wages",
+          "amount": 1947939,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime",
+          "amount": 12400,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services",
+          "amount": 352700,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities",
+          "amount": 102200,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies",
+          "amount": 45000,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital",
+          "amount": 900,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1960339,
+        "expenses": 500800,
+        "total": 2461139
+      }
+    },
+    {
+      "name": "3200 Highway",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 4323504,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds (Indirects)",
+          "amount": 67122,
+          "type": "revenue"
+        },
+        {
+          "description": "Fees & Charges - Parking Fund",
+          "amount": 39000,
+          "type": "revenue"
+        },
+        {
+          "description": "Salaries & Wages - Highway Maintenance",
+          "amount": 1246986,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime - Highway Maintenance",
+          "amount": 345640,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services - Highway Maintenance",
+          "amount": 1350500,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities - Highway Maintenance",
+          "amount": 292100,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies - Highway Maintenance",
+          "amount": 987400,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital - Highway Maintenance",
+          "amount": 107000,
+          "type": "expense"
+        },
+        {
+          "description": "Equipment Maintenance Division - Compensation",
+          "amount": 445461,
+          "type": "personnel"
+        },
+        {
+          "description": "Equipment Maintenance Division - Expenses",
+          "amount": 596039,
+          "type": "expense"
+        },
+        {
+          "description": "Snow Removal - Compensation",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Snow Removal - Expenses",
+          "amount": 1659977,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1692626,
+        "expenses": 2737000,
+        "total": 4429626
+      }
+    },
+    {
+      "name": "3300 Public Grounds",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 2421498,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds (Indirects)",
+          "amount": 102818,
+          "type": "revenue"
+        },
+        {
+          "description": "Fees & Charges - Cemetery Prop Fees",
+          "amount": 280000,
+          "type": "revenue"
+        },
+        {
+          "description": "Restricted Funding",
+          "amount": 100000,
+          "type": "revenue"
+        },
+        {
+          "description": "Salaries & Wages - Parks Division",
+          "amount": 1370650,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime - Parks Division",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services - Parks Division",
+          "amount": 282605,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities - Parks Division",
+          "amount": 5000,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies - Parks Division",
+          "amount": 18900,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital - Parks Division",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Salaries & Wages - Forestry Division",
+          "amount": 403125,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime - Forestry Division",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services - Forestry Division",
+          "amount": 149050,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities - Forestry Division",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies - Forestry Division",
+          "amount": 18900,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital - Forestry Division",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Salaries & Wages - Cemetery Division",
+          "amount": 242627,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime - Cemetery Division",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services - Cemetery Division",
+          "amount": 82045,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities - Cemetery Division",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies - Cemetery Division",
+          "amount": 8900,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital - Cemetery Division",
+          "amount": 0,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 2016402,
+        "expenses": 887500,
+        "total": 2903902
+      }
+    },
+    {
+      "name": "3400 Environmental Services",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 3947971,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds (Indirects)",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "Compensation - General Fund",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses - General Fund",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Salaries & Wages - Recycling Composting",
+          "amount": 444475,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime - Recycling Composting",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Contractual Services - Recycling Composting",
+          "amount": 4912172,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities - Recycling Composting",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies - Recycling Composting",
+          "amount": 13800,
+          "type": "expense"
+        },
+        {
+          "description": "Small Capital - Recycling Composting",
+          "amount": 0,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 444475,
+        "expenses": 4925972,
+        "total": 5370447
+      }
+    },
+    {
+      "name": "3600 Water Enterprise",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds - Retained Earnings",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "User Charges",
+          "amount": 13542124,
+          "type": "revenue"
+        },
+        {
+          "description": "Meter Charges",
+          "amount": 53000,
+          "type": "revenue"
+        },
+        {
+          "description": "Investment Income",
+          "amount": 619717,
+          "type": "revenue"
+        },
+        {
+          "description": "Fees & Charges",
+          "amount": 340010,
+          "type": "revenue"
+        },
+        {
+          "description": "Compensation",
+          "amount": 1089872,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 694600,
+          "type": "expense"
+        },
+        {
+          "description": "Cash Capital",
+          "amount": 1400000,
+          "type": "equipment"
+        },
+        {
+          "description": "Debt Service",
+          "amount": 1390213,
+          "type": "expense"
+        },
+        {
+          "description": "OPEB",
+          "amount": 3045,
+          "type": "expense"
+        },
+        {
+          "description": "Indirects",
+          "amount": 1091745,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1089872,
+        "expenses": 4179603,
+        "total": 5269475
+      }
+    },
+    {
+      "name": "3700 Sewer Enterprise",
+      "items": [
+        {
+          "description": "Tax Levy",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "Enterprise Funds - Retained Earnings",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "User Charges",
+          "amount": 13152539,
+          "type": "revenue"
+        },
+        {
+          "description": "Connection Fees",
+          "amount": 0,
+          "type": "revenue"
+        },
+        {
+          "description": "Investment Income",
+          "amount": 20000,
+          "type": "revenue"
+        },
+        {
+          "description": "Fees & Charges",
+          "amount": 362000,
+          "type": "revenue"
+        },
+        {
+          "description": "Compensation",
+          "amount": 502884,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 632400,
+          "type": "expense"
+        },
+        {
+          "description": "Cash Capital",
+          "amount": 700000,
+          "type": "equipment"
+        },
+        {
+          "description": "Debt Service",
+          "amount": 1618711,
+          "type": "expense"
+        },
+        {
+          "description": "OPEB",
+          "amount": 609,
+          "type": "expense"
+        },
+        {
+          "description": "MWRA",
+          "amount": 9452343,
+          "type": "expense"
+        },
+        {
+          "description": "Indirects",
+          "amount": 627572,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 502884,
+        "expenses": 13031635,
+        "total": 13534519
+      }
+    }
+  ]
+}

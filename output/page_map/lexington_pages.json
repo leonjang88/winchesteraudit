@@ -1,0 +1,20 @@
+{
+  "town": "lexington",
+  "sections": {
+    "summary": {
+      "name": "Section I: Budget Overview - Program Summary",
+      "pdf_start": 13,
+      "pdf_end": 14
+    },
+    "education": {
+      "name": "Section III: Program 1000 - Education",
+      "pdf_start": 47,
+      "pdf_end": 68
+    },
+    "benefits": {
+      "name": "Section IV: Program 2000 - Shared Expenses / Employee Benefits",
+      "pdf_start": 69,
+      "pdf_end": 90
+    }
+  }
+}

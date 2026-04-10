@@ -1,0 +1,88 @@
+{
+  "town": "weston",
+  "fiscal_year": 2027,
+  "source": "weston_fy2027_budget.pdf",
+  "departments": [
+    {
+      "name": "PUBLIC WORKS",
+      "items": [
+        {
+          "description": "Salary",
+          "amount": 1482600,
+          "type": "personnel"
+        },
+        {
+          "description": "Regular Salaries",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime & Professional Services",
+          "amount": 202400,
+          "type": "expense"
+        },
+        {
+          "description": "Regular Salaries",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Overtime & Professional Services",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Supplies & Materials",
+          "amount": 126900,
+          "type": "expense"
+        },
+        {
+          "description": "Equipment & Repair",
+          "amount": 160000,
+          "type": "equipment"
+        },
+        {
+          "description": "Vehicles & Equipment",
+          "amount": 0,
+          "type": "equipment"
+        },
+        {
+          "description": "Contractual Services",
+          "amount": 340000,
+          "type": "expense"
+        },
+        {
+          "description": "Professional Services",
+          "amount": 45000,
+          "type": "expense"
+        },
+        {
+          "description": "Utilities",
+          "amount": 95000,
+          "type": "expense"
+        },
+        {
+          "description": "Other Charges",
+          "amount": 73600,
+          "type": "expense"
+        },
+        {
+          "description": "Insurance",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Total - Public Works",
+          "amount": 2525500,
+          "type": "total"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1482600,
+        "expenses": 1042900,
+        "equipment": 160000,
+        "total": 2525500
+      }
+    }
+  ]
+}

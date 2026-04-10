@@ -1,0 +1,286 @@
+{
+  "town": "belmont",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Total 2100 Pension",
+      "columns": {
+        "FY2023_Actual": 10077954,
+        "FY2024_Actual": 10033563,
+        "FY2025_Actual": 9944937,
+        "FY2026_Approp": 10128274,
+        "FY2027_Request": 10381481,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 10381481,
+        "Dollar_Change": 253207,
+        "Percent_Change": "2.5%"
+      }
+    },
+    {
+      "description": "Total Retiree Health Insurance",
+      "columns": {
+        "FY2023_Actual": 3492220,
+        "FY2024_Actual": 3425579,
+        "FY2025_Actual": 3363399,
+        "FY2026_Approp": 3635157,
+        "FY2027_Request": 3944373,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 3944373,
+        "Dollar_Change": 309216,
+        "Percent_Change": "8.5%"
+      }
+    },
+    {
+      "description": "Total 2200 Employee Health Insurance",
+      "columns": {
+        "FY2023_Actual": 9886314,
+        "FY2024_Actual": 8968165,
+        "FY2025_Actual": 10367518,
+        "FY2026_Approp": 11417491,
+        "FY2027_Request": 13518521,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 13518521,
+        "Dollar_Change": 2101030,
+        "Percent_Change": "18.4%"
+      }
+    },
+    {
+      "description": "Total Employee Medicare",
+      "columns": {
+        "FY2023_Actual": 371756,
+        "FY2024_Actual": 354859,
+        "FY2025_Actual": 358040,
+        "FY2026_Approp": 366187,
+        "FY2027_Request": 380804,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 380804,
+        "Dollar_Change": 14646,
+        "Percent_Change": "4.0%"
+      }
+    },
+    {
+      "description": "Total Employee Unemployment",
+      "columns": {
+        "FY2023_Actual": 76169,
+        "FY2024_Actual": 44029,
+        "FY2025_Actual": 50698,
+        "FY2026_Approp": 90000,
+        "FY2027_Request": 90000,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 90000,
+        "Dollar_Change": null,
+        "Percent_Change": "—%"
+      }
+    },
+    {
+      "description": "Total Employee Workers Comp",
+      "columns": {
+        "FY2023_Actual": 282892,
+        "FY2024_Actual": 333646,
+        "FY2025_Actual": 447684,
+        "FY2026_Approp": 465076,
+        "FY2027_Request": 499957,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 499957,
+        "Dollar_Change": 34881,
+        "Percent_Change": "7.5%"
+      }
+    },
+    {
+      "description": "Total 2100 Benefits and Insurance",
+      "columns": {
+        "FY2023_Actual": 24897317,
+        "FY2024_Actual": 24582895,
+        "FY2025_Actual": 25186916,
+        "FY2026_Approp": 26937746,
+        "FY2027_Request": 29670322,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 29670322,
+        "Dollar_Change": 2732576,
+        "Percent_Change": "10.1%"
+      }
+    },
+    {
+      "description": "Town Retiree Health Insurance",
+      "columns": {
+        "FY2023_Actual": 1765215,
+        "FY2024_Actual": 1619431,
+        "FY2025_Actual": 1610866,
+        "FY2026_Approp": 1740046,
+        "FY2027_Request": 1923502,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 1923502,
+        "Dollar_Change": 183456,
+        "Percent_Change": "10.5%"
+      }
+    },
+    {
+      "description": "School Employee Health Insurance",
+      "columns": {
+        "FY2023_Actual": 1727055,
+        "FY2024_Actual": 1806145,
+        "FY2025_Actual": 1752634,
+        "FY2026_Approp": 1895111,
+        "FY2027_Request": 2020871,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 2020871,
+        "Dollar_Change": 125760,
+        "Percent_Change": "6.6%"
+      }
+    },
+    {
+      "description": "Town Employee Health Insurance",
+      "columns": {
+        "FY2023_Actual": 3332213,
+        "FY2024_Actual": 2929776,
+        "FY2025_Actual": 3111820,
+        "FY2026_Approp": 3536688,
+        "FY2027_Request": 3944533,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 3944533,
+        "Dollar_Change": 407845,
+        "Percent_Change": "11.5%"
+      }
+    },
+    {
+      "description": "School Employee Health Insurance",
+      "columns": {
+        "FY2023_Actual": 6554102,
+        "FY2024_Actual": 6756388,
+        "FY2025_Actual": 7255698,
+        "FY2026_Approp": 7880803,
+        "FY2027_Request": 9573988,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 9573988,
+        "Dollar_Change": 1693188,
+        "Percent_Change": "21.5%"
+      }
+    },
+    {
+      "description": "Town Employee Medicare",
+      "columns": {
+        "FY2023_Actual": 371756,
+        "FY2024_Actual": 354859,
+        "FY2025_Actual": 358040,
+        "FY2026_Approp": 366187,
+        "FY2027_Request": 380804,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 380804,
+        "Dollar_Change": 14646,
+        "Percent_Change": "4.0%"
+      }
+    },
+    {
+      "description": "School Employee Medicare",
+      "columns": {
+        "FY2023_Actual": 633291,
+        "FY2024_Actual": 692501,
+        "FY2025_Actual": 741158,
+        "FY2026_Approp": 816165,
+        "FY2027_Request": 835762,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 835762,
+        "Dollar_Change": 19597,
+        "Percent_Change": "2.4%"
+      }
+    },
+    {
+      "description": "Town Employee Unemployment",
+      "columns": {
+        "FY2023_Actual": 30523,
+        "FY2024_Actual": 5427,
+        "FY2025_Actual": 15733,
+        "FY2026_Approp": 30000,
+        "FY2027_Request": 30000,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 30000,
+        "Dollar_Change": null,
+        "Percent_Change": "—%"
+      }
+    },
+    {
+      "description": "School Employee Unemployment",
+      "columns": {
+        "FY2023_Actual": 45646,
+        "FY2024_Actual": 38601,
+        "FY2025_Actual": 34967,
+        "FY2026_Approp": 60000,
+        "FY2027_Request": 60000,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 60000,
+        "Dollar_Change": null,
+        "Percent_Change": "—%"
+      }
+    },
+    {
+      "description": "Town Employee Workers Comp",
+      "columns": {
+        "FY2023_Actual": 91444,
+        "FY2024_Actual": 109627,
+        "FY2025_Actual": 156874,
+        "FY2026_Approp": 177587,
+        "FY2027_Request": 190906,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 190906,
+        "Dollar_Change": 13319,
+        "Percent_Change": "7.5%"
+      }
+    },
+    {
+      "description": "School Employee Workers Comp",
+      "columns": {
+        "FY2023_Actual": 191447,
+        "FY2024_Actual": 224019,
+        "FY2025_Actual": 290810,
+        "FY2026_Approp": 287489,
+        "FY2027_Request": 309051,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 309051,
+        "Dollar_Change": 21562,
+        "Percent_Change": "7.5%"
+      }
+    },
+    {
+      "description": "Total 2400 Liability Insurance",
+      "columns": {
+        "FY2023_Actual": 350167,
+        "FY2024_Actual": 738088,
+        "FY2025_Actual": 718144,
+        "FY2026_Approp": 823876,
+        "FY2027_Request": 864447,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 864447,
+        "Dollar_Change": 40621,
+        "Percent_Change": "4.9%"
+      }
+    },
+    {
+      "description": "Total 2410 Deductible Reserves",
+      "columns": {
+        "FY2023_Actual": 12030,
+        "FY2024_Actual": 6075,
+        "FY2025_Actual": 33793,
+        "FY2026_Approp": 33383,
+        "FY2027_Request": 33383,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 33383,
+        "Dollar_Change": null,
+        "Percent_Change": "—%"
+      }
+    },
+    {
+      "description": "Total 2450 Warrant Committee Reserve",
+      "columns": {
+        "FY2023_Actual": null,
+        "FY2024_Actual": null,
+        "FY2025_Actual": null,
+        "FY2026_Approp": 500000,
+        "FY2027_Request": 500000,
+        "TA_Adj": null,
+        "FY2027_TA_Rec": 500000,
+        "Dollar_Change": null,
+        "Percent_Change": "—%"
+      }
+    }
+  ]
+}

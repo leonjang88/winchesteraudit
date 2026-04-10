@@ -1,0 +1,942 @@
+{
+  "town": "winchester",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "section": "Energy",
+      "description": "GASOLINE - HIGHWAYS & STREET",
+      "columns": {
+        "fy25_budget": 100185,
+        "fy25_actual": 115096,
+        "fy26_budget": 112200,
+        "fy27_request": 110300,
+        "fy27_manager": 110300,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "HEATING OIL - DPW STATION",
+      "columns": {
+        "fy25_budget": 5100,
+        "fy25_actual": 6130,
+        "fy26_budget": 5400,
+        "fy27_request": 4600,
+        "fy27_manager": 4600,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "FUEL OIL - AUX",
+      "columns": {
+        "fy25_budget": 2200,
+        "fy25_actual": 1027,
+        "fy26_budget": 1760,
+        "fy27_request": 1048,
+        "fy27_manager": 1048,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "FUEL OIL - LYNCH SCHOOL",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 0,
+        "fy26_budget": 0,
+        "fy27_request": 0,
+        "fy27_manager": 0,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "DIESEL - DPW",
+      "columns": {
+        "fy25_budget": 91997,
+        "fy25_actual": 92295,
+        "fy26_budget": 96000,
+        "fy27_request": 98560,
+        "fy27_manager": 98560,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "FUEL OIL - CEMETERY",
+      "columns": {
+        "fy25_budget": 3531,
+        "fy25_actual": 4350,
+        "fy26_budget": 3785,
+        "fy27_request": 3940,
+        "fy27_manager": 3940,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "FUEL OIL - PLAYGROUND",
+      "columns": {
+        "fy25_budget": 890,
+        "fy25_actual": 689,
+        "fy26_budget": 800,
+        "fy27_request": 850,
+        "fy27_manager": 850,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "FUEL OIL - 160 FOREST ST",
+      "columns": {
+        "fy25_budget": 1955,
+        "fy25_actual": 2084,
+        "fy26_budget": 1895,
+        "fy27_request": 1638,
+        "fy27_manager": 1638,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - WRIGHT/LODGE",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 0,
+        "fy26_budget": 0,
+        "fy27_request": 0,
+        "fy27_manager": 0,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - WEST SIDE STAT",
+      "columns": {
+        "fy25_budget": 55361,
+        "fy25_actual": 64626,
+        "fy26_budget": 62335,
+        "fy27_request": 62721,
+        "fy27_manager": 62721,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - PUBLIC SAFE BL",
+      "columns": {
+        "fy25_budget": 54808,
+        "fy25_actual": 46786,
+        "fy26_budget": 59410,
+        "fy27_request": 62321,
+        "fy27_manager": 62321,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - LIBRARY",
+      "columns": {
+        "fy25_budget": 8960,
+        "fy25_actual": 8609,
+        "fy26_budget": 9010,
+        "fy27_request": 9218,
+        "fy27_manager": 9218,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - TRANDER STATIO",
+      "columns": {
+        "fy25_budget": 29385,
+        "fy25_actual": 46513,
+        "fy26_budget": 27500,
+        "fy27_request": 47443,
+        "fy27_manager": 47443,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - GROUNDS",
+      "columns": {
+        "fy25_budget": 15770,
+        "fy25_actual": 7923,
+        "fy26_budget": 14200,
+        "fy27_request": 10890,
+        "fy27_manager": 10890,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - AMBROISE PARK",
+      "columns": {
+        "fy25_budget": 21653,
+        "fy25_actual": 24888,
+        "fy26_budget": 23250,
+        "fy27_request": 23750,
+        "fy27_manager": 23750,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - AMBROSE SCHOOL",
+      "columns": {
+        "fy25_budget": 82422,
+        "fy25_actual": 44345,
+        "fy26_budget": 88210,
+        "fy27_request": 96000,
+        "fy27_manager": 96000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - LINCOLN SCHOOL",
+      "columns": {
+        "fy25_budget": 87087,
+        "fy25_actual": 75761,
+        "fy26_budget": 92311,
+        "fy27_request": 76280,
+        "fy27_manager": 76280,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - LYNCH SCHOOL",
+      "columns": {
+        "fy25_budget": 12000,
+        "fy25_actual": 45595,
+        "fy26_budget": 80000,
+        "fy27_request": 105000,
+        "fy27_manager": 75000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - MUNROE SCHOOL",
+      "columns": {
+        "fy25_budget": 31353,
+        "fy25_actual": 64248,
+        "fy26_budget": 55821,
+        "fy27_request": 56333,
+        "fy27_manager": 56333,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - MYSTIC SCHOOL",
+      "columns": {
+        "fy25_budget": 49785,
+        "fy25_actual": 58289,
+        "fy26_budget": 52240,
+        "fy27_request": 53050,
+        "fy27_manager": 53050,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - CEMETERY",
+      "columns": {
+        "fy25_budget": 2021,
+        "fy25_actual": 1592,
+        "fy26_budget": 2062,
+        "fy27_request": 1624,
+        "fy27_manager": 1624,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - MYSTIC",
+      "columns": {
+        "fy25_budget": 9341,
+        "fy25_actual": 10364,
+        "fy26_budget": 11480,
+        "fy27_request": 11280,
+        "fy27_manager": 11280,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - SANBORN HOUSE",
+      "columns": {
+        "fy25_budget": 144,
+        "fy25_actual": 130,
+        "fy26_budget": 150,
+        "fy27_request": 150,
+        "fy27_manager": 150,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - TOWN HALL",
+      "columns": {
+        "fy25_budget": 53775,
+        "fy25_actual": 64191,
+        "fy26_budget": 55280,
+        "fy27_request": 57656,
+        "fy27_manager": 57656,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - VINSON-OWEN",
+      "columns": {
+        "fy25_budget": 18605,
+        "fy25_actual": 15998,
+        "fy26_budget": 19390,
+        "fy27_request": 19490,
+        "fy27_manager": 19490,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - WEDGEMERE STAT",
+      "columns": {
+        "fy25_budget": 4800,
+        "fy25_actual": 3850,
+        "fy26_budget": 2740,
+        "fy27_request": 3947,
+        "fy27_manager": 3947,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - PARK GARAGE",
+      "columns": {
+        "fy25_budget": 2263,
+        "fy25_actual": 1184,
+        "fy26_budget": 900,
+        "fy27_request": 1214,
+        "fy27_manager": 1214,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - DPW GARAGE",
+      "columns": {
+        "fy25_budget": 5360,
+        "fy25_actual": 4540,
+        "fy26_budget": 5350,
+        "fy27_request": 5350,
+        "fy27_manager": 5350,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER WEDGE POND",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 0,
+        "fy26_budget": 0,
+        "fy27_request": 6000,
+        "fy27_manager": 6000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - DPW COMPLEX",
+      "columns": {
+        "fy25_budget": 28372,
+        "fy25_actual": 38324,
+        "fy26_budget": 34500,
+        "fy27_request": 36000,
+        "fy27_manager": 36000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - CEMETERY",
+      "columns": {
+        "fy25_budget": 3625,
+        "fy25_actual": 3400,
+        "fy26_budget": 3700,
+        "fy27_request": 3700,
+        "fy27_manager": 3700,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - MYSTIC BLDG",
+      "columns": {
+        "fy25_budget": 12927,
+        "fy25_actual": 15076,
+        "fy26_budget": 13500,
+        "fy27_request": 12439,
+        "fy27_manager": 12439,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - TOWN HALL",
+      "columns": {
+        "fy25_budget": 17040,
+        "fy25_actual": 18883,
+        "fy26_budget": 18000,
+        "fy27_request": 18000,
+        "fy27_manager": 18000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - HIGH SCHOOL",
+      "columns": {
+        "fy25_budget": 69580,
+        "fy25_actual": 99273,
+        "fy26_budget": 72000,
+        "fy27_request": 69432,
+        "fy27_manager": 69432,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - LIBRARY",
+      "columns": {
+        "fy25_budget": 28640,
+        "fy25_actual": 38509,
+        "fy26_budget": 32000,
+        "fy27_request": 33000,
+        "fy27_manager": 33000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - AMBROSE SCHOOL",
+      "columns": {
+        "fy25_budget": 38350,
+        "fy25_actual": 50500,
+        "fy26_budget": 39612,
+        "fy27_request": 36888,
+        "fy27_manager": 36888,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - LINCOLN SCHOOL",
+      "columns": {
+        "fy25_budget": 43226,
+        "fy25_actual": 46505,
+        "fy26_budget": 47300,
+        "fy27_request": 43730,
+        "fy27_manager": 43730,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - TOWN HALL",
+      "columns": {
+        "fy25_budget": 15000,
+        "fy25_actual": 17000,
+        "fy26_budget": 15000,
+        "fy27_request": 15000,
+        "fy27_manager": 15000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - MUNROE SCHOOL",
+      "columns": {
+        "fy25_budget": 47014,
+        "fy25_actual": 54933,
+        "fy26_budget": 51600,
+        "fy27_request": 55650,
+        "fy27_manager": 55650,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - PUBLIC SAFETY",
+      "columns": {
+        "fy25_budget": 22213,
+        "fy25_actual": 23628,
+        "fy26_budget": 22371,
+        "fy27_request": 26100,
+        "fy27_manager": 26100,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - 283 MAIN STREET",
+      "columns": {
+        "fy25_budget": 8500,
+        "fy25_actual": 14294,
+        "fy26_budget": 8500,
+        "fy27_request": 8500,
+        "fy27_manager": 8500,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - FAIRMONT SCHOO",
+      "columns": {
+        "fy25_budget": 115000,
+        "fy25_actual": 63448,
+        "fy26_budget": 25000,
+        "fy27_request": 30000,
+        "fy27_manager": 30000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - FAIRMONT SCH",
+      "columns": {
+        "fy25_budget": 30360,
+        "fy25_actual": 63448,
+        "fy26_budget": 32300,
+        "fy27_request": 32500,
+        "fy27_manager": 32500,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - SUSSEX GROVE",
+      "columns": {
+        "fy25_budget": 135,
+        "fy25_actual": 135,
+        "fy26_budget": 150,
+        "fy27_request": 135,
+        "fy27_manager": 135,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - FAIRMONT SCHD",
+      "columns": {
+        "fy25_budget": 40823,
+        "fy25_actual": 36910,
+        "fy26_budget": 18000,
+        "fy27_request": 36000,
+        "fy27_manager": 36000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "NATURAL GAS - MYSTIC SCHOOL",
+      "columns": {
+        "fy25_budget": 44000,
+        "fy25_actual": 53500,
+        "fy26_budget": 46000,
+        "fy27_request": 46000,
+        "fy27_manager": 46000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - MCDONALD FIELD",
+      "columns": {
+        "fy25_budget": 308,
+        "fy25_actual": 235,
+        "fy26_budget": 315,
+        "fy27_request": 315,
+        "fy27_manager": 315,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - LARAWAY EV CHARGER",
+      "columns": {
+        "fy25_budget": 2008,
+        "fy25_actual": 0,
+        "fy26_budget": 2500,
+        "fy27_request": 2500,
+        "fy27_manager": 2500,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - 160 FOREST ST",
+      "columns": {
+        "fy25_budget": 500,
+        "fy25_actual": 0,
+        "fy26_budget": 500,
+        "fy27_request": 500,
+        "fy27_manager": 500,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "RRM ELECTRIC CHARGERS",
+      "columns": {
+        "fy25_budget": 6000,
+        "fy25_actual": 4300,
+        "fy26_budget": 6000,
+        "fy27_request": 6000,
+        "fy27_manager": 6000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "LIGHT/POWER - WATER SYSTEM",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 800,
+        "fy26_budget": 0,
+        "fy27_request": 0,
+        "fy27_manager": 0,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Energy",
+      "description": "ENERGY TOTAL",
+      "columns": {
+        "fy25_budget": 2156861,
+        "fy25_actual": 2164504,
+        "fy26_budget": 2234436,
+        "fy27_request": 2263541,
+        "fy27_manager": 2263541,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Contributory Retirement",
+      "description": "PAYMENTS TO MUNICIPALITIES",
+      "columns": {
+        "fy25_budget": 7098270,
+        "fy25_actual": 7098270,
+        "fy26_budget": 7462210,
+        "fy27_request": 7822682,
+        "fy27_manager": 7822682,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Contributory Retirement",
+      "description": "CONTRIBUTORY RETIREMENT TOTAL",
+      "columns": {
+        "fy25_budget": 7098270,
+        "fy25_actual": 7098270,
+        "fy26_budget": 7462210,
+        "fy27_request": 7822682,
+        "fy27_manager": 7822682,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Workers Compensation",
+      "description": "PROFESSIONAL SERVICES",
+      "columns": {
+        "fy25_budget": 71000,
+        "fy25_actual": 20752,
+        "fy26_budget": 29900,
+        "fy27_request": 31000,
+        "fy27_manager": 31000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Workers Compensation",
+      "description": "IOD - MEDICAL & OTHER",
+      "columns": {
+        "fy25_budget": 145000,
+        "fy25_actual": 116196,
+        "fy26_budget": 60000,
+        "fy27_request": 110000,
+        "fy27_manager": 110000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Workers Compensation",
+      "description": "F/F INSURE LONG TERM",
+      "columns": {
+        "fy25_budget": 125000,
+        "fy25_actual": 0,
+        "fy26_budget": 0,
+        "fy27_request": 0,
+        "fy27_manager": 0,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Workers Compensation",
+      "description": "RESERVE FUND",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 0,
+        "fy26_budget": 100000,
+        "fy27_request": 100000,
+        "fy27_manager": 440000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Workers Compensation",
+      "description": "WORKERS COMPENSATION TOTAL",
+      "columns": {
+        "fy25_budget": 350000,
+        "fy25_actual": 322371,
+        "fy26_budget": 390000,
+        "fy27_request": 540000,
+        "fy27_manager": 440000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Unemployment",
+      "description": "PROFESSIONAL SERVICES",
+      "columns": {
+        "fy25_budget": 2000,
+        "fy25_actual": 2309,
+        "fy26_budget": 3900,
+        "fy27_request": 5000,
+        "fy27_manager": 5000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Unemployment",
+      "description": "PAYMENTS TO MUNICIPALITIES",
+      "columns": {
+        "fy25_budget": 88000,
+        "fy25_actual": 82425,
+        "fy26_budget": 96100,
+        "fy27_request": 100000,
+        "fy27_manager": 100000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Unemployment",
+      "description": "UNEMPLOYMENT TOTAL",
+      "columns": {
+        "fy25_budget": 90000,
+        "fy25_actual": 84715,
+        "fy26_budget": 100000,
+        "fy27_request": 100000,
+        "fy27_manager": 100000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HRA - NON-UNION",
+      "columns": {
+        "fy25_budget": 30000,
+        "fy25_actual": 0,
+        "fy26_budget": 30000,
+        "fy27_request": 30000,
+        "fy27_manager": 30000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "PROFESSIONAL SERVICES",
+      "columns": {
+        "fy25_budget": 25000,
+        "fy25_actual": 19895,
+        "fy26_budget": 25000,
+        "fy27_request": 25000,
+        "fy27_manager": 25000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HEALTH INSURANCE/TOWN-ACTIVE",
+      "columns": {
+        "fy25_budget": 3741619,
+        "fy25_actual": 3336421,
+        "fy26_budget": 3970136,
+        "fy27_request": 4603638,
+        "fy27_manager": 4667447,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HEALTH INSURANCE/SCHOOL-ACTIVE",
+      "columns": {
+        "fy25_budget": 6411332,
+        "fy25_actual": 6761594,
+        "fy26_budget": 7329371,
+        "fy27_request": 9318650,
+        "fy27_manager": 9270031,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HEALTH INSURANCE/SCHOOL-RETIREES",
+      "columns": {
+        "fy25_budget": 1786433,
+        "fy25_actual": 1742636,
+        "fy26_budget": 3693363,
+        "fy27_request": 2345028,
+        "fy27_manager": 2345285,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HDHP INSURANCE PREMIUM/LIFE",
+      "columns": {
+        "fy25_budget": 30000,
+        "fy25_actual": 25354,
+        "fy26_budget": 30000,
+        "fy27_request": 30000,
+        "fy27_manager": 30000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "INSURANCE PENALTIES",
+      "columns": {
+        "fy25_budget": 150000,
+        "fy25_actual": 2514,
+        "fy26_budget": 27200,
+        "fy27_request": 226000,
+        "fy27_manager": 226000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "EAP & DEPENDENT REIMBURSEMENTS",
+      "columns": {
+        "fy25_budget": 65000,
+        "fy25_actual": 65682,
+        "fy26_budget": 65531,
+        "fy27_request": 65000,
+        "fy27_manager": 65000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "EMP BUY-IN TOWN RETIREES",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 45586,
+        "fy26_budget": 46000,
+        "fy27_request": 45000,
+        "fy27_manager": 45000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "EMP BUY-IN SCHOOL RETIREES",
+      "columns": {
+        "fy25_budget": 0,
+        "fy25_actual": 114885,
+        "fy26_budget": 135000,
+        "fy27_request": 137000,
+        "fy27_manager": 137000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Health Insurance",
+      "description": "HEALTH INSURANCE TOTAL",
+      "columns": {
+        "fy25_budget": 14045550,
+        "fy25_actual": 13975912,
+        "fy26_budget": 16240716,
+        "fy27_request": 18844316,
+        "fy27_manager": 18866219,
+        "fincom": null
+      }
+    },
+    {
+      "section": "FICA & Medicare",
+      "description": "GROUP INSURANCE PREMIUM",
+      "columns": {
+        "fy25_budget": 1254250,
+        "fy25_actual": 1248921,
+        "fy26_budget": 1306463,
+        "fy27_request": 1550000,
+        "fy27_manager": 1500000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "FICA & Medicare",
+      "description": "MEDICARE TOTAL",
+      "columns": {
+        "fy25_budget": 1254250,
+        "fy25_actual": 1248921,
+        "fy26_budget": 1306463,
+        "fy27_request": 1550000,
+        "fy27_manager": 1500000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "Reserve Fund",
+      "description": "RESERVE FUND",
+      "columns": {
+        "fy25_budget": 400000,
+        "fy25_actual": null,
+        "fy26_budget": 400000,
+        "fy27_request": 400000,
+        "fy27_manager": 400000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "General Insurance",
+      "description": "INSURANCE/SURETY",
+      "columns": {
+        "fy25_budget": 693000,
+        "fy25_actual": 605103,
+        "fy26_budget": 750000,
+        "fy27_request": 850000,
+        "fy27_manager": 810000,
+        "fincom": null
+      }
+    },
+    {
+      "section": "General Insurance",
+      "description": "GENERAL INSURANCE TOTAL",
+      "columns": {
+        "fy25_budget": 693000,
+        "fy25_actual": 605103,
+        "fy26_budget": 750000,
+        "fy27_request": 850000,
+        "fy27_manager": 810000,
+        "fincom": null
+      }
+    }
+  ]
+}

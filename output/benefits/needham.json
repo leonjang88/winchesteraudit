@@ -1,0 +1,182 @@
+{
+  "town": "needham",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Casualty, Liability, Property & Self-Insurance",
+      "columns": {
+        "FY2027_DSR2_Request": 1088875.00,
+        "BASE_5_Change": 58049.00,
+        "BASE_%_Change": 5.63,
+        "Total_$_Change": 58049.00,
+        "Total_%_Change": 5.63,
+        "Budget_2026": 1030826.00,
+        "Expenditures_2025": 970898.00,
+        "Expenditures_2024": 923772.00,
+        "Expenditures_2023": 802154.94,
+        "Expenditures_2022": 742594.00,
+        "Expenditures_2021": 667584.00
+      }
+    },
+    {
+      "description": "Debt Service",
+      "columns": {
+        "FY2027_DSR2_Request": 16285559.00,
+        "BASE_5_Change": -951290.00,
+        "BASE_%_Change": -3.27,
+        "Total_$_Change": -951290.00,
+        "Total_%_Change": -3.27,
+        "Budget_2026": 16836849.00,
+        "Expenditures_2025": 17502415.76,
+        "Expenditures_2024": 17557774.52,
+        "Expenditures_2023": 20371943.52,
+        "Expenditures_2022": 20754996.62,
+        "Expenditures_2021": 21091658.39
+      }
+    },
+    {
+      "description": "Group Health Insurance, Employee Benefits & Administrative Costs",
+      "columns": {
+        "FY2027_DSR2_Request": 22141107.00,
+        "BASE_5_Change": 2046672.00,
+        "BASE_%_Change": 10.19,
+        "Total_$_Change": 2046672.00,
+        "Total_%_Change": 10.19,
+        "Budget_2026": 20094435.00,
+        "Expenditures_2025": 17973300.89,
+        "Expenditures_2024": 16553594.11,
+        "Expenditures_2023": 14959165.61,
+        "Expenditures_2022": 14777854.33,
+        "Expenditures_2021": 15925131.91
+      }
+    },
+    {
+      "description": "Needham Electric, Light & Gas Program",
+      "columns": {
+        "FY2027_DSR2_Request": 6031524.00,
+        "BASE_5_Change": 293330.00,
+        "BASE_%_Change": 5.11,
+        "Total_$_Change": 293330.00,
+        "Total_%_Change": 5.11,
+        "Budget_2026": 5738194.00,
+        "Expenditures_2025": 5669038.00,
+        "Expenditures_2024": 5655057.00,
+        "Expenditures_2023": 4588708.54,
+        "Expenditures_2022": 3953245.96,
+        "Expenditures_2021": 3509568.20
+      }
+    },
+    {
+      "description": "Retiree Insurance & Insurance Liability Fund (OPEB)",
+      "columns": {
+        "FY2027_DSR2_Request": 9016460.00,
+        "BASE_5_Change": 476230.00,
+        "BASE_%_Change": 5.58,
+        "Total_$_Change": 476230.00,
+        "Total_%_Change": 5.58,
+        "Budget_2026": 8540230.00,
+        "Expenditures_2025": 8141306.00,
+        "Expenditures_2024": 8199280.00,
+        "Expenditures_2023": 8844474.00,
+        "Expenditures_2022": 7426237.00,
+        "Expenditures_2021": 7197713.00
+      }
+    },
+    {
+      "description": "Retirement Assessments",
+      "columns": {
+        "FY2027_DSR2_Request": 15520667.00,
+        "BASE_5_Change": 1151011.00,
+        "BASE_%_Change": 8.01,
+        "Total_$_Change": 1151011.00,
+        "Total_%_Change": 8.01,
+        "Budget_2026": 14369656.00,
+        "Expenditures_2025": 13142913.00,
+        "Expenditures_2024": 12354582.00,
+        "Expenditures_2023": 11263367.00,
+        "Expenditures_2022": 10276804.00,
+        "Expenditures_2021": 9368084.00
+      }
+    },
+    {
+      "description": "Workers Compensation",
+      "columns": {
+        "FY2027_DSR2_Request": 836786.00,
+        "BASE_5_Change": 30649.00,
+        "BASE_%_Change": 3.80,
+        "Total_$_Change": 30649.00,
+        "Total_%_Change": 3.80,
+        "Budget_2026": 806137.00,
+        "Expenditures_2025": 779255.00,
+        "Expenditures_2024": 779244.00,
+        "Expenditures_2023": 732070.00,
+        "Expenditures_2022": 828731.00,
+        "Expenditures_2021": 746833.00
+      }
+    },
+    {
+      "description": "Injury on Duty & 111F",
+      "columns": {
+        "FY2027_DSR2_Request": 182786.00,
+        "BASE_5_Change": 8704.00,
+        "BASE_%_Change": 5.00,
+        "Total_$_Change": 8704.00,
+        "Total_%_Change": 5.00,
+        "Budget_2026": 174082.00,
+        "Expenditures_2025": 165792.00,
+        "Expenditures_2024": 159426.00,
+        "Expenditures_2023": 151105.00,
+        "Expenditures_2022": 0.00,
+        "Expenditures_2021": 0.00
+      }
+    },
+    {
+      "description": "Classification Performance & Settlements",
+      "columns": {
+        "FY2027_DSR2_Request": 1450000.00,
+        "BASE_5_Change": 1385064.00,
+        "BASE_%_Change": 2132.97,
+        "Total_$_Change": 1385064.00,
+        "Total_%_Change": 2132.97,
+        "Budget_2026": 64936.00,
+        "Expenditures_2025": 0.00,
+        "Expenditures_2024": 0.00,
+        "Expenditures_2023": 0.00,
+        "Expenditures_2022": 0.00,
+        "Expenditures_2021": 0.00
+      }
+    },
+    {
+      "description": "Reserve Fund",
+      "columns": {
+        "FY2027_DSR2_Request": 2789565.00,
+        "BASE_5_Change": 1390170.00,
+        "BASE_%_Change": 99.34,
+        "Total_$_Change": 1390170.00,
+        "Total_%_Change": 99.34,
+        "Budget_2026": 1399395.00,
+        "Expenditures_2025": 0.00,
+        "Expenditures_2024": 0.00,
+        "Expenditures_2023": 0.00,
+        "Expenditures_2022": 0.00,
+        "Expenditures_2021": 0.00
+      }
+    },
+    {
+      "description": "Total",
+      "columns": {
+        "FY2027_DSR2_Request": 75343329.00,
+        "BASE_5_Change": 6288589.00,
+        "BASE_%_Change": 9.11,
+        "Total_$_Change": 6288589.00,
+        "Total_%_Change": 9.11,
+        "Budget_2026": 69054740.00,
+        "Expenditures_2025": 64344918.65,
+        "Expenditures_2024": 61982729.63,
+        "Expenditures_2023": 61712988.61,
+        "Expenditures_2022": 58760462.91,
+        "Expenditures_2021": 58506572.52
+      }
+    }
+  ]
+}

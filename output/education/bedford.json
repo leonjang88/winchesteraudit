@@ -1,0 +1,170 @@
+{
+  "town": "bedford",
+  "fiscal_year": 2027,
+  "sections": [
+    {
+      "section_name": "Bedford Public School",
+      "subsection": "Expenditures by Department",
+      "rows": [
+        {
+          "description": "SCHOOL",
+          "columns": {
+            "FY25_Budget": 49593798,
+            "FY26_Budget": 52090425,
+            "FY27_ATM_Adopt": 53998325,
+            "FY26_Budget_vs_FY27_ATM_Adopt_Percent_Change": 3.66
+          }
+        },
+        {
+          "description": "Total Expenditures",
+          "columns": {
+            "FY25_Budget": 49593798,
+            "FY26_Budget": 52090425,
+            "FY27_ATM_Adopt": 53998325,
+            "FY26_Budget_vs_FY27_ATM_Adopt_Percent_Change": 3.66
+          }
+        }
+      ]
+    },
+    {
+      "section_name": "Bedford Public School",
+      "subsection": "Expenditures by Expense Object Category",
+      "rows": [
+        {
+          "description": "PROFESSIONAL SALARY",
+          "columns": {
+            "FY24_Budget": 38538615,
+            "FY25_Budget": null,
+            "FY26_Budget": null,
+            "FY27_Dept_Rec": null,
+            "FY27_TM_Rec": null,
+            "FY27_SB_Rec": null,
+            "FY27_FC_Rec": null,
+            "FY27_ATM_Adopt": null
+          }
+        },
+        {
+          "description": "CONTRACTED SERVICES",
+          "columns": {
+            "FY24_Budget": 6788890,
+            "FY25_Budget": null,
+            "FY26_Budget": null,
+            "FY27_Dept_Rec": null,
+            "FY27_TM_Rec": null,
+            "FY27_SB_Rec": null,
+            "FY27_FC_Rec": null,
+            "FY27_ATM_Adopt": null
+          }
+        },
+        {
+          "description": "SUPPLIES & MATERIAL",
+          "columns": {
+            "FY24_Budget": 974180,
+            "FY25_Budget": null,
+            "FY26_Budget": null,
+            "FY27_Dept_Rec": null,
+            "FY27_TM_Rec": null,
+            "FY27_SB_Rec": null,
+            "FY27_FC_Rec": null,
+            "FY27_ATM_Adopt": null
+          }
+        },
+        {
+          "description": "OTHER EXPENSE",
+          "columns": {
+            "FY24_Budget": 436763,
+            "FY25_Budget": null,
+            "FY26_Budget": null,
+            "FY27_Dept_Rec": null,
+            "FY27_TM_Rec": null,
+            "FY27_SB_Rec": null,
+            "FY27_FC_Rec": null,
+            "FY27_ATM_Adopt": null
+          }
+        },
+        {
+          "description": "OTHER FINANCING USES",
+          "columns": {
+            "FY24_Budget": 49593798,
+            "FY25_Budget": 52090425,
+            "FY26_Budget": 53836085,
+            "FY27_Dept_Rec": 53836085,
+            "FY27_TM_Rec": 53836085,
+            "FY27_SB_Rec": 53697409,
+            "FY27_FC_Rec": 53998325,
+            "FY27_ATM_Adopt": 53998325
+          }
+        },
+        {
+          "description": "Total Expenditures",
+          "columns": {
+            "FY24_Budget": 46737588,
+            "FY25_Budget": 49593798,
+            "FY26_Budget": 52090425,
+            "FY27_Dept_Rec": 53836085,
+            "FY27_TM_Rec": 53836085,
+            "FY27_SB_Rec": 53697409,
+            "FY27_FC_Rec": 53998325,
+            "FY27_ATM_Adopt": 53998325
+          }
+        }
+      ]
+    },
+    {
+      "section_name": "Vocational Education",
+      "subsection": "Expenditures by Department",
+      "rows": [
+        {
+          "description": "VOCATIONAL EDUCATION",
+          "columns": {
+            "FY25_Budget": 1118000,
+            "FY26_Budget": 1249018,
+            "FY27_ATM_Adopt": 1625701,
+            "FY26_Budget_vs_FY27_ATM_Adopt_Percent_Change": 30.16
+          }
+        },
+        {
+          "description": "Total Expenditures",
+          "columns": {
+            "FY25_Budget": 1118000,
+            "FY26_Budget": 1249018,
+            "FY27_ATM_Adopt": 1625701,
+            "FY26_Budget_vs_FY27_ATM_Adopt_Percent_Change": 30.16
+          }
+        }
+      ]
+    },
+    {
+      "section_name": "Vocational Education",
+      "subsection": "Expenditures by Expense Object Category",
+      "rows": [
+        {
+          "description": "CONTRACTED SERVICES",
+          "columns": {
+            "FY24_Budget": 1059598,
+            "FY25_Budget": 1118000,
+            "FY26_Budget": 1249018,
+            "FY27_Dept_Rec": 1249018,
+            "FY27_TM_Rec": 1249018,
+            "FY27_SB_Rec": 1249018,
+            "FY27_FC_Rec": 1625701,
+            "FY27_ATM_Adopt": 1625701
+          }
+        },
+        {
+          "description": "Total Expenditures",
+          "columns": {
+            "FY24_Budget": 1059598,
+            "FY25_Budget": 1118000,
+            "FY26_Budget": 1249018,
+            "FY27_Dept_Rec": 1249018,
+            "FY27_TM_Rec": 1249018,
+            "FY27_SB_Rec": 1249018,
+            "FY27_FC_Rec": 1625701,
+            "FY27_ATM_Adopt": 1625701
+          }
+        }
+      ]
+    }
+  ]
+}

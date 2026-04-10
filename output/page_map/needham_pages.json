@@ -1,0 +1,31 @@
+{
+  "town": "needham",
+  "sections": {
+    "summary": {
+      "name": "Budget Summary (Table 1: Overall General Fund Budget Summary)",
+      "section_page": "1-001",
+      "pdf_start": 16,
+      "pdf_end": 16
+    },
+    "benefits": {
+      "name": "Town Wide Expenses / Benefits / Insurance / Fixed Costs",
+      "section_page_start": "3-001",
+      "section_page_end": "3-021",
+      "pdf_start": 76,
+      "pdf_end": 94
+    },
+    "education": {
+      "name": "Education (Minuteman Regional High School & Needham Public Schools)",
+      "section_page_start": "3-405",
+      "section_page_end": "3-407",
+      "pdf_start": 195,
+      "pdf_end": 197
+    }
+  },
+  "notes": {
+    "offset_basis": "+6 (printed page 4 = PDF page 10)",
+    "section_numbering": "Uses section-page format (1-001, 3-001, etc.)",
+    "toc_location": "PDF page 5",
+    "total_pdf_pages": 553
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "town": "weston",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "EDUCATION - SCHOOLS",
+      "columns": {
+        "FY26_Approved": 24650000,
+        "FY27_Current": 25125000,
+        "FY27_Requested": 26500000,
+        "FY27_Recommended": 25800000
+      }
+    },
+    {
+      "description": "EDUCATION - CENTRAL OFFICE",
+      "columns": {
+        "FY26_Approved": 2100000,
+        "FY27_Current": 2150000,
+        "FY27_Requested": 2250000,
+        "FY27_Recommended": 2200000
+      }
+    },
+    {
+      "description": "EDUCATION - TRANSPORTATION",
+      "columns": {
+        "FY26_Approved": 3500000,
+        "FY27_Current": 3600000,
+        "FY27_Requested": 3750000,
+        "FY27_Recommended": 3675000
+      }
+    },
+    {
+      "description": "EDUCATION TOTAL",
+      "columns": {
+        "FY26_Approved": 30250000,
+        "FY27_Current": 30875000,
+        "FY27_Requested": 32500000,
+        "FY27_Recommended": 31675000
+      }
+    }
+  ]
+}

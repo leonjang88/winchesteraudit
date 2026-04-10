@@ -1,0 +1,228 @@
+{
+  "town": "belmont",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "section": "Department Summary",
+      "description": "Total 4100 Belmont Public Schools",
+      "columns": {
+        "FY2023_Actual": 56852294,
+        "FY2024_Actual": 63486981,
+        "FY2025_Actual": 66885704,
+        "FY2026_Approp": 70618619,
+        "FY2027_Request": 73997814,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 73997814,
+        "Dollar_Change": 3379195,
+        "Percent_Change": "4.8%"
+      }
+    },
+    {
+      "section": "Department Summary",
+      "description": "Total 4200 Regional Schools",
+      "columns": {
+        "FY2023_Actual": 886383,
+        "FY2024_Actual": 463361,
+        "FY2025_Actual": 263337,
+        "FY2026_Approp": 234580,
+        "FY2027_Request": 327917,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 327917,
+        "Dollar_Change": 93338,
+        "Percent_Change": "39.8%"
+      }
+    },
+    {
+      "section": "Department Summary",
+      "description": "Total Education",
+      "columns": {
+        "FY2023_Actual": 57738677,
+        "FY2024_Actual": 63940342,
+        "FY2025_Actual": 67149041,
+        "FY2026_Approp": 70853199,
+        "FY2027_Request": 74325731,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 74325731,
+        "Dollar_Change": 3472533,
+        "Percent_Change": "4.9%"
+      }
+    },
+    {
+      "section": "Expense Summary",
+      "description": "Compensation",
+      "columns": {
+        "FY2023_Actual": 46017121,
+        "FY2024_Actual": 47945147,
+        "FY2025_Actual": 50905478,
+        "FY2026_Approp": 53338449,
+        "FY2027_Request": 56501954,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 56501954,
+        "Dollar_Change": 3163505,
+        "Percent_Change": "5.9%"
+      }
+    },
+    {
+      "section": "Expense Summary",
+      "description": "Expenses",
+      "columns": {
+        "FY2023_Actual": 11721556,
+        "FY2024_Actual": 15995195,
+        "FY2025_Actual": 16243563,
+        "FY2026_Approp": 17514750,
+        "FY2027_Request": 17823777,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 17823777,
+        "Dollar_Change": 309028,
+        "Percent_Change": "1.8%"
+      }
+    },
+    {
+      "section": "Expense Summary",
+      "description": "Total Education",
+      "columns": {
+        "FY2023_Actual": 57738677,
+        "FY2024_Actual": 63940342,
+        "FY2025_Actual": 67149041,
+        "FY2026_Approp": 70853199,
+        "FY2027_Request": 74325731,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 74325731,
+        "Dollar_Change": 3472533,
+        "Percent_Change": "4.9%"
+      }
+    },
+    {
+      "section": "Belmont Public Schools Budget Summary",
+      "description": "Compensation",
+      "columns": {
+        "FY2023_Actual": 46017121,
+        "FY2024_Actual": 47945147,
+        "FY2025_Actual": 50905478,
+        "FY2026_Approp": 53338449,
+        "FY2027_Request": 56501954,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 56501954,
+        "Dollar_Change": 3163505,
+        "Percent_Change": "5.9%"
+      }
+    },
+    {
+      "section": "Belmont Public Schools Budget Summary",
+      "description": "Expenses",
+      "columns": {
+        "FY2023_Actual": 10835173,
+        "FY2024_Actual": 15541834,
+        "FY2025_Actual": 15980226,
+        "FY2026_Approp": 17280170,
+        "FY2027_Request": 17495860,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 17495860,
+        "Dollar_Change": 215690,
+        "Percent_Change": "1.2%"
+      }
+    },
+    {
+      "section": "Belmont Public Schools Budget Summary",
+      "description": "Total 4100 Belmont Public Schools",
+      "columns": {
+        "FY2023_Actual": 56852294,
+        "FY2024_Actual": 63486981,
+        "FY2025_Actual": 66885704,
+        "FY2026_Approp": 70618619,
+        "FY2027_Request": 73997814,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 73997814,
+        "Dollar_Change": 3379195,
+        "Percent_Change": "4.8%"
+      }
+    },
+    {
+      "section": "Regional Vocational Schools Budget Summary",
+      "description": "Compensation",
+      "columns": {
+        "FY2023_Actual": 0,
+        "FY2024_Actual": 0,
+        "FY2025_Actual": 0,
+        "FY2026_Approp": 0,
+        "FY2027_Request": 0,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 0,
+        "Dollar_Change": 0,
+        "Percent_Change": "—%"
+      }
+    },
+    {
+      "section": "Regional Vocational Schools Budget Summary",
+      "description": "Expenses",
+      "columns": {
+        "FY2023_Actual": 886383,
+        "FY2024_Actual": 463361,
+        "FY2025_Actual": 263337,
+        "FY2026_Approp": 234580,
+        "FY2027_Request": 327917,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 327917,
+        "Dollar_Change": 93338,
+        "Percent_Change": "39.8%"
+      }
+    },
+    {
+      "section": "Regional Vocational Schools Budget Summary",
+      "description": "Total 4200 Regional Schools",
+      "columns": {
+        "FY2023_Actual": 886383,
+        "FY2024_Actual": 463361,
+        "FY2025_Actual": 263337,
+        "FY2026_Approp": 234580,
+        "FY2027_Request": 327917,
+        "TA_Adj": 0,
+        "FY2027_TA_Rec": 327917,
+        "Dollar_Change": 93338,
+        "Percent_Change": "39.8%"
+      }
+    },
+    {
+      "section": "Enrollment Levels",
+      "description": "Minuteman Regional Vocational Technical High School",
+      "columns": {
+        "FY2020": 44,
+        "FY2021": 45,
+        "FY2022": 33,
+        "FY2023": 21,
+        "FY2024": 9,
+        "FY2025": 3,
+        "FY2026": 5,
+        "FY2027": 7
+      }
+    },
+    {
+      "section": "Enrollment Levels",
+      "description": "Medford Vocational Technical High School",
+      "columns": {
+        "FY2020": null,
+        "FY2021": null,
+        "FY2022": 2,
+        "FY2023": 5,
+        "FY2024": 4,
+        "FY2025": 3,
+        "FY2026": 3,
+        "FY2027": 2
+      }
+    },
+    {
+      "section": "Enrollment Levels",
+      "description": "Total Enrollment",
+      "columns": {
+        "FY2020": 44,
+        "FY2021": 45,
+        "FY2022": 35,
+        "FY2023": 26,
+        "FY2024": 13,
+        "FY2025": 6,
+        "FY2026": 8,
+        "FY2027": 9
+      }
+    }
+  ]
+}

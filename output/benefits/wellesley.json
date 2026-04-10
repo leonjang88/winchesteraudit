@@ -1,0 +1,84 @@
+{
+  "town": "wellesley",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Group Health Insurance",
+      "columns": {
+        "amount": 23861043
+      }
+    },
+    {
+      "description": "HSA Contribution",
+      "columns": {
+        "amount": 484000
+      }
+    },
+    {
+      "description": "Town FSA Contribution MATCH",
+      "columns": {
+        "amount": 216450
+      }
+    },
+    {
+      "description": "OPT Out",
+      "columns": {
+        "amount": 405000
+      }
+    },
+    {
+      "description": "Additional Insurance Opt Outs (Dental/Accident)",
+      "columns": {
+        "amount": 75000
+      }
+    },
+    {
+      "description": "Medicare Tax",
+      "columns": {
+        "amount": 1863750
+      }
+    },
+    {
+      "description": "Medicare B Penalty & Refunds",
+      "columns": {
+        "amount": 58000
+      }
+    },
+    {
+      "description": "Group Dental Insurance",
+      "columns": {
+        "amount": 535000
+      }
+    },
+    {
+      "description": "EYEMED",
+      "columns": {
+        "amount": 80000
+      }
+    },
+    {
+      "description": "Life, Ltd, Hospital",
+      "columns": {
+        "amount": 775000
+      }
+    },
+    {
+      "description": "VOYA Fees",
+      "columns": {
+        "amount": 35000
+      }
+    },
+    {
+      "description": "Employee Assistance Plan",
+      "columns": {
+        "amount": 92000
+      }
+    },
+    {
+      "description": "Total Benefits & Insurance",
+      "columns": {
+        "amount": 27263088
+      }
+    }
+  ]
+}

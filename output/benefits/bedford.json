@@ -1,0 +1,50 @@
+{
+  "town": "bedford",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "INSURANCE/BENEFITS",
+      "columns": {
+        "FY25_Budget": 16699243,
+        "FY26_Budget": 18631741,
+        "FY27_ATM_Adopt": 20417451,
+        "FY27_Budget_vs_FY27_ATM_Adopt_Percent_Change": 9.58
+      }
+    },
+    {
+      "description": "Total Expenditures",
+      "columns": {
+        "FY25_Budget": 16699243,
+        "FY26_Budget": 18631741,
+        "FY27_ATM_Adopt": 20417451,
+        "FY27_Budget_vs_FY27_ATM_Adopt_Percent_Change": 9.58
+      }
+    },
+    {
+      "description": "OTHER EXPENSE",
+      "columns": {
+        "FY24_Budget": 14983209,
+        "FY25_Budget": 16699243,
+        "FY26_Budget": 18631741,
+        "FY27_Dept_Rec": 20404951,
+        "FY27_TM_Rec": 20404951,
+        "FY27_SB_Rec": 20404951,
+        "FY27_FC_Rec": 20417451,
+        "FY27_ATM_Adopt": 20417451
+      }
+    },
+    {
+      "description": "Total Expenditures (Expense Object Category)",
+      "columns": {
+        "FY24_Budget": 14983209,
+        "FY25_Budget": 16699243,
+        "FY26_Budget": 18631741,
+        "FY27_Dept_Rec": 20404951,
+        "FY27_TM_Rec": 20404951,
+        "FY27_SB_Rec": 20404951,
+        "FY27_FC_Rec": 20417451,
+        "FY27_ATM_Adopt": 20417451
+      }
+    }
+  ]
+}

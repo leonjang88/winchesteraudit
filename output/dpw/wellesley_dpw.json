@@ -1,0 +1,397 @@
+{
+  "town": "wellesley",
+  "fiscal_year": 2027,
+  "source": "wellesley_depts/public_works.pdf",
+  "departments": [
+    {
+      "name": "DPW Operating Budget (All Funds)",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 9447677,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 17587382,
+          "type": "expense"
+        },
+        {
+          "description": "Winter Maintenance",
+          "amount": 390000,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 9447677,
+        "expenses": 17977382,
+        "total": 27425059
+      }
+    },
+    {
+      "name": "DPW Tax Impact Operating Budget",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 5301875,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 2994907,
+          "type": "expense"
+        },
+        {
+          "description": "Winter Maintenance",
+          "amount": 390000,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 5301875,
+        "expenses": 3384907,
+        "total": 8686782
+      }
+    },
+    {
+      "name": "Engineering Division",
+      "items": [
+        {
+          "description": "Planning & Design",
+          "amount": 126294,
+          "type": "personnel"
+        },
+        {
+          "description": "Survey & Inspection",
+          "amount": 93703,
+          "type": "personnel"
+        },
+        {
+          "description": "Town Plans & GIS",
+          "amount": 56173,
+          "type": "personnel"
+        },
+        {
+          "description": "Vacation/Holiday/Sick",
+          "amount": 43770,
+          "type": "personnel"
+        },
+        {
+          "description": "Administration",
+          "amount": 103276,
+          "type": "personnel"
+        },
+        {
+          "description": "Street Permit Program",
+          "amount": 202558,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others",
+          "amount": 19051,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others - Enterprise",
+          "amount": 27952,
+          "type": "personnel"
+        },
+        {
+          "description": "Enterprise Fund Support",
+          "amount": 55502,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others - Stormwater",
+          "amount": 84052,
+          "type": "personnel"
+        },
+        {
+          "description": "Enterprise Fund Support - Stormwater",
+          "amount": 204277,
+          "type": "personnel"
+        },
+        {
+          "description": "Capital",
+          "amount": 47705,
+          "type": "personnel"
+        },
+        {
+          "description": "Administration Expenses",
+          "amount": 47662,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1064313,
+        "expenses": 47662,
+        "total": 1111975
+      }
+    },
+    {
+      "name": "Highway Division",
+      "items": [
+        {
+          "description": "Street & Sidewalks",
+          "amount": 373101,
+          "type": "personnel"
+        },
+        {
+          "description": "Winter Maintenance",
+          "amount": 117965,
+          "type": "personnel"
+        },
+        {
+          "description": "Vacation/Holiday/Sick",
+          "amount": 213772,
+          "type": "personnel"
+        },
+        {
+          "description": "Administration",
+          "amount": 173707,
+          "type": "personnel"
+        },
+        {
+          "description": "Facilities & Grounds",
+          "amount": 107990,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others (Not Reimbursed)",
+          "amount": 19417,
+          "type": "personnel"
+        },
+        {
+          "description": "Equipment Maintenance",
+          "amount": 156726,
+          "type": "personnel"
+        },
+        {
+          "description": "Street Permit Program",
+          "amount": 0,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others",
+          "amount": 170718,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others - Enterprise",
+          "amount": 58858,
+          "type": "personnel"
+        },
+        {
+          "description": "Enterprise Fund Support",
+          "amount": 90458,
+          "type": "personnel"
+        },
+        {
+          "description": "Work for Others - Stormwater",
+          "amount": 342306,
+          "type": "personnel"
+        },
+        {
+          "description": "Enterprise Fund Support - Stormwater",
+          "amount": 158540,
+          "type": "personnel"
+        },
+        {
+          "description": "Capital",
+          "amount": 390860,
+          "type": "personnel"
+        },
+        {
+          "description": "Street & Sidewalks Expenses",
+          "amount": 115000,
+          "type": "expense"
+        },
+        {
+          "description": "Winter Maintenance Expenses",
+          "amount": 11900,
+          "type": "expense"
+        },
+        {
+          "description": "Administration Expenses",
+          "amount": 61300,
+          "type": "expense"
+        },
+        {
+          "description": "Facilities & Grounds Expenses",
+          "amount": 16000,
+          "type": "expense"
+        },
+        {
+          "description": "Work for Others Expenses",
+          "amount": 0,
+          "type": "expense"
+        },
+        {
+          "description": "Equipment Maintenance Expenses",
+          "amount": 196380,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 2261996,
+        "expenses": 400580,
+        "total": 2662576
+      }
+    },
+    {
+      "name": "Park & Tree Division",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 1710508,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 535720,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1710508,
+        "expenses": 535720,
+        "total": 2246228
+      }
+    },
+    {
+      "name": "Recycling & Disposal Facility (RDF)",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 1407525,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 1943749,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1407525,
+        "expenses": 1943749,
+        "total": 3351274
+      }
+    },
+    {
+      "name": "Management Services Division",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 483345,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 22865,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 483345,
+        "expenses": 22865,
+        "total": 506210
+      }
+    },
+    {
+      "name": "Fleet Maintenance Service Shop",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 227025,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 44331,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 227025,
+        "expenses": 44331,
+        "total": 271356
+      }
+    },
+    {
+      "name": "Winter Maintenance Program",
+      "items": [
+        {
+          "description": "Winter Maintenance",
+          "amount": 390000,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 0,
+        "expenses": 390000,
+        "total": 390000
+      }
+    },
+    {
+      "name": "Sewer Enterprise Fund",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 1012681,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 8037432,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 1012681,
+        "expenses": 8037432,
+        "total": 9050113
+      }
+    },
+    {
+      "name": "Water Enterprise Fund",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 2217746,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 5881146,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 2217746,
+        "expenses": 5881146,
+        "total": 8098892
+      }
+    },
+    {
+      "name": "Stormwater Enterprise Fund",
+      "items": [
+        {
+          "description": "Personal Services",
+          "amount": 915375,
+          "type": "personnel"
+        },
+        {
+          "description": "Expenses",
+          "amount": 673897,
+          "type": "expense"
+        }
+      ],
+      "subtotals": {
+        "personnel": 915375,
+        "expenses": 673897,
+        "total": 1589272
+      }
+    }
+  ]
+}

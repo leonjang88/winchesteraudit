@@ -1,0 +1,51 @@
+{
+  "town": "lexington",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Education (LPS and Minuteman HS)",
+      "columns": {
+        "FY2026": 146033333,
+        "FY2027 Recommended": 151729248,
+        "$ Change": 5695915,
+        "% Change": 3.9
+      }
+    },
+    {
+      "description": "Shared Expenses",
+      "columns": {
+        "FY2026": 74520313,
+        "FY2027 Recommended": 77370779,
+        "$ Change": 2850466,
+        "% Change": 3.8
+      }
+    },
+    {
+      "description": "Municipal Departments",
+      "columns": {
+        "FY2026": 50595276,
+        "FY2027 Recommended": 53263105,
+        "$ Change": 2667829,
+        "% Change": 5.3
+      }
+    },
+    {
+      "description": "Cash Capital",
+      "columns": {
+        "FY2026": 15524316,
+        "FY2027 Recommended": 19838585,
+        "$ Change": 4314269,
+        "% Change": 27.8
+      }
+    },
+    {
+      "description": "Total - General Fund",
+      "columns": {
+        "FY2026": 313148968,
+        "FY2027 Recommended": 321534276,
+        "$ Change": 8385308,
+        "% Change": 2.7
+      }
+    }
+  ]
+}

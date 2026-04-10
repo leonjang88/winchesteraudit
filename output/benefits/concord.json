@@ -1,0 +1,130 @@
+{
+  "town": "concord",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "JOINT ACCOUNTS - BENEFITS & INSURANCE",
+      "columns": {}
+    },
+    {
+      "description": "Group Insurance",
+      "columns": {
+        "FY25_Approved": 8000000,
+        "FY26_Approved": 9405564,
+        "FY27_Proposed": 10097630
+      }
+    },
+    {
+      "description": "Property/Liability Insurance",
+      "columns": {
+        "FY25_Approved": 539412,
+        "FY26_Approved": 637087,
+        "FY27_Proposed": 701151
+      }
+    },
+    {
+      "description": "Unemployment",
+      "columns": {
+        "FY25_Approved": 140760,
+        "FY26_Approved": 143575,
+        "FY27_Proposed": 143575
+      }
+    },
+    {
+      "description": "Worker's Compensation",
+      "columns": {
+        "FY25_Approved": 176149,
+        "FY26_Approved": 193764,
+        "FY27_Proposed": 276175
+      }
+    },
+    {
+      "description": "Medicare",
+      "columns": {
+        "FY25_Approved": 1028735,
+        "FY26_Approved": 905172,
+        "FY27_Proposed": 941379
+      }
+    },
+    {
+      "description": "Retirement Assessment, General Fund",
+      "columns": {
+        "FY25_Approved": 4349746,
+        "FY26_Approved": 3584157,
+        "FY27_Proposed": 3727523
+      }
+    },
+    {
+      "description": "Retirement Assessment, Pension Reserve",
+      "columns": {
+        "FY25_Approved": 1650000,
+        "FY26_Approved": 1567124,
+        "FY27_Proposed": 1618041
+      }
+    },
+    {
+      "description": "Debt Service, Within Levy Limit",
+      "columns": {
+        "FY25_Approved": 3576699,
+        "FY26_Approved": 4707036,
+        "FY27_Proposed": 3955051
+      }
+    },
+    {
+      "description": "Town Principal & Interest",
+      "columns": {
+        "FY25_Approved": 806651,
+        "FY26_Approved": 861510,
+        "FY27_Proposed": 723346
+      }
+    },
+    {
+      "description": "CPS Principal & Interest",
+      "columns": {
+        "FY25_Approved": 0,
+        "FY26_Approved": 0,
+        "FY27_Proposed": 0
+      }
+    },
+    {
+      "description": "Interest on Short-Term Notes",
+      "columns": {
+        "FY25_Approved": 70000,
+        "FY26_Approved": 0,
+        "FY27_Proposed": 35000
+      }
+    },
+    {
+      "description": "Debt Service, Excluded from Levy Limit",
+      "columns": {
+        "FY25_Approved": 303794,
+        "FY26_Approved": 295294,
+        "FY27_Proposed": 937851
+      }
+    },
+    {
+      "description": "Town Principal & Interest",
+      "columns": {
+        "FY25_Approved": 303794,
+        "FY26_Approved": 295294,
+        "FY27_Proposed": 937851
+      }
+    },
+    {
+      "description": "DPS Principal & Interest",
+      "columns": {
+        "FY25_Approved": 6286880,
+        "FY26_Approved": 7670889,
+        "FY27_Proposed": 7653884
+      }
+    },
+    {
+      "description": "Total Benefits & Insurance",
+      "columns": {
+        "FY25_Approved": 26928826,
+        "FY26_Approved": 29951172,
+        "FY27_Proposed": 30810606
+      }
+    }
+  ]
+}

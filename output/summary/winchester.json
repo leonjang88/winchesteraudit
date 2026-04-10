@@ -1,0 +1,62 @@
+{
+  "town": "winchester",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "TOTAL TAX REVENUE",
+      "columns": {
+        "FY25_ACTUAL": 125773582,
+        "FY26_BUDGET": 131238062,
+        "FY27_PROJECTION": 133424795
+      }
+    },
+    {
+      "description": "TOTAL STATE REVENUE",
+      "columns": {
+        "FY25_ACTUAL": 12677768,
+        "FY26_BUDGET": 13436484,
+        "FY27_PROJECTION": 13800793
+      }
+    },
+    {
+      "description": "TOTAL LOCAL RECEIPTS",
+      "columns": {
+        "FY25_ACTUAL": 14054439,
+        "FY26_BUDGET": 11338000,
+        "FY27_PROJECTION": 12671000
+      }
+    },
+    {
+      "description": "TOTAL STABILIZATION TRANSFERS IN",
+      "columns": {
+        "FY25_ACTUAL": 8700194,
+        "FY26_BUDGET": 7119183,
+        "FY27_PROJECTION": 1441453
+      }
+    },
+    {
+      "description": "TOTAL OTHER TRANSFERS IN",
+      "columns": {
+        "FY25_ACTUAL": 3547632,
+        "FY26_BUDGET": 3089599,
+        "FY27_PROJECTION": 2642676
+      }
+    },
+    {
+      "description": "TOTAL FUND BALANCE AND FREE CASH",
+      "columns": {
+        "FY25_ACTUAL": 4838246,
+        "FY26_BUDGET": 4884236,
+        "FY27_PROJECTION": 5752322
+      }
+    },
+    {
+      "description": "TOTAL REVENUES",
+      "columns": {
+        "FY25_ACTUAL": 169591861,
+        "FY26_BUDGET": 171105504,
+        "FY27_PROJECTION": 171733429
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "town": "weston",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "GENERAL FUND",
+      "columns": {}
+    },
+    {
+      "description": "SELECTMEN",
+      "columns": {
+        "FY26_Approved": 12100,
+        "FY27_Current": 12500,
+        "FY27_Requested": 13000,
+        "FY27_Recommended": 12750
+      }
+    },
+    {
+      "description": "EXECUTIVE SECRETARY",
+      "columns": {
+        "FY26_Approved": 52000,
+        "FY27_Current": 53500,
+        "FY27_Requested": 55000,
+        "FY27_Recommended": 54000
+      }
+    },
+    {
+      "description": "TOWN ACCOUNTANT",
+      "columns": {
+        "FY26_Approved": 45000,
+        "FY27_Current": 46500,
+        "FY27_Requested": 48000,
+        "FY27_Recommended": 47000
+      }
+    },
+    {
+      "description": "ASSESSOR",
+      "columns": {
+        "FY26_Approved": 38500,
+        "FY27_Current": 40000,
+        "FY27_Requested": 41500,
+        "FY27_Recommended": 40500
+      }
+    },
+    {
+      "description": "TREASURER/COLLECTOR",
+      "columns": {
+        "FY26_Approved": 55000,
+        "FY27_Current": 57000,
+        "FY27_Requested": 59000,
+        "FY27_Recommended": 58000
+      }
+    },
+    {
+      "description": "TOWN COUNSEL",
+      "columns": {
+        "FY26_Approved": 35000,
+        "FY27_Current": 36000,
+        "FY27_Requested": 37500,
+        "FY27_Recommended": 36500
+      }
+    },
+    {
+      "description": "TOWN CLERK",
+      "columns": {
+        "FY26_Approved": 42000,
+        "FY27_Current": 43500,
+        "FY27_Requested": 45000,
+        "FY27_Recommended": 44000
+      }
+    },
+    {
+      "description": "PLANNING & ZONING",
+      "columns": {
+        "FY26_Approved": 28000,
+        "FY27_Current": 29000,
+        "FY27_Requested": 30500,
+        "FY27_Recommended": 29500
+      }
+    },
+    {
+      "description": "BOARD OF HEALTH",
+      "columns": {
+        "FY26_Approved": 18500,
+        "FY27_Current": 19000,
+        "FY27_Requested": 20000,
+        "FY27_Recommended": 19500
+      }
+    },
+    {
+      "description": "GENERAL GOVERNMENT TOTAL",
+      "columns": {
+        "FY26_Approved": 326100,
+        "FY27_Current": 337500,
+        "FY27_Requested": 349500,
+        "FY27_Recommended": 342000
+      }
+    },
+    {
+      "description": "EDUCATION - SCHOOLS",
+      "columns": {
+        "FY26_Approved": 24650000,
+        "FY27_Current": 25125000,
+        "FY27_Requested": 26500000,
+        "FY27_Recommended": 25800000
+      }
+    },
+    {
+      "description": "EDUCATION - CENTRAL OFFICE",
+      "columns": {
+        "FY26_Approved": 2100000,
+        "FY27_Current": 2150000,
+        "FY27_Requested": 2250000,
+        "FY27_Recommended": 2200000
+      }
+    },
+    {
+      "description": "EDUCATION - TRANSPORTATION",
+      "columns": {
+        "FY26_Approved": 3500000,
+        "FY27_Current": 3600000,
+        "FY27_Requested": 3750000,
+        "FY27_Recommended": 3675000
+      }
+    },
+    {
+      "description": "EDUCATION TOTAL",
+      "columns": {
+        "FY26_Approved": 30250000,
+        "FY27_Current": 30875000,
+        "FY27_Requested": 32500000,
+        "FY27_Recommended": 31675000
+      }
+    },
+    {
+      "description": "PUBLIC SAFETY - POLICE",
+      "columns": {
+        "FY26_Approved": 3850000,
+        "FY27_Current": 3975000,
+        "FY27_Requested": 4150000,
+        "FY27_Recommended": 4050000
+      }
+    },
+    {
+      "description": "PUBLIC SAFETY - FIRE",
+      "columns": {
+        "FY26_Approved": 2750000,
+        "FY27_Current": 2850000,
+        "FY27_Requested": 3000000,
+        "FY27_Recommended": 2925000
+      }
+    },
+    {
+      "description": "PUBLIC SAFETY - DPW",
+      "columns": {
+        "FY26_Approved": 2350000,
+        "FY27_Current": 2425000,
+        "FY27_Requested": 2550000,
+        "FY27_Recommended": 2475000
+      }
+    },
+    {
+      "description": "PUBLIC LIBRARY",
+      "columns": {
+        "FY26_Approved": 1400000,
+        "FY27_Current": 1450000,
+        "FY27_Requested": 1525000,
+        "FY27_Recommended": 1475000
+      }
+    },
+    {
+      "description": "DEBT SERVICE",
+      "columns": {
+        "FY26_Approved": 1850000,
+        "FY27_Current": 1900000,
+        "FY27_Requested": 1950000,
+        "FY27_Recommended": 1925000
+      }
+    },
+    {
+      "description": "BENEFITS & INSURANCE",
+      "columns": {
+        "FY26_Approved": 4200000,
+        "FY27_Current": 4350000,
+        "FY27_Requested": 4550000,
+        "FY27_Recommended": 4450000
+      }
+    },
+    {
+      "description": "TOTAL BUDGET",
+      "columns": {
+        "FY26_Approved": 47575100,
+        "FY27_Current": 48762500,
+        "FY27_Requested": 50974500,
+        "FY27_Recommended": 49467000
+      }
+    }
+  ]
+}

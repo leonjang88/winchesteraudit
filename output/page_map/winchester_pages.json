@@ -1,0 +1,28 @@
+{
+  "town": "winchester",
+  "sections": {
+    "summary": {
+      "pdf_start": 10,
+      "pdf_end": 11,
+      "description": "Budget Summary table with all department totals (Revenues & Expenses overview)",
+      "confirmation": "PDF pages 10-11 contain comprehensive revenue table with TAX REVENUE, STATE REVENUE, LOCAL RECEIPTS, STABILIZATION TRANSFERS, OTHER TRANSFERS, and FUND BALANCE sections, plus Expenses table with GENERAL GOVERNMENT, CULTURE, HEALTH/SOCIAL, PUBLIC SAFETY, PUBLIC WORKS, EDUCATION categories and totals"
+    },
+    "education": {
+      "pdf_start": 80,
+      "pdf_end": 81,
+      "description": "Education section with detailed line items and budget narratives",
+      "confirmation": "PDF page 80 begins with Winchester Public Schools letter and Budget Framework, includes Table 1 (School Committee Adopted Budget Override) with Personnel/Other Expenses/Total Budget detail. PDF page 81 continues with WPS Level Services Budget Table 2 and enrollment chart"
+    },
+    "benefits": {
+      "pdf_start": 86,
+      "pdf_end": 89,
+      "description": "Undistributed / Fixed Costs / Benefits & Insurance section",
+      "confirmation": "PDF page 86 begins with Energy line-item detail table. PDF pages 87-89 contain Personnel Benefits (Contributory Retirement, Workers Compensation, Unemployment Compensation, Health Insurance, FICA & Medicare Tax) and Miscellaneous (Reserve Fund, General Insurance)"
+    }
+  },
+  "metadata": {
+    "total_pages": 124,
+    "toc_page": 1,
+    "offset_note": "Printed page = PDF page - 3 (printed page 7 corresponds to PDF page 10)"
+  }
+}

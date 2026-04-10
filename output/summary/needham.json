@@ -1,0 +1,84 @@
+{
+  "town": "needham",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Property Tax",
+      "columns": {
+        "FY2027_Proposed": 210851930
+      }
+    },
+    {
+      "description": "State Aid",
+      "columns": {
+        "FY2027_Proposed": 17541825
+      }
+    },
+    {
+      "description": "Local Receipts",
+      "columns": {
+        "FY2027_Proposed": 17335000
+      }
+    },
+    {
+      "description": "Free Cash for Deficit",
+      "columns": {
+        "FY2027_Proposed": 4458542
+      }
+    },
+    {
+      "description": "Other Funds",
+      "columns": {
+        "FY2027_Proposed": 819325
+      }
+    },
+    {
+      "description": "Reimbursements",
+      "columns": {
+        "FY2027_Proposed": 2289221
+      }
+    },
+    {
+      "description": "Total Sources",
+      "columns": {
+        "FY2027_Proposed": 264563823
+      }
+    },
+    {
+      "description": "Operating Budget",
+      "columns": {
+        "FY2027_Proposed": 247101465
+      }
+    },
+    {
+      "description": "Financial Warrant Articles",
+      "columns": {
+        "FY2027_Proposed": 1830000
+      }
+    },
+    {
+      "description": "Capital Budget",
+      "columns": {
+        "FY2027_Proposed": 8997405
+      }
+    },
+    {
+      "description": "Other Appropriations",
+      "columns": {
+        "FY2027_Proposed": 2129237
+      }
+    },
+    {
+      "description": "Other Amounts to be Raised",
+      "columns": {
+        "FY2027_Proposed": 4305716
+      }
+    },
+    {
+      "description": "Total Uses",
+      "columns": {
+        "FY2027_Proposed": 264563823
+      }
+    }
+  ]
+}

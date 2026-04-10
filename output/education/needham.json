@@ -1,0 +1,44 @@
+{
+  "town": "needham",
+  "fiscal_year": 2027,
+  "rows": [
+    {
+      "description": "Needham Public Schools - Municipal Information Technology",
+      "line_number": 22,
+      "columns": {
+        "FY2025_Expended": 1904283,
+        "FY2026_As_of_November_1_2025": 2510774,
+        "FY2027_Total_Request": 2826361,
+        "Change_from_FY2026": 315587,
+        "Percent_Change": 12.6
+      }
+    },
+    {
+      "description": "Needham Public Schools",
+      "line_number": 21,
+      "columns": {
+        "FY2025_Expended": 96758885,
+        "FY2026_As_of_November_1_2025": 102078656,
+        "FY2027_Total_Request": 106130538,
+        "Change_from_FY2026": 4051882,
+        "Percent_Change": 4.0
+      }
+    },
+    {
+      "description": "Minuteman Regional High School Assessment",
+      "line_number": 20,
+      "columns": {
+        "FY2025_Expended": 1823777,
+        "FY2026_As_of_November_1_2025": 1823777,
+        "FY2027_Total_Request": 1823777,
+        "Change_from_FY2026": 0,
+        "Percent_Change": 0.0
+      }
+    }
+  ],
+  "summary": {
+    "total_education_budget_fy2027": 110780415,
+    "total_change_from_fy2026": 4051882,
+    "note": "Data extracted from FY2027 Needham Budget document. Needham Public Schools budget increased 4.0% over FY2026. Municipal IT (supporting schools) increased 12.6%. Minuteman Regional High School Assessment level funded."
+  }
+}
