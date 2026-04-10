@@ -89,7 +89,7 @@ def run_validate(town: str) -> int:
         ).fetchone()[0]
         if neg_count > 0:
             # Check if negatives are known contra patterns (Tax Levy, offsets)
-            _CONTRA_PATTERNS = ("LEVY", "OFFSET", "LUHD", "CREDIT", "TRANSFER")
+            _CONTRA_PATTERNS = ("LEVY", "OFFSET", "LUHD", "CREDIT", "TRANSFER", "PAYMENT", "FUNDING", "MITIGATION")
             contra_count = conn.execute(
                 """SELECT COUNT(*) FROM line_items
                    WHERE town_id = ? AND amount < 0 AND ("""
