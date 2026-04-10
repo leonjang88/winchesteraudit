@@ -147,3 +147,42 @@ None of this changes total spending — it just reclassifies it. But it would ma
 5. **Health insurance is the controllable cost.** At $825/capita (highest of comps), health insurance is where Winchester has room to find efficiencies — especially school employee coverage at $9.3M.
 
 6. **Long-term, new growth matters most.** Towns that grow their tax base through development can fund education increases without overrides. Winchester's new growth rate relative to comps is worth investigating.
+
+---
+
+## Appendix: Education Budget Comparison Detail (FY27)
+
+### Winchester vs Lexington — The Best Direct Comp
+
+| Metric | Winchester | Lexington | Gap |
+|--------|-----------|----------|-----|
+| Total school budget | $76.3M | $151.7M | -$75.4M |
+| Enrollment | 4,341 | 6,524 | -2,183 |
+| Per student | $17,570 | $23,196 | -$5,626 |
+| Personnel % | 88% | 87% | ~same |
+| FTEs | not published | 1,214 | — |
+| FTE/student ratio | ? | 1:5.4 | — |
+| Special Ed | not broken out | $24.9M (16%) | — |
+| YoY growth | 8.31% (override) | 3.9% | — |
+| Budget contingency | Override vote required | Within levy | — |
+
+**Key insight:** The personnel split is almost identical (88% vs 87%). The gap isn't about *how* the money is spent — it's about *how much* there is. Lexington simply has $5,626 more per student to work with.
+
+**Lexington's education breakdown (FY27):**
+- 6 elementary schools: ~$42.8M
+- 2 middle schools: ~$20.1M
+- 1 high school: $26.6M
+- Special education: $24.9M (including $8.7M out-of-district)
+- Central services: $9.0M
+- 1,214 FTEs (down 42 from FY26, -3.3%)
+
+**Needham's education (FY27):** $106.2M, 93% personnel. 40% of total town budget.
+
+### Student-to-Population Ratio: Winchester = Lexington
+
+| Town | Students | Population | Ratio | Per-Student Spend |
+|------|---------|-----------|-------|------------------|
+| Lexington | 6,524 | 33,882 | 19.3% | $23,196 |
+| **Winchester** | **4,341** | **22,837** | **19.0%** | **$17,570** |
+
+These towns have essentially the same student burden relative to population. The spending gap is pure dollars — not demographics.
