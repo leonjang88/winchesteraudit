@@ -4,7 +4,7 @@ school_ranking: "A+"
 budget_url: "https://lexingtonma.gov/DocumentCenter/View/14008"
 
 metrics:
-  2026:
+  2027:
     population: 34459
     households: 13414
     median_household_income: 180000
@@ -20,11 +20,11 @@ extraction:
   has_account_codes: false
   department_header: "page_top_large_font"
   columns:
-    "FY2023 ACTUAL": { fiscal_year: 2023, type: actual }
     "FY2024 ACTUAL": { fiscal_year: 2024, type: actual }
-    "FY2025 APPROPRIATION": { fiscal_year: 2025, type: appropriation }
-    "FY2025 REVISED": { fiscal_year: 2025, type: revised }
-    "FY2025 ESTIMATE": { fiscal_year: 2025, type: estimate }
-    "FY2026 RECOMMENDED": { fiscal_year: 2026, type: recommended }
-    "FY2026 PROJECTED": { fiscal_year: 2026, type: projected }
+    "FY2025 ACTUAL": { fiscal_year: 2025, type: actual }
+    "FY2026 APPROPRIATION": { fiscal_year: 2026, type: appropriation }
+    "FY2026 REVISED": { fiscal_year: 2026, type: revised }
+    "FY2026 ESTIMATE": { fiscal_year: 2026, type: estimate }
+    "FY2027 RECOMMENDED": { fiscal_year: 2027, type: recommended }
+    "FY2027 PROJECTED": { fiscal_year: 2027, type: projected }
   subtotal_patterns: ["Total", "Subtotal"]
