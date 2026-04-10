@@ -1,0 +1,53 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Winchester,Education,Schools,70004563,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,FY26 Manager column
+Winchester,Education,Vocational School,378132,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,FY26 Manager column
+Winchester,Education,Total Education,70382695,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Schools + Vocational School
+Winchester,Public Safety,Police Department,6660505,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 2110
+Winchester,Public Safety,Fire Department,7367194,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 2210
+Winchester,Public Safety,Sealer of Weights,11250,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 2420
+Winchester,Public Safety,Total Public Safety,14038949,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Police + Fire + Sealer of Weights
+Winchester,Public Works,DPW,9558058,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 4100
+Winchester,Public Works,Snow and Ice,500000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 4171
+Winchester,Public Works,Total Public Works,10058058,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,DPW + Snow and Ice
+Winchester,Health Insurance,Health Insurance,16693286,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9140
+Winchester,Health Insurance,Total Health Insurance,16693286,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Single line item
+Winchester,Pension/Retirement,Contributory Retirement,7462210,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9110
+Winchester,Pension/Retirement,Total Pension/Retirement,7462210,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Single line item
+Winchester,Debt Service,Funded Debt Principal,7435680,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 1711
+Winchester,Debt Service,Interest on Funded Debt,7574028,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 1712
+Winchester,Debt Service,Total Debt Service,15009708,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Funded Debt + Interest
+Winchester,General Government,Total General Government,6861072,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,16 line items including Town Manager; Finance Committee; Comptroller; Assessor; Treasurer/Collector; Audit; Engineering; Building; Conservation; Planning Board; Legal; Human Resources/ADA; IT; General Services; Town Clerk
+Winchester,General Government,Building,638653,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 1413 within General Government
+Winchester,Library,Library,2574894,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 6110
+Winchester,Library,Total Library,2574894,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Single line item
+Winchester,Health & Human Services,Health,554088,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 5110
+Winchester,Health & Human Services,Council on Aging,489417,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 5410
+Winchester,Health & Human Services,Veterans Services,55623,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 5420
+Winchester,Health & Human Services,Total Health & Human Services,1099128,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Health + Council on Aging + Veterans
+Winchester,Culture & Recreation,Archival Center,25107,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 6940
+Winchester,Culture & Recreation,Historical Commission,15500,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Line 6941
+Winchester,Culture & Recreation,Total Culture & Recreation,40607,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,12,Archival Center + Historical Commission; excludes Library
+Winchester,Capital,Current Year Expenditures,15109708,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Capital sub-total
+Winchester,Capital,Capital Fund Transfers,7415872,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Capital fund transfers sub-total
+Winchester,Capital,Total Capital,22525580,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Current Year Expenditures + Capital Fund Transfers
+Winchester,Other Insurance,Workers Comp,390000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9120
+Winchester,Other Insurance,General Insurance,715000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9450
+Winchester,Other Insurance,Medicare Tax,1306463,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9150
+Winchester,Other Insurance,GASB OPEB Fund,0,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9623; $0 in FY26 Manager but $350000 in FY26 Request
+Winchester,Other Insurance,Unemployment Comp,100000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 9130
+Winchester,Other Insurance,Total Other Insurance,2197069,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Workers Comp + General Insurance + Medicare + OPEB ($0) + Unemployment; OPEB shows $0 in FY26 Manager
+Winchester,Enterprise,Water and Sewer,5024008,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Under OTHER section
+Winchester,Enterprise,Total Enterprise,5024008,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Water and Sewer transfer
+Winchester,Energy,Energy,2234456,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Line 1910
+Winchester,Energy,Total Energy,2234456,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Single line item
+Winchester,Other/Misc,State Assessments,675560,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Non-Appropriated
+Winchester,Other/Misc,Allowance for Abatements/Overlay,313288,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Non-Appropriated
+Winchester,Other/Misc,Cherry Sheet Offsets,55561,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Non-Appropriated
+Winchester,Other/Misc,Reserve Fund,400000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Appropriated
+Winchester,Other/Misc,Environmental Remediation,54000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Appropriated
+Winchester,Other/Misc,Recreation General Fund Subsidy,175000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Under OTHER section
+Winchester,Other/Misc,Transfer to Cultural Council,10000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Under OTHER section
+Winchester,Other/Misc,Other Special Article Appropriations,15000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Under OTHER section
+Winchester,Other/Misc,Capital/Strategic Maintenance from Free Cash,100000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,Under OTHER section
+Winchester,Other/Misc,Unallocated Expenses,700000,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,From gross expenses total
+Winchester,Other/Misc,Total Other/Misc,3272477,https://www.winchester.us/ArchiveCenter/ViewFile/Item/260,13,State Assessments + Overlay + Cherry Sheet Offsets + Reserve Fund + Environmental Remediation + Recreation Subsidy + Cultural Council + Special Articles + Strategic Maintenance; excludes Unallocated Expenses

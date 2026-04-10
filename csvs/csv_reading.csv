@@ -1,0 +1,55 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Reading,Education,U99 School Department,58491591,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Education,E99 Education-Vocational,1317435,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Education,TOTAL,59808591,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,U99 + E99 (note: E99 listed as $1317435 in source data)
+Reading,Public Safety,J91 Public Safety Wages,14277839,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Safety,J92 Public Safety Expenses,792208,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Safety,TOTAL,15070047,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,J91 + J92
+Reading,Public Works,K91 Public Works Wages,3375650,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Works,K92 Public Works Expenses,1048135,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Works,K93 Snow & Ice,675000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Works,K94 Street Lights,135000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Works,K95 Rubbish,2200041,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Public Works,TOTAL,7433826,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,K91+K92+K93+K94+K95
+Reading,Health Insurance,B7 Group Health/Life Insurance,15110654,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Health Insurance,TOTAL,15110654,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,B7 only
+Reading,Pension/Retirement,B1 Contributory Retirement,7763648,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Pension/Retirement,TOTAL,7763648,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,B1 only
+Reading,Debt Service,D99 Debt Service,3051975,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,Inside levy; excluded debt $0 in FY26
+Reading,Debt Service,TOTAL,3051975,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,D99 total
+Reading,General Government,G91 Admin Svcs Wages,1266300,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,General Government,G92 Admin Svcs Expenses,1685468,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,General Government,I91 Finance Wages,1123600,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,General Government,I92 Finance Expenses,151600,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,General Government,TOTAL,4226968,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,G91+G92+I91+I92
+Reading,Library,L91 Library Wages,1810050,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Library,L92 Library Expenses,450000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Library,TOTAL,2260050,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,L91+L92
+Reading,Health & Human Services,H91 Public Services Wages,1532034,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Health & Human Services,H92 Public Services Expenses,313928,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Health & Human Services,TOTAL,1845962,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,H91+H92
+Reading,Culture & Recreation,Community Priorities,150000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,Line K on Accommodated Costs; FY26 projected $150000
+Reading,Culture & Recreation,TOTAL,150000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,No standalone dept; Community Priorities is closest proxy
+Reading,Facilities,M91 Core Facilities,4072432,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Facilities,M92 Town Buildings,389936,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Facilities,TOTAL,4462368,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,M91+M92
+Reading,Capital,C99 Capital,3398000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,FY26 Finance Committee recommended
+Reading,Capital,TOTAL,3398000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,C99 total
+Reading,Other Insurance,B5 Workers Comp,405000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Other Insurance,B3 OBRA Fees & OPEB Study,40000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Other Insurance,B9 Police/Fire Indemnification,130000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Other Insurance,B8 Medicare/Social Security,1060800,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From B99 Benefits breakdown
+Reading,Other Insurance,F1 Casualty Insurance,1011368,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From F99 Financial section
+Reading,Other Insurance,F2 Vets Assistance,125000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From F99 Financial section
+Reading,Other Insurance,TOTAL,2772168,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,B5+B3+B9+B8+F1+F2
+Reading,Enterprise,W99 Water,8683575,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Enterprise,X99 Sewer,8734796,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Enterprise,Y99 Storm Water,581625,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Enterprise,Z99 PEG,519000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Enterprise,ZZ9 Landfill,37000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Enterprise,TOTAL,18555996,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,W99+X99+Y99+Z99+ZZ9
+Reading,Other/Misc,F3 FINCOM Reserve,200000,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,19,From F99 section; F1 and F2 counted under Other Insurance
+Reading,Other/Misc,State Assessments,954007,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Other/Misc,G91a Technology Wages,539100,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Other/Misc,G92a Technology Expenses,759300,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,FY26 Finance Committee recommended
+Reading,Other/Misc,TOTAL,2452407,https://www.readingma.gov/DocumentCenter/View/16813/Fiscal-Year-2026-Budget---Town--Schools-PDF,20,F3+State Assessments+G91a+G92a

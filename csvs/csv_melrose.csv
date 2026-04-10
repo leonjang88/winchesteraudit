@@ -1,0 +1,66 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Melrose,General Government,City Council,84595,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,1,Dept 112
+Melrose,General Government,Mayor,393226,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,2,Dept 121
+Melrose,General Government,Auditor,500987,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,3,Dept 135
+Melrose,General Government,Assessors,381562,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,4,Dept 141
+Melrose,General Government,Treasurer/Collector,543944,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,5,Dept 145
+Melrose,General Government,City Solicitor,1203470,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,6,Dept 151
+Melrose,General Government,Human Resources,165180,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,7,Dept 152
+Melrose,General Government,Information Technology,1083569,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,8,Dept 155
+Melrose,General Government,City Clerk,340587,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,9,Dept 161
+Melrose,General Government,Election/Registrar,113769,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,10,Dept 162
+Melrose,General Government,Liquor Commission,2000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,11,Dept 165
+Melrose,General Government,Conservation,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,12,Dept 171
+Melrose,General Government,Planning & Community Development,397842,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,13,Dept 175
+Melrose,General Government,TOTAL,5210731,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,13,Sum of Depts 112-175
+Melrose,Public Safety,Police,6037104,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,14,Dept 211
+Melrose,Public Safety,Fire,5989801,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,16,Dept 221
+Melrose,Public Safety,Inspection Services,422665,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,18,Dept 241
+Melrose,Public Safety,Emergency Management,10000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,19,Dept 291
+Melrose,Public Safety,Parking,69681,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,19,Dept 296
+Melrose,Public Safety,TOTAL,12529251,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,19,Sum of Depts 211-296
+Melrose,Education,School Department,42523875,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,20,Dept 300
+Melrose,Education,Regional School Assessment,2171147,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,21,Dept 399 - Northeast Metro Regional Vocational
+Melrose,Education,TOTAL,44695022,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,21,Sum of Depts 300+399
+Melrose,Public Works,PW Administration/Engineering,822785,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,22,Dept 401
+Melrose,Public Works,PW Facility Maintenance,4675050,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,23,Dept 402 - includes school custodians and building utilities
+Melrose,Public Works,Public Works Highway,737316,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,25,Dept 422
+Melrose,Public Works,Public Works Snow Removal,743125,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,26,Dept 423
+Melrose,Public Works,Public Works Solid Waste/Sanitation,221655,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,27,Dept 433
+Melrose,Public Works,PW Park & Forestry,880367,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,28,Dept 475
+Melrose,Public Works,PW Automotive,441153,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,29,Dept 485
+Melrose,Public Works,Cemetery,196944,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,30,Dept 491
+Melrose,Public Works,TOTAL,8718395,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,30,Sum of Depts 401-491
+Melrose,Health & Human Services,Health,1350016,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,31,Dept 511
+Melrose,Health & Human Services,Council on Aging,265361,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,34,Dept 541
+Melrose,Health & Human Services,Women's Commission,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,35,Dept 542
+Melrose,Health & Human Services,Veterans,256606,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,36,Dept 543
+Melrose,Health & Human Services,Human Rights,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,37,Dept 544
+Melrose,Health & Human Services,Disability Commission,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,37,Dept 545
+Melrose,Health & Human Services,TOTAL,1871983,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,37,Sum of Depts 511-545
+Melrose,Culture & Recreation,Beebe Estate,7900,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,32,Dept 540
+Melrose,Culture & Recreation,Recreation,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,39,Dept 631
+Melrose,Culture & Recreation,Pine Banks,635820,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,40,Dept 652
+Melrose,Culture & Recreation,Memorial Building,215937,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,41,Dept 693
+Melrose,Culture & Recreation,TOTAL,859657,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,41,Sum of Depts 540+631+652+693
+Melrose,Library,Library,1261400,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,38,Dept 611
+Melrose,Library,TOTAL,1261400,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,38,Dept 611
+Melrose,Debt Service,Municipal Debt,4143010,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,43,Dept 711
+Melrose,Debt Service,Municipal Debt Interest,1632445,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,44,Dept 751
+Melrose,Debt Service,Projected Debt & Temp Interest,380300,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,45,Dept 752
+Melrose,Debt Service,TOTAL,6155755,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,45,Sum of Depts 711+751+752
+Melrose,Other/Misc,Intergov Cherry Sheet,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,46,Dept 800 - Charter School Tuition Assessment
+Melrose,Pension/Retirement,Pension,7620971,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,47,Dept 911
+Melrose,Pension/Retirement,TOTAL,7620971,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,47,Dept 911
+Melrose,Other Insurance,Worker's Compensation,454000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,48,Dept 912
+Melrose,Other Insurance,Unemployment,411000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,49,Dept 913
+Melrose,Other Insurance,TOTAL,865000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,49,Sum of Depts 912+913
+Melrose,Health Insurance,Employee Benefits,16531020,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,50,Dept 914 - health/life/dental insurance
+Melrose,Health Insurance,Medicare Tax City Portion,1005581,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,51,Dept 916
+Melrose,Health Insurance,TOTAL,17536601,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,51,Sum of Depts 914+916
+Melrose,Capital,Departmental Equipment,151036,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,52,Dept 930
+Melrose,Capital,Capital Outlay,0,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,53,Dept 931
+Melrose,Capital,TOTAL,151036,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,53,Sum of Depts 930+931
+Melrose,Other/Misc,Stabilization Funds,100000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,54,Dept 942
+Melrose,Other/Misc,TOTAL,100000,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,54,Sum of Depts 800+942; Cherry Sheet is $0
+Melrose,Other/Misc,GRAND TOTAL,107575802,https://www.cityofmelrose.org/DocumentCenter/View/1645/FY-2026-Operating-Budget-PDF,55,General Fund Budget Total - all categories sum to this

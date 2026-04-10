@@ -1,0 +1,96 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Lexington,Education,Lexington Public Schools,146033333,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 1000 line 1100
+Lexington,Education,Minuteman Regional High School,3606312,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 1000 line 1200
+Lexington,Education,TOTAL Education,149639645,https://lexingtonma.gov/DocumentCenter/View/14008,30,Total Education operating
+Lexington,Pension/Retirement,Contributory Retirement,11521504,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2110
+Lexington,Health Insurance,Employee Benefits (Health/Dental/Life/Medicare),41147189,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2130
+Lexington,Health Insurance,Unemployment,200000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2140
+Lexington,Health Insurance,Workers Comp,500000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2150
+Lexington,Health Insurance,TOTAL Benefits (2100),53368693,https://lexingtonma.gov/DocumentCenter/View/14008,30,Subtotal 2100 Benefits
+Lexington,Other Insurance,Property & Liability Insurance,1277696,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2210
+Lexington,Other Insurance,Uninsured Losses,200000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2220
+Lexington,Other Insurance,TOTAL Property & Liability Insurance (2200),1477696,https://lexingtonma.gov/DocumentCenter/View/14008,30,Subtotal 2200
+Lexington,Energy,Solar Producer Payments,390000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2310
+Lexington,Energy,TOTAL Solar Producer Payments (2300),390000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Subtotal 2300
+Lexington,Debt Service,Principal on Long Term Debt,3895500,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2410
+Lexington,Debt Service,Interest on Long Term Debt,1288057,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2420
+Lexington,Debt Service,Principal & Interest on Temporary Debt,799511,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2430
+Lexington,Debt Service,TOTAL Debt Services (2400),5983068,https://lexingtonma.gov/DocumentCenter/View/14008,30,Subtotal 2400
+Lexington,Other/Misc,Reserve Fund,850000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2510
+Lexington,Other/Misc,TOTAL Reserve Fund (2500),850000,https://lexingtonma.gov/DocumentCenter/View/14008,30,Subtotal 2500
+Lexington,Facilities,Public Facilities,15189172,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 2600
+Lexington,Public Works,Refuse & Recycle Collection (School & Muni),112128,https://lexingtonma.gov/DocumentCenter/View/14008,30,Program 2000 line 3450
+Lexington,Pension/Retirement,TOTAL Pension/Retirement,11521504,https://lexingtonma.gov/DocumentCenter/View/14008,30,Single line item equals total
+Lexington,Facilities,TOTAL Facilities,15189172,https://lexingtonma.gov/DocumentCenter/View/14008,30,Single line item equals total
+Lexington,Public Works,DPW Personal Services (3100-3500),5428165,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 3000 PS
+Lexington,Public Works,DPW Expenses (3100-3500),8543635,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 3000 Expenses
+Lexington,Public Works,TOTAL Public Works,13971800,https://lexingtonma.gov/DocumentCenter/View/14008,31,Total Program 3000 including line 3450
+Lexington,Public Safety,Law Enforcement Personal Services,8464958,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 4000 line 4100 PS
+Lexington,Public Safety,Law Enforcement Expenses,1281020,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 4000 line 4100 Expenses
+Lexington,Public Safety,Subtotal Law Enforcement (4100),9745978,https://lexingtonma.gov/DocumentCenter/View/14008,31,Subtotal 4100
+Lexington,Public Safety,Fire Personal Services,8480645,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 4000 line 4200 PS
+Lexington,Public Safety,Fire Expenses,978343,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 4000 line 4200 Expenses
+Lexington,Public Safety,Subtotal Fire & Rescue (4200),9458988,https://lexingtonma.gov/DocumentCenter/View/14008,31,Subtotal 4200 EMS/Fire
+Lexington,Public Safety,TOTAL Public Safety,19204966,https://lexingtonma.gov/DocumentCenter/View/14008,31,Total Program 4000
+Lexington,Library,Library Personal Services,2950596,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 5000 line 5100 PS
+Lexington,Library,Library Expenses,740865,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 5000 line 5100 Expenses
+Lexington,Library,TOTAL Library,3691461,https://lexingtonma.gov/DocumentCenter/View/14008,31,Total Culture & Recreation (Program 5000) - library only in GF
+Lexington,Health & Human Services,Human Services Personal Services,753284,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 6000 lines 6100-6200 PS
+Lexington,Health & Human Services,Human Services Expenses,950313,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 6000 lines 6100-6200 Expenses
+Lexington,Health & Human Services,Subtotal Human Services (6100-6200),1703597,https://lexingtonma.gov/DocumentCenter/View/14008,31,Subtotal 6100-6200
+Lexington,Health & Human Services,Health Personal Services,473524,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 6000 line 6500 PS
+Lexington,Health & Human Services,Health Expenses,87500,https://lexingtonma.gov/DocumentCenter/View/14008,31,Program 6000 line 6500 Expenses
+Lexington,Health & Human Services,Subtotal Health (6500),561024,https://lexingtonma.gov/DocumentCenter/View/14008,31,Subtotal 6500
+Lexington,Health & Human Services,TOTAL Human Services and Health,2264621,https://lexingtonma.gov/DocumentCenter/View/14008,31,Total Program 6000
+Lexington,Other/Misc,LUHD Personal Services (7100-7400),2034845,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 7000 PS
+Lexington,Other/Misc,LUHD Expenses (7100-7400),430391,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 7000 Expenses
+Lexington,Other/Misc,TOTAL Land Use Housing & Development,2465236,https://lexingtonma.gov/DocumentCenter/View/14008,32,Total Program 7000
+Lexington,General Government,Select Board Personal Services,155071,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8110 PS
+Lexington,General Government,Select Board Expenses,131013,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8110 Expenses
+Lexington,General Government,Legal,375000,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8120
+Lexington,General Government,Town Report,13688,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8130
+Lexington,General Government,PEG Access,764757,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8140
+Lexington,General Government,Subtotal Select Board (8100),1439529,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8100
+Lexington,General Government,Town Manager Personal Services,1214912,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8210-8220 PS
+Lexington,General Government,Town Manager Expenses,394810,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8210-8220 Expenses
+Lexington,General Government,Salary Transfer Account,0,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8230 - zeroed out in FY2026
+Lexington,General Government,Subtotal Town Manager (8200),1609722,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8200
+Lexington,General Government,Financial Committees,8820,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8310
+Lexington,General Government,Misc Boards and Committees,10500,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8320
+Lexington,General Government,Town Celebrations Committee,53800,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8330
+Lexington,General Government,Subtotal Town Committees (8300),73120,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8300
+Lexington,General Government,Finance Personal Services,1685728,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8400 PS
+Lexington,General Government,Finance Expenses,520490,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8400 Expenses
+Lexington,General Government,Subtotal Finance (8400),2206218,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8400
+Lexington,General Government,Town Clerk Personal Services,562029,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8500 PS
+Lexington,General Government,Town Clerk Expenses,130450,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8500 Expenses
+Lexington,General Government,Subtotal Town Clerk (8500),692479,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8500
+Lexington,General Government,Innovation & Technology Personal Services,867726,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8600 PS
+Lexington,General Government,Innovation & Technology Expenses,2508398,https://lexingtonma.gov/DocumentCenter/View/14008,32,Program 8000 line 8600 Expenses
+Lexington,General Government,Subtotal Innovation & Technology (8600),3376124,https://lexingtonma.gov/DocumentCenter/View/14008,32,Subtotal 8600
+Lexington,General Government,TOTAL General Government,9397192,https://lexingtonma.gov/DocumentCenter/View/14008,32,Total Program 8000
+Lexington,Capital,Capital Requests (Cash-GF/Prior Bond Auth/BAN/Premiums),16542946,https://lexingtonma.gov/DocumentCenter/View/14008,33,General Fund cash capital
+Lexington,Capital,Non-General Fund Capital Requests,18043,https://lexingtonma.gov/DocumentCenter/View/14008,33,Non-GF capital
+Lexington,Capital,Building Envelope & Systems Set-Aside,236421,https://lexingtonma.gov/DocumentCenter/View/14008,33,Capital set-aside
+Lexington,Capital,Streets Set-Aside,2726806,https://lexingtonma.gov/DocumentCenter/View/14008,33,Capital set-aside
+Lexington,Capital,TOTAL Capital,19524216,https://lexingtonma.gov/DocumentCenter/View/14008,33,Total Capital
+Lexington,Other/Misc,Unallocated,2700158,https://lexingtonma.gov/DocumentCenter/View/14008,33,Free cash carried forward
+Lexington,Other/Misc,Set-Aside for Unanticipated Current FY Needs,200000,https://lexingtonma.gov/DocumentCenter/View/14008,33,Other article
+Lexington,Other/Misc,Special Education Stabilization Fund,0,https://lexingtonma.gov/DocumentCenter/View/14008,33,No FY2026 appropriation
+Lexington,Other/Misc,Special Education Reserve Fund,700000,https://lexingtonma.gov/DocumentCenter/View/14008,33,Other article
+Lexington,Other/Misc,GF Support for Recreation & Community Programs,254213,https://lexingtonma.gov/DocumentCenter/View/14008,33,Transfer to Article 5 ATM
+Lexington,Other/Misc,Tax Levy Dedicated to Capital Stabilization Fund,6563050,https://lexingtonma.gov/DocumentCenter/View/14008,33,Fiscal guideline set-aside
+Lexington,Other/Misc,Allocated to Capital Stabilization Fund,0,https://lexingtonma.gov/DocumentCenter/View/14008,33,No FY2026 appropriation
+Lexington,Other/Misc,Transfer to Transportation Demand Mgmt Stab Fund,0,https://lexingtonma.gov/DocumentCenter/View/14008,33,No FY2026 appropriation
+Lexington,Other/Misc,Senior Service Program,0,https://lexingtonma.gov/DocumentCenter/View/14008,33,Zeroed out in FY2026
+Lexington,Other/Misc,Climate Action Plan,0,https://lexingtonma.gov/DocumentCenter/View/14008,33,Zeroed out in FY2026
+Lexington,Other/Misc,Set-Aside for Harrington Fields Project (Deferred Capital),2000000,https://lexingtonma.gov/DocumentCenter/View/14008,33,Deferred capital set-aside
+Lexington,Other/Misc,Municipal Tree Maintenance,200000,https://lexingtonma.gov/DocumentCenter/View/14008,33,Other article
+Lexington,Other/Misc,OPEB Trust Fund,2079721,https://lexingtonma.gov/DocumentCenter/View/14008,33,Other Post-Employment Benefits funding
+Lexington,Other/Misc,Warrant Articles,24000,https://lexingtonma.gov/DocumentCenter/View/14008,33,Other article
+Lexington,Other/Misc,TOTAL Other Articles,14721142,https://lexingtonma.gov/DocumentCenter/View/14008,33,Total Other
+Lexington,Enterprise,Water Enterprise,12819207,https://lexingtonma.gov/DocumentCenter/View/14008,34,Program 3600
+Lexington,Enterprise,Sewer Enterprise,12736028,https://lexingtonma.gov/DocumentCenter/View/14008,34,Program 3700
+Lexington,Enterprise,Recreation Enterprise,3864450,https://lexingtonma.gov/DocumentCenter/View/14008,34,Program 5200
+Lexington,Enterprise,Cash Capital - Enterprise,1800000,https://lexingtonma.gov/DocumentCenter/View/14008,34,Enterprise capital
+Lexington,Enterprise,TOTAL Enterprise Funds,31219685,https://lexingtonma.gov/DocumentCenter/View/14008,34,Total Enterprise operating + capital

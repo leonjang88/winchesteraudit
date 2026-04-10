@@ -1,0 +1,61 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Belmont,Education,Belmont Public Schools,70618619,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,Line from III-4
+Belmont,Education,Regional Schools,234580,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,Line from III-4
+Belmont,Education,Total Education,70853199,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Public Safety,Fire (Subtotal 3100),6678046,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Public Safety,Police (Subtotal 3200),8018251,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Public Safety,Total Public Safety,14696297,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Public Works,Planning & Building,808688,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4
+Belmont,Public Works,Public Works,8646769,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4
+Belmont,Public Works,Total Public Works (Public Services),9455457,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Health Insurance,Employee Health Insurance (2201),11417491,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Health Insurance,Retiree Health Insurance (2200),3635157,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Health Insurance,Life Insurance (2210),19425,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Health Insurance,Total Health Insurance,15072073,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Pension/Retirement,Pension (2110),10128274,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Pension/Retirement,Total Pension/Retirement,10128274,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Debt Service,Within Levy Debt Service,966289,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-5
+Belmont,Debt Service,Exempt Debt Service,16645867,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-5
+Belmont,Debt Service,Short-term Borrowing Costs,72500,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-5
+Belmont,Debt Service,Total Debt Service,17684656,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,General Government,Assessors,467391,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Human Resources,788399,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Information Technology,1773448,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Town Accountant,469727,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Town Administration,1480051,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Town Clerk,481565,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Treasurer,607632,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,5,III-2
+Belmont,General Government,Total General Government,6068213,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Library,Library Compensation,1859892,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4 Subtotal 6100
+Belmont,Library,Library Expenses,627174,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4 Subtotal 6100
+Belmont,Library,Total Library,2487066,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4 Subtotal 6100; part of Health & Human Services
+Belmont,Health & Human Services,Library (Subtotal 6100),2487066,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4
+Belmont,Health & Human Services,Council on Aging (6200),0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4; zeroed out in FY2026
+Belmont,Health & Human Services,Health,493821,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4/5
+Belmont,Health & Human Services,Community Services (6400),973521,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; new line in FY2026
+Belmont,Health & Human Services,Total Health & Human Services,3954408,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Culture & Recreation,Recreation (Subtotal 5300),0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4; zeroed out in FY2026 (was $1.5M in FY2024)
+Belmont,Culture & Recreation,Total Culture & Recreation,0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,7,III-4
+Belmont,Facilities,Facilities Compensation,2532769,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3 Subtotal 2500
+Belmont,Facilities,Facilities Expenses,5365691,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3 Subtotal 2500
+Belmont,Facilities,Total Facilities,7898460,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3 Subtotal 2500
+Belmont,Capital,Capital - Streets,2000617,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5
+Belmont,Capital,Capital - Sidewalks,512259,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5
+Belmont,Capital,Discretionary Capital,4368000,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5
+Belmont,Capital,Total Capital,6880876,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1
+Belmont,Other Insurance,Workers Compensation (2320),465076,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other Insurance,Unemployment (2310),90000,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other Insurance,Medicare (2220),1182323,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other Insurance,Liability Insurance (2400),823826,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other Insurance,Deductible Reserves (2410),33383,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other Insurance,Total Other Insurance,2594608,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3; sum of 5 insurance line items
+Belmont,Enterprise,Water Enterprise,8121906,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-6
+Belmont,Enterprise,Sewer Enterprise,10985551,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-6
+Belmont,Enterprise,Total Enterprise,19107457,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-6
+Belmont,Other/Misc,Warrant Committee Reserve (2450),500000,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,6,III-3
+Belmont,Other/Misc,OPEB Contribution,440364,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; Other Warrant Articles
+Belmont,Other/Misc,Capital Stabilization Fund,0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; zeroed out
+Belmont,Other/Misc,General Stabilization Fund,0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; zeroed out
+Belmont,Other/Misc,Override Mitigation Fund,0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; zeroed out
+Belmont,Other/Misc,Student Info System Replacement,0,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,8,III-5; zeroed out
+Belmont,Other/Misc,Total Other/Misc,940364,https://www.belmont-ma.gov/DocumentCenter/View/9065/FY2026---Final-Budget-Recommendation---3-21-2025,3,Budget Overview I-1; WC Reserve + OPEB + zeroed funds

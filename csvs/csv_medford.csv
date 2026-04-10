@@ -1,0 +1,72 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Medford,General Government,Executive Office,690388,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Contractual Agreements,1575000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Legislative,307359,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Clerk,408686,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Finance/Procurement,880135,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Assessor,644812,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Treasurer/Collector,780059,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Law,525228,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Information Technology,360257,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Human Resources,320493,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Elections,394929,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,"Planning, Development, & Sustainability",923163,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,PEG Access (Cable),215061,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Building,1057806,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Electrical,752094,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Licensing Commission,5800,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Conservation Commission,7500,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Board of Appeals,12500,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Community Development Board,10100,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,Bicycle Commission,1500,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,FY26 from 3rd column
+Medford,General Government,TOTAL,9872870,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_5.png,sum of FY26 line items
+Medford,Public Safety,Civil Defense,9840,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,FY25 value; FY26 not separately visible; estimated
+Medford,Public Safety,Police/Fire/Other (combined),32350131,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,estimated; FY26 total minus Civil Defense; Police/Fire split not captured in screenshots
+Medford,Public Safety,TOTAL,32359971,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,confirmed from ClearGov pie chart
+Medford,Education,City Public Schools,85490000,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,confirmed from ClearGov pie chart and recap
+Medford,Education,TOTAL,85490000,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,confirmed
+Medford,Public Works,Facilities,1838745,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,Engineering,547752,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,Highway,12839686,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,Forestry,623989,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,Parks,957578,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,Cemetery,1118050,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Public Works,TOTAL,19496992,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,confirmed from ClearGov; sub-items are FY25 estimates
+Medford,Health & Human Services,Health,810978,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Health & Human Services,Veterans,444361,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Health & Human Services,"Diversity, Equity, & Inclusion",118502,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Health & Human Services,Council on Aging,277157,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Health & Human Services,TOTAL,1650998,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value used; FY26 total cut off; estimated
+Medford,Library,Library,2247934,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; subset of Culture & Recreation; estimated
+Medford,Library,TOTAL,2247934,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; estimated
+Medford,Culture & Recreation,Library,2247934,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Culture & Recreation,Recreation,607787,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; FY26 cut off; estimated
+Medford,Culture & Recreation,Chevalier Theatre,32000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; estimated
+Medford,Culture & Recreation,Historical Commission,35000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; estimated
+Medford,Culture & Recreation,Historical District Commission,5000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; estimated
+Medford,Culture & Recreation,Hormel Stadium Commission,5400,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg6,FY25 value; estimated
+Medford,Culture & Recreation,TOTAL,2871290,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table column 1; sub-items are FY25 estimates
+Medford,Debt Service,Debt,5060178,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table column 1; General Fund only
+Medford,Debt Service,TOTAL,5060178,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table
+Medford,Health Insurance,Insurance (Health/GIC),30154203,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,estimated; FY25 was 27582551; scaled proportionally to FY26 Benefits total
+Medford,Health Insurance,TOTAL,30154203,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,estimated from Employee Benefits breakdown
+Medford,Pension/Retirement,Contributory Retirement,18294899,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,estimated; FY25 was 16197493; scaled to FY26 Benefits total
+Medford,Pension/Retirement,Non-contributory Pensions,94926,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,estimated; FY25 was 84043; scaled to FY26 Benefits total
+Medford,Pension/Retirement,TOTAL,18389825,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,estimated; sum of contributory + non-contributory
+Medford,Other Insurance,Workers Compensation,890038,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,estimated; FY25 was 788000; scaled to FY26 Benefits total
+Medford,Other Insurance,Unemployment Compensation,56474,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,estimated; FY25 was 50000; scaled to FY26 Benefits total
+Medford,Other Insurance,Municipal Insurance,745000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,FY25 value; FY26 cut off; estimated
+Medford,Other Insurance,TOTAL,1691512,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,estimated; Workers Comp + Unemployment + Municipal Insurance
+Medford,Pension/Retirement,Employee Benefits (combined total),50490540,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table; includes all benefits sub-items
+Medford,Other/Misc,State Assessments,12810323,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,FY26 from FY26 Recap table; cherry sheet charges
+Medford,Other/Misc,Tax Title,25000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,FY26 from FY26 Recap table; non-budgeted expense
+Medford,Other/Misc,Snow & Ice Deficit,802782,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,FY26 from FY26 Recap table; non-budgeted expense
+Medford,Other/Misc,Overlay,300000,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,FY26 from FY26 Recap table; non-budgeted expense
+Medford,Other/Misc,Budget Transfers Out of GF,0,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,FY25 and FY26 show zero/dash
+Medford,Other/Misc,TOTAL,13938105,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,sum of non-budgeted items
+Medford,Enterprise,Water/Sewer - Public Services,4582271,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,FY25 value; FY26 cut off; estimated
+Medford,Enterprise,Water/Sewer - Debt,1743644,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg7,FY25 value; FY26 cut off; estimated
+Medford,Enterprise,Water/Sewer - Other,23952064,https://city-medford-ma-budget-book.cleargov.com/20195,ClearGov,estimated; derived from Enterprise total minus known sub-items; includes MWRA assessment and operations
+Medford,Enterprise,TOTAL,29277779,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table; user confirmed 31440809 as total Enterprise which may include indirect costs
+Medford,Other/Misc,General Fund Total Expenditures,205852504,https://city-medford-ma-budget-book.cleargov.com/20195,medford_fy2026_budget_financial_summary.pdf pg12,FY26 from recap table; GF appropriations excluding non-budgeted
+Medford,Other/Misc,Total Municipal Budget,235119320,https://city-medford-ma-budget-book.cleargov.com/20195,medford_screenshot_3.png,FY26 confirmed from Budget Information Over 5 Years table

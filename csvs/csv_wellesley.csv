@@ -1,0 +1,89 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Wellesley,Education,Instruction,60077525,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,School Department instruction
+Wellesley,Education,Administration,1611350,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,School Department administration
+Wellesley,Education,Operations,4440788,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,School Department operations
+Wellesley,Education,Special Education,27905363,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,School Department special education
+Wellesley,Education,TOTAL,94035026,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,School total from Exhibit B
+Wellesley,Public Safety,Police Department,8572381,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Safety,Fire Department,8090571,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Fire-Rescue
+Wellesley,Public Safety,Building Department,712771,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Safety,Special School Police,146172,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Safety,Sealer of Weights & Measures,19051,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Safety,TOTAL,17540946,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Exhibit B Public Safety operating subtotal
+Wellesley,Public Works,Engineering,427615,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,Highway,1388949,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,Fleet Maintenance,267561,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,Park,2208787,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,Recycling & Disposal,3245712,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,Management,453391,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,DPW management
+Wellesley,Public Works,Winter Maintenance,390000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Public Works,TOTAL,8382015,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,DPW operating total
+Wellesley,Health Insurance,Group Insurance,25598232,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,Health dental life; 12.57% increase over FY25; includes one-time $1M correction
+Wellesley,Health Insurance,TOTAL,25598232,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Pension/Retirement,Retirement/Pension Contribution,9310462,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,Based on actuarial schedule
+Wellesley,Pension/Retirement,OPEB Liability Fund,3100000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,1.4% of annual budget
+Wellesley,Pension/Retirement,TOTAL,12410462,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Debt Service,Inside Levy Debt Service,3568406,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Debt Service,Outside Levy Debt Service,15693666,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,Primarily Hardy/Hunnewell school construction debt exclusions
+Wellesley,Debt Service,TOTAL,19262072,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,General Government,Executive Director,795884,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,SB Administration
+Wellesley,General Government,Climate Action,175426,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,SB Administration
+Wellesley,General Government,Central Administration,14600,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,SB Administration
+Wellesley,General Government,Finance,578716,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,General Government,Information Technology,1763605,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,General Government,Treasurer/Collector,582390,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,General Government,Town Report,2250,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,General Government,Town Clerk,478140,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Assessors,470955,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Planning Board,486309,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Advisory Committee,39570,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Reserve Fund,175000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Human Resources,542650,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,HR Salary Adjustment,275000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,General Government,Audit,63000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Shared Services
+Wellesley,General Government,Law,480000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Shared Services
+Wellesley,General Government,Street Lighting,142000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Shared Services
+Wellesley,General Government,Zoning Board of Appeals,99377,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,Housing Development,6500,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,Historical Commission,750,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,Memorial Day,5950,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,Celebrations Committee,20000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,Cultural Council,8500,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Appointed Committees
+Wellesley,General Government,TOTAL,17095831,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,Spans Exhibit B pp.2-3
+Wellesley,Library,Wellesley Free Library,3309214,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Pers Srvs $2495478 + Expenses $813736; 3.55% increase
+Wellesley,Library,TOTAL,3309214,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,Board of Health,1256045,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,Mental Health Services,300572,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,Council on Aging,601684,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,West Suburban Veterans District,85264,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,Youth Commission,122481,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Health & Human Services,TOTAL,2372301,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,Health ($1556617) + Human Services ($815684)
+Wellesley,Culture & Recreation,Recreation Commission,475490,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Culture & Recreation,Natural Resources Commission,364616,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Culture & Recreation,Morses Pond Project,177000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Culture & Recreation,TOTAL,1017106,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,3,
+Wellesley,Facilities,Facilities Management - Town,10208362,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,Maintenance/operations of all Town and school buildings
+Wellesley,Facilities,Land Use Depts Relocation,128500,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,Facilities,TOTAL,10336862,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,2,
+Wellesley,Capital,DPW Capital,3892000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,School Capital,1299481,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,Facilities Capital,1941000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,SB Capital,436376,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,Select Board capital items
+Wellesley,Capital,Library Capital,227000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,HR Capital,37704,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,NRC Capital,320000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,Natural Resources Commission
+Wellesley,Capital,Morses Pond Capital,35000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,
+Wellesley,Capital,TOTAL,8150857,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,5,Cash capital 5.04% increase
+Wellesley,Other Insurance,Workers Compensation,740348,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Other Insurance,Unemployment Compensation,100000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Other Insurance,Compensated Absences,130000,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Other Insurance,Risk Management/Liability Insurance,910592,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,Shared Services; includes injured-on-duty and general liability
+Wellesley,Other Insurance,TOTAL,1870940,https://wellesleyma.gov/DocumentCenter/View/45243/Exhibit-B,4,
+Wellesley,Enterprise,Water & Sewer,16714324,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,13,Pers Srvs $3167880 + Expenses $13546444; enterprise fund self-funded by user fees
+Wellesley,Enterprise,TOTAL,16714324,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,13,Not part of $224.5M general fund total
+Wellesley,Other/Misc,Traffic & Parking,743135,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,
+Wellesley,Other/Misc,CPA Surcharge,2065000,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,Community Preservation Act
+Wellesley,Other/Misc,State & County Assessments,1513158,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,
+Wellesley,Other/Misc,Property Tax Abatements,905000,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,Overlay
+Wellesley,Other/Misc,Free Cash Uses,7471260,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,Includes $2246401 to balance budget and $5449525 for capital items (fire truck playground tennis courts school AC study)
+Wellesley,Other/Misc,TOTAL,12697553,https://wellesleyma.gov/DocumentCenter/View/45340/TWFP-Final-31225,5,Special items and free cash appropriations

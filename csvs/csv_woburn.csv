@@ -1,0 +1,85 @@
+town,category,subcategory,amount,pdf_url,pdf_page,notes
+Woburn,General Government,City Council,136020.13,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 1 Salary $124870.13 + Maintenance $11150.00
+Woburn,General Government,Mayor,1095294.60,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 2 Salary $990594.60 + Maintenance $104700.00
+Woburn,General Government,Community Services,27000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,3,Line 3 Maintenance $27000.00
+Woburn,General Government,Auditor,624376.02,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,4,Line 4 Salary $476876.02 + Maintenance $147500.00
+Woburn,General Government,Purchasing,195356.41,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,5,Line 5 Salary $191656.41 + Maintenance $3700.00
+Woburn,General Government,Assessor,810465.57,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,6,Line 6 Salary $609115.57 + Maintenance $201350.00
+Woburn,General Government,Treasurer/Collector,699246.24,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,7,Line 7 Salary $542546.24 + Maintenance $156700.00
+Woburn,General Government,Law,266953.92,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,8,Line 8 Salary $199453.92 + Maintenance $67500.00
+Woburn,General Government,Data Processing,976617.73,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,9,Line 9 Salary $341117.73 + Maintenance $635500.00
+Woburn,General Government,City Clerk,412081.73,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,10,Line 10 Salary $402361.73 + Maintenance $9720.00 + Outlays $0.00
+Woburn,General Government,Election & Req,148995.13,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,11,Line 11 Salary $100370.13 + Maintenance $48625.00 + Outlays $0.00
+Woburn,General Government,License Commission,14000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,12,Line 12 Salary $13500.00 + Maintenance $500.00
+Woburn,General Government,Human Resources,216846.69,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,13,Line 13 Salary $202246.69 + Maintenance $14600.00
+Woburn,General Government,Conservation,224859.64,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,14,Line 14 Salary $208259.64 + Maintenance $16600.00
+Woburn,General Government,Planning Bd/Comm Devel,448267.45,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,15,Line 15 Salary $399867.45 + Maintenance $48400.00
+Woburn,General Government,Board of Appeals,27950.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,16,Line 16 Salary $27450.00 + Maintenance $500.00
+Woburn,General Government,Sundry Boards,44600.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,17,Line 17 Maintenance $44600.00
+Woburn,General Government,TOTAL,5368931.26,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Sum of lines 1-17
+Woburn,Public Safety,Police,11321701.90,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Lines 18-23 Salary $10423245.90 + Maintenance $844356.00 + Outlays $54100.00
+Woburn,Public Safety,Fire,11590189.27,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Lines 24-27 Salary $10732689.27 + Maintenance $857500.00 + Outlays $0.00
+Woburn,Public Safety,Inspection Services,693097.51,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 28 Salary $676247.51 + Maintenance $16850.00 + Outlays $0.00
+Woburn,Public Safety,Sealer of Weights,18326.07,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 29 Salary $17826.07 + Maintenance $500.00
+Woburn,Public Safety,TOTAL,23623314.75,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Sum of Police + Fire + Inspection Services + Sealer of Weights
+Woburn,Education,Woburn School,95962440.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 31 Budget
+Woburn,Education,Northeast Regional,3248457.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 31 Budget
+Woburn,Education,Essex North Shore Agricultural & Technical School District,390133.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 31 Budget
+Woburn,Education,TOTAL,99601030.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Sum of all education line 31 items
+Woburn,Public Works,Engineering,489018.81,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Line 32 Salary $438518.81 + Maintenance $40500.00 + Outlays $10000.00
+Woburn,Public Works,Public Works - Salary,3242924.22,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1,Lines 33-36 Salary
+Woburn,Public Works,Public Works - Administration,11500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 37
+Woburn,Public Works,Public Works - Tree Moth,23500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 37
+Woburn,Public Works,Public Works - Street Maint,425000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 38
+Woburn,Public Works,Public Works - Snow Remove,279000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 39
+Woburn,Public Works,Public Works - Traffic Control,100900.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 39
+Woburn,Public Works,Public Works - Street Lighting,180000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 39
+Woburn,Public Works,Public Works - Repair & Resur,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 40
+Woburn,Public Works,Public Works - Sidewalk Rep,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 40
+Woburn,Public Works,Public Works - Comm Events,14500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 40
+Woburn,Public Works,Public Works - Bridge Repair,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 40
+Woburn,Public Works,Public Works - Fence Repair,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 40
+Woburn,Public Works,Public Works - City Garage,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 41
+Woburn,Public Works,Public Works - Gas & Oil,270000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 41
+Woburn,Public Works,Public Works - Trucks & Equip,273000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 42
+Woburn,Public Works,Public Works - Public Building,410000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 42
+Woburn,Public Works,Total Public Works (lines 33-44),5230324.22,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 44 subtotal
+Woburn,Public Works,Rubbish Removal,5291801.02,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 49 Maintenance $4698385.91 - FY26 Total shown as $5291801.02 includes Board of Health
+Woburn,Public Works,TOTAL,11011144.05,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,1-2,Engineering $489018.81 + Total Public Works $5230324.22 + Rubbish Removal $5291801.02
+Woburn,Health & Human Services,Cemetery,471091.31,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 45-46 Salary $395991.31 + Maintenance $75100.00 + Outlays $0.00
+Woburn,Health & Human Services,Board of Health,593415.11,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 47-48 Salary $521365.11 + Maintenance $72050.00
+Woburn,Health & Human Services,Council on Aging,377471.44,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 50 Salary $300551.44 + Maintenance $76920.00
+Woburn,Health & Human Services,Veterans Benefits,375315.13,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 51 Salary $113815.13 + Maintenance $2500.00 + Benefits $259000.00
+Woburn,Health & Human Services,TOTAL,1817292.99,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Cemetery + Board of Health + Council on Aging + Veterans Benefits
+Woburn,Other/Misc,United Veterans,19000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 52 Maintenance $19000.00
+Woburn,Other/Misc,TOTAL,19000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 52
+Woburn,Library,Public Library,2113609.48,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 53-54 Salary $1601961.48 + Maintenance $511648.00
+Woburn,Library,TOTAL,2113609.48,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 53-54
+Woburn,Culture & Recreation,Recreation,413811.15,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 55-57 Salary $219541.15 + Programs $94780.00 + Maintenance $99490.00
+Woburn,Culture & Recreation,Parks,629479.19,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 58-59 Salary $470529.19 + Maintenance $158950.00
+Woburn,Culture & Recreation,Historical Comm,500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 60 Maintenance $500.00
+Woburn,Culture & Recreation,Handicap Commission,500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 61 Maintenance $500.00
+Woburn,Culture & Recreation,Biotech Commission,500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 62 Maintenance $500.00
+Woburn,Culture & Recreation,Agricultural Commission,1.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 63 Maintenance $1.00
+Woburn,Culture & Recreation,Traffic Commission,500.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 64 Maintenance $500.00
+Woburn,Culture & Recreation,Human Rights Commission,1.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 65 Maintenance $1.00
+Woburn,Culture & Recreation,Historical District Commission,1.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 66 Maintenance $1.00
+Woburn,Culture & Recreation,TOTAL,1045293.34,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Sum of lines 55-66
+Woburn,Debt Service,Maturing Debt,6462375.34,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 67 Principal + Interest $6462375.34
+Woburn,Debt Service,Interest Temp Loans,50000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 68 Interest $50000.00
+Woburn,Debt Service,TOTAL,6512375.34,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 67-68
+Woburn,Pension/Retirement,Woburn Retirement,11909702.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 69 Salary & Maint $11909702.00
+Woburn,Pension/Retirement,Non Contributory Pensions,0.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 70 Salary $0.00
+Woburn,Pension/Retirement,TOTAL,11909702.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 69-70
+Woburn,Other Insurance,Unemployment,100000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 71 Maintenance $100000.00
+Woburn,Other Insurance,Medicare Tax,1400000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 73 Maintenance $1400000.00
+Woburn,Other Insurance,TOTAL,1500000.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 71 + 73
+Woburn,Health Insurance,Insurance,26116730.40,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 72 Maintenance $26116730.40
+Woburn,Health Insurance,TOTAL,26116730.40,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Line 72
+Woburn,General Government,TOTAL GENERAL FUND BUDGET,191045008.49,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Total General Fund as printed on summary
+Woburn,Enterprise,Water,10375573.48,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 74-75 Water = 0450
+Woburn,Enterprise,Sewer,12464260.00,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Lines 76-82 Sewer = 0440
+Woburn,Enterprise,Direct Charges to Enterprise Fund,22839833.48,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Direct charges subtotal
+Woburn,Enterprise,Indirect Charges Reflected in General Fund,2279670.17,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Indirect charges
+Woburn,Enterprise,TOTAL,22839833.48,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,Total Enterprise Fund Budget (direct charges)
+Woburn,Other/Misc,Grand Total Fiscal 2026 Budget,213884841.97,https://woburnma.gov/wp-content/uploads/2024/02/FY2026-Submitted-Budget.xlsx.pdf,2,General Fund $191045008.49 + Enterprise $22839833.48
