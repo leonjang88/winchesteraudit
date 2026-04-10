@@ -654,6 +654,27 @@ def run_extract(town: str, pdf_path: str) -> None:
                         }
                     )
 
+    # Tag staffing FTE rows so they don't corrupt financial SUM queries
+    _STAFFING_TITLES = {
+        "MANAGERIAL", "CLERICAL", "PROFESSIONAL/TECHNICAL", "CUSTODIAL",
+        "TRADES", "LABORER", "SEASONAL", "POLICE SUPERIOR", "POLICE PATROL",
+        "POLICE INVESTIGATION", "FIRE OFFICERS", "FIREFIGHTERS/PARAMEDICS",
+        "PARKING WARDEN", "LIBRARIAN", "PUBLIC WORKS",
+    }
+    for item in all_line_items:
+        if item.get("row_type") == "line_item":
+            desc_upper = item["description"].upper().strip()
+            amt = item["amount"]
+            if desc_upper in _STAFFING_TITLES and 0 <= amt < 200:
+                item["row_type"] = "staffing"
+            # Also catch compound staffing lines like "Custodian - Public Works"
+            elif amt == int(amt) and 0 < amt < 200 and " - " in desc_upper:
+                first_part = desc_upper.split(" - ")[0].strip()
+                if first_part in _STAFFING_TITLES or first_part in {
+                    "CUSTODIAN", "DETECTIVE", "FIREFIGHTER", "DISPATCHER",
+                }:
+                    item["row_type"] = "staffing"
+
     # Wipe existing data for this town, then insert fresh
     conn = get_db()
     try:
