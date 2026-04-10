@@ -41,6 +41,12 @@ def cmd_rescue(args) -> None:
     run_rescue(args.town, args.pdf)
 
 
+def cmd_validate(args) -> int:
+    """Run data quality validation checks against extracted DB data."""
+    from validate import run_validate
+    return run_validate(args.town)
+
+
 def main() -> int:
     """argparse with subparsers.
     profile subcommand requires: --town (str), --pdf (str, path to PDF file)
@@ -71,6 +77,11 @@ def main() -> int:
     rescue_parser.add_argument("--pdf", required=True)
     rescue_parser.set_defaults(func=cmd_rescue)
 
+    validate_parser = subparsers.add_parser(
+        "validate", help="Run data quality checks on extracted data"
+    )
+    validate_parser.add_argument("--town", required=True, help="Town name")
+
     args = parser.parse_args()
 
     if args.command is None:
@@ -94,6 +105,9 @@ def main() -> int:
             print(f"Error: PDF not found: {args.pdf}")
             return 1
         cmd_rescue(args)
+
+    elif args.command == "validate":
+        return cmd_validate(args)
 
     return 0
 
