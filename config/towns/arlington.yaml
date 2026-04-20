@@ -1,0 +1,30 @@
+name: arlington
+area_sq_miles: 5.5
+school_ranking: "A"
+budget_url: "https://www.arlingtonma.gov/departments/town-manager/budget-financial-information"
+
+metrics:
+  2026:
+    population: 46204
+    households: 19800
+    median_household_income: 145000
+    student_enrollment: 6400
+    road_miles: 100
+    total_assessed_value: 10_900_000_000
+    tax_rate: 14.37
+    total_levy: 156_620_041
+    levy_limit: 156_620_041
+    new_growth: 2_500_000
+
+extraction:
+  has_account_codes: false
+  department_header: "page_top_large_font"
+  columns:
+    "FY2023 ACTUAL": { fiscal_year: 2023, type: actual }
+    "FY2023 ACUTAL": { fiscal_year: 2023, type: actual }
+    "FY2024 ACTUAL": { fiscal_year: 2024, type: actual }
+    "FY2025 BUDGET": { fiscal_year: 2025, type: budget }
+    "FY2025 ESTIMATED": { fiscal_year: 2025, type: estimated }
+    "FY2026 BUDGET": { fiscal_year: 2026, type: budget }
+    "FY2026 REQUEST": { fiscal_year: 2026, type: request }
+  subtotal_patterns: ["Total", "Grand Total"]
